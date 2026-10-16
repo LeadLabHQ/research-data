@@ -1,0 +1,139 @@
+{
+  "trade": "cleaning",
+  "market": "Chicago, IL",
+  "run_date": "2026-10-15T19:41:12.949Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best house cleaning companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top house cleaning companies in Chicago, IL, based on customer reviews and ratings:\n\n1. **Molly Maid**: With over 30 years of experience, Molly Maid is a well-established and reputable cleaning company in Chicago. They offer customized cleaning services, including one-time and recurring cleanings.\n2. **The Cleaning Authority**: This eco-friendly cleaning company uses environmentally responsible products and has a strong focus on customer satisfaction. They offer a range of services, including move-in/move-out cleanings and special event cleanings.\n3. **Cleanify**: Cleanify is a popular cleaning service in Chicago that offers flexible scheduling and affordable prices. The",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Cleanify"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated house cleaning companies in Chicago, IL:\n\n1. **The Cleaning Authority - Chicago**: With a 4.9-star rating on Google and 4.8-star rating on Angie's List, this company offers reliable and thorough cleaning services.\n2. **Merry Maids of Chicago**: Merry Maids has a 4.8-star rating on Google and 4.7-star rating on Angie's List. They offer one-time, weekly, bi-weekly, and monthly cleaning services.\n3. **Cleanify**: Cleanify has a 4.9-star rating on Google and offers eco-friendly cleaning services using environmentally responsible products.\n4. **The Cleaning Pros**: With a 4.8-star rating on Google and 4.7-star rating on Yelp, this company offers flexible scheduling ",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Chicago",
+        "Cleanify",
+        "The Cleaning Pros"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated house cleaning companies in Chicago, IL, based on online reviews and ratings:\n\n1. **Molly Maid** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* A national franchise with a strong presence in Chicago, offering customized cleaning services for homes and offices.\n2. **The Cleaning Authority** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* A professional cleaning company using environmentally friendly products and equipment, serving the Chicago area.\n3. **Busy Bee Cleaning** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* A family-owned business offering residential and commercial cleaning services, including move-in/move-out cleaning and special occasion cleaning.\n4. *",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Busy Bee Cleaning"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "There are many excellent house cleaning companies in Chicago, IL. Since I don't have have access to real-time information, I can provide you with some popular options and ways to find a reliable cleaning service:\n\n1. **Molly Maid**: A well-known national chain with a location in Chicago. You can call them at [phone removed].\n2. **The Cleaning Authority**: A professional cleaning service with a presence in Chicago. Their phone number is [phone removed].\n3. **Chicago Cleaning Services**: A local company offering a range of cleaning services. You can reach them at [phone removed].\n4. **TaskRabbit**: A task-completion service that also offers house cleaning services. You can visit their website or ",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Chicago Cleaning Services",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable house cleaning companies in Chicago, IL. Here are a few options you can consider:\n\n1. **The Cleaning Authority - Chicago**: [phone removed]\nThe Cleaning Authority is a well-established company with a reputation for providing high-quality cleaning services. They offer one-time, weekly, bi-weekly, and monthly cleaning services.\n\n2. **Merry Maids of Chicago**: [phone removed]\nMerry Maids is a national franchise with a local presence in Chicago. They offer a range of cleaning services, including move-in/move-out cleaning, deep cleaning, and regular maintenance cleaning.\n\n3. **Cleanify**: [phone removed]\nCleanify is a Chicago-based company that offers eco-friendly cleaning se",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Chicago",
+        "Cleanify"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal recommendations or endorsements. But I can provide you with some options to consider and suggestions on how to find a reliable house cleaning company in Chicago, IL.\n\nHere are a few options:\n\n1. **Thumbtack**: Thumbtack is a popular platform that connects customers with local service professionals, including house cleaners. You can post a job description, receive quotes, and compare prices from multiple cleaners.\n2. **Angie's List**: Angie's List is a review website that allows you to research and compare local cleaning services. You can read reviews from other customers and get a sense of the company's reputation.\n3. **HomeAdvisor**",
+      "named_here": [
+        "Thumbtack",
+        "Angie's List",
+        "HomeAdvisor"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house cleaning companies in Chicago, IL:\n\n1. **Molly Maid**: A well-established and reputable cleaning company with a strong presence in Chicago. They offer customized cleaning services and a 24-hour guarantee.\n2. **The Cleaning Authority**: This company has been serving the Chicago area for over 20 years and is known for its eco-friendly cleaning practices. They offer a range of services, including one-time and recurring cleanings.\n3. **Cleanify**: Cleanify is a popular cleaning service that offers flexible scheduling and affordable prices. They use eco-friendly products and have a 4.5-star rating on Yelp.\n4. **TaskRabbit**: While not exclusively a cleaning",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Cleanify",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house cleaning companies in Chicago, IL:\n\n1. **The Cleaning Authority - Chicago**: With a 4.9-star rating on Google and 4.8-star rating on Angie's List, this company offers reliable and thorough cleaning services. They have been in business since 2003 and have a team of background-checked and trained cleaning professionals.\n2. **MaidPro**: MaidPro has a 4.8-star rating on Google and 4.7-star rating on Angie's List. They offer one-time, weekly, bi-weekly, and monthly cleaning services, and their cleaners are background-checked and insured.\n3. **Merry Maids**: With a 4.7-star rating on Google and 4.6-star rating on Angie's List, Merry Maids is a well-establish",
+      "named_here": [
+        "The Cleaning Authority",
+        "MaidPro",
+        "Merry Maids"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Chicago has many reliable house cleaning companies to choose from. Here are some of the most trusted options:\n\n1. **Molly Maid**: With over 30 years of experience, Molly Maid is a well-established and reputable cleaning service provider in Chicago. They offer customized cleaning plans and eco-friendly options.\n2. **The Cleaning Authority**: This company has been serving Chicago for over 15 years, providing professional and reliable cleaning services to residential and commercial properties.\n3. **TaskRabbit**: While not a traditional cleaning company, TaskRabbit is a popular platform that connects customers with local taskers who can provide house cleaning services. You can read reviews and c",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the house cleaning companies in Chicago, IL with the best reputation:\n\n1. **Molly Maid**: With an average rating of 4.8/5 on Google and 4.5/5 on Yelp, Molly Maid is a well-established and reputable cleaning company in Chicago.\n2. **The Cleaning Authority**: This company has an average rating of 4.7/5 on Google and 4.5/5 on Yelp, and is known for its eco-friendly cleaning practices and thorough cleaning services.\n3. **Cleanify**: With an average rating of 4.8/5 on Google and 4.5/5 on Yelp, Cleanify is a popular choice among Chicago residents, offering flexible scheduling and affordable prices.\n4. **TaskRabbit**: While not exclusively a cle",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Cleanify",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated House Cleaning Companies in Chicago, IL\n\nBased on online reviews and ratings, here are some of the top-rated house cleaning companies in Chicago, IL:\n\n### Companies with a 4.5-Star Rating or Higher\n\n1. **The Cleaning Authority - Chicago** (4.9/5) - A professional cleaning company with a team of background-checked and insured cleaners. They offer one-time, weekly, bi-weekly, and monthly cleaning services.\n2. **Merry Maids of Chicago** (4.8/5) - A franchise with a long history of providing reliable and efficient cleaning services. They offer flexible scheduling and a 100% satisfaction guarantee.\n3. **The Cleaning Pros** (4.8/5) - A locally-owned company with a team of experienced ",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Chicago",
+        "The Cleaning Pros"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some well-reviewed and reputable house cleaning companies in Chicago, IL:\n\n1. **Molly Maid**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews. Known for their reliable and thorough cleaning services.\n2. **The Cleaning Authority**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews. Offers eco-friendly cleaning solutions and a satisfaction guarantee.\n3. **Pride Cleaning Services**: 4.9/5 stars on Yelp, 4.7/5 stars on Google Reviews. Provides customized cleaning plans and eco-friendly products.\n4. **Green Cleaning Services**: 4.9/5 stars on Yelp, 4.7/5 stars on Google Reviews. Specializes in eco-friendly and sustainable cleaning practices.\n5. **Chicago Cleaning Company**: 4.8/5 sta",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Pride Cleaning Services",
+        "Green Cleaning Services",
+        "Chicago Cleaning Company"
+      ]
+    }
+  ]
+}

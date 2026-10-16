@@ -1,0 +1,139 @@
+{
+  "trade": "painting",
+  "market": "Dallas, TX",
+  "run_date": "2026-10-15T19:58:29.978Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best painting companies in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated painting companies in Dallas, TX, based on customer reviews and ratings:\n\n1. **Five Star Painting of Dallas**: With a 4.9-star rating on Google, they offer residential and commercial painting services, including interior and exterior painting, cabinet painting, and more.\n2. **CertPro Painters**: Certified by the Painting and Decorating Contractors of America (PDCA), they have a 4.8-star rating on Google and provide a wide range of painting services, including interior and exterior painting, staining, and drywall repair.\n3. **Sherwin-Williams Painters**: As a well-known paint brand, their painting services have a 4.7-star rating on Google and offer a variety of service",
+      "named_here": [
+        "Five Star Painting of Dallas",
+        "CertPro Painters",
+        "Sherwin-Williams Painters"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated painting companies in Dallas, TX, based on online reviews, ratings, and reputation:\n\n1. **CertaPro Painters**: With over 30 years of experience, CertaPro is a well-established and highly-rated painting company in Dallas, offering a wide range of services, including interior and exterior painting.\n2. **The Painting Company**: This Dallas-based company has been in business for over 20 years, providing high-quality painting services for residential and commercial clients.\n3. **My Neighborly Painter**: A locally-owned and operated company, My Neighborly Painter offers expert painting services, including interior and exterior painting, staining, and more.\n4. **Humbl",
+      "named_here": [
+        "CertaPro Painters",
+        "The Painting Company",
+        "My Neighborly Painter",
+        "Humbl"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top painting companies in Dallas, TX, in no particular order:\n\n1.  **DaVinci Painters**: DaVinci Painters is a professional painting company that serves the Dallas area. They offer interior and exterior painting services, power washing, and other related services.\n2.  **Certified Painting and Decorating**: Certified Painting and Decorating is a locally owned and operated painting company that provides high-quality painting services to residential and commercial clients.\n3.  **Painters of Dallas**: Painters of Dallas is a family-owned and operated business that has been serving the Dallas area for over 20 years. They offer interior and exterior painting, power washing, an",
+      "named_here": [
+        "DaVinci Painters",
+        "Certified Painting and Decorating",
+        "Painters of Dallas"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a good house painter in Dallas, TX. However, I'm a large language model, I don't have personal recommendations or direct access to specific contractors. But I can guide you on how to find a reliable and trustworthy house painter in your area.\n\nHere are some steps to help you find a good house painter in Dallas, TX:\n\n1. **Online Search**: You can start by searching online for \"house painters in Dallas, TX\" or \"painting contractors in Dallas, TX\". This will give you a list of potential painters in your area.\n2. **Check Reviews**: Look for painters with good reviews on websites like Yelp, Google, or Angie's List. Pay attention to the overall rating and read the com",
+      "named_here": [
+        "Online Search",
+        "Check Reviews"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a good house painter in Dallas, TX! However, I'm a large language model, I don't have have access to real-time information or personal experiences, so I can't provide a specific recommendation. But I can give you some suggestions on how to find a reliable house painter in Dallas:\n\n1. **Check online reviews**: Look up painters on review websites like Angie's List, HomeAdvisor, or Yelp. Pay attention to the overall rating and read the comments to get an idea of their work quality and customer service.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide valuable insights and first-h",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal recommendations or specific business relationships with individual contractors. But I can provide you with some suggestions on how to find a reliable house painter in Dallas, TX.\n\nHere are a few options:\n\n1. **Online Directories**:\n\t* **Thumbtack**: A popular platform that connects customers with local professionals, including house painters. You can post a job description and receive bids from multiple contractors.\n\t* **Angie's List**: A paid review website that allows you to research and compare local contractors, including painters.\n\t* **HomeAdvisor**: Another platform that connects homeowners with pre-screened professionals, incl",
+      "named_here": [
+        "Online Directories",
+        "Thumbtack",
+        "Angie's List",
+        "HomeAdvisor"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house painting companies in Dallas, TX, based on online reviews and ratings:\n\n1. **Certapro Painters of Dallas** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\nCertapro Painters is a well-established company with a strong reputation for quality work and excellent customer service.\n2. **Sherwin-Williams Painters** - 4.7/5 stars on Google, 4.5/5 stars on Yelp\nAs a well-known paint brand, Sherwin-Williams also offers painting services through their certified contractors.\n3. **Five Star Painting of Dallas** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\nFive Star Painting is a locally owned and operated company that prides itself on providing exceptional service and",
+      "named_here": [
+        "Certapro Painters of Dallas",
+        "Sherwin-Williams Painters",
+        "Five Star Painting of Dallas"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house painter options in Dallas, TX:\n\n1. **Benjamin Moore**: With multiple locations throughout the Dallas area, Benjamin Moore is a well-known and reputable brand that offers high-quality paint and expert painting services.\n2. **Sherwin-Williams**: Similar to Benjamin Moore, Sherwin-Williams is a trusted brand with multiple locations in Dallas. They offer a wide range of painting services, including interior and exterior painting.\n3. **Houzz**: Houzz is a popular platform that connects homeowners with pre-screened professionals, including painters. You can find highly-rated painters in Dallas on Houzz, along with reviews and photos of their work.\n4. **Angie",
+      "named_here": [
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "Houzz",
+        "Angie"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted house painters in Dallas, TX, based on online reviews and ratings:\n\n1.  **Benjamin Moore Paints**: Benjamin Moore is a well-established and reputable painting company with a wide range of colors and finishes. They have a 4.9-star rating on Google and a 4.8-star rating on Yelp.\n\n2.  **Sherwin-Williams**: Sherwin-Williams is another well-known and trusted painting company with a wide range of colors and finishes. They have a 4.8-star rating on Google and a 4.7-star rating on Yelp.\n\n3.  **Behr Paints**: Behr Paints is a popular choice for painting services, known for its high-quality paints and competitive pricing. They have a 4.6-star rating on Google and a 4.",
+      "named_here": [
+        "Benjamin Moore Paints",
+        "Sherwin-Williams",
+        "Behr Paints"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some painting companies in Dallas, TX, with a good reputation:\n\n1. **Sherwin-Williams** (4.8/5) - A well-known national chain with multiple locations in Dallas.\n2. **Five Star Painting of Dallas** (4.9/5) - A locally owned and operated franchise with excellent customer reviews.\n3. **Certapro Painters of Dallas** (4.8/5) - A professional painting company with a strong reputation for quality work.\n4. **Dallas Paints** (4.7/5) - A family-owned business with over 20 years of experience in the Dallas area.\n5. **Southern Painting** (4.7/5) - A Dallas-based company with a strong focus on customer service and quality painting.\n6. **Painting with Passion*",
+      "named_here": [
+        "Sherwin-Williams",
+        "Five Star Painting of Dallas",
+        "Certapro Painters of Dallas",
+        "Dallas Paints",
+        "Southern Painting",
+        "Painting with Passion*"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated painting companies in Dallas, TX, known for their excellent reputation:\n\n1. **CertaPro Painters**: With over 30 years of experience, CertaPro Painters has a 4.8-star rating on Google and is a trusted name in the industry.\n2. **Benjamin Moore**: As a well-known paint manufacturer, Benjamin Moore also offers professional painting services through their certified contractors. They have a 4.7-star rating on Google.\n3. **Sherwin-Williams**: Similar to Benjamin Moore, Sherwin-Williams is a reputable paint manufacturer that also provides professional painting services through their contractors. They have a 4.6-star rating on Google.\n4. **Humble Painting Company**: With a 4.9",
+      "named_here": [
+        "CertaPro Painters",
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "Humble Painting Company"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated painting companies in Dallas, TX, based on online reviews and ratings:\n\n1. **Benjamin Moore Paints - Dallas**: A well-known national brand with a local presence, Benjamin Moore has a reputation for high-quality paints and expert painters.\n\t* Rating: 4.9/5 on Google, 4.8/5 on Yelp\n2. **Sherwin-Williams Paints - Dallas**: Another national brand with a strong local reputation, Sherwin-Williams offers a wide range of paints and expert painting services.\n\t* Rating: 4.8/5 on Google, 4.7/5 on Yelp\n3. **Patriot Painting**: A local, family-owned business with over 20 years of experience, Patriot Painting offers interior and exterior painting services.\n\t* Rating: 4.9/5 on Googl",
+      "named_here": [
+        "Benjamin Moore Paints",
+        "Sherwin-Williams Paints",
+        "Patriot Painting",
+        "Rating"
+      ]
+    }
+  ]
+}

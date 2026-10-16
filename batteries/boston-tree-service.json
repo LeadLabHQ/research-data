@@ -1,0 +1,143 @@
+{
+  "trade": "tree-service",
+  "market": "Boston, MA",
+  "run_date": "2026-10-15T20:58:10.159Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best tree service companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated tree service companies in Boston, MA, based on customer reviews and ratings:\n\n1. **Bartlett Tree Experts** (4.9/5) - With over 100 years of experience, Bartlett Tree Experts offers a wide range of tree care services, including pruning, removal, and planting.\n2. **SavATree** (4.8/5) - SavATree is a professional tree care company that provides services such as tree pruning, removal, and stump grinding, as well as plant health care and lawn care.\n3. **Davey Tree Expert Co.** (4.7/5) - Davey Tree Expert Co. is a well-established company that offers tree care services, including pruning, removal, and planting, as well as lawn care and landscape management.\n4. **Hudson Tree",
+      "named_here": [
+        "Bartlett Tree Experts",
+        "SavATree",
+        "Davey Tree Expert Co",
+        "Hudson Tree"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated tree service companies in Boston, MA, based on online reviews and ratings:\n\n1. **Boston Tree Care**: With a 4.9-star rating on Google and over 1,000 reviews, Boston Tree Care is a highly-recommended company that offers tree removal, pruning, and planting services.\n2. **Davey Tree Expert Company**: A well-established company with over 130 years of experience, Davey Tree Expert Company has a 4.8-star rating on Google and offers a wide range of tree services, including removal, pruning, and stump grinding.\n3. **SavATree**: With a 4.8-star rating on Google and over 500 reviews, SavATree is a reputable company that offers tree removal, pruning, and planting services, as we",
+      "named_here": [
+        "Boston Tree Care",
+        "Davey Tree Expert Company",
+        "SavATree"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated tree service companies in Boston, MA, based on online reviews and ratings:\n\n1.  **Arbor Care Tree Services**: With over 20 years of experience, Arbor Care is a family-owned business that offers a wide range of tree services, including pruning, removal, and stump grinding.\n2.  **Boston Tree Service**: Boston Tree Service has been in business for over 25 years and provides tree care services, including tree removal, pruning, and planting.\n3.  **Green Earth Tree Care**: Green Earth Tree Care is a locally owned and operated company that offers tree care services, including pruning, removal, and mulching.\n4.  **Tree Care Services of Boston**: This company offers a range of",
+      "named_here": [
+        "Arbor Care Tree Services",
+        "Boston Tree Service",
+        "Green Earth Tree Care",
+        "Tree Care Services of Boston"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a good tree service company in Boston, MA. However, I don't have have access to real-time information or personal experiences. But I can provide you with some suggestions on how to find a reliable tree service company:\n\n1. **Online Search**: You can search for tree service companies in Boston, MA on online directories like Google, Yelp, or Angie's List. Look for companies with good reviews and ratings.\n2. **Check with the Better Business Bureau (BBB)**: The BBB can provide you with a list of accredited tree service companies in Boston, MA, along with their ratings and reviews.\n3. **Ask for Referrals**: Ask your friends, family, or neighbors who have recently use",
+      "named_here": [
+        "Online Search",
+        "Check with the Better Business Bureau",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'm happy to help you find a reliable tree service company in Boston, MA! However, I'm a large language model, I don't have have access to real-time information or specific recommendations. But I can suggest some options to help you find a good tree service company:\n\n1. **Check online reviews**: Look up tree service companies in Boston on review platforms like Yelp, Google, or Angie's List. Pay attention to the overall rating, number of reviews, and comments from previous customers.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently used a tree service company for recommendations.\n3. **Check with professional associations**: Look for companies that are members of p",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Check with professional associations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal experiences or direct connections to specific companies. But I can provide you with some options and suggestions on how to find a reliable tree service company in Boston, MA.\n\nHere are a few options to consider:\n\n1. **American Tree Experts**: Based in Boston, they offer a wide range of tree services, including pruning, removal, and stump grinding.\n2. **Boston Tree Service**: They provide tree removal, pruning, and trimming services, as well as emergency service for storm damage.\n3. **Lester Tree Service**: A family-owned business with over 30 years of experience, offering tree removal, pruning, and stump grinding services.\n4. **Bosto",
+      "named_here": [
+        "American Tree Experts",
+        "Boston Tree Service",
+        "Lester Tree Service",
+        "Bosto"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted tree service companies in Boston, MA, based on online reviews and ratings:\n\n1. **Bartlett Tree Experts**: With over 100 years of experience, Bartlett Tree Experts is a well-established company that offers a wide range of tree services, including pruning, removal, and planting. (4.9/5 stars on Google)\n2. **SavATree**: SavATree is a reputable company that provides tree care services, including tree pruning, removal, and stump grinding. They also offer plant health care and lawn care services. (4.8/5 stars on Google)\n3. **Davey Tree Expert Company**: Davey Tree Expert Company is a national company with a local office in Boston. They offer a range of tree servic",
+      "named_here": [
+        "Bartlett Tree Experts",
+        "SavATree",
+        "Davey Tree Expert Company"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted tree service companies in Boston, MA:\n\n1. **Boston Tree Care**: A locally-owned and operated company with over 20 years of experience providing tree pruning, removal, and planting services.\n2. **Davey Tree Expert Company**: A well-established company with a strong presence in Boston, offering a wide range of tree services, including pruning, removal, and stump grinding.\n3. **SavATree**: A professional tree care company with a location in Boston, providing services such as tree pruning, removal, and planting, as well as stump grinding and debris removal.\n4. **Tree Care Boston**: A trusted company with over 15 years of experience serving Boston and surrounding",
+      "named_here": [
+        "Boston Tree Care",
+        "Davey Tree Expert Company",
+        "SavATree",
+        "Tree Care Boston"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted tree service companies in Boston, MA, based on online reviews and ratings:\n\n1. **All Clear Tree Service** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* Family-owned and operated for over 20 years\n\t* Offers emergency tree removal, pruning, and stump removal\n\t* Insured and certified arborists\n2. **Boston Tree Care** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* Locally owned and operated since 1992\n\t* Provides tree pruning, removal, and maintenance services\n\t* Uses eco-friendly practices and equipment\n3. **Davey Tree** (4.7/5 stars on Google, 4.5/5 stars on Yelp)\n\t* National company with a Boston branch\n\t* Offers tree removal, pruning, and maintenance serv",
+      "named_here": [
+        "All Clear Tree Service",
+        "Boston Tree Care",
+        "Davey Tree",
+        "Insured and certified arborists",
+        "Locally owned and operated since 1992",
+        "Uses eco-friendly practices and equipment",
+        "National company with a Boston branch"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some tree service companies in Boston, MA with a good reputation:\n\n1. **Bartlett Tree Experts** - With a 4.9-star rating on Google and 4.8-star rating on Yelp, Bartlett Tree Experts is a well-established company with over 100 years of experience.\n2. **SavATree** - SavATree has a 4.8-star rating on Google and 4.7-star rating on Yelp. They offer a range of services, including tree pruning, removal, and planting.\n3. **Davey Tree Expert Company** - With a 4.7-star rating on Google and 4.6-star rating on Yelp, Davey Tree Expert Company is a reputable company with over 135 years of experience.\n4. **Monster Tree Service** - Monster Tree Service has a 4.",
+      "named_here": [
+        "Bartlett Tree Experts",
+        "SavATree",
+        "Davey Tree Expert Company",
+        "Monster Tree Service"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated tree service companies in Boston, MA, known for their excellent reputation:\n\n1. **Boston Tree Care**: With a 4.9-star rating on Google and a certified arborist on staff, Boston Tree Care offers comprehensive tree services, including pruning, removal, and planting.\n2. **Trees & Shrubs Inc.**: This family-owned business has a 4.8-star rating on Google and provides a wide range of tree services, including tree removal, pruning, and stump grinding.\n3. **A Boston Tree Service**: With a 4.7-star rating on Google, A Boston Tree Service offers professional tree care, including tree removal, pruning, and emergency storm response.\n4. **New England Tree Care**: This company has ",
+      "named_here": [
+        "Boston Tree Care",
+        "Trees & Shrubs Inc",
+        "A Boston Tree Service",
+        "New England Tree Care"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated tree service companies in Boston, MA, based on online reviews and ratings from sources like Yelp, Angie's List, and the Better Business Bureau (BBB):\n\n1. **Bartlett Tree Experts** (4.9/5 on Yelp, A+ on BBB) - With over 120 years of experience, Bartlett is a well-established and respected tree care company in Boston.\n2. **Davey Tree Expert Company** (4.8/5 on Yelp, A+ on BBB) - Davey Tree has been serving the Boston area for over 130 years and offers a wide range of tree care services.\n3. **Tree Care of Boston** (4.9/5 on Yelp, A+ on BBB) - This locally owned and operated company has been serving Boston for over 20 years and offers tree pruning, removal, and planting s",
+      "named_here": [
+        "Bartlett Tree Experts",
+        "Davey Tree Expert Company",
+        "Tree Care of Boston"
+      ]
+    }
+  ]
+}

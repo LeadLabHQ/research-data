@@ -1,0 +1,135 @@
+{
+  "trade": "roofing",
+  "market": "Boston, MA",
+  "run_date": "2026-10-15T20:52:04.633Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Boston, MA has numerous reputable roofing companies. Here are some top names that are highly recommended:\n\n1. **New England Roofing**: With over 20 years of experience, they offer a wide range of roofing services, including residential and commercial roofing, repairs, and installations.\n2. **Boston Roofing Services**: This company has been serving the Boston area for over 15 years, providing high-quality roofing services, including asphalt shingle roofing, flat roofing, and roof repairs.\n3. **RJ Scalzi Construction**: As a family-owned business, RJ Scalzi Construction has been providing roofing services to the Boston area for over 40 years, including roof installations, repairs, and maintena",
+      "named_here": [
+        "New England Roofing",
+        "Boston Roofing Services",
+        "RJ Scalzi Construction"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top Roofing Companies in Boston, MA \n\nTo determine the best roofing companies in Boston, MA, we considered factors such as:\n\n* **Reputation**: Online reviews, ratings, and testimonials from previous customers\n* **Experience**: Number of years in business, expertise in various roofing materials and services\n* **Licenses and Certifications**: Valid licenses, certifications, and insurance\n* **Services Offered**: Range of services, including roofing installation, repair, and maintenance\n\nBased on these criteria, here are the top roofing companies in Boston, MA:\n\n### Recommended Roofing Companies \n\n1. **Boston Roofing Company**: A family-owned business with over 20 years of experience, offerin",
+      "named_here": [
+        "Reputation",
+        "Experience",
+        "Licenses and Certifications",
+        "Services Offered",
+        "Boston Roofing Company"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated roofing companies in Boston, MA, based on online reviews and ratings:\n\n1.  **DeAngelis Roofing**: With over 40 years of experience, DeAngelis Roofing is a family-owned business that offers a wide range of roofing services, including installation, repair, and maintenance. They have an A+ rating with the Better Business Bureau and 4.9-star rating on Google.\n2.  **Boston Roofing Company**: This local business has been serving the Boston area for over 30 years, providing roof repairs, replacements, and maintenance services. They have a 4.8-star rating on Google and are a certified GAF Master Elite contractor.\n3.  **Gerry's Roofing**: Gerry's Roofing has been a Boston stap",
+      "named_here": [
+        "DeAngelis Roofing",
+        "Boston Roofing Company",
+        "Gerry's Roofing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good roofing company in Boston, MA. However, I don't have real-time access to specific companies or their current reputation. That being said, here are some steps you can take to find a reliable roofing company in Boston:\n\n1. **Ask for referrals**: Ask friends, family, or neighbors who have recently had their roof repaired or replaced for recommendations. They can provide you with firsthand experience and feedback about the company they used.\n2. **Online reviews**: Check online review platforms such as Yelp, Google, or Angie's List to see what other customers have to say about roofing companies in Boston. Look for companies with h",
+      "named_here": [
+        "Ask for referrals",
+        "Online reviews"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reputable roofing companies in Boston, MA, and I'd be happy to provide some recommendations. However, please keep in mind that I'm an AI, I don't have personal experiences, but I can suggest some top-rated roofing companies in Boston based on online reviews and ratings. Here are a few options:\n\n1. **GAF Roofing**: GAF is a well-known and respected roofing company with a strong presence in Boston. They offer a wide range of roofing services, including repairs, replacements, and installations. (Phone: [phone removed])\n2. **Boston Roofing Company**: With over 20 years of experience, Boston Roofing Company is a trusted name in the industry. They offer free estimates, competitive pric",
+      "named_here": [
+        "GAF Roofing",
+        "Boston Roofing Company"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can’t recommend a specific roofing company in Boston, MA. However, I can provide some general guidance on how to find a reputable roofing company. Would that help?",
+      "named_here": []
+    },
+    {
+      "prompt": "I need a roofing company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted roofing companies in Boston, MA, based on online reviews and ratings:\n\n1. **New England Roofing** (4.9/5 stars on Google) - With over 20 years of experience, they offer residential and commercial roofing services, including repairs, replacements, and maintenance.\n2. **Boston Roofing Services** (4.8/5 stars on Google) - This family-owned business has been serving the Boston area for over 30 years, providing roofing installation, repair, and maintenance services.\n3. **O'LYN Roofing** (4.8/5 stars on Google) - As a GAF Master Elite contractor, O'LYN Roofing offers a wide range of roofing services, including asphalt shingle, metal, and flat roofing installations",
+      "named_here": [
+        "New England Roofing",
+        "Boston Roofing Services",
+        "O'LYN Roofing"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Most Trusted Roofing Companies in Boston, MA \n\nWhen searching for a reliable roofing company in Boston, MA, it's essential to consider factors such as experience, reputation, and customer reviews. Based on online reviews and ratings, here are some of the most trusted roofing companies in Boston:\n\n### Top-Rated Roofing Companies \n\n1. **Boston Roofing Company** (4.9/5 on Google, 4.8/5 on HomeAdvisor)\n\t* 30+ years of experience\n\t* Licensed, bonded, and insured\n\t* Offers free estimates and 24/7 emergency services\n2. **A Boston Roofer** (4.9/5 on Google, 4.8/5 on HomeAdvisor)\n\t* 20+ years of experience\n\t* Family-owned and operated\n\t* Provides free estimates and a 100% satisfaction guarantee\n3",
+      "named_here": [
+        "Boston Roofing Company",
+        "A Boston Roofer",
+        "30+ years of experience",
+        "Licensed, bonded, and insured",
+        "20+ years of experience",
+        "Family-owned and operated"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted roofing companies in Boston, MA, based on online reviews and ratings:\n\n1.  **Northeast Roofing and Siding**: A family-owned business with over 20 years of experience, serving Boston and surrounding areas. They offer a wide range of roofing services, including installation, repair, and maintenance. (4.9/5 stars on Google, A+ rating on BBB)\n2.  **Boston Roofing Company**: With over 30 years of experience, this company provides top-notch roofing services, including new installations, replacements, and repairs. They're known for their attention to detail and excellent customer service. (4.8/5 stars on Google, A+ rating on BBB)\n3.  **All City Roofing**: A locally",
+      "named_here": [
+        "Northeast Roofing and Siding",
+        "Boston Roofing Company",
+        "All City Roofing"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top-rated roofing companies in Boston, MA, based on customer reviews and ratings:\n\n1. **New England Roofing & Siding** (4.9/5 stars on Google) - Known for their high-quality work and excellent customer service.\n2. **Boston Roofing Services** (4.8/5 stars on Google) - Offers a wide range of roofing services, including repairs, installations, and maintenance.\n3. **O'LYN Roofing** (4.8/5 stars on Google) - Family-owned and operated, with over 40 years of experience in the Boston area.\n4. **Rite Roofing** (4.7/5 stars on Google) - Provides residential and commercial roofing services, with a focus on customer satisfaction.\n5. **Cazeault Roofing & Solar** (4.7/5 stars on Googl",
+      "named_here": [
+        "New England Roofing & Siding",
+        "Boston Roofing Services",
+        "O'LYN Roofing",
+        "Rite Roofing",
+        "Cazeault Roofing & Solar"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated roofing companies in Boston, MA, known for their excellent reputation:\n\n1. **Boston Roofing Company**: With over 20 years of experience, they offer a wide range of roofing services, including repairs, replacements, and maintenance. (4.9/5 stars on Google)\n2. **A Boston Roofer**: A family-owned business with over 30 years of experience, they provide high-quality roofing services, including slate, asphalt, and metal roofing. (4.8/5 stars on Google)\n3. **United Roofing and Siding**: A trusted name in Boston, they offer roofing, siding, and gutter services, with a focus on customer satisfaction and quality workmanship. (4.8/5 stars on Google)\n4. **Cambridge Roofing",
+      "named_here": [
+        "Boston Roofing Company",
+        "A Boston Roofer",
+        "United Roofing and Siding",
+        "Cambridge Roofing"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some well-established and reputable roofing companies in Boston, MA, based on online reviews and ratings:\n\n1.  **New England Roofing Solutions** (4.9/5 stars on Google, 4.5/5 stars on Yelp) - A locally owned and operated company with over 30 years of experience in residential and commercial roofing services.\n2.  **Tom Brothers Roofing** (4.8/5 stars on Google, 4.5/5 stars on Yelp) - Family-owned and operated since 1982, Tom Brothers Roofing offers a wide range of roofing services, including installation, repair, and maintenance.\n3.  **Boston Roofing Company** (4.7/5 stars on Google, 4.5/5 stars on Yelp) - With over 20 years of experience, this company provides residential and commer",
+      "named_here": [
+        "New England Roofing Solutions",
+        "Tom Brothers Roofing",
+        "Boston Roofing Company"
+      ]
+    }
+  ]
+}

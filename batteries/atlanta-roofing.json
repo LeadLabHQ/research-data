@@ -1,0 +1,145 @@
+{
+  "trade": "roofing",
+  "market": "Atlanta, GA",
+  "run_date": "2026-10-15T20:11:05.129Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top roofing companies in Atlanta, GA, based on customer reviews, ratings, and industry reputation:\n\n1. **Findlay Roofing**: With over 20 years of experience, Findlay Roofing is a trusted name in Atlanta's roofing industry. They offer a wide range of services, including roof repairs, replacements, and maintenance.\n2. **Atlanta Roofing Specialists**: This company has been serving the Atlanta area for over 25 years, providing high-quality roofing services, including roof installations, repairs, and inspections.\n3. **Noble Roofing**: Noble Roofing is a family-owned business that has been in operation for over 15 years. They offer a variety of roofing services, including roof",
+      "named_here": [
+        "Findlay Roofing",
+        "Atlanta Roofing Specialists",
+        "Noble Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Top Roofing Companies in Atlanta, GA \n\nTo determine the best roofing companies in Atlanta, GA, we considered factors such as:\n\n* **Reputation**: Online reviews, ratings, and testimonials from previous customers\n* **Experience**: Number of years in business, number of projects completed, and expertise in various roofing materials and techniques\n* **Licenses and Certifications**: Valid licenses, certifications, and insurance coverage\n* **Services Offered**: Range of services, including roofing installation, repair, maintenance, and emergency services\n\nBased on these criteria, here are the top roofing companies in Atlanta, GA:\n\n1. **Atlanta Roofing Company**: With over 20 years of experienc",
+      "named_here": [
+        "Reputation",
+        "Experience",
+        "Licenses and Certifications",
+        "Services Offered",
+        "Atlanta Roofing Company"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Atlanta, GA, based on online reviews and ratings:\n\n1. **ASAP Roofing**: 4.9/5 stars on Google, 4.8/5 stars on Facebook, and an A+ rating with the Better Business Bureau. ASAP Roofing is a family-owned business that offers a wide range of roofing services, including roof repairs, replacements, and installations.\n2. **Atlanta Roofing Specialists**: 4.8/5 stars on Google, 4.7/5 stars on Facebook, and an A+ rating with the Better Business Bureau. This company specializes in residential and commercial roofing services, including roofing repairs, replacements, and new installations.\n3. **GAF Master Elite Roofer - Atlanta Roofing and Siding**: 4.8",
+      "named_here": [
+        "ASAP Roofing",
+        "Atlanta Roofing Specialists",
+        "GAF Master Elite Roofer"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good roofing company in Atlanta, GA. However, I don't have real-time access to specific companies or their current reputation. That being said, here are some steps you can take to find a reliable roofing company in Atlanta:\n\n1. **Online Search**: Look up roofing companies in Atlanta on search engines like Google, and check their websites, reviews, and ratings on platforms like Yelp, Google Reviews, or Angie's List.\n2. **Ask for Referrals**: Ask friends, family, or neighbors who have recently had roofing work done for recommendations. They can provide valuable insights into the company's work quality, professionalism, and customer ",
+      "named_here": [
+        "Online Search",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable roofing company in Atlanta, GA. However, I don't have personal experiences or real-time reviews, but I can suggest some options to consider:\n\n1. **Check online reviews**: Websites like Yelp, Google Reviews, or HomeAdvisor can provide a list of top-rated roofing companies in Atlanta. Look for companies with a high rating (4+ stars) and pay attention to the number of reviews.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently had roofing work done for recommendations.\n3. **Check with local trade organizations**: The National Roofing Contractors Association (NRCA) or the Georgia Roofing, Contractors & Sheet Metal Association (G",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Check with local trade organizations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have personal recommendations or real-time information about specific companies in Atlanta, GA. However, I can provide you with some tips on how to find a reliable and reputable roofing company in Atlanta.\n\nHere are a few suggestions:\n\n1. **Check online reviews**: Look up roofing companies on review websites like:\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Yelp (yelp.com)\n\t* Google Reviews (google.com/reviews)\n2. **Get referrals**: Ask friends, family, or neighbors who have recently had roofing work done for recommendations.\n3. **Check with professional associations**: The National Roofing Contractors Association (N",
+      "named_here": [
+        "Check online reviews",
+        "Get referrals",
+        "Check with professional associations",
+        "Angie's List",
+        "HomeAdvisor",
+        "Yelp",
+        "Google Reviews"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "There are several trusted roofing companies in Atlanta, GA. Here are some top-rated options:\n\n1. **Findlay Roofing**: With over 20 years of experience, Findlay Roofing is a family-owned business that offers a wide range of roofing services, including repairs, replacements, and installations.\n2. **Atlanta Roofing Specialists**: This company has been serving the Atlanta area for over 25 years and provides roofing services for residential and commercial properties, including asphalt shingle, metal, and flat roofing.\n3. **Noble Roofing**: Noble Roofing is a locally owned and operated company that offers roofing services, including repairs, replacements, and new installations. They also provide g",
+      "named_here": [
+        "Findlay Roofing",
+        "Atlanta Roofing Specialists",
+        "Noble Roofing"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Most Trusted Roofing Companies in Atlanta, GA \n\nWhen searching for a reliable roofing company in Atlanta, GA, it's essential to consider factors such as experience, reputation, and customer reviews. Based on online reviews and ratings, here are some of the most trusted roofing companies in Atlanta, GA:\n\n### Top-Rated Roofing Companies \n\n1. **Atlanta Roofing Company**: With over 20 years of experience, Atlanta Roofing Company has an A+ rating with the Better Business Bureau (BBB) and 4.8-star reviews on Google.\n2. **Roofing America**: Roofing America has been serving Atlanta for over 30 years and has a 4.9-star rating on Google and an A+ rating with the BBB.\n3. **Proven Roofing**: Proven ",
+      "named_here": [
+        "Atlanta Roofing Company",
+        "Roofing America",
+        "Proven Roofing"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted roofing companies in Atlanta, GA, based on reviews and ratings from various sources:\n\n1. **Atlanta Roofing Company** (ARC) - 4.9/5 stars on Google, 4.8/5 stars on Yelp. ARC has been serving the Atlanta area for over 25 years and offers a wide range of roofing services, including residential and commercial roofing, repairs, and replacements.\n2. **Gulf States Roofing** - 4.9/5 stars on Google, 4.8/5 stars on Yelp. Gulf States Roofing has been in business for over 40 years and offers a variety of roofing services, including roofing repairs, replacements, and new installations.\n3. **Cobb Roofing Company** - 4.8/5 stars on Google, 4.7/5 stars on Yelp. Cobb Roofin",
+      "named_here": [
+        "Atlanta Roofing Company",
+        "Gulf States Roofing",
+        "Cobb Roofing Company"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the top-rated roofing companies in Atlanta, GA:\n\n1. **Findlay Roofing** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Atlanta Roofing Specialists** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Roofing Atlanta** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n4. **KTM Roofing** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Noble Roofing** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n6. **Atlanta Roofing Company** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **Superior Roofing Company of Georgia** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n8. **Bone Dry Roofing** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n9. **RoofCrafters*",
+      "named_here": [
+        "Findlay Roofing",
+        "Atlanta Roofing Specialists",
+        "Roofing Atlanta",
+        "KTM Roofing",
+        "Noble Roofing",
+        "Atlanta Roofing Company",
+        "Superior Roofing Company of Georgia",
+        "Bone Dry Roofing",
+        "RoofCrafters*"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Roofing Companies in Atlanta, GA\n\nBased on online reviews, ratings, and industry recognition, here are some of the top-rated roofing companies in Atlanta, GA:\n\n### Companies with a Strong Reputation\n\n1. **Atlanta Roofing Company** (4.9/5 on Google, 4.8/5 on HomeAdvisor) - A family-owned business with over 20 years of experience.\n2. **Roofing Companies Atlanta** (4.9/5 on Google, 4.8/5 on HomeAdvisor) - A locally owned and operated company with over 15 years of experience.\n3. **GA Roofing & Repair** (4.8/5 on Google, 4.7/5 on HomeAdvisor) - A full-service roofing company with over 10 years of experience.\n4. **Atlanta Roofing Pros** (4.8/5 on Google, 4.7/5 on HomeAdvisor) - A repu",
+      "named_here": [
+        "Atlanta Roofing Company",
+        "Roofing Companies Atlanta",
+        "GA Roofing & Repair",
+        "Atlanta Roofing Pros"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-rated roofing companies in Atlanta, GA, with a strong reputation:\n\n1.  **West Georgia Exteriors**: A family-owned and operated business with over 20 years of experience, serving the Atlanta area. They offer a wide range of roofing services, including installation, repair, and maintenance.\n2.  **Atlanta Roofing Company**: A locally owned and operated business with over 15 years of experience, providing roofing services to residential and commercial clients. They offer a variety of roofing materials, including asphalt shingles, metal, and tile.\n3.  **Georgia Roofing Contractors**: A licensed and insured company with over 20 years of experience, offering roofing services, i",
+      "named_here": [
+        "West Georgia Exteriors",
+        "Atlanta Roofing Company",
+        "Georgia Roofing Contractors"
+      ]
+    }
+  ]
+}

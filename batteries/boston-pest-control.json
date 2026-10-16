@@ -1,0 +1,136 @@
+{
+  "trade": "pest-control",
+  "market": "Boston, MA",
+  "run_date": "2026-10-15T20:53:06.961Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best pest control companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated pest control companies in Boston, MA, based on customer reviews and ratings:\n\n1. **Modern Pest Services**: With over 70 years of experience, Modern Pest Services offers a wide range of pest control services, including residential and commercial pest control, termite control, and wildlife removal.\n2. **Terminix**: A well-known national pest control company with a local presence in Boston, Terminix offers comprehensive pest control services, including termite control, bed bug removal, and mosquito control.\n3. **Orkin**: Another national pest control company with a strong presence in Boston, Orkin offers a range of services, including residential and commercial pest cont",
+      "named_here": [
+        "Modern Pest Services",
+        "Terminix",
+        "Orkin"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top pest control companies in Boston, MA, based on online reviews, ratings, and reputation:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established pest control company with a strong presence in Boston. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control.\n2. **Terminix**: Another well-known pest control company, Terminix has been in business for over 90 years and offers a variety of services, including pest control, termite control, and wildlife control.\n3. **TruGreen**: While primarily known for their lawn care services, TruGreen also offers pest control services, including m",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "TruGreen"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated pest control companies in Boston, MA, based on online reviews and ratings:\n\n1. **Orkin** (4.8/5 on Google, 4.5/5 on Yelp) - A national company with a strong presence in Boston, offering comprehensive pest control services for residential and commercial properties.\n2. **Pestmaster Services** (4.9/5 on Google, 4.5/5 on Yelp) - A locally owned company with over 30 years of experience providing eco-friendly pest control solutions for homes and businesses.\n3. **Terminix** (4.7/5 on Google, 4.5/5 on Yelp) - A national company with a Boston branch offering pest control, termite control, and rodent control services.\n4. **Permachem Pest Control** (4.9/5 on Google, 4.5/5",
+      "named_here": [
+        "Orkin",
+        "Pestmaster Services",
+        "Terminix",
+        "Permachem Pest Control"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good pest control company in Boston, MA. However, I don't have real-time access to specific companies or their current ratings. That being said, here are a few options to consider:\n\n1. **Terminix**: A well-known national pest control company with a local office in Boston. They offer a range of services, including pest control, termite control, and bed bug removal.\n2. **Orkin**: Another national pest control company with a presence in Boston. They provide services for residential and commercial properties, including pest control, termite control, and mosquito control.\n3. **Modern Pest Services**: A local, family-owned pest control comp",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Modern Pest Services"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are several reputable pest control companies in Boston, MA. Here are a few options you can consider:\n\n1. **Orkin**: Orkin is a well-established pest control company with a presence in Boston. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control. You can call them at [phone removed] or schedule an appointment online.\n2. **Terminix**: Terminix is another well-known pest control company that serves Boston. They offer customized pest control solutions for homes and businesses, including termite control, rodent control, and ant control. You can call them at [phone removed] or schedule an appointment online.\n3. **TruGreen",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "TruGreen"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Boston! A beautiful city with a rich history and a lot of pest activity, unfortunately. To find a good pest control company in Boston, I'll provide you with some recommendations and tips.\n\n**Here are a few reputable pest control companies in Boston:**\n\n1.  **Orkin Pest Control**: A well-established company with a wide range of services, including residential and commercial pest control, termite control, and wildlife removal.\n2.  ** Terminix**: Another well-known company with a long history, offering pest control services, termite control, and mosquito control.\n3.  **Bill's Pest Termite & Wildlife Control**: A locally-owned and operated company with over 30 years of experience, providing pest",
+      "named_here": [
+        "Orkin Pest Control",
+        "Terminix",
+        "Bill's Pest Termite & Wildlife Control"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted pest control companies in Boston, MA:\n\n1. **Modern Pest Services**: With over 70 years of experience, Modern Pest Services is a well-established and reputable company in Boston. They offer a wide range of services, including pest control, termite control, and wildlife removal.\n2. **Terminix**: Terminix is a national pest control company with a strong presence in Boston. They offer a variety of services, including pest control, termite control, and bed bug removal.\n3. **Orkin**: Orkin is another national pest control company with a long history of providing reliable services in Boston. They offer a range of services, including pest control, termite control, a",
+      "named_here": [
+        "Modern Pest Services",
+        "Terminix",
+        "Orkin"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted pest control companies in Boston, MA:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with a strong presence in Boston. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control.\n2. **Terminix**: Another well-known and trusted pest control company, Terminix has been in business for over 90 years. They offer a variety of services, including pest control, termite control, and wildlife control.\n3. **TruGreen**: While primarily known for their lawn care services, TruGreen also offers pest control services in Boston. They have a tea",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "TruGreen"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted pest control companies in Boston, MA:\n\n1.  **Terminix**: With over 90 years of experience, Terminix is a well-established company that offers comprehensive pest control services, including termite control, rodent control, and bed bug removal.\n2.  **Orkin**: Orkin is a national pest control company with a strong presence in Boston. They offer a wide range of services, including pest control, termite control, and wildlife control.\n3.  **Pest Control Services**: This local company has been serving Boston and surrounding areas for over 30 years, offering services such as pest control, rodent control, and bed bug removal.\n4.  **Copesan**: Copesan is a full-servic",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Pest Control Services",
+        "Copesan"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some pest control companies in Boston, MA, with a good reputation, based on online reviews and ratings:\n\n1. **Modern Pest Services**: With over 70 years of experience, Modern Pest Services has a 4.8-star rating on Google and is accredited by the Better Business Bureau (BBB).\n2. **Waltham Pest Control**: This family-owned business has been serving the Boston area for over 125 years and has a 4.9-star rating on Google.\n3. **Colonial Pest Control**: With over 35 years of experience, Colonial Pest Control has a 4.8-star rating on Google and is a member of the National Pest Management Association (NPMA).\n4. **Pest Control Boston**: This locally owned company has a 4.7-star rating on Goog",
+      "named_here": [
+        "Modern Pest Services",
+        "Waltham Pest Control",
+        "Colonial Pest Control",
+        "Pest Control Boston"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated pest control companies in Boston, MA, known for their excellent reputation:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and trusted pest control company in Boston. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control. (4.5/5 stars on Google, 4.5/5 stars on Yelp)\n2. **Terminix**: Terminix is another well-known pest control company with a strong presence in Boston. They offer customized pest control solutions for homes and businesses, including termite control, rodent control, and ant control. (4.5/5 stars on Google, 4.5/5 stars on Yelp)\n3. **TruGreen**: While prim",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "TruGreen"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some pest control companies in Boston, MA with a good reputation:\n\n1. **Orkin**: Orkin is a well-established and reputable pest control company with a strong presence in Boston. They offer a wide range of services, including termite control, rodent control, and wildlife removal.\n2. ** Terminix**: Terminix is another well-known pest control company with a strong reputation in Boston. They offer a range of services, including termite control, rodent control, and mosquito control.\n3. **Arrow Exterminating**: Arrow Exterminating is a family-owned and operated pest control company that has been serving Boston for over 50 years. They offer a range of services, including termite control, r",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Arrow Exterminating"
+      ]
+    }
+  ]
+}

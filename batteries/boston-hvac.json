@@ -1,0 +1,139 @@
+{
+  "trade": "hvac",
+  "market": "Boston, MA",
+  "run_date": "2026-10-15T20:50:45.461Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best HVAC companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top HVAC companies in Boston, MA, based on customer reviews, ratings, and reputation:\n\n1. **New England Mechanical Services**: With over 30 years of experience, they offer a wide range of HVAC services, including installation, maintenance, and repair.\n2. **Boston Standard Plumbing & Heating**: A family-owned business with over 40 years of experience, they provide HVAC services, including boiler and furnace installation, and 24/7 emergency repair.\n3. **Cooling Unlimited**: Specializing in air conditioning and heating systems, they offer installation, maintenance, and repair services for residential and commercial clients.\n4. **Air Inc. Heating and Air Conditioning**: With",
+      "named_here": [
+        "New England Mechanical Services",
+        "Boston Standard Plumbing & Heating",
+        "Cooling Unlimited",
+        "Air Inc. Heating and Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top HVAC Companies in Boston, MA \n\nHere are some of the top HVAC companies in Boston, MA, that I'd recommend:\n\n### Top-Rated Companies \n\n1. **Boston Heating**: A family-owned company with over 40 years of experience, offering heating, cooling, and plumbing services.\n2. **Crown HVAC**: A trusted provider of heating and cooling services, with a 4.8-star rating on Google and over 20 years of experience.\n3. **Emergency HVAC Services**: A 24/7 emergency HVAC service provider, offering prompt and reliable repairs, installations, and maintenance.\n4. **All Pro Plumbing, Heating & Air Conditioning**: A full-service HVAC company with over 20 years of experience, offering a wide range of services, i",
+      "named_here": [
+        "Boston Heating",
+        "Crown HVAC",
+        "Emergency HVAC Services"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated HVAC companies in Boston, MA, based on online reviews and ratings:\n\n1.  **L.G. Norris**: With over 70 years of experience, L.G. Norris is a well-established HVAC company in Boston that offers a wide range of services, including heating, cooling, and plumbing.\n2.  **Len The Plumber**: Len The Plumber is a family-owned business that has been serving Boston for over 90 years. They offer HVAC services, plumbing, and electrical work.\n3.  **G.S. Kenney & Son**: This company has been a Boston staple for over 100 years, offering HVAC services, plumbing, and electrical work. They have an A+ rating with the Better Business Bureau.\n4.  **A/C Express**: A/C Express is a Bo",
+      "named_here": [
+        "L.G. Norris",
+        "Len The Plumber",
+        "G.S. Kenney & Son",
+        "A/C Express"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "There are many reputable HVAC companies in Boston, MA. Here are a few options to consider:\n\n1. **New England Mechanical Services**: They offer a wide range of services, including heating, cooling, and plumbing. You can reach them at [phone removed].\n2. **Boston Standard Plumbing & Heating**: With over 40 years of experience, they provide HVAC services, including installation, repair, and maintenance. Their phone number is [phone removed].\n3. **Cooling Unlimited, Inc.**: This company specializes in air conditioning, heating, and ventilation services. You can call them at [phone removed].\n4. **McMahon Plumbing & Heating**: They offer HVAC services, including boiler and furnace installation, repai",
+      "named_here": [
+        "New England Mechanical Services",
+        "Boston Standard Plumbing & Heating",
+        "Cooling Unlimited, Inc",
+        "McMahon Plumbing & Heating"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable HVAC company in Boston, MA. Here are some top-rated options:\n\n1. **Boston Heating and Air Conditioning**: A family-owned business with over 20 years of experience, offering heating, cooling, and plumbing services. (4.9/5 stars on Google, [phone removed])\n2. **Emergency HVAC Services**: A 24/7 emergency HVAC company with a team of expert technicians, providing fast and reliable services. (4.8/5 stars on Google, [phone removed])\n3. **All Pro Heat and Air**: A fully licensed and insured HVAC company offering heating, cooling, and indoor air quality solutions. (4.8/5 stars on Google, [phone removed])\n4. **Boston's Best HVAC**: A locally-owned company with a reputa",
+      "named_here": [
+        "Boston Heating and Air Conditioning",
+        "Emergency HVAC Services",
+        "All Pro Heat and Air",
+        "Boston's Best HVAC"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Boston! I'd be happy to provide you with some recommendations for HVAC companies in Boston, MA. Keep in mind that I'm a large language model, I don't have personal experiences or direct relationships with specific companies, but I can give you a list of reputable companies that are well-rated by customers and experts. Here are a few options:\n\n1.  **Len The Plumber**: A locally-owned and operated company with a 4.9-star rating on Yelp and a long history of excellent service. They offer a wide range of HVAC services, including installation, repair, and maintenance.\n2.  **John C. Flood**: A well-established company with over 100 years of experience, offering HVAC services, plumbing, and electri",
+      "named_here": [
+        "Len The Plumber",
+        "John C. Flood"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Boston, MA has numerous HVAC companies to choose from. Here are some of the most trusted options based on customer reviews and ratings:\n\n1. **New England HVAC Services**: With over 20 years of experience, they offer heating, cooling, and plumbing services. (4.9/5 stars on Google)\n2. **Boston Standard Plumbing & Heating**: A family-owned business since 1978, providing HVAC, plumbing, and heating services. (4.8/5 stars on Google)\n3. **Cooling Unlimited, Inc.**: Specializing in air conditioning, heating, and indoor air quality solutions. (4.8/5 stars on Google)\n4. **Greater Boston Heating and Air Conditioning**: Offering heating, cooling, and HVAC services, including maintenance and repairs. (4",
+      "named_here": [
+        "New England HVAC Services",
+        "Boston Standard Plumbing & Heating",
+        "Cooling Unlimited, Inc",
+        "Greater Boston Heating and Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Most Trusted HVAC Companies in Boston, MA \n\nWhen searching for a reliable HVAC company in Boston, MA, it's essential to consider factors such as reputation, experience, and customer reviews. Based on online reviews and ratings, here are some of the most trusted HVAC companies in Boston:\n\n### Top-Rated HVAC Companies \n\n1. **Boston Heating and Cooling**: With a 4.9-star rating on Google and 4.8-star rating on HomeAdvisor, Boston Heating and Cooling is a highly trusted option. They offer a wide range of services, including heating, cooling, and plumbing, and have been in business for over 20 years.\n2. **Emergency HVAC Services**: This company has a 4.8-star rating on Google and 4.9-star rati",
+      "named_here": [
+        "Boston Heating and Cooling",
+        "Emergency HVAC Services"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted HVAC companies in Boston, MA, based on online reviews, ratings, and reputation:\n\n1.  **Boston Standard Heating and Air Conditioning**: Boston Standard has been serving the Boston area for over 20 years and has an A+ rating with the Better Business Bureau (BBB) and a 4.9-star rating on Google.\n2.  **Emergency Heating and Cooling**: With over 30 years of experience, Emergency Heating and Cooling offers 24/7 emergency service and has an A+ rating with the BBB and a 4.8-star rating on Google.\n3.  **Liberty Mechanical Services**: Liberty Mechanical Services has been serving the Boston area for over 20 years and has an A+ rating with the BBB and a 4.8-star rating ",
+      "named_here": [
+        "Boston Standard Heating and Air Conditioning",
+        "Emergency Heating and Cooling",
+        "Liberty Mechanical Services"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the top-rated HVAC companies in Boston, MA:\n\n1. **New England HVAC Services**: 4.9/5 stars on Google, known for their prompt and professional service.\n2. **Boston Standard Plumbing & Heating**: 4.8/5 stars on Google, offering a wide range of HVAC services, including installation, repair, and maintenance.\n3. **Cooling Unlimited, Inc.**: 4.8/5 stars on Google, specializing in air conditioning and heating systems, with a focus on energy efficiency.\n4. **Alvin Hollis**: 4.7/5 stars on Google, a family-owned business providing HVAC services, including installation, repair, and maintenance, for over 30 years.\n5. **McMahon Plumbing & Heating**: ",
+      "named_here": [
+        "New England HVAC Services",
+        "Boston Standard Plumbing & Heating",
+        "Cooling Unlimited, Inc",
+        "Alvin Hollis",
+        "McMahon Plumbing & Heating"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Boston, MA\n\nTo determine the best HVAC companies in Boston, MA, we considered factors such as customer reviews, ratings, licenses, and certifications. Here are some top-rated HVAC companies in Boston, MA:\n\n### Companies with a Strong Reputation\n\n1. **Boston Heating and Air Conditioning**: With a 4.9-star rating on Google and 4.8-star rating on HomeAdvisor, this company is known for its excellent customer service and reliable HVAC services.\n2. **Emergency HVAC Services**: This 24/7 emergency HVAC service has a 4.8-star rating on Google and 4.9-star rating on HomeAdvisor, making it a trusted choice for urgent HVAC needs.\n3. **All Pro Heat and Air**: With a 4.8-st",
+      "named_here": [
+        "Boston Heating and Air Conditioning",
+        "Emergency HVAC Services",
+        "All Pro Heat and Air"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some HVAC companies in Boston, MA with a good reputation based on online reviews and ratings:\n\n1. **Len The Plumber**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews. Known for their 24/7 emergency service and wide range of HVAC services.\n2. **Comfort Systems of Boston**: 4.8/5 stars on Google Reviews, 4.7/5 stars on Yelp. Offers residential and commercial HVAC services, including installation, repair, and maintenance.\n3. **Aire Serv of Boston**: 4.8/5 stars on Google Reviews, 4.7/5 stars on Yelp. Provides HVAC services, including installation, repair, and maintenance, with a focus on energy efficiency.\n4. **Service Experts Heating & Air Conditioning**: 4.7/5 stars on Google Rev",
+      "named_here": [
+        "Len The Plumber",
+        "Comfort Systems of Boston",
+        "Aire Serv of Boston",
+        "Service Experts Heating & Air Conditioning"
+      ]
+    }
+  ]
+}

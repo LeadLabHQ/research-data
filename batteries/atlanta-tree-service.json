@@ -1,0 +1,135 @@
+{
+  "trade": "tree-service",
+  "market": "Atlanta, GA",
+  "run_date": "2026-10-15T20:16:38.656Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best tree service companies in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated tree service companies in Atlanta, GA, based on customer reviews and ratings:\n\n1. **Arbor-Nomics Tree Care**: With over 40 years of experience, Arbor-Nomics offers a wide range of services, including tree pruning, removal, and planting.\n2. **TreeRemoval.com**: This company has been serving the Atlanta area for over 20 years, providing services like tree removal, stump grinding, and debris removal.\n3. **Atlanta Tree Service**: This locally owned company offers tree pruning, removal, and stump grinding, as well as emergency tree services.\n4. **Monster Tree Service of Atlanta**: With a team of certified arborists, Monster Tree Service provides tree removal, pruning, and ",
+      "named_here": [
+        "Arbor-Nomics Tree Care",
+        "TreeRemoval.com",
+        "Atlanta Tree Service",
+        "Monster Tree Service of Atlanta"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated tree service companies in Atlanta, GA, based on online reviews, ratings, and certifications:\n\n1. **Davey Tree Expert Company**: With over 140 years of experience, Davey Tree is a well-established and reputable company with a strong presence in Atlanta. They offer a wide range of tree services, including tree removal, pruning, and planting.\n2. **TreeCare Atlanta**: This company has an excellent reputation, with a 4.9-star rating on Google and a certification from the International Society of Arboriculture (ISA). They provide services like tree removal, stump grinding, and tree care.\n3. **Atlanta Tree Care**: With over 20 years of experience, Atlanta Tree Care is a trus",
+      "named_here": [
+        "Davey Tree Expert Company",
+        "TreeCare Atlanta",
+        "Atlanta Tree Care"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated tree service companies in Atlanta, GA, based on online reviews and ratings:\n\n1. **McCurry Tree Service**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews. They offer tree removal, pruning, stump grinding, and more.\n2. **Atlanta Tree Services**: 4.8/5 stars on Google Reviews, 4.7/5 stars on Yelp. They provide tree removal, pruning, trimming, and stump grinding services.\n3. **TLC Tree Service**: 4.9/5 stars on Google Reviews, 4.8/5 stars on Yelp. They offer tree removal, pruning, stump grinding, and emergency tree services.\n4. **Greenwood Tree Service**: 4.8/5 stars on Google Reviews, 4.7/5 stars on Yelp. They provide tree removal, pruning, stump grinding, and",
+      "named_here": [
+        "McCurry Tree Service",
+        "Atlanta Tree Services",
+        "TLC Tree Service",
+        "Greenwood Tree Service"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good tree service company in Atlanta, GA. However, I don't have real-time access to specific companies or their current ratings. That being said, here are a few steps you can take to find a reliable tree service company in Atlanta:\n\n1. **Check online reviews**: Look up tree service companies in Atlanta on review websites such as Google, Yelp, or Angie's List. Pay attention to the overall rating and read the comments to get an idea of the company's strengths and weaknesses.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently used a tree service company for recommendations. They can provide valuable insights in",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reputable tree service companies in Atlanta, GA. Here are a few recommendations:\n\n1. **Trees Atlanta**: A non-profit organization that provides tree care services, including pruning, removal, and planting. They also offer educational programs and community outreach. [phone removed]\n2. **Atlanta Tree Care**: A certified arborist-led company that provides comprehensive tree services, including pruning, removal, and stump grinding. [phone removed]\n3. **Davey Tree Expert Company**: A well-established company with a team of certified arborists who provide tree care services, including pruning, removal, and plant health care. [phone removed]\n4. **SavATree**: A professional tree care co",
+      "named_here": [
+        "Trees Atlanta",
+        "Atlanta Tree Care",
+        "Davey Tree Expert Company",
+        "SavATree"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can't recommend a specific tree service company, but I can provide you with some options for finding a reputable one in Atlanta, GA. Would that help?",
+      "named_here": []
+    },
+    {
+      "prompt": "I need a tree service company in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted tree service companies in Atlanta, GA, based on online reviews and ratings:\n\n1. **Arbor-Nomics Tree Care**: With over 40 years of experience, Arbor-Nomics is a highly-rated company that offers tree pruning, removal, and planting services. (4.9/5 stars on Google)\n2. **Tree Care Enterprises**: This company has been serving the Atlanta area for over 30 years and provides a range of services, including tree removal, pruning, and stump grinding. (4.8/5 stars on Google)\n3. **North American Tree Service**: With a team of certified arborists, North American Tree Service offers tree removal, pruning, and planting services, as well as emergency tree care. (4.8/5 stars",
+      "named_here": [
+        "Arbor-Nomics Tree Care",
+        "Tree Care Enterprises",
+        "North American Tree Service"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "When it comes to tree services, it's essential to choose a trusted and reliable company to ensure the health and safety of your trees and property. Here are some of the most trusted tree service companies in Atlanta, GA, based on online reviews, ratings, and industry certifications:\n\n### Top-Rated Tree Service Companies in Atlanta, GA\n\n1. **Trees Atlanta**: A non-profit organization with over 30 years of experience, offering tree care services, including pruning, removal, and planting. They have an excellent reputation, with a 4.9-star rating on Google and a 5-star rating on Facebook.\n\t* Certified arborists on staff: Yes\n\t* Insurance and licenses: Yes\n\t* Services offered: Tree pruning, remov",
+      "named_here": [
+        "Trees Atlanta",
+        "Certified arborists on staff",
+        "Insurance and licenses",
+        "Services offered"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted tree service companies in Atlanta, GA:\n\n1. **Davey Tree Expert Company**: Davey is a well-established and reputable company with over 130 years of experience. They offer a wide range of tree services, including pruning, removal, and planting.\n2. **Arborists Unlimited**: This company has been serving Atlanta for over 20 years and is certified by the International Society of Arboriculture (ISA). They offer tree pruning, removal, and care services.\n3. **All About Trees**: This family-owned business has been serving the Atlanta area for over 25 years. They offer tree pruning, removal, and planting, as well as stump removal and tree health care services.\n4. **Atl",
+      "named_here": [
+        "Davey Tree Expert Company",
+        "Arborists Unlimited",
+        "All About Trees",
+        "Atl"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some tree service companies in Atlanta, GA with good reputations based on online reviews and ratings:\n\n1. **Arbor-Nomics Tree Service**: With a 4.9-star rating on Google and an A+ rating with the Better Business Bureau (BBB), Arbor-Nomics is a highly recommended tree service company in Atlanta.\n2. **Tree Masters**: Tree Masters has a 4.8-star rating on Google and is accredited by the BBB with an A+ rating. They offer a range of tree services, including pruning, removal, and stump grinding.\n3. **Yellow Ribbon Tree Experts**: With a 4.8-star rating on Google and an A+ rating with the BBB, Yellow Ribbon Tree Experts is a trusted tree service company in Atlanta. They offer tree removal,",
+      "named_here": [
+        "Arbor-Nomics Tree Service",
+        "Tree Masters",
+        "Yellow Ribbon Tree Experts"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Tree Service Companies in Atlanta, GA\n\nBased on online reviews and ratings, here are some of the top-rated tree service companies in Atlanta, GA:\n\n### Companies with a Strong Reputation\n\n1. **Trees & Shrubs Inc.** (4.9/5 on Google, 4.8/5 on Yelp) - Licensed, insured, and certified arborists providing tree removal, trimming, pruning, and planting services.\n2. **Atlanta Tree Care** (4.8/5 on Google, 4.7/5 on Yelp) - A fully insured and bonded company offering tree removal, pruning, stump grinding, and emergency storm response services.\n3. **Tree Masters** (4.8/5 on Google, 4.7/5 on Yelp) - A family-owned business providing tree care services, including tree removal, pruning, and s",
+      "named_here": [
+        "Trees & Shrubs Inc",
+        "Atlanta Tree Care",
+        "Tree Masters"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some well-established and reputable tree service companies in Atlanta, GA, based on online reviews and ratings:\n\n1. **Champion Tree Services, Inc.**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Family-owned and operated since 1984, serving Atlanta and surrounding areas.\n2. **Atlanta Tree Care**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* Offers a wide range of tree services, including pruning, removal, and stump grinding.\n3. **Trees Atlanta**: 4.7/5 stars on Google, 4.5/5 stars on Yelp\n\t* A non-profit organization that also offers tree care services, with a focus on tree health and sustainability.\n4. **Branching Out Tree Care**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Fam",
+      "named_here": [
+        "Champion Tree Services, Inc",
+        "Atlanta Tree Care",
+        "Trees Atlanta",
+        "Branching Out Tree Care",
+        "Fam"
+      ]
+    }
+  ]
+}

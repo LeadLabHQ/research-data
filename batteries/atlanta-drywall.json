@@ -1,0 +1,161 @@
+{
+  "trade": "drywall",
+  "market": "Atlanta, GA",
+  "run_date": "2026-10-15T20:13:35.116Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated drywall contractors in Atlanta, GA, based on online reviews and ratings:\n\n1. **Atlanta Drywall Repair** (4.9/5 on Google) - Offers drywall installation, repair, and finishing services.\n2. **Drywall Solutions** (4.8/5 on Google) - Provides drywall installation, repair, and texturing services for residential and commercial projects.\n3. **ProDrywall** (4.8/5 on Google) - Specializes in drywall installation, finishing, and repair services for new construction and renovation projects.\n4. **Atlanta Drywall Services** (4.7/5 on Google) - Offers drywall installation, repair, and painting services for residential and commercial clients.\n5. **Drywall Masters** (4.7/5 on Google)",
+      "named_here": [
+        "Atlanta Drywall Repair",
+        "Drywall Solutions",
+        "ProDrywall",
+        "Atlanta Drywall Services",
+        "Drywall Masters"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in Atlanta, GA, based on online reviews and ratings:\n\n1. **Drywall Atlanta** (4.9/5 on Google, 4.8/5 on Facebook) - Offers drywall installation, repair, and finishing services.\n2. **Atlanta Drywall Pros** (4.8/5 on Google, 4.7/5 on HomeAdvisor) - Provides drywall installation, texture, and finishing services for residential and commercial projects.\n3. **Drywall Masters** (4.8/5 on Google, 4.7/5 on Facebook) - Offers drywall installation, repair, and finishing services, including popcorn ceiling removal.\n4. **GA Drywall Solutions** (4.7/5 on Google, 4.6/5 on HomeAdvisor) - Provides drywall installation, repair, and finishing services for residential",
+      "named_here": [
+        "Drywall Atlanta",
+        "Atlanta Drywall Pros",
+        "Drywall Masters",
+        "GA Drywall Solutions"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Finding the best drywall contractors in Atlanta, GA can be a daunting task, but I've compiled a list of top-rated drywall contractors in the area based on online reviews and ratings. Please note that it's always a good idea to research and verify the qualifications and licenses of any contractor before hiring them. Here are some top drywall contractors in Atlanta, GA:\n\n1. **Drywall Masters**: 4.9/5 stars on Angie's List, 4.8/5 stars on Google Reviews. They offer a wide range of drywall services, including installation, repair, and finishing.\n2. **Precision Drywall**: 4.9/5 stars on Angie's List, 4.8/5 stars on Google Reviews. They specialize in drywall installation, repair, and texturing ser",
+      "named_here": [
+        "Drywall Masters",
+        "Precision Drywall"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide general guidance on finding a reliable drywall contractor in Atlanta, GA. However, I don't have real-time access to specific contractors or their current availability. Here are some steps to help you find a good drywall contractor:\n\n1. **Online Search**: Use search engines like Google to look for drywall contractors in Atlanta, GA. You can use keywords like \"drywall contractors Atlanta,\" \"drywall repair Atlanta,\" or \"drywall installation Atlanta.\"\n2. **Review Websites**: Check review websites like Yelp, Angie's List, or HomeAdvisor to find contractors with good ratings and reviews. Pay attention to the overall rating, number of reviews, and comments from previous customers.\n3. ",
+      "named_here": [
+        "Online Search",
+        "Review Websites"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable drywall contractor in Atlanta, GA! However, I'm a large language model, I don't have have access to real-time information or personal experiences, so I can't provide a specific recommendation. But I can suggest some options to help you find a good drywall contractor:\n\n1. **Online Directories**:\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n\t* Yelp (yelp.com)\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors who have recently done a drywall project for recommendations.\n\t* Check online reviews on social media platforms like Facebook or Nextdoor.\n3. **Professional Associations**:\n\t* National Drywa",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Professional Associations",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Yelp",
+        "National Drywa"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I can provide you with some suggestions on how to find a reliable drywall contractor in Atlanta, GA. I don't have personal recommendations or direct connections to specific contractors. But I can guide you through some options to consider:\n\n1.  **Online Directories**:\n    *   **Angie's List**: A paid service that provides reviews and ratings of local contractors, including drywall installers.\n    *   **HomeAdvisor**: Offers a comprehensive list of contractors, along with reviews and estimates.\n    *   **Thumbtack**: Allows you to post a project and receive bids from multiple contractors.\n\n2.  **Local Listings**:\n    *   **Better Business Bureau (BBB)**: Check the BBB website for acc",
+      "named_here": [
+        "Online Directories",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Local Listings",
+        "Better Business Bureau"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted drywall contractors in Atlanta, GA, based on online reviews and ratings:\n\n1. **Atlanta Drywall Repair** - 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor\n2. **Drywall Pros of Atlanta** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Atlanta Drywall Services** - 4.7/5 stars on Google, 4.6/5 stars on Angie's List\n4. **Drywall Solutions** - 4.7/5 stars on Google, 4.6/5 stars on HomeAdvisor\n5. **Integrity Drywall** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Atlanta Drywall Contractors** - 4.6/5 stars on Google, 4.5/5 stars on Angie's List\n7. **Drywall Repair Atlanta** - 4.5/5 stars on Google, 4.4/5 stars on HomeAdvisor\n8. **Pro Drywall** - 4.5/5 stars",
+      "named_here": [
+        "Atlanta Drywall Repair",
+        "Drywall Pros of Atlanta",
+        "Atlanta Drywall Services",
+        "Drywall Solutions",
+        "Integrity Drywall",
+        "Atlanta Drywall Contractors",
+        "Drywall Repair Atlanta",
+        "Pro Drywall"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in Atlanta, GA, based on online reviews and ratings:\n\n1. **Drywall Atlanta** (4.9/5 on Google, 4.8/5 on Facebook) - With over 20 years of experience, they offer drywall installation, repair, and finishing services.\n2. **Atlanta Drywall Pros** (4.8/5 on Google, 4.7/5 on Facebook) - This company provides residential and commercial drywall services, including installation, repair, and texture coating.\n3. **Drywall Masters** (4.8/5 on Google, 4.7/5 on Facebook) - With a team of experienced professionals, they offer drywall installation, repair, and finishing services, as well as popcorn ceiling removal.\n4. **GA Drywall Repair** (4.7/5 on Goog",
+      "named_here": [
+        "Drywall Atlanta",
+        "Atlanta Drywall Pros",
+        "Drywall Masters",
+        "GA Drywall Repair"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted drywall contractors in Atlanta, GA, based on online reviews and ratings:\n\n1.  **Atlanta Drywall Services**:\n    *   4.9-star rating on Google\n    *   4.9-star rating on Yelp\n    *   Experienced in residential and commercial projects\n2.  **Drywall Masters**:\n    *   4.8-star rating on Google\n    *   4.5-star rating on Yelp\n    *   Specializes in custom drywall installation and repair\n3.  **Georgia Drywall Company**:\n    *   4.7-star rating on Google\n    *   4.5-star rating on Yelp\n    *   Offers free estimates and competitive pricing\n4.  **Atlanta Drywall Repair**:\n    *   4.7-star rating on Google\n    *   4.5-star rating on Yelp\n    *   Expertise in drywall ",
+      "named_here": [
+        "Atlanta Drywall Services",
+        "Drywall Masters",
+        "Georgia Drywall Company",
+        "Atlanta Drywall Repair",
+        "4.9-star rating on Google",
+        "4.9-star rating on Yelp",
+        "Experienced in residential and commercial projects",
+        "4.8-star rating on Google",
+        "4.5-star rating on Yelp",
+        "4.7-star rating on Google",
+        "Offers free estimates and competitive pricing",
+        "Expertise in drywall"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some drywall contractors in Atlanta, GA, with a good reputation, based on online reviews and ratings:\n\n1. **Atlanta Drywall Repair** (4.9/5 on Google, 4.8/5 on HomeAdvisor) - Known for their quick response, quality work, and competitive pricing.\n2. **Drywall Specialist of Atlanta** (4.8/5 on Google, 4.7/5 on Yelp) - Offers a wide range of drywall services, including installation, repair, and finishing.\n3. **All Pro Drywall** (4.7/5 on Google, 4.6/5 on HomeAdvisor) - Provides drywall installation, repair, and texturing services for residential and commercial clients.\n4. **Atlanta Drywall Contractors** (4.7/5 on Google, 4.6/5 on Yelp) - Specializes in drywall installation, repair, and",
+      "named_here": [
+        "Atlanta Drywall Repair",
+        "Drywall Specialist of Atlanta",
+        "All Pro Drywall",
+        "Atlanta Drywall Contractors"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I've compiled a list of highly-rated drywall contractors in Atlanta, GA, based on online reviews and ratings. Keep in mind that reputation can change over time, and it's always a good idea to do your own research and get multiple quotes before hiring a contractor. Here are some top-rated drywall contractors in Atlanta, GA:\n\n1. **Drywall Atlanta** (4.9/5 on Google, 4.8/5 on Facebook) - [phone removed]\n2. **Atlanta Drywall Pros** (4.9/5 on Google, 4.8/5 on HomeAdvisor) - [phone removed]\n3. **Drywall Masters** (4.8/5 on Google, 4.7/5 on Facebook) - [phone removed]\n4. **Superior Drywall** (4.8/5 on Google, 4.7/5 on HomeAdvisor) - [phone removed]\n5. **Drywall Solutions Atlanta** (4.7/5 on Google, 4.7/5 on Fa",
+      "named_here": [
+        "Drywall Atlanta",
+        "Atlanta Drywall Pros",
+        "Drywall Masters",
+        "Superior Drywall",
+        "Drywall Solutions Atlanta"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have have direct access to real-time reviews or ratings. However, I can provide you with some top-rated drywall contractors in Atlanta, GA based on online reviews and ratings from various sources such as:\n\n1. **Angie's List**: A paid review website that rates contractors based on customer reviews.\n2. **HomeAdvisor**: A platform that connects homeowners with pre-screened contractors.\n3. **Thumbtack**: A platform that allows customers to find and compare contractors.\n4. **Yelp**: A review website that rates businesses based on customer reviews.\n\nHere are some top-rated drywall contractors in Atlanta, GA:\n\n**Angie's List Top-Rated Drywall Contr",
+      "named_here": [
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Yelp"
+      ]
+    }
+  ]
+}

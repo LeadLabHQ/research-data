@@ -1,0 +1,152 @@
+{
+  "trade": "drywall",
+  "market": "Chicago, IL",
+  "run_date": "2026-10-15T19:42:51.862Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated drywall contractors in Chicago, IL, based on online reviews and ratings:\n\n1. **Chicago Drywall Repair** (4.9/5) - Known for their quick response and high-quality work.\n2. **Drywall Masters** (4.8/5) - Offers a wide range of drywall services, including installation, repair, and finishing.\n3. **All American Drywall** (4.7/5) - Provides professional drywall services for residential and commercial projects.\n4. **Chicago Drywall Contractors** (4.7/5) - Specializes in drywall installation, repair, and texturing.\n5. **Drywall Pros** (4.6/5) - Offers competitive pricing and excellent customer service.\n6. **Illinois Drywall** (4.6/5) - Provides drywall services for new constru",
+      "named_here": [
+        "Chicago Drywall Repair",
+        "Drywall Masters",
+        "All American Drywall",
+        "Chicago Drywall Contractors",
+        "Drywall Pros",
+        "Illinois Drywall"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in Chicago, IL, based on online reviews and ratings:\n\n1. **Drywall Masters**: With a 4.9-star rating on Google and over 1,000 reviews, Drywall Masters is a highly-recommended drywall contractor in Chicago. They offer drywall installation, repair, and finishing services.\n2. **Chicago Drywall Pros**: This company has a 4.8-star rating on Google and offers a wide range of drywall services, including installation, repair, and texture coating.\n3. **All Drywall Chicago**: With a 4.7-star rating on Google, All Drywall Chicago is a trusted name in the industry. They provide drywall installation, repair, and finishing services for residential and commercial",
+      "named_here": [
+        "Drywall Masters",
+        "Chicago Drywall Pros",
+        "All Drywall Chicago"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated drywall contractors in Chicago, IL, based on online reviews and ratings:\n\n1. **Drywall Pros of Chicago** (4.9/5 stars on Google, 4.8/5 stars on Angie's List)\n\t* Address: 3333 W Diversey Ave, Chicago, IL 60647\n\t* Phone: [phone removed]\n2. **Chicago Drywall Services** (4.8/5 stars on Google, 4.7/5 stars on Angie's List)\n\t* Address: 6444 N Milwaukee Ave, Chicago, IL 60646\n\t* Phone: [phone removed]\n3. **Drywall Repair Pros** (4.8/5 stars on Google, 4.7/5 stars on Angie's List)\n\t* Address: 3645 W Peterson Ave, Chicago, IL 60659\n\t* Phone: [phone removed]\n4. **Chicago Drywall Repair** (4.7/5 stars on Google, 4.6/5 stars on Angie's List)\n\t* Address: 4444 N Western Ave, Chicago, ",
+      "named_here": [
+        "Drywall Pros of Chicago",
+        "Chicago Drywall Services",
+        "Drywall Repair Pros",
+        "Chicago Drywall Repair",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide general guidance on finding a good drywall contractor in Chicago, IL. However, I don't have real-time access to specific contractors or their current availability. Here are some steps you can take to find a reliable drywall contractor:\n\n1. **Online Search**: Use search engines like Google to look for drywall contractors in Chicago. You can use keywords like \"drywall contractors Chicago,\" \"drywall repair Chicago,\" or \"drywall installation Chicago\" to find relevant results.\n2. **Check Review Websites**: Websites like Yelp, Angie's List, and HomeAdvisor can provide reviews and ratings of drywall contractors in Chicago. Look for contractors with high ratings and positive reviews.\n3",
+      "named_here": [
+        "Online Search",
+        "Check Review Websites"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable drywall contractor in Chicago, IL! However, I'm a large language model, I don't have have access to real-time information or specific recommendations. But I can suggest some options to help you find a good drywall contractor:\n\n1. **Online Directories**:\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n\t* Yelp (yelp.com)\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors who have recently done drywall work for recommendations.\n\t* Check online reviews on sites like Google, Facebook, or Nextdoor.\n3. **Professional Associations**:\n\t* National Drywall & Interior Systems Contractors Association (NDI) (nd",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Professional Associations",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Yelp"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can't provide specific recommendations, but I can offer some suggestions on how to find a reliable drywall contractor in Chicago, IL. Would that help?",
+      "named_here": []
+    },
+    {
+      "prompt": "I need a drywall contractor in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted drywall contractors in Chicago, IL, based on online reviews and ratings:\n\n1. **Chicago Drywall Repair** (4.9/5 on Google, 4.8/5 on Yelp) - Offers drywall installation, repair, and finishing services.\n2. **Drywall Solutions Inc.** (4.8/5 on Google, 4.7/5 on Yelp) - Provides drywall installation, repair, and texturing services for residential and commercial projects.\n3. **All Drywall Services** (4.7/5 on Google, 4.6/5 on Yelp) - Offers drywall installation, repair, and finishing services, including popcorn ceiling removal.\n4. **Chicago Drywall Contractors** (4.7/5 on Google, 4.5/5 on Yelp) - Provides drywall installation, repair, and finishing services for res",
+      "named_here": [
+        "Chicago Drywall Repair",
+        "Drywall Solutions Inc",
+        "All Drywall Services",
+        "Chicago Drywall Contractors"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in Chicago, IL:\n\n1. **Drywall Masters**: With over 20 years of experience, Drywall Masters is a highly-rated contractor with a 4.9-star rating on Google and a reputation for excellent customer service.\n2. **Chicago Drywall Pros**: This company has a 4.8-star rating on Google and offers a wide range of drywall services, including installation, repair, and finishing.\n3. **All Drywall Chicago**: With a 4.7-star rating on Google, All Drywall Chicago is a trusted option for drywall installation, repair, and remodeling services.\n4. **Drywall Chicago**: This company has a 4.7-star rating on Google and offers competitive pricing and fast turnarou",
+      "named_here": [
+        "Drywall Masters",
+        "Chicago Drywall Pros",
+        "All Drywall Chicago",
+        "Drywall Chicago"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted drywall contractors in Chicago, IL, based on online reviews and ratings:\n\n1.  **Sears Drywall Repair** (4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews)\n\t* Address: 4930 S Cicero Ave, Cicero, IL 60804\n\t* Phone: [phone removed]\n2.  **Drywall Pros** (4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews)\n\t* Address: 1441 W 47th St, Chicago, IL 60609\n\t* Phone: [phone removed]\n3.  **Drywall Repair Chicago** (4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews)\n\t* Address: 12345 S Pulaski Rd, Chicago, IL 60638\n\t* Phone: [phone removed]\n4.  **Drywall Masters** (4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews)\n\t* Address: 2931 W Peterson Ave, Chicago, IL 60659\n\t* Ph",
+      "named_here": [
+        "Sears Drywall Repair",
+        "Drywall Pros",
+        "Drywall Repair Chicago",
+        "Drywall Masters",
+        "Address",
+        "Phone",
+        "Ph"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some drywall contractors in Chicago, IL with a good reputation:\n\n1. **Chicago Drywall Repair** (4.9/5 on Google) - Known for their quick response times and high-quality work.\n2. **Drywall Masters** (4.8/5 on Google) - Offers a wide range of drywall services, including installation, repair, and finishing.\n3. **All Drywall Services** (4.7/5 on Google) - Provides drywall installation, repair, and texturing services for residential and commercial clients.\n4. **Chicago Drywall Contractors** (4.7/5 on Google) - Offers drywall installation, repair, and finishing services, as well as acoustic ceiling installation.\n5. **Drywall Solutions** (4.6/5 on Googl",
+      "named_here": [
+        "Chicago Drywall Repair",
+        "Drywall Masters",
+        "All Drywall Services",
+        "Chicago Drywall Contractors",
+        "Drywall Solutions"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Drywall Contractors in Chicago, IL\n\nBased on online reviews and ratings, here are some top-rated drywall contractors in Chicago, IL:\n\n### Contractors with a Strong Reputation\n\n1. **Drywall Masters** (4.9/5 on Google, 4.8/5 on HomeAdvisor)\n\t* Address: 1450 W 76th St, Chicago, IL 60652\n\t* Phone: [phone removed]\n\t* Services: Drywall installation, repair, finishing, and texturing\n2. **Chicago Drywall Pros** (4.8/5 on Google, 4.7/5 on HomeAdvisor)\n\t* Address: 3333 W Roosevelt Rd, Chicago, IL 60609\n\t* Phone: [phone removed]\n\t* Services: Drywall installation, repair, finishing, and painting\n3. **All Drywall Chicago** (4.8/5 on Google, 4.7/5 on HomeAdvisor)\n\t* Address: 1945 W 44th St, Chi",
+      "named_here": [
+        "Drywall Masters",
+        "Chicago Drywall Pros",
+        "All Drywall Chicago",
+        "Address",
+        "Phone",
+        "Services"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some drywall contractors in Chicago, IL with a good reputation based on online reviews and ratings:\n\n**Please note that this is not an exhaustive list, and it's always a good idea to research and verify a contractor's reputation before hiring them.**\n\n1. **Drywall Repair Pros** (4.9/5 on Google, 5/5 on Facebook)\n\t* Address: 1755 W Roscoe St, Chicago, IL 60622\n\t* Phone: [phone removed]\n2. **Chicago Drywall Services** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Address: 2445 W Argyle St, Chicago, IL 60625\n\t* Phone: [phone removed]\n3. **ABC Drywall** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Address: 4344 N Milwaukee Ave, Chicago, IL 60641\n\t* Phone: [phone removed]\n4. **Drywall Pros of Chicago** (4.8/5",
+      "named_here": [
+        "Chicago Drywall Services",
+        "ABC Drywall",
+        "Drywall Pros of Chicago",
+        "Drywall Repair Pros",
+        "Address",
+        "Phone"
+      ]
+    }
+  ]
+}

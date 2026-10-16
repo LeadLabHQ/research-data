@@ -1,0 +1,144 @@
+{
+  "trade": "plumbing",
+  "market": "Boston, MA",
+  "run_date": "2026-10-15T20:49:12.699Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best plumbing companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Boston, MA, has numerous reputable plumbing companies. Here are some top names that are highly recommended:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: A well-established and trusted company with a wide range of services, including emergency plumbing, drain cleaning, and water damage restoration.\n2. **Boston Plumbing and Heating**: A family-owned business with over 20 years of experience, offering services such as plumbing repairs, installations, and maintenance, as well as heating system services.\n3. **Winters Home Services**: A full-service plumbing company providing emergency plumbing, drain cleaning, and water heater installations, with a focus on customer satisfaction and competitive ",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Boston Plumbing and Heating",
+        "Winters Home Services"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated plumbing companies in Boston, MA, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and reputable plumbing company with multiple locations in the Boston area. (4.9/5 stars on Google)\n2. **Boston Water & Sewer**: As a local, family-owned business, Boston Water & Sewer has been serving the community for over 20 years, offering a wide range of plumbing services. (4.8/5 stars on Google)\n3. **Emergency Plumbing Repairs**: This 24/7 emergency plumbing service has received excellent reviews for their prompt and reliable service. (4.9/5 stars on Google)\n4. **All Pro Plu",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Boston Water & Sewer",
+        "Emergency Plumbing Repairs",
+        "All Pro Plu"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in Boston, MA, based on online reviews and ratings:\n\n1.  **Mr. Rooter Plumbing of Boston**: With a 4.9-star rating on Google and a 4.8-star rating on Yelp, Mr. Rooter Plumbing is a highly-recommended option. They offer 24/7 emergency services and a wide range of plumbing services, including drain cleaning, water heater installation, and pipe repair.\n2.  **Boston Plumbers**: Boston Plumbers has a 4.8-star rating on Google and a 4.7-star rating on Yelp. They offer a wide range of services, including emergency plumbing, drain cleaning, and water heater installation.\n3.  **Allied Plumbing**: With a 4.8-star rating on Google and a 4.7-star rating ",
+      "named_here": [
+        "Mr. Rooter Plumbing of Boston",
+        "Boston Plumbers",
+        "Allied Plumbing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good plumber in Boston, MA. However, I don't have real-time access to specific plumbers or their current availability. Here are a few options to consider:\n\n1. **Online Directories**:\n\t* Angie's List: A paid subscription-based service that provides reviews and ratings of local plumbers.\n\t* Yelp: A free review platform where you can search for plumbers in Boston and read reviews from other customers.\n\t* HomeAdvisor: A website that allows you to search for plumbers and read reviews, as well as get estimates for projects.\n2. **Professional Associations**:\n\t* Plumbing-Heating-Cooling Contractors Association (PHCC) of Massachusetts: A t",
+      "named_here": [
+        "Online Directories",
+        "Professional Associations",
+        "Angie's List",
+        "Yelp",
+        "HomeAdvisor",
+        "Plumbing-Heating-Cooling Contractors Association"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable plumbers in Boston, MA, and the best one for you will depend on your specific needs and preferences. Here are a few options to consider:\n\n1. **Roto-Rooter**: Roto-Rooter is a well-established and reputable plumbing company with multiple locations in the Boston area. They offer 24/7 emergency services, and their plumbers are licensed and insured. You can call them at [phone removed].\n2. **Boston Water & Sewer**: Boston Water & Sewer is a local, family-owned plumbing company that has been serving Boston and surrounding areas for over 20 years. They offer a wide range of plumbing services, including drain cleaning, water heater installation, and bathroom remodeling. You c",
+      "named_here": [
+        "Roto-Rooter",
+        "Boston Water & Sewer"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have direct access to real-time information about specific plumbers in Boston, MA. But I can suggest a few options to help you find a reliable and trustworthy plumber in Boston:\n\n1. **Check Online Directories**:\n\t* Angie's List: A paid review platform that allows you to search for plumbers in Boston and read reviews from other customers.\n\t* HomeAdvisor: A directory that connects homeowners with pre-screened plumbers in Boston.\n\t* Yelp: A popular review website that allows you to search for plumbers in Boston and read reviews from other customers.\n2. **Professional Associations**:\n\t* Boston Society of Master Plumbers (BSMP): A professional organiza",
+      "named_here": [
+        "Check Online Directories",
+        "Professional Associations",
+        "Angie's List",
+        "HomeAdvisor",
+        "Yelp",
+        "Boston Society of Master Plumbers"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Boston has plenty of reliable plumbers to choose from. Here are some of the most trusted options:\n\n1. **Roto-Rooter**: A well-known national chain with a local presence in Boston. They offer 24/7 emergency services and a wide range of plumbing solutions.\n2. **Boston Standard Plumbing**: A family-owned business with over 40 years of experience serving the Boston area. They provide residential and commercial plumbing services.\n3. **P.J. Murphy Plumbing**: A trusted, locally owned plumbing company with over 30 years of experience. They offer a variety of services, including drain cleaning and water heater installation.\n4. **Winters Home Services**: A full-service plumbing, heating, and cooling ",
+      "named_here": [
+        "Roto-Rooter",
+        "Boston Standard Plumbing",
+        "P.J. Murphy Plumbing",
+        "Winters Home Services"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted plumbing options in Boston, MA:\n\n1. **Roto-Rooter**: With over 80 years of experience, Roto-Rooter is a well-established and reputable plumbing company with multiple locations in the Boston area. They offer 24/7 emergency services and a wide range of plumbing solutions.\n2. **Mr. Rooter**: Another well-known plumbing company with a strong presence in Boston, Mr. Rooter offers a variety of services, including drain cleaning, pipe repair, and water heater installation. They also have a 24/7 emergency service hotline.\n3. **Boston Waterworks**: As a locally-owned and operated company, Boston Waterworks has built a reputation for providing reliable and efficient p",
+      "named_here": [
+        "Roto-Rooter",
+        "Mr. Rooter",
+        "Boston Waterworks"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted and well-reviewed plumbers in Boston, MA:\n\n1. **Mr. Rooter Plumbing of Boston**: With over 20 years of experience, Mr. Rooter is a trusted name in the Boston plumbing industry. They offer 24/7 emergency service and a wide range of plumbing services, including drain cleaning, water heater installation, and leak detection.\n\t* Address: 1375 Boylston St, Boston, MA 02215\n\t* Phone: [phone removed]\n2. **Boston Plumbing and Drain**: This family-owned business has been serving the Boston area for over 30 years. They offer a wide range of plumbing services, including emergency repairs, drain cleaning, and water heater installation.\n\t* Address: 1415 Commonwealth Ave, B",
+      "named_here": [
+        "Mr. Rooter Plumbing of Boston",
+        "Boston Plumbing and Drain",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the top-rated plumbing companies in Boston, MA:\n\n1. **Roto-Rooter Plumbing & Water Cleanup** - With an average rating of 4.5/5 stars on Google and 4.5/5 stars on Yelp, Roto-Rooter is a well-established and reputable plumbing company in Boston.\n2. **Boston Plumbing and Heating** - This company has an average rating of 4.8/5 stars on Google and 4.5/5 stars on Yelp, with customers praising their prompt and professional service.\n3. **Winters Home Services** - With an average rating of 4.9/5 stars on Google and 4.5/5 stars on Yelp, Winters Home Services is a highly-rated plumbing company that offers a range of services, including emergency plu",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Boston Plumbing and Heating",
+        "Winters Home Services"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Plumbing Companies in Boston, MA \n\nBased on online reviews and ratings, here are some of the top-rated plumbing companies in Boston, MA:\n\n### Companies with a Strong Reputation \n\n1. **Roto-Rooter Plumbing & Water Cleanup** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* Address: 150 State St, Boston, MA 02109\n\t* Phone: [phone removed]\n2. **Mr. Rooter Plumbing of Boston** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* Address: 200 Stuart St, Boston, MA 02116\n\t* Phone: [phone removed]\n3. **Boston Water & Drain** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Address: 545 Congress St, Boston, MA 02210\n\t* Phone: [phone removed]\n4. **All Pro Plumbing, Heating & Air** - 4.7/5 stars on ",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Boston",
+        "Boston Water & Drain",
+        "All Pro Plumbing, Heating & Air",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in Boston, MA, based on online reviews and ratings from sources like Yelp, Angie's List, and the Better Business Bureau:\n\n1. **Mr. Rooter Plumbing of Boston**: 4.9/5 stars on Yelp, 4.5/5 stars on Angie's List. They have been serving the Boston area for over 20 years and offer 24/7 emergency plumbing services.\n2. **Boston Plumbing Company**: 4.8/5 stars on Yelp, 4.5/5 stars on Angie's List. They have been in business for over 40 years and offer a wide range of plumbing services, including drain cleaning, water heater installation, and more.\n3. **All Service Plumbing**: 4.8/5 stars on Yelp, 4.5/5 stars on Angie's List. They have been serving th",
+      "named_here": [
+        "Mr. Rooter Plumbing of Boston",
+        "Boston Plumbing Company",
+        "All Service Plumbing"
+      ]
+    }
+  ]
+}

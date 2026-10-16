@@ -1,0 +1,147 @@
+{
+  "trade": "drywall",
+  "market": "Boston, MA",
+  "run_date": "2026-10-15T20:55:15.418Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top-rated drywall contractors in Boston, MA, based on online reviews and ratings:\n\n1. **Boston Drywall Services** (4.9/5) - Known for their high-quality work and competitive pricing.\n2. **New England Drywall** (4.8/5) - Offers a wide range of drywall services, including installation, repair, and finishing.\n3. **Drywall Masters** (4.7/5) - Specializes in drywall installation, repair, and texturing, with a focus on customer satisfaction.\n4. **Boston Construction Services** (4.7/5) - Provides drywall services, including installation, repair, and finishing, as part of their comprehensive construction services.\n5. **Drywall Pros** (4.6/5) - Offers drywall installation, repair",
+      "named_here": [
+        "Boston Drywall Services",
+        "New England Drywall",
+        "Drywall Masters",
+        "Boston Construction Services",
+        "Drywall Pros"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in Boston, MA, based on online reviews and ratings:\n\n1. **Boston Drywall Pros** (4.9/5 on Google, 4.8/5 on HomeAdvisor) - Known for their professionalism and high-quality work.\n2. **Drywall Boston** (4.8/5 on Google, 4.7/5 on Yelp) - Offers a wide range of drywall services, including installation, repair, and finishing.\n3. **All Drywall Boston** (4.8/5 on Google, 4.7/5 on HomeAdvisor) - Provides fast and reliable drywall services, with a focus on customer satisfaction.\n4. **Boston Drywall Repair** (4.7/5 on Google, 4.6/5 on Yelp) - Specializes in drywall repair and installation, with a team of experienced professionals.\n5. **Drywall Masters** (4.7/",
+      "named_here": [
+        "Boston Drywall Pros",
+        "Drywall Boston",
+        "All Drywall Boston",
+        "Boston Drywall Repair",
+        "Drywall Masters"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated drywall contractors in Boston, MA, based on online reviews and ratings:\n\n1.  **Boston Drywall & Painting**: With over 20 years of experience, Boston Drywall & Painting offers a wide range of drywall services, including installation, repair, and finishing.\n2.  **Drywall Unlimited**: This company has been serving the Boston area for over 15 years and provides drywall installation, finishing, and repair services.\n3.  **New England Drywall**: With over 25 years of experience, New England Drywall offers drywall installation, repair, and finishing services, as well as custom framing and carpentry.\n4.  **Boston Drywall Services**: This company provides drywall install",
+      "named_here": [
+        "Boston Drywall & Painting",
+        "Drywall Unlimited",
+        "New England Drywall",
+        "Boston Drywall Services"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide general guidance on finding a good drywall contractor in Boston, MA. However, I don't have real-time access to specific contractors or their current availability. Here are some steps you can take to find a reliable drywall contractor:\n\n1. **Online Search**: Use search engines like Google to look for drywall contractors in Boston, MA. You can use specific keywords like \"drywall repair Boston\" or \"drywall installation Boston\" to get relevant results.\n2. **Review Websites**: Check review websites like Yelp, Angie's List, or HomeAdvisor to find contractors with good ratings and reviews from previous customers.\n3. **Ask for Referrals**: Ask friends, family, or neighbors who have rec",
+      "named_here": [
+        "Online Search",
+        "Review Websites",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'm happy to help you find a reliable drywall contractor in Boston, MA! However, I'm a large language model, I don't have have access to real-time information or specific recommendations. But I can suggest some options to help you find a good drywall contractor:\n\n1. **Online Directories**:\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n\t* Yelp (yelp.com)\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors who have recently done drywall work for recommendations.\n\t* Check online reviews on sites like Google, Facebook, or Nextdoor.\n3. **Professional Associations**:\n\t* National Drywall & Interior Systems Contractors Association (NDI) (ndi-ca",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Professional Associations",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Yelp"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can’t take on tasks or provide recommendations, but I can give you some tips on how to find a reliable drywall contractor in Boston, MA. Would that help?",
+      "named_here": []
+    },
+    {
+      "prompt": "I need a drywall contractor in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted drywall contractors in Boston, MA, based on online reviews and ratings:\n\n1. **Boston Drywall Services** (4.9/5 on Google, 4.8/5 on Yelp) - They offer drywall installation, repair, and finishing services for residential and commercial projects.\n2. **New England Drywall** (4.8/5 on Google, 4.7/5 on Yelp) - With over 20 years of experience, they provide drywall installation, taping, and finishing services for new construction and renovation projects.\n3. **Drywall Masters** (4.7/5 on Google, 4.6/5 on Yelp) - They specialize in drywall installation, repair, and finishing, as well as acoustic ceiling installation and texture removal.\n4. **Boston Drywall Company** ",
+      "named_here": [
+        "Boston Drywall Services",
+        "New England Drywall",
+        "Drywall Masters",
+        "Boston Drywall Company"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in Boston, MA:\n\n1. **Boston Drywall**: With over 20 years of experience, Boston Drywall is a highly-rated contractor with a reputation for excellent customer service and quality work. They offer a wide range of drywall services, including installation, repair, and finishing. (4.9/5 stars on Google)\n2. **Drywall Boston**: This company has been serving Boston and surrounding areas for over 15 years, providing top-notch drywall services, including popcorn ceiling removal and installation. They're known for their professionalism and attention to detail. (4.8/5 stars on Google)\n3. **All Drywall Boston**: With a team of experienced professional",
+      "named_here": [
+        "Boston Drywall",
+        "Drywall Boston",
+        "All Drywall Boston"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted drywall contractors in Boston, MA, based on online reviews and ratings:\n\n1.  **Boston Drywall Company**: Boston Drywall Company is a family-owned business with over 20 years of experience in drywall installation, repair, and finishing. They have a 4.9-star rating on Google and are known for their professionalism, reliability, and attention to detail.\n\n2.  **Drywall Solutions**: Drywall Solutions is a local company that specializes in drywall installation, finishing, and repair. They have a 4.8-star rating on Google and are praised for their prompt service, fair pricing, and excellent work quality.\n\n3.  **Allstar Drywall**: Allstar Drywall is a well-establish",
+      "named_here": [
+        "Boston Drywall Company",
+        "Drywall Solutions",
+        "Allstar Drywall"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on available online reviews and ratings, here are some drywall contractors in Boston, MA with a good reputation:\n\n1. **Gotham Construction**: 4.9/5 stars on Google, 4.8/5 stars on Yelp - Known for their high-quality drywall installation and finishing services.\n2. **Boston Drywall**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Offers drywall installation, repair, and finishing services for residential and commercial projects.\n3. **New England Drywall**: 4.7/5 stars on Google, 4.6/5 stars on Yelp - Provides drywall installation, taping, and finishing services for new construction and renovation projects.\n4. **Drywall Masters**: 4.7/5 stars on Google, 4.6/5 stars on Yelp - Specializes in",
+      "named_here": [
+        "Gotham Construction",
+        "Boston Drywall",
+        "New England Drywall",
+        "Drywall Masters"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I've compiled a list of highly-rated drywall contractors in Boston, MA, based on online reviews and ratings. Keep in mind that reputation can change over time, and it's always a good idea to do your own research and get multiple quotes before hiring a contractor. Here are some top-rated drywall contractors in Boston:\n\n1. **Boston Drywall Pros** (4.9/5 on Google, 4.8/5 on HomeAdvisor)\n\t* Address: 150 Newbury St, Boston, MA 02116\n\t* Phone: [phone removed]\n2. **Drywall Boston** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Address: 40 Industrial Dr, Boston, MA 02210\n\t* Phone: [phone removed]\n3. **All Drywall Boston** (4.8/5 on Google, 4.7/5 on HomeAdvisor)\n\t* Address: 10 Ipswich St, Boston, MA 02113\n\t* Pho",
+      "named_here": [
+        "Boston Drywall Pros",
+        "Drywall Boston",
+        "All Drywall Boston",
+        "Address",
+        "Phone",
+        "Pho"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated drywall contractors in Boston, MA, based on online reviews and ratings:\n\n1. **Boston Drywall & Painting** (4.9/5 on Angie's List, 4.8/5 on Google Reviews)\n\t* Address: 1234 Washington St, Boston, MA 02118\n\t* Phone: [phone removed]\n2. **Drywall Pros** (4.8/5 on Google Reviews, 4.7/5 on Yelp)\n\t* Address: 456 Congress St, Boston, MA 02210\n\t* Phone: [phone removed]\n3. **Boston Drywall Repair** (4.9/5 on Google Reviews, 4.7/5 on Yelp)\n\t* Address: 789 Main St, Boston, MA 02129\n\t* Phone: [phone removed]\n4. **All Drywall Services** (4.8/5 on Google Reviews, 4.6/5 on Yelp)\n\t* Address: 1234 Boylston St, Boston, MA 02216\n\t* Phone: [phone removed]\n5. **Drywall Solutions** (4.7/",
+      "named_here": [
+        "Boston Drywall & Painting",
+        "Drywall Pros",
+        "Boston Drywall Repair",
+        "All Drywall Services",
+        "Drywall Solutions",
+        "Address",
+        "Phone"
+      ]
+    }
+  ]
+}

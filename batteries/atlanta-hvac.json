@@ -1,0 +1,147 @@
+{
+  "trade": "hvac",
+  "market": "Atlanta, GA",
+  "run_date": "2026-10-15T20:10:20.069Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best HVAC companies in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top HVAC companies in Atlanta, GA, based on customer reviews, ratings, and industry reputation:\n\n1. **R.S. Andrews**: With over 50 years of experience, R.S. Andrews is a trusted name in Atlanta's HVAC industry, offering heating, cooling, and plumbing services.\n2. **Estes Services**: Estes Services has been serving Atlanta for over 70 years, providing HVAC, plumbing, and electrical services to residential and commercial customers.\n3. **Gagne Heating & Air Conditioning**: Gagne Heating & Air Conditioning is a family-owned business with over 20 years of experience, offering heating, cooling, and indoor air quality solutions.\n4. **Conditioned Air Solutions**: Conditioned Air",
+      "named_here": [
+        "R.S. Andrews",
+        "Estes Services",
+        "Gagne Heating & Air Conditioning",
+        "Conditioned Air Solutions"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Top HVAC Companies in Atlanta, GA \n\nTo determine the best HVAC companies in Atlanta, GA, we considered factors such as customer reviews, ratings, licenses, and certifications. Here are the top names we'd recommend:\n\n### Top-Rated Companies \n\n1. **Rheem Atlanta**: A trusted name in the HVAC industry, Rheem Atlanta offers a wide range of heating and cooling solutions, including installation, repair, and maintenance services. With a 4.5-star rating on Google and a license from the Georgia State Board of Plumbing (License # 55564), they're a reliable choice.\n2. **Carrier Atlanta**: As a leading HVAC company, Carrier Atlanta provides top-notch services, including system installations, repairs",
+      "named_here": [
+        "Rheem Atlanta",
+        "Carrier Atlanta"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top HVAC companies in Atlanta, GA, based on online reviews, ratings, and reputation:\n\n**Top 10 HVAC Companies in Atlanta:**\n\n1. **Trane ComfortLink** (4.8/5 stars on Google, 4.9/5 stars on Yelp) - A well-known national brand with a strong presence in Atlanta, offering top-of-the-line HVAC systems and exceptional customer service.\n2. **Service Experts Heating & Air Conditioning** (4.7/5 stars on Google, 4.8/5 stars on Yelp) - A leading HVAC company with a large service area in Atlanta, providing 24/7 emergency service and a wide range of HVAC services.\n3. **Aire Serv** (4.7/5 stars on Google, 4.8/5 stars on Yelp) - A respected HVAC company with a strong focus on customer ",
+      "named_here": [
+        "Trane ComfortLink",
+        "Service Experts Heating & Air Conditioning",
+        "Aire Serv"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a reliable HVAC company in Atlanta, GA. However, I don't have personal recommendations or direct affiliations with specific companies. But I can provide you with some suggestions on how to find a good HVAC company in your area:\n\n1. **Online Reviews**: Check websites like Yelp, Google Reviews, or Angie's List to see ratings and reviews from previous customers. This can give you an idea of a company's reputation and quality of service.\n2. **Word of Mouth**: Ask friends, family, or neighbors for recommendations. They may have had a positive experience with a local HVAC company.\n3. **Professional Associations**: Look for companies that are members of professional as",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth",
+        "Professional Associations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Based on online reviews and ratings, here are some top-rated HVAC companies in Atlanta, GA:\n\n1. **Piedmont Service Group**: With over 20 years of experience, they offer heating, cooling, and plumbing services. (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* Phone: [phone removed]\n2. **Allied Heating & Air**: A family-owned business with over 30 years of experience, they provide HVAC installation, repair, and maintenance services. (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* Phone: [phone removed]\n3. **Reynolds Plumbing, Heating & Cooling**: A trusted company with over 20 years of experience, they offer HVAC, plumbing, and drain cleaning services. (4.8/5 stars on Google, 4.7/5 stars on Yelp)",
+      "named_here": [
+        "Piedmont Service Group",
+        "Allied Heating & Air",
+        "Reynolds Plumbing, Heating & Cooling",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Atlanta! Warm weather and hot summers require reliable HVAC systems. I'd be happy to help you find a good HVAC company in Atlanta. Here are some recommendations based on online reviews and ratings:\n\n**Top HVAC Companies in Atlanta:**\n\n1. **Trane Comfort Specialist:** Atlanta Comfort Solutions (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* They offer a wide range of services, including installation, maintenance, and repair of HVAC systems.\n2. **American Service Exchange (ASE):** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* ASE provides 24/7 emergency service, and their technicians are NATE-certified.\n3. **Comfort Masters:** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* They offer a 100%",
+      "named_here": [
+        "Trane Comfort Specialist",
+        "American Service Exchange",
+        "Comfort Masters",
+        "They offer a 100%"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted HVAC companies in Atlanta, GA, based on online reviews and ratings:\n\n1. **R.S. Andrews**: With over 50 years of experience, R.S. Andrews is a well-established and reputable HVAC company in Atlanta. They offer a wide range of services, including heating and cooling installation, repair, and maintenance. (4.9/5 stars on Google)\n2. **Estes Services**: Estes Services has been serving the Atlanta area for over 70 years. They provide HVAC installation, repair, and maintenance services, as well as plumbing and electrical services. (4.8/5 stars on Google)\n3. **Conditioned Air Solutions**: Conditioned Air Solutions is a family-owned and operated HVAC company that has",
+      "named_here": [
+        "R.S. Andrews",
+        "Estes Services",
+        "Conditioned Air Solutions"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Most Trusted HVAC Companies in Atlanta, GA\n\nTo determine the most trusted HVAC companies in Atlanta, GA, we considered factors such as:\n\n* Online reviews and ratings\n* Licenses and certifications\n* Years of experience\n* Services offered\n* Awards and recognition\n\nBased on these criteria, here are the top HVAC companies in Atlanta, GA:\n\n### Top-Rated HVAC Companies\n\n1. **Roney's Heating and Air Conditioning**: With over 20 years of experience, Roney's has a 4.9-star rating on Google and is known for their excellent customer service and competitive pricing.\n\t* License: #038686\n\t* Certification: NATE-certified technicians\n\t* Services: Heating, cooling, air quality, and indoor air quality solu",
+      "named_here": [
+        "Roney's Heating and Air Conditioning",
+        "Online reviews and ratings",
+        "Licenses and certifications",
+        "Years of experience",
+        "Services offered",
+        "Awards and recognition",
+        "License",
+        "Certification",
+        "Services"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Atlanta has a hot and humid climate, making a reliable HVAC company essential for keeping your home comfortable. Here are some of the most trusted HVAC companies in Atlanta, GA:\n\n1. **Trane Comfort Specialist: James Hardie Plumbing, Heating & Air**\n\t* Address: 4931 Ashford Dunwoody Rd, Dunwoody, GA 30338\n\t* Phone: [phone removed]\n\t* Highly rated on Angie's List, Yelp, and Google Reviews\n2. **Precision Air & Heat**\n\t* Address: 4444 Ashford Dunwoody Rd, Dunwoody, GA 30338\n\t* Phone: [phone removed]\n\t* A+ rating on the Better Business Bureau (BBB) and 4.9-star rating on Google Reviews\n3. **Atlanta Air Duct Cleaning & Repair**\n\t* Address: 1450 Lakewood Ave NE, Atlanta, GA 30306\n\t* Phone: (404) 537-",
+      "named_here": [
+        "Trane Comfort Specialist",
+        "Precision Air & Heat",
+        "Atlanta Air Duct Cleaning & Repair",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some HVAC companies in Atlanta, GA, with a good reputation, based on online reviews and ratings:\n\n1. **R.S. Andrews**: With over 50 years of experience, R.S. Andrews is a well-established HVAC company in Atlanta, offering heating, cooling, and plumbing services.\n2. **Estes Services**: Estes Services has been serving the Atlanta area for over 70 years, providing HVAC, plumbing, and electrical services with a strong focus on customer satisfaction.\n3. **Gagne Heating & Air Conditioning**: Gagne Heating & Air Conditioning is a family-owned business with over 30 years of experience, offering heating, cooling, and indoor air quality services.\n4. **Casteel Heating, Cooling, and Plumbing**:",
+      "named_here": [
+        "R.S. Andrews",
+        "Estes Services",
+        "Gagne Heating & Air Conditioning",
+        "Casteel Heating, Cooling, and Plumbing"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Atlanta, GA \n\nTo determine the best HVAC companies in Atlanta, GA, we considered factors such as customer reviews, ratings, licenses, and certifications. Here are some top-rated HVAC companies in Atlanta, GA:\n\n### Companies with a Strong Reputation \n\n1. **Roney's Heating & Air Conditioning**: With over 20 years of experience, Roney's has a 4.8-star rating on Google and is known for its excellent customer service and reliable repairs.\n\t* License: #038876\n\t* Certifications: NATE-certified technicians\n\t* Reviews: 95% 5-star reviews on Google\n2. **Brierley Heating & Air Conditioning**: Brierley has a 4.7-star rating on Google and is praised for its prompt service a",
+      "named_here": [
+        "Roney's Heating & Air Conditioning",
+        "Brierley Heating & Air Conditioning",
+        "License",
+        "Certifications",
+        "Reviews"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "To provide a comprehensive list of HVAC companies in Atlanta, GA with a good reputation, I've compiled a list based on online reviews, ratings, and industry certifications. Please note that reputation can change over time, and it's essential to research and verify the information before making a decision. Here are some top-rated HVAC companies in Atlanta, GA:\n\n**Top-Rated HVAC Companies in Atlanta, GA:**\n\n1. **Trane Comfort Specialist**: 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor\n\t* Certified Trane dealer with a wide range of services, including installation, maintenance, and repair.\n2. **American Comfort Heating & Air**: 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor\n\t* Family-own",
+      "named_here": [
+        "Top-Rated HVAC Companies in Atlanta, GA",
+        "Trane Comfort Specialist",
+        "American Comfort Heating & Air",
+        "Family-own"
+      ]
+    }
+  ]
+}

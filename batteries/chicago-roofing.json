@@ -1,0 +1,133 @@
+{
+  "trade": "roofing",
+  "market": "Chicago, IL",
+  "run_date": "2026-10-15T19:38:52.543Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top roofing companies in Chicago, IL, based on customer reviews and ratings:\n\n1. **All Roofing Solutions**: With over 20 years of experience, they offer a wide range of roofing services, including repairs, replacements, and installations.\n2. **Chicago Roofing Contractors**: This family-owned business has been serving the Chicago area for over 30 years, providing high-quality roofing services and excellent customer service.\n3. **Knickerbocker Roofing & Paving Co.**: Established in 1909, Knickerbocker is one of the oldest and most reputable roofing companies in Chicago, offering a variety of roofing services, including flat roof repair and replacement.\n4. **A.B. Edward Ent",
+      "named_here": [
+        "All Roofing Solutions",
+        "Chicago Roofing Contractors",
+        "Knickerbocker Roofing & Paving Co",
+        "A.B. Edward Ent"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top Roofing Companies in Chicago, IL \n\nBased on online reviews, ratings, and industry reputation, here are some of the top roofing companies in Chicago, IL:\n\n### Recommended Roofing Companies \n\n1. **Allstate Roofing**: With over 20 years of experience, Allstate Roofing is a trusted name in Chicago, offering roofing services, including installation, repair, and maintenance.\n2. **Chicago Roofing Company**: This company has been serving Chicago for over 30 years, providing expert roofing services, including flat roof installation and repair.\n3. **Hoffman Roofing**: Hoffman Roofing is a family-owned business with over 40 years of experience, offering a wide range of roofing services, includin",
+      "named_here": [
+        "Allstate Roofing",
+        "Chicago Roofing Company",
+        "Hoffman Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Chicago, IL, based on online reviews, ratings, and industry certifications:\n\n1.  **DuPage Roofing**: With over 40 years of experience, DuPage Roofing is a family-owned and operated company that serves the Chicago area. They offer a wide range of roofing services, including roof replacement, repair, and maintenance.\n2.  **West Suburban Roofing**: This company has been in business for over 30 years and has an A+ rating with the Better Business Bureau. They offer free estimates, competitive pricing, and a 100% satisfaction guarantee.\n3.  **Chicago Roofing, Inc.**: With over 25 years of experience, Chicago Roofing, Inc. is a local company that ",
+      "named_here": [
+        "DuPage Roofing",
+        "West Suburban Roofing",
+        "Chicago Roofing, Inc"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good roofing company in Chicago, IL. However, I don't have real-time access to specific companies or their current reputation. That being said, here are some steps you can take to find a reliable roofing company:\n\n1. **Check online reviews**: Look up roofing companies in Chicago on review websites such as Google, Yelp, or Angie's List. Pay attention to the overall rating and read the comments to get an idea of the company's strengths and weaknesses.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently had their roof repaired or replaced for recommendations. They can provide valuable insights into the compa",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Based on online reviews and ratings, here are some top-rated roofing companies in Chicago, IL:\n\n1. **Allstate Roofing**: [phone removed] - A full-service roofing company with over 20 years of experience, offering roof repairs, replacements, and maintenance.\n2. **Chicago Roofing Company**: [phone removed] - A family-owned business with over 30 years of experience, providing roofing services, including storm damage repairs and skylight installations.\n3. **Windy City Roofing**: [phone removed] - A reputable roofing company with over 15 years of experience, offering roof repairs, replacements, and gutter installations.\n4. **American Roofing and Siding**: [phone removed] - A full-service roofing comp",
+      "named_here": [
+        "Allstate Roofing",
+        "Chicago Roofing Company",
+        "Windy City Roofing",
+        "American Roofing and Siding"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can’t recommend a specific roofing company. I can provide some general guidance on how to find a reputable roofing company in Chicago, IL. Would that help?",
+      "named_here": []
+    },
+    {
+      "prompt": "I need a roofing company in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted roofing companies in Chicago, IL, based on online reviews and ratings:\n\n1. **Krech Exteriors**: With over 30 years of experience, Krech Exteriors is a family-owned business that offers roofing, siding, and gutter services. They have a 4.9-star rating on Google and are accredited by the Better Business Bureau (BBB).\n2. **Roofing by Hernandez**: This Chicago-based company has been in business for over 15 years and offers a range of roofing services, including repairs, replacements, and installations. They have a 4.8-star rating on Google and are certified by the National Roofing Contractors Association (NRCA).\n3. **A.B. Edward Enterprises**: With over 20 years",
+      "named_here": [
+        "Krech Exteriors",
+        "Roofing by Hernandez",
+        "A.B. Edward Enterprises"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Most Trusted Roofing Companies in Chicago, IL\n\nBased on online reviews, ratings, and industry reputation, here are the top 5 most trusted roofing companies in Chicago, IL:\n\n#### Ranking Criteria\n\nThe ranking is based on a combination of factors, including:\n\n* Online reviews and ratings from multiple sources (e.g., Google, Yelp, HomeAdvisor)\n* Industry certifications and accreditations (e.g., GAF, Owens Corning)\n* Years of experience and reputation in the Chicago area\n* Range of services offered (e.g., residential, commercial, roofing, siding, gutters)\n\n#### Top 5 Most Trusted Roofing Companies\n\n1. **Allstate Roofing**: With over 20 years of experience, Allstate Roofing is a highly-rated ",
+      "named_here": [
+        "Allstate Roofing",
+        "Industry certifications and accreditations",
+        "Range of services offered"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-recommended roofing companies in Chicago, IL:\n\n1.  **ABC Supply Co. Inc.**: A leading roofing distributor with a large selection of materials and a team of experienced professionals.\n2.  **Lake Shore Roofing**: A family-owned business serving Chicago and surrounding areas, offering a wide range of roofing services, including installation, repair, and maintenance.\n3.  **Snyder Roofing**: A local, family-owned company with over 50 years of experience in roofing installation, repair, and maintenance.\n4.  **Universal Roofing**: A full-service roofing company offering installation, repair, and maintenance services for residential and commercial properties.\n5.  **A.L. Williams",
+      "named_here": [
+        "ABC Supply Co. Inc",
+        "Lake Shore Roofing",
+        "Snyder Roofing",
+        "Universal Roofing",
+        "A.L. Williams"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top-rated roofing companies in Chicago, IL, based on online reviews and reputation:\n\n1. **Koalaty Roofing**: With a 4.9-star rating on Google and an A+ rating with the Better Business Bureau (BBB), Koalaty Roofing is known for its high-quality roofing services and excellent customer service.\n2. **A.B. Edward Enterprises**: This family-owned business has a 4.8-star rating on Google and is accredited by the BBB with an A+ rating. They offer a wide range of roofing services, including repairs, replacements, and installations.\n3. **Shamrock Roofing & Construction**: With a 4.8-star rating on Google and an A+ rating with the BBB, Shamrock Roofing & Construction is a trusted n",
+      "named_here": [
+        "Koalaty Roofing",
+        "A.B. Edward Enterprises",
+        "Shamrock Roofing & Construction"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Roofing Companies in Chicago, IL\n\nBased on online reviews, ratings, and industry recognition, here are some of the top-rated roofing companies in Chicago, IL:\n\n### Companies with a Strong Reputation\n\n1. **Allstate Roofing**: With a 4.9-star rating on Google and 4.8-star rating on HomeAdvisor, Allstate Roofing is a well-established company with over 20 years of experience.\n2. **Chicago Roofing Company**: This company has a 4.9-star rating on Google and 4.8-star rating on HomeAdvisor, with over 15 years of experience serving the Chicago area.\n3. **American Roofing and Siding**: With a 4.8-star rating on Google and 4.7-star rating on HomeAdvisor, this company has over 20 years of e",
+      "named_here": [
+        "Allstate Roofing",
+        "Chicago Roofing Company",
+        "American Roofing and Siding"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Chicago, IL, based on online reviews and ratings:\n\n1. **ABC Supply Co. Inc.** (4.9/5 on Google, 4.8/5 on Yelp) - A large roofing and building materials supplier with a strong reputation for quality work and excellent customer service.\n2. **Schieffer Roofing** (4.9/5 on Google, 4.8/5 on Yelp) - A family-owned and operated company with over 40 years of experience in roofing and siding installation.\n3. **Midwest Roofing** (4.8/5 on Google, 4.7/5 on Yelp) - A locally owned and operated company with a reputation for quality work, competitive pricing, and excellent customer service.\n4. **Deerfoot Roofing** (4.8/5 on Google, 4.7/5 on Yelp) - A fam",
+      "named_here": [
+        "ABC Supply Co. Inc",
+        "Schieffer Roofing",
+        "Midwest Roofing",
+        "Deerfoot Roofing"
+      ]
+    }
+  ]
+}

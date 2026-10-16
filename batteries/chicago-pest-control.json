@@ -1,0 +1,137 @@
+{
+  "trade": "pest-control",
+  "market": "Chicago, IL",
+  "run_date": "2026-10-15T19:40:10.380Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best pest control companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top pest control companies in Chicago, IL, based on customer reviews, ratings, and services offered:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company that offers a wide range of services, including termite control, bed bug removal, and wildlife control.\n2. **Orkin**: Orkin is another reputable pest control company with a long history of providing effective pest management solutions. They offer services for residential and commercial properties, including pest control, termite control, and bed bug removal.\n3. **TruGreen**: While primarily known for lawn care, TruGreen also offers pest control services, including mosqu",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "TruGreen"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated pest control companies in Chicago, IL:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with a strong presence in Chicago. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control.\n2. **Terminix**: Another well-known and respected pest control company, Terminix has been in business for over 90 years. They offer a variety of services, including pest control, termite control, and wildlife control.\n3. **TruGreen**: While primarily known for their lawn care services, TruGreen also offers pest control services, including mosquito contr",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "TruGreen"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are the top-rated pest control companies in Chicago, IL, based on online reviews and ratings:\n\n1. ** Terminix**: 4.8/5 stars on Google, 4.5/5 stars on Yelp\n\t* Services: Termite control, bed bug control, rodent control, mosquito control, and more\n\t* Address: 1233 W Van Buren St, Chicago, IL 60607\n2. **Orkin Pest Control**: 4.7/5 stars on Google, 4.5/5 stars on Yelp\n\t* Services: Pest control, termite control, bed bug control, rodent control, and more\n\t* Address: 1333 W North Ave, Chicago, IL 60622\n3. **Pest Control Services of Chicago**: 4.9/5 stars on Google, 4.5/5 stars on Yelp\n\t* Services: Pest control, termite control, bed bug control, rodent control, and more\n\t* Address: 1145 W Rando",
+      "named_here": [
+        "Terminix",
+        "Orkin Pest Control",
+        "Pest Control Services of Chicago",
+        "Services",
+        "Address"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good pest control company in Chicago, IL. However, I don't have real-time access to specific companies or their current ratings. That being said, here are some steps you can take to find a reliable pest control company in Chicago:\n\n1. **Online Search**: You can start by searching online for pest control companies in Chicago. Look for companies with good reviews and ratings on websites like Google, Yelp, or Angie's List.\n2. **Check Licenses and Certifications**: Make sure the company you choose is licensed and certified by the state of Illinois. You can check with the Illinois Department of Public Health or the National Pest Management",
+      "named_here": [
+        "Online Search",
+        "Check Licenses and Certifications"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated pest control companies in Chicago, IL:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with multiple locations in the Chicago area. They offer a wide range of services, including residential and commercial pest control, bed bug removal, and mosquito control.\n2. **Terminix**: Terminix is another well-known pest control company with a strong presence in Chicago. They offer customized pest control solutions for homes and businesses, including services for ants, roaches, rodents, and more.\n3. **TruGreen**: While primarily known for their lawn care services, TruGreen also offers pest control services in Chica",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "TruGreen"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Chicago! Home to the Windy City's best pest control services. I'd be happy to provide some recommendations. Keep in mind that I'm a neutral AI and don't have personal experiences or direct relationships with companies. However, I can give you some top-rated options to consider:\n\n**Top-Rated Pest Control Companies in Chicago:**\n\n1. **Orkin Pest Control**: With over 100 years of experience, Orkin is a well-established and trusted name in pest control. They offer comprehensive services for common Chicago pests like rodents, termites, bed bugs, and more.\n2. **Terminix**: Another well-known national company, Terminix has a strong presence in Chicago, offering a range of services, including termit",
+      "named_here": [
+        "Top-Rated Pest Control Companies in Chicago",
+        "Orkin Pest Control",
+        "Terminix"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted pest control companies in Chicago, IL, based on online reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company with a strong presence in Chicago. They offer a wide range of services, including termite control, bed bug removal, and wildlife control.\n2. **Orkin**: Orkin is another reputable pest control company with a long history of serving the Chicago area. They provide customized pest control solutions for homes and businesses, including pest inspections, extermination, and prevention services.\n3. **Aptive Environmental**: Aptive Environmental is a rapidly growing pest control company with",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Aptive Environmental"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted pest control companies in Chicago, IL:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with a strong presence in Chicago. They offer a wide range of services, including residential and commercial pest control, bed bug removal, and mosquito control.\n2. **Terminix**: Terminix is another well-known and trusted pest control company with a long history of providing effective pest control services in Chicago. They offer customized solutions for residential and commercial properties, including termite control, bed bug removal, and rodent control.\n3. **TruGreen**: While primarily known for their lawn c",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "TruGreen"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Chicago, IL! Here are some of the most trusted pest control companies in Chicago, IL, based on online reviews and ratings:\n\n1. **Orkin** (4.8/5 stars on Google, 4.5/5 stars on Yelp)\n\t* Nationally recognized brand with a strong presence in Chicago\n\t* Offers comprehensive pest control services, including termite control, bed bug removal, and rodent control\n2. **Terminix** (4.7/5 stars on Google, 4.5/5 stars on Yelp)\n\t* Another well-known national brand with a large presence in Chicago\n\t* Provides a wide range of pest control services, including termite control, bed bug removal, and rodent control\n3. **Pestmaster Services** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* Local, family-owned bus",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Pestmaster Services",
+        "Local, family-owned bus"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some pest control companies in Chicago, IL with a good reputation:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-known and trusted pest control company in Chicago.\n2. **Orkin**: Orkin is another reputable pest control company with a long history of providing effective pest control services in Chicago.\n3. **ABC Humane Wildlife Control & Prevention**: This company specializes in humane wildlife control and has a strong reputation for providing effective and compassionate services.\n4. **A-Alert Exterminating Service**: A-Alert Exterminating Service is a family-owned business that has been serving the Chicago area for over 40 years.\n5. **Anderson Pest Solutions*",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "ABC Humane Wildlife Control & Prevention",
+        "A-Alert Exterminating Service",
+        "Anderson Pest Solutions*"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated pest control companies in Chicago, IL, known for their excellent reputation:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and trusted pest control company in Chicago. They offer a wide range of services, including residential and commercial pest control, termite control, and bed bug removal.\n2. **Terminix**: Terminix is another well-known and reputable pest control company with a strong presence in Chicago. They offer customized pest control solutions for homes and businesses, including termite control, rodent control, and mosquito control.\n3. **TruGreen**: While primarily a lawn care company, TruGreen also offers pest control services",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "TruGreen"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some pest control companies in Chicago, IL with good reputations, based on online reviews and ratings:\n\n1. **Orkin Pest Control**: 4.8/5 stars on Google, 4.7/5 stars on Yelp, and 4.5/5 stars on Angie's List. Orkin has been in business for over 100 years and offers a wide range of pest control services.\n2. **Terminix**: 4.7/5 stars on Google, 4.5/5 stars on Yelp, and 4.5/5 stars on Angie's List. Terminix offers comprehensive pest control services, including termite control and bed bug removal.\n3. **Aptive Environmental**: 4.9/5 stars on Google, 4.8/5 stars on Yelp, and 4.5/5 stars on Angie's List. Aptive is a family-owned business that offers eco-friendly pest control solutions.\n4. *",
+      "named_here": [
+        "Orkin Pest Control",
+        "Terminix",
+        "Aptive Environmental"
+      ]
+    }
+  ]
+}

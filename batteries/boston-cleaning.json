@@ -1,0 +1,147 @@
+{
+  "trade": "cleaning",
+  "market": "Boston, MA",
+  "run_date": "2026-10-15T20:54:04.355Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best house cleaning companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top house cleaning companies in Boston, MA, based on customer reviews and ratings:\n\n1. **Molly Maid**: With over 30 years of experience, Molly Maid is a well-established and trusted cleaning company in Boston. They offer customized cleaning services, including one-time and recurring cleanings.\n2. **The Cleaning Authority**: This company has been serving Boston for over 20 years and offers eco-friendly cleaning services. They use a detailed cleaning system to ensure a thorough and efficient cleaning.\n3. **Boston's Best Cleaning**: As their name suggests, Boston's Best Cleaning is a locally-owned company that prides itself on providing top-notch cleaning services. They off",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Boston's Best Cleaning"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated house cleaning companies in Boston, MA:\n\n1. **The Cleaning Authority - Boston**: With a 4.9-star rating on Google and 95% customer satisfaction, they offer one-time, weekly, bi-weekly, and monthly cleaning services.\n2. **Merry Maids of Boston**: A 4.8-star rated company with over 20 years of experience, offering customizable cleaning plans and eco-friendly cleaning products.\n3. **Cleanify**: A 4.9-star rated company with a team of background-checked and insured cleaners, offering one-time, weekly, and recurring cleaning services.\n4. **The Cleaning Pros**: With a 4.8-star rating on Google and a focus on eco-friendly cleaning, they offer one-time, weekly, bi-week",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Boston",
+        "Cleanify",
+        "The Cleaning Pros"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated house cleaning companies in Boston, MA, based on online reviews and ratings:\n\n1.  **The Cleaning Authority**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews. They offer eco-friendly cleaning services and use a proprietary cleaning solution.\n2.  **Molly Maid**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews. They have been in business for over 30 years and offer customized cleaning plans.\n3.  **MaidPro**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews. They offer a 40-point cleaning checklist and a satisfaction guarantee.\n4.  **The Maids**: 4.7/5 stars on Yelp, 4.6/5 stars on Google Reviews. They use a team of trained and background-checked maids and offer ",
+      "named_here": [
+        "The Cleaning Authority",
+        "Molly Maid",
+        "MaidPro",
+        "The Maids"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "There are many reputable house cleaning companies in Boston, MA. Here are a few options you may want to consider:\n\n1. **Molly Maid**: A well-established and trusted cleaning company with a location in Boston. They offer customized cleaning services and a 24-hour guarantee. You can reach them at [phone removed].\n2. **The Cleaning Authority**: This company provides eco-friendly cleaning services and has a strong presence in the Boston area. They can be reached at [phone removed].\n3. **Boston's Best Cleaning**: A locally-owned company that offers residential and commercial cleaning services. They can be contacted at [phone removed].\n4. **TaskRabbit**: While not exclusively a cleaning company, Task",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Boston's Best Cleaning",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable house cleaning companies in Boston, MA, and the best one for you will depend on your specific needs and preferences. Here are a few options to consider:\n\n1. **The Cleaning Authority - Boston**: With a 4.9-star rating on Google and over 20 years of experience, they offer a range of cleaning services, including one-time, weekly, bi-weekly, and monthly cleanings.\n2. **Merry Maids of Boston**: Merry Maids is a well-established company with a 4.8-star rating on Google. They offer flexible scheduling and a variety of cleaning services, including deep cleaning and move-in/move-out cleaning.\n3. **Cleanify**: Cleanify has a 4.9-star rating on Google and offers eco-friendly cle",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Boston",
+        "Cleanify"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Finding a reliable house cleaning company in Boston, MA can be a challenge. Here are some options to consider:\n\n**Top-rated cleaning services in Boston:**\n\n1.  **TaskRabbit**: A popular platform that connects you with local, background-checked cleaners. They offer a range of services, from one-time deep cleans to regular maintenance cleanings.\n2.  **MaidPro**: A professional cleaning company with a strong presence in Boston, offering customized cleaning plans and eco-friendly cleaning solutions.\n3.  **The Cleaning Authority**: A national company with a Boston location, providing thorough, eco-friendly cleaning services for homes and businesses.\n4.  **Boschend**: A locally-owned and operated ",
+      "named_here": [
+        "Top-rated cleaning services in Boston",
+        "TaskRabbit",
+        "MaidPro",
+        "The Cleaning Authority",
+        "Boschend"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house cleaning companies in Boston, MA, based on customer reviews and ratings:\n\n1. **Molly Maid**: With over 30 years of experience, Molly Maid is a well-established and reputable cleaning company in Boston. They offer customized cleaning services and have a 4.8-star rating on Google.\n2. **The Cleaning Authority**: This company has been serving the Boston area for over 20 years and offers eco-friendly cleaning services. They have a 4.7-star rating on Google and are known for their reliable and trustworthy staff.\n3. **Boston's Best Cleaning**: As their name suggests, Boston's Best Cleaning is a locally-owned company that prides itself on providing top-notch c",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Boston's Best Cleaning"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house cleaning companies in Boston, MA:\n\n1. **The Cleaning Authority - Boston**: With a 4.9-star rating on Google and 25+ years of experience, they offer reliable and thorough cleaning services.\n2. **Merry Maids of Boston**: A franchise with a 4.8-star rating on Google, they provide professional and eco-friendly cleaning services with a satisfaction guarantee.\n3. **Cleanify**: A locally-owned company with a 4.9-star rating on Google, they offer flexible scheduling and a range of cleaning services, including one-time and recurring cleanings.\n4. **Boston Cleaning Services**: With a 4.8-star rating on Google and 20+ years of experience, they provide reliable an",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Boston",
+        "Cleanify",
+        "Boston Cleaning Services"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted house cleaning companies in Boston, MA:\n\n1.  **Molly Maid**: With over 30 years of experience, Molly Maid is a well-established cleaning service provider that offers customized cleaning plans to suit individual needs.\n2.  **The Cleaning Authority**: This company has been serving Boston for over two decades, using eco-friendly products and state-of-the-art equipment to ensure a thorough and efficient cleaning experience.\n3.  **Compass Maids**: Compass Maids is a locally owned and operated business that offers a range of cleaning services, including one-time deep cleans, regular scheduled cleanings, and move-in/move-out cleanings.\n4.  **2 Maids & Co.**: This c",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Compass Maids",
+        "2 Maids & Co"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some house cleaning companies in Boston, MA with a good reputation:\n\n1. **Molly Maid of Boston**: With an average rating of 4.8/5 on Google and 4.5/5 on Yelp, Molly Maid is a well-established and trusted cleaning service provider in Boston.\n2. **The Cleaning Authority**: This company has an average rating of 4.7/5 on Google and 4.5/5 on Yelp, with customers praising their thorough and reliable cleaning services.\n3. **Boston's Best Cleaning**: With an average rating of 4.9/5 on Google and 4.5/5 on Yelp, Boston's Best Cleaning is a highly rated and locally owned cleaning company that offers customized cleaning services.\n4. **Sparkle & Shine Cleanin",
+      "named_here": [
+        "Molly Maid of Boston",
+        "The Cleaning Authority",
+        "Boston's Best Cleaning",
+        "Sparkle & Shine Cleanin"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated house cleaning companies in Boston, MA, based on online reviews and ratings:\n\n1. **The Cleaning Authority - Boston**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Offers one-time, weekly, bi-weekly, and monthly cleaning services.\n2. **Merry Maids of Boston**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Provides residential and commercial cleaning services, including move-in/move-out cleaning.\n3. **Cleanify**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Offers eco-friendly cleaning services, including one-time, weekly, and bi-weekly cleanings.\n4. **Boston Cleaning Services**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Provides residential and commercial cleaning servic",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Boston",
+        "Cleanify",
+        "Boston Cleaning Services"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated house cleaning companies in Boston, MA, based on online reviews and ratings:\n\n1.  **Molly Maid** - 4.9/5 on Google Reviews, 4.8/5 on Yelp\n2.  **The Cleaning Authority** - 4.8/5 on Google Reviews, 4.7/5 on Yelp\n3.  **Angie's List Top Rated House Cleaning Services** - 4.9/5 on Google Reviews, 4.8/5 on Yelp\n4.  **Boston Maids** - 4.8/5 on Google Reviews, 4.7/5 on Yelp\n5.  **Green Cleaning Services** - 4.9/5 on Google Reviews, 4.8/5 on Yelp\n6.  **Boston Cleaning Pros** - 4.9/5 on Google Reviews, 4.8/5 on Yelp\n7.  **Sparkle and Shine Cleaning Services** - 4.8/5 on Google Reviews, 4.7/5 on Yelp\n8.  **The Cleaning Co.** - 4.8/5 on Google Reviews, 4.7/5 on Yelp\n9.  **Spotless",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Boston Maids",
+        "Green Cleaning Services",
+        "Boston Cleaning Pros",
+        "Sparkle and Shine Cleaning Services",
+        "The Cleaning Co",
+        "Spotless"
+      ]
+    }
+  ]
+}

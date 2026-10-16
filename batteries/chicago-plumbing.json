@@ -1,0 +1,139 @@
+{
+  "trade": "plumbing",
+  "market": "Chicago, IL",
+  "run_date": "2026-10-15T19:36:51.384Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best plumbing companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top plumbing companies in Chicago, IL, based on customer reviews, ratings, and reputation:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted plumbing company in Chicago, offering a wide range of services, including drain cleaning, sewer repair, and water heater installation.\n2. **Mr. Rooter Plumbing of Chicago**: Mr. Rooter is a popular choice for plumbing services in Chicago, with a team of experienced technicians and a reputation for providing fast and reliable service.\n3. **American Plumbing**: American Plumbing has been serving the Chicago area for over 20 years, offering a full range of plum",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Chicago",
+        "American Plumbing"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top plumbing companies in Chicago, IL, based on online reviews, ratings, and reputation:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted name in the plumbing industry. They offer 24/7 emergency services and have a 4.5-star rating on Google.\n2. **Mr. Rooter Plumbing of Chicago**: Another well-known company with a strong reputation, Mr. Rooter Plumbing offers a wide range of services, including drain cleaning, pipe repair, and water heater installation. They have a 4.5-star rating on Google.\n3. **A.C. Sewer & Drain**: This Chicago-based company specializes in drain cleaning, sewer repair, and plu",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Chicago",
+        "A.C. Sewer & Drain"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated plumbing companies in Chicago, IL:\n\n1.  **Mr. Rooter Plumbing**: With over 20 years of experience, Mr. Rooter Plumbing is a trusted name in Chicago, serving residential and commercial customers with emergency plumbing services, drain cleaning, and water heater installation.\n2.  **Aqua Plumbing**: This family-owned business has been serving the Chicago area for over 30 years, offering 24/7 emergency plumbing services, water heater repair and installation, and drain cleaning.\n3.  **Roto-Rooter Plumbing and Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-known company that provides emergency plumbing services, drain cleaning, and water damage res",
+      "named_here": [
+        "Mr. Rooter Plumbing",
+        "Aqua Plumbing",
+        "Roto-Rooter Plumbing and Water Cleanup"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'm happy to help you find a good plumber in Chicago, IL. However, I'm a large language model, I don't have have access to real-time information or personal recommendations. But I can provide you with some options to find a reliable plumber in Chicago:\n\n1. **Online Directories**:\n\t* Angie's List: A paid subscription-based service that provides reviews and ratings of local plumbers.\n\t* Yelp: A free review platform where you can search for plumbers in Chicago and read reviews from other customers.\n\t* HomeAdvisor: A website that connects homeowners with pre-screened plumbers in their area.\n2. **Professional Associations**:\n\t* Chicago Plumbing Contractors Association: A trade organization that l",
+      "named_here": [
+        "Online Directories",
+        "Professional Associations",
+        "Angie's List",
+        "Yelp",
+        "HomeAdvisor",
+        "Chicago Plumbing Contractors Association"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable plumbers in Chicago, IL, and the best one for you will depend on your specific needs and preferences. Here are a few options to consider:\n\n1. **Roto-Rooter**: With over 80 years of experience, Roto-Rooter is a well-established and reputable plumbing company with multiple locations in the Chicago area. You can call their 24/7 emergency line at [phone removed].\n2. **Mr. Rooter**: Another well-known plumbing company with a presence in Chicago, Mr. Rooter offers a wide range of services, including drain cleaning, pipe repair, and water heater installation. You can call them at [phone removed].\n3. **A.C. Dutton Lumber**: A.C. Dutton Lumber is a family-owned business that has",
+      "named_here": [
+        "Roto-Rooter",
+        "Mr. Rooter",
+        "A.C. Dutton Lumber"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have personal recommendations or direct access to specific plumbers in Chicago, IL. However, I can provide you with some options to find a reliable plumber in Chicago:\n\n1. **Online Directories**:\n\t* Angie's List: A well-established review platform that allows you to filter plumbers by location, rating, and services offered.\n\t* HomeAdvisor: A platform that connects homeowners with pre-screened plumbers in their area.\n\t* Thumbtack: A platform that allows you to post a job and receive quotes from multiple plumbers.\n2. **Professional Associations**:\n\t* United Association of Plumbers, Pipefitters, and Steamfitters (UA) Local 130: A local trade un",
+      "named_here": [
+        "Online Directories",
+        "Professional Associations",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted plumbing options in Chicago, IL, based on online reviews and ratings:\n\n1. **Roto-Rooter**: With over 80 years of experience, Roto-Rooter is a well-established plumbing company in Chicago. They offer 24/7 emergency services and have a 4.5-star rating on Google.\n2. **American Plumbing**: American Plumbing has been serving the Chicago area for over 20 years. They offer a wide range of plumbing services, including drain cleaning, pipe repair, and water heater installation. They have a 4.8-star rating on Google.\n3. **Mr. Rooter**: Mr. Rooter is a national plumbing chain with a local presence in Chicago. They offer 24/7 emergency services and have a 4.5-star ratin",
+      "named_here": [
+        "Roto-Rooter",
+        "American Plumbing",
+        "Mr. Rooter"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted plumbing options in Chicago, IL:\n\n1. **Roto-Rooter**: With over 80 years of experience, Roto-Rooter is a well-established and reputable plumbing company with multiple locations in Chicago. They offer 24/7 emergency services and a wide range of plumbing solutions.\n2. **Mr. Rooter**: Another well-known plumbing company with a strong presence in Chicago, Mr. Rooter offers a variety of services, including drain cleaning, pipe repair, and water heater installation. They also have a 24/7 emergency service hotline.\n3. **A.C. Dutton Lumber**: A Chicago-based company with over 130 years of experience, A.C. Dutton Lumber offers a wide range of plumbing services, inclu",
+      "named_here": [
+        "Roto-Rooter",
+        "Mr. Rooter",
+        "A.C. Dutton Lumber"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted plumbing companies in Chicago, IL:\n\n1.  **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-known and reputable company that offers 24/7 plumbing services.\n2.  **Mr. Rooter Plumbing of Chicago**: This company has been serving the Chicago area for over 30 years and offers a wide range of plumbing services, including emergency repairs and maintenance.\n3.  **Mr. Drain Plumbing**: With over 20 years of experience, Mr. Drain Plumbing is a family-owned business that offers reliable and affordable plumbing services in Chicago and surrounding areas.\n4.  **Chicago Plumbing Co.**: This company has been serving the Chicago ",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Chicago",
+        "Mr. Drain Plumbing",
+        "Chicago Plumbing Co"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the top-rated plumbing companies in Chicago, IL:\n\n1. **Roto-Rooter Plumbing & Water Cleanup** - With an average rating of 4.5/5 on Google, Roto-Rooter is a well-established and trusted plumbing company in Chicago.\n2. **Mr. Rooter Plumbing of Chicago** - Mr. Rooter has an average rating of 4.5/5 on Google and is known for its prompt and professional service.\n3. **American Plumbing** - With an average rating of 4.8/5 on Google, American Plumbing is a family-owned business that has been serving Chicago for over 20 years.\n4. **All Star Plumbing** - All Star Plumbing has an average rating of 4.7/5 on Google and offers a wide range of plumbing ",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Chicago",
+        "American Plumbing",
+        "All Star Plumbing"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Plumbing Companies in Chicago, IL \n\nTo determine the best plumbing companies in Chicago, IL, we considered factors such as customer reviews, ratings, licenses, and certifications. Here are some top-rated plumbing companies in Chicago, IL:\n\n### Companies with a 4.5-Star Rating or Higher \n\n1. **Roto-Rooter Plumbing & Water Cleanup** (4.7/5) - With over 80 years of experience, Roto-Rooter is a well-established and reputable plumbing company in Chicago.\n2. **Mr. Rooter Plumbing of Chicago** (4.7/5) - A subsidiary of the HomeServe USA network, Mr. Rooter Plumbing offers 24/7 emergency services and a wide range of plumbing solutions.\n3. **A/C, Heating & Plumbing Solutions** (4.7/5) - ",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Chicago",
+        "A/C, Heating & Plumbing Solutions"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-recommended plumbing companies in Chicago, IL, based on online reviews and ratings from various sources such as Yelp, Angie's List, and the Better Business Bureau:\n\n1.  **Sewer Doctor**: With a 4.9-star rating on Yelp and a A+ rating on the BBB, Sewer Doctor is a top-rated plumbing company in Chicago. They offer 24/7 emergency service and specialize in sewer and drain cleaning, repair, and replacement.\n2.  **Roto-Rooter Plumbing and Water Cleanup**: This national plumbing company has a strong presence in Chicago, with a 4.5-star rating on Yelp and an A+ rating on the BBB. They offer 24/7 emergency service and a wide range of plumbing services, including drain cleaning, p",
+      "named_here": [
+        "Sewer Doctor",
+        "Roto-Rooter Plumbing and Water Cleanup"
+      ]
+    }
+  ]
+}

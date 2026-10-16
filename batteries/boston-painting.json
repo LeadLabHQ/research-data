@@ -1,0 +1,144 @@
+{
+  "trade": "painting",
+  "market": "Boston, MA",
+  "run_date": "2026-10-15T20:56:46.046Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best painting companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top painting companies in Boston, MA, based on customer reviews and ratings:\n\n1. **Boston Painters**: With over 20 years of experience, Boston Painters offers interior and exterior painting services, including residential and commercial projects.\n2. **Fresh Coat Painters of Boston**: This locally owned and operated company provides high-quality painting services, including interior and exterior painting, staining, and drywall repair.\n3. **Pro Painters**: Pro Painters has been serving the Boston area for over 15 years, offering a range of painting services, including residential, commercial, and industrial projects.\n4. **Sherwin-Williams Painters**: As a well-known paint ",
+      "named_here": [
+        "Boston Painters",
+        "Fresh Coat Painters of Boston",
+        "Pro Painters",
+        "Sherwin-Williams Painters"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated painting companies in Boston, MA, based on online reviews, ratings, and reputation:\n\n1. **CertaPro Painters**: With over 30 years of experience, CertaPro is a well-established painting company with a strong reputation in Boston. They offer interior and exterior painting services, as well as specialty coatings.\n2. **Boston Painting Company**: As their name suggests, Boston Painting Company has been serving the Boston area for over 20 years. They offer a wide range of painting services, including residential and commercial painting.\n3. **Painter's Inc.**: With over 40 years of experience, Painter's Inc. is a trusted name in Boston's painting industry. They offer ",
+      "named_here": [
+        "CertaPro Painters",
+        "Boston Painting Company",
+        "Painter's Inc"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Boston, MA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated painting companies in Boston, MA, based on online reviews and ratings:\n\n1. **Robbins Painting Company**: With over 20 years of experience, Robbins Painting Company has built a reputation for delivering high-quality work and excellent customer service. (Average rating: 4.9/5)\n2. **Boston Painting Company**: This locally owned and operated business has been serving the Boston area for over 20 years, offering a wide range of painting services, including interior and exterior painting, staining, and more. (Average rating: 4.8/5)\n3. **CJ Painting**: CJ Painting has been a Boston mainstay for over 15 years, offering residential and commercial painting services, with a focus",
+      "named_here": [
+        "Robbins Painting Company",
+        "Boston Painting Company",
+        "CJ Painting"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a good house painter in Boston, MA. However, I'm a large language model, I don't have have access to real-time information or personal recommendations. But I can provide you with some suggestions on how to find a reliable house painter in Boston:\n\n1. **Online Reviews**: Check online review platforms such as Yelp, Google Reviews, or Angie's List to find highly-rated house painters in Boston. You can filter the results by location, rating, and services offered.\n2. **Word of Mouth**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide you with first-hand information about the painter's work quality, reliabil",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some highly-rated house painters in Boston, MA:\n\n1. **Benjamin Moore's Preferred Painting Contractors**: Benjamin Moore has a network of preferred painting contractors in Boston. You can visit their website, enter your location, and find a list of recommended painters. Some popular ones in Boston include:\n\t* Boston Painting Company (4.9/5 stars on Google)\n\t* A+ Painting (4.8/5 stars on Google)\n\t* Painting Plus (4.8/5 stars on Google)\n2. **Local Painting Companies**:\n\t* **CertaPro Painters** (4.8/5 stars on Google): With multiple locations in the Boston area, CertaPro offers a wide range of painting services, including interior, exterior, and specialty painting.\n\t* **Painter's Inc.**",
+      "named_here": [
+        "Benjamin Moore's Preferred Painting Contractors",
+        "Local Painting Companies",
+        "CertaPro Painters",
+        "Painter's Inc",
+        "Boston Painting Company",
+        "A+ Painting",
+        "Painting Plus"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Boston, MA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal recommendations or direct access to specific business listings. But I can provide you with some suggestions on how to find a good house painter in Boston, MA.\n\nHere are a few options:\n\n1. **Ask for referrals**: Ask your friends, family, or neighbors who have recently painted their homes for recommendations. They can give you first-hand experience and advice on who to hire.\n2. **Online reviews**: Check online review platforms like:\n\t* Yelp (yelp.com)\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Houzz (houzz.com)\n\t* Google Reviews (google.com/reviews)\n3. **Professional associations**: Look for painters who are m",
+      "named_here": [
+        "Ask for referrals",
+        "Online reviews",
+        "Professional associations",
+        "Yelp",
+        "Angie's List",
+        "HomeAdvisor",
+        "Houzz",
+        "Google Reviews"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house painting companies in Boston, MA, based on online reviews and ratings:\n\n1. **Certapro Painters of Boston**: With a 4.9-star rating on Google and an A+ rating with the Better Business Bureau (BBB), Certapro Painters is a popular choice among Boston homeowners.\n2. **Fresh Coat Painters of Boston**: Fresh Coat Painters has a 4.8-star rating on Google and is accredited by the BBB with an A+ rating. They offer a wide range of painting services, including interior and exterior painting.\n3. **Boston Painters**: With a 4.7-star rating on Google, Boston Painters is a locally owned and operated company that has been serving the Boston area for over 20 years.\n4. ",
+      "named_here": [
+        "Certapro Painters of Boston",
+        "Fresh Coat Painters of Boston",
+        "Boston Painters"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house painter options in Boston, MA:\n\n1. **Benjamin Moore**: With multiple locations throughout Boston, Benjamin Moore is a well-known and reputable paint supplier with a network of trusted painters. They offer a \"Painter Referral Service\" that connects homeowners with pre-screened, experienced painters.\n2. **Sherwin-Williams**: Similar to Benjamin Moore, Sherwin-Williams has a strong presence in Boston and offers a \"Painter Referral Service\" that provides homeowners with a list of recommended painters.\n3. **Houzz**: Houzz is a popular platform that connects homeowners with professionals, including painters. You can search for painters in Boston, read review",
+      "named_here": [
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "Houzz"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Boston, MA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Boston is a beautiful city with a rich history and architecture. Finding a reliable and trustworthy house painter can be a challenge, but I'm here to help. Here are some of the most trusted house painting companies in Boston, MA:\n\n1.  **Boston Painting Company**: With over 30 years of experience, Boston Painting Company is a well-established and reputable choice. They offer a wide range of painting services, including interior and exterior painting, power washing, and staining.\n2.  **Hart Painting**: Hart Painting is a family-owned business with over 25 years of experience serving the Boston area. They specialize in high-quality painting services, including custom color matching and texture ",
+      "named_here": [
+        "Boston Painting Company",
+        "Hart Painting"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some painting companies in Boston, MA with a good reputation:\n\n1. **Certapro Painters of Boston**: Known for their professional and reliable service, Certapro Painters has a 4.9-star rating on Google and is a member of the Painting and Decorating Contractors of America (PDCA).\n2. **Boston Painters**: With over 20 years of experience, Boston Painters has a 4.8-star rating on Google and is fully licensed and insured.\n3. **Fresh Coat Painters of Boston**: This company has a 4.9-star rating on Google and is a member of the PDCA. They offer a wide range of painting services, including residential and commercial painting.\n4. **Pro Painters**: Pro Painters has a 4.8-star rating on Google a",
+      "named_here": [
+        "Certapro Painters of Boston",
+        "Boston Painters",
+        "Fresh Coat Painters of Boston",
+        "Pro Painters"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated painting companies in Boston, MA, known for their excellent reputation:\n\n1. **CertaPro Painters**: With over 30 years of experience, CertaPro Painters has a 4.9-star rating on Google and is a trusted name in Boston's painting industry.\n2. **Boston Painting Company**: This locally-owned company has been serving Boston for over 20 years, with a 4.8-star rating on Google and a reputation for high-quality work.\n3. **Painter's Inc.**: With over 40 years of experience, Painter's Inc. has a 4.7-star rating on Google and is known for its professionalism and attention to detail.\n4. **N-Hance Painting**: This company has a 4.9-star rating on Google and is praised for its excell",
+      "named_here": [
+        "CertaPro Painters",
+        "Boston Painting Company",
+        "Painter's Inc",
+        "N-Hance Painting"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Boston, MA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some painting companies in Boston, MA with a good reputation:\n\n**Please note:** This list is based on online reviews and ratings from various sources such as Yelp, Angie's List, HomeAdvisor, and Google Reviews. It's essential to do your own research and check current ratings before hiring a painting company.\n\n1. **Boston Painting Co.** (4.9/5 on Yelp, 4.8/5 on Google Reviews) - A local, family-owned painting company serving Boston and the surrounding areas.\n2. **Hoffman Brothers Painting** (4.8/5 on Yelp, 4.7/5 on Google Reviews) - A Boston-based painting company specializing in residential and commercial painting services.\n3. **Boston Painters Inc.** (4.7/5 on Yelp, 4.6/5 on Google",
+      "named_here": [
+        "Please note",
+        "Boston Painting Co",
+        "Hoffman Brothers Painting",
+        "Boston Painters Inc"
+      ]
+    }
+  ]
+}

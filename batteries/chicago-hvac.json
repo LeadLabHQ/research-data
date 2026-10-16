@@ -1,0 +1,141 @@
+{
+  "trade": "hvac",
+  "market": "Chicago, IL",
+  "run_date": "2026-10-15T19:37:45.504Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best HVAC companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top HVAC companies in Chicago, IL, based on customer reviews, ratings, and industry reputation:\n\n1. **Four Seasons Heating and Air Conditioning**: With over 40 years of experience, Four Seasons is a trusted name in Chicago's HVAC industry. They offer a wide range of services, including installation, repair, and maintenance.\n2. **American Weathermakers**: American Weathermakers has been serving the Chicago area for over 50 years. They provide HVAC services, including installation, repair, and maintenance, as well as indoor air quality solutions.\n3. **Deljo Heating and Cooling**: Deljo Heating and Cooling is a family-owned business that has been serving Chicago for over 20",
+      "named_here": [
+        "Four Seasons Heating and Air Conditioning",
+        "American Weathermakers",
+        "Deljo Heating and Cooling"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top HVAC Companies in Chicago, IL \n\nHere are some of the top HVAC companies in Chicago, IL, known for their excellent service, reliability, and customer satisfaction:\n\n### Top Recommendations \n\n1. **American Home Heating & Air Conditioning**: A family-owned company with over 20 years of experience, offering comprehensive HVAC services, including installation, repair, and maintenance.\n2. **H&R Heating & Air Conditioning**: A trusted name in Chicago, providing top-notch HVAC services, including furnace and air conditioner installation, repair, and maintenance.\n3. **Sears Home Services**: A well-established company with a long history of providing reliable HVAC services, including installati",
+      "named_here": [
+        "American Home Heating & Air Conditioning",
+        "H&R Heating & Air Conditioning",
+        "Sears Home Services"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated HVAC companies in Chicago, IL:\n\n1.  **Service Experts Chicago**: A leading HVAC company with a 4.9-star rating on Google and a reputation for excellent customer service and reliable installations.\n2.  **Lennox Premier Dealers**: A top-rated HVAC company with a 4.8-star rating on Google, offering high-quality products and expert installation services.\n3.  **Trane Comfort Specialist**: A well-known HVAC company with a 4.7-star rating on Google, providing top-notch installation, maintenance, and repair services.\n4.  **ComfortPro**: A highly-rated HVAC company with a 4.7-star rating on Google, offering a wide range of services, including installation, maintenance, ",
+      "named_here": [
+        "Service Experts Chicago",
+        "Lennox Premier Dealers",
+        "Trane Comfort Specialist",
+        "ComfortPro"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a reliable HVAC company in Chicago, IL. However, I'm a large language model, I don't have personal recommendations or direct access to specific companies. But I can provide you with some suggestions on how to find a good HVAC company in Chicago:\n\n1. **Online Reviews**: Check online review platforms like Google, Yelp, or Angie's List to see what other customers have to say about different HVAC companies in Chicago. Look for companies with high ratings and positive reviews.\n2. **Better Business Bureau (BBB)**: Visit the BBB website to find accredited HVAC companies in Chicago. The BBB can provide you with information on companies' reputations, complaints, and rati",
+      "named_here": [
+        "Online Reviews",
+        "Better Business Bureau"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable HVAC company in Chicago, IL. Here are some top-rated options:\n\n1. **Aire Serv**: A well-known and reputable company with multiple locations in the Chicago area. They offer 24/7 emergency services, maintenance, and repairs. [phone removed]\n2. **Rheem Home Services**: A trusted provider of heating and cooling solutions, offering maintenance, repairs, and installations. [phone removed]\n3. **American Home Heating & Air Conditioning**: A family-owned business with over 20 years of experience serving the Chicago area. They offer competitive pricing and excellent customer service. [phone removed]\n4. **All Temp Heating & Air Conditioning**: A Chicago-based compa",
+      "named_here": [
+        "Aire Serv",
+        "Rheem Home Services",
+        "American Home Heating & Air Conditioning",
+        "All Temp Heating & Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Chicago has many reputable HVAC companies, but I'll provide you with a few top-rated options based on online reviews and ratings. Keep in mind that it's essential to do your own research and request multiple quotes before making a decision. Here are some well-regarded HVAC companies in Chicago:\n\n1.  **Service Experts Chicago** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* 24/7 emergency service\n\t* Certified technicians\n\t* Wide range of services, including installation, maintenance, and repair\n\t* Offers financing options\n2.  **Comfort Services Heating, Cooling & Plumbing** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Family-owned and operated since 1979\n\t* NATE-certified technicians\n\t* Offers 24/7 emergency ser",
+      "named_here": [
+        "Service Experts Chicago",
+        "Comfort Services Heating, Cooling & Plumbing",
+        "24/7 emergency service",
+        "Certified technicians",
+        "Offers financing options",
+        "Family-owned and operated since 1979",
+        "NATE-certified technicians",
+        "Offers 24/7 emergency ser"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted HVAC companies in Chicago, IL, based on online reviews and ratings:\n\n1. **Four Seasons Heating and Cooling**: With over 40 years of experience, Four Seasons is a family-owned business that offers heating, cooling, and indoor air quality services. (4.9/5 stars on Google)\n2. **American Weathermakers**: American Weathermakers has been serving the Chicago area for over 30 years, providing HVAC installation, repair, and maintenance services. (4.8/5 stars on Google)\n3. **Goldman & Associates**: Goldman & Associates is a full-service HVAC company that offers heating, cooling, and plumbing services. They have been in business for over 25 years. (4.8/5 stars on Googl",
+      "named_here": [
+        "Four Seasons Heating and Cooling",
+        "American Weathermakers",
+        "Goldman & Associates"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Most Trusted HVAC Companies in Chicago, IL \n\nWhen searching for a reliable HVAC company in Chicago, IL, it's essential to consider factors such as reputation, experience, and customer reviews. Based on online reviews and ratings, here are some of the most trusted HVAC companies in Chicago:\n\n### Top-Rated HVAC Companies \n\n1. **Rheem Service Experts**: With a 4.8-star rating on Google and 4.9-star rating on HomeAdvisor, Rheem Service Experts is a highly trusted option. They offer a wide range of HVAC services, including installation, repair, and maintenance.\n2. **American Home Heating and Air Conditioning**: This company has a 4.8-star rating on Google and 4.9-star rating on HomeAdvisor. Th",
+      "named_here": [
+        "Rheem Service Experts",
+        "American Home Heating and Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted HVAC companies in Chicago, IL, based on online reviews and ratings:\n\n1.  **Service Experts Heating & Air Conditioning**: Service Experts is a well-established company with over 40 years of experience in the industry. They offer a wide range of HVAC services, including installation, maintenance, and repair.\n\n2.  **American HVAC**: American HVAC provides comprehensive HVAC services, including installation, maintenance, and repair. They are known for their competitive pricing and excellent customer service.\n\n3.  **Arctic Air**: Arctic Air offers a variety of HVAC services, including installation, maintenance, and repair. They are known for their quick response ",
+      "named_here": [
+        "Service Experts Heating & Air Conditioning",
+        "American HVAC",
+        "Arctic Air"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some HVAC companies in Chicago, IL with a good reputation, based on online reviews and ratings:\n\n1. **Four Seasons Heating and Air Conditioning**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer heating, cooling, and indoor air quality services.\n2. **Deljo Heating and Cooling**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They provide heating, cooling, and plumbing services.\n3. **American Weathermakers**: 4.7/5 stars on Google, 4.6/5 stars on Yelp. They offer heating, cooling, and indoor air quality services.\n4. **Goldman & Associates**: 4.7/5 stars on Google, 4.6/5 stars on Yelp. They provide heating, cooling, and plumbing services.\n5. **Hillcrest Plumbing, Heating & Air Con",
+      "named_here": [
+        "Four Seasons Heating and Air Conditioning",
+        "Deljo Heating and Cooling",
+        "American Weathermakers",
+        "Goldman & Associates",
+        "Hillcrest Plumbing, Heating & Air Con"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Chicago, IL \n\nTo determine the best HVAC companies in Chicago, IL, we considered factors such as customer reviews, ratings, licenses, and certifications. Here are some top-rated HVAC companies in Chicago, IL:\n\n### Companies with a Strong Reputation \n\n1. **American Home Heating & Air Conditioning**: With over 20 years of experience, American Home has a 4.8-star rating on Google and is known for its excellent customer service and reliable installations.\n\t* License: Illinois Plumbing, HVAC, and Electrical Contractor License\n\t* Certifications: NATE-certified technicians\n2. **Hoffman & Powers**: This Chicago-based company has been in business for over 70 years and h",
+      "named_here": [
+        "American Home Heating & Air Conditioning",
+        "Hoffman & Powers",
+        "License",
+        "Certifications"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated HVAC companies in Chicago, IL, with a reputation for excellent service and quality work:\n\n1.  **Service Experts Chicago** (4.9/5 stars on Angie's List, A+ rating on the Better Business Bureau): Known for their expertise in heating and cooling system installation, repair, and maintenance.\n2.  **Comfortech** (4.8/5 stars on Angie's List, A+ rating on the Better Business Bureau): Offers residential and commercial HVAC services, including installation, repair, and maintenance, with a focus on energy efficiency.\n3.  **Comfort Pro Heating and Air Conditioning** (4.9/5 stars on Google, A+ rating on the Better Business Bureau): Provides heating and cooling services, including",
+      "named_here": [
+        "Service Experts Chicago",
+        "Comfortech",
+        "Comfort Pro Heating and Air Conditioning"
+      ]
+    }
+  ]
+}

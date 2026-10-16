@@ -1,0 +1,102 @@
+{
+  "battery": "Orlando plumbing (4 prompts)",
+  "distinct_name_total": 13,
+  "excluded_from_names": "R.J. Kielty Plumbing, Air Conditioning and Electric appeared only as a linked source-page title in P1/P2 citations, not in any answer text — excluded.",
+  "llama_baseline_for_comparison": {
+    "battery": "Orlando plumbing, parametric (no live search), 4 prompts x 3 open-weight models = 12 answers",
+    "distinct_name_total": 28,
+    "note": "Mr. Rooter appears in ZERO of the 4 Grok answers despite topping the parametric battery.",
+    "top": {
+      "Mr. Rooter Plumbing": "9 of 12 (named in all 4 prompts)",
+      "Roto-Rooter": "8 of 12 (named in all 4 prompts)"
+    }
+  },
+  "measurement_note": "Live-retrieval surface (web search ON, sources shown per answer). NOT comparable to the parametric Llama battery counts; reported alongside, never merged.",
+  "model_label": "Model: Fast",
+  "per_name_counts_of_4": {
+    "ABC Plumbing, Air, Heat & Electric": 1,
+    "Ace Solves It All": 2,
+    "American Air, Plumbing, and Electrical": 3,
+    "Associated Piping Services Inc.": 4,
+    "Brodway Plumbing": 4,
+    "Drain Genie Plumbing Services": 4,
+    "Herrell Plumbing": 1,
+    "Modern Plumbing Industries, Inc.": 3,
+    "Rainaldi Home Services": 3,
+    "Roto-Rooter": 3,
+    "Shamrock Plumbing": 1,
+    "Teles Plumbing": 1,
+    "The Flush Club": 1
+  },
+  "prompts": [
+    {
+      "answer": "Based on current ratings, reviews, and reputation, here are some of the best plumbing companies in Orlando, Florida:\nDrain Genie Plumbing Services (Orlando): Highly rated with 4.9 stars across 1,500+ reviews, known for fast, friendly service, 24/7 availability, and expertise in plumbing, drain, and water heater issues. Locally owned, with an A+ BBB rating and Angi Super Service Award.\nModern Plumbing Industries, Inc. (Winter Springs, serving Orlando): Family-owned since 1975 with 4.7 stars on Google and A+ BBB, known for 24-hour service, fair pricing, and a strong focus on water heaters, repiping, and drains.\nRainaldi Home Services (Orlando): A top-rated local option with ~4.9 stars from 5,400+ reviews, offering 24/7 service and high customer satisfaction for plumbing, AC, electrical, and more; BBB accredited with an A+ rating.\nBrodway Plumbing (Kissimmee, serving Orlando): Specializes in water heaters (Rheem authorized) with ~4.8 stars from 300+ reviews, praised for professionalism, fair pricing, and same-day service.\nRoto-Rooter (Orlando): Nationally recognized with strong local ratings (4.5–4.8 stars), good for 24/7 emergency service, drain cleaning, and water damage restoration.\nAssociated Piping Services Inc. (Orlando): Family-owned since 1986, highly rated (~4.9 stars) for plumbing and HVAC, known for reliability and professionalism.\nAmerican Air, Plumbing, and Electrical (Orlando): A well-established local company offering 24/7 service with positive reviews for professionalism and quick response.\nAce Solves It All (Orlando): Known for 24/7 emergency service and highly trained technicians, with strong reviews for drain, sewer, and water heater work.\nFor emergencies, prioritize 24/7 providers like Drain Genie, Rainaldi, Brodway, Roto-Rooter, or Ace Solves It All. Always verify current Florida licensing and insurance, and get multiple quotes for larger jobs.",
+      "id": "P1",
+      "names": [
+        "Drain Genie Plumbing Services",
+        "Modern Plumbing Industries, Inc.",
+        "Rainaldi Home Services",
+        "Brodway Plumbing",
+        "Roto-Rooter",
+        "Associated Piping Services Inc.",
+        "American Air, Plumbing, and Electrical",
+        "Ace Solves It All"
+      ],
+      "prompt": "Who are the best plumbers in Orlando, Florida?",
+      "searches": 4,
+      "sources_shown": 75
+    },
+    {
+      "answer": "Here are some of the best-recommended plumbers in Orlando, FL, based on ratings, reviews, and reputation:\nDrain Genie Plumbing Services (Orlando): Top-rated with 4.9 stars from 1,500+ reviews, known for fast, friendly, 24/7 service and expertise in plumbing, drains, and water heaters. Locally owned with an A+ BBB rating.\nAmerican Air, Plumbing, and Electrical (Orlando): A well-established local company with 24/7 service, praised for professionalism, quick response, and fair pricing; rated ~4.9 stars from 3,300+ reviews.\nAssociated Piping Services Inc. (Orlando): Family-owned since 1986 with ~4.9 stars from 250+ reviews, known for reliability, professionalism, and plumbing/HVAC expertise.\nRoto-Rooter (Orlando): National brand with strong local ratings (4.5–4.8 stars), ideal for 24/7 emergencies, drain cleaning, and water damage restoration.\nRainaldi Home Services (Orlando): Highly rated (~4.9 stars from 5,400+ reviews) for plumbing, HVAC, and electrical, with 24/7 availability and strong customer satisfaction.\nBrodway Plumbing (Kissimmee, serving Orlando): Specializes in water heaters (Rheem authorized) with ~4.8 stars from 300+ reviews, praised for same-day service and fair pricing.\nIf you need help right now, I'd call Drain Genie or American Air first for 24/7 response—both have excellent reputations in Orlando.",
+      "id": "P2",
+      "names": [
+        "Drain Genie Plumbing Services",
+        "American Air, Plumbing, and Electrical",
+        "Associated Piping Services Inc.",
+        "Roto-Rooter",
+        "Rainaldi Home Services",
+        "Brodway Plumbing"
+      ],
+      "prompt": "I need a plumber in Orlando — who do you recommend?",
+      "searches": 3,
+      "sources_shown": 35
+    },
+    {
+      "answer": "Here are the plumbing companies in Orlando, FL with the best reviews, based on Google, Angi, Yelp, and other rating platforms:\nDrain Genie Plumbing Services (Orlando): 4.9 stars from 1,500+ reviews — top-rated for 24/7 service, fast response, and expertise in plumbing, drains, and water heaters. A+ BBB rating.\nAssociated Piping Services Inc. (Orlando): ~4.9 stars from 250+ reviews, family-owned since 1986, known for reliability and professionalism in plumbing and HVAC.\nAmerican Air, Plumbing, and Electrical (Orlando): ~4.9 stars from 3,300+ reviews, well-established local company with 24/7 service and strong customer satisfaction.\nModern Plumbing Industries, Inc. (Winter Springs, serving Orlando): 4.7 stars on Google with 1,000+ reviews, family-owned since 1975, A+ BBB, known for 24-hour service, fair pricing.\nRoto-Rooter (Orlando): 4.5–4.8 stars, national brand with strong local reviews for 24/7 emergency service and drain cleaning.\nRainaldi Home Services (Orlando): ~4.9 stars from 5,400+ reviews, highly rated for plumbing, HVAC, and electrical with 24/7 availability.\nAce Solves It All (Orlando): Strong reviews for 24/7 emergency service, drain, sewer, and water heater work.\nBrodway Plumbing (Kissimmee, serving Orlando): ~4.8 stars from 300+ reviews, Rheem-authorized water heater specialist with same-day service.\nDrain Genie and Rainaldi consistently rank highest for overall review volume and ratings in Orlando.",
+      "id": "P3",
+      "names": [
+        "Drain Genie Plumbing Services",
+        "Associated Piping Services Inc.",
+        "American Air, Plumbing, and Electrical",
+        "Modern Plumbing Industries, Inc.",
+        "Roto-Rooter",
+        "Rainaldi Home Services",
+        "Ace Solves It All",
+        "Brodway Plumbing"
+      ],
+      "prompt": "What plumbing companies in Orlando have the best reviews?",
+      "searches": 7,
+      "sources_shown": 43
+    },
+    {
+      "answer": "Brodway Plumbing, Associated Piping Services Inc., and Modern Plumbing Industries stand out as strong options for water heater repair or replacement in Orlando, FL, based on ratings, specialization, review volume, and local service.\nTop Recommendations\n• Brodway Plumbing (Kissimmee-based, serves Orlando and Central Florida): Frequently highlighted for water heater work. It is a top-rated Rheem authorized service provider specializing in tank, tankless, and hybrid systems (also works with Rinnai, Navien, AO Smith, Bradford White). Ratings are strong (around 4.8–4.9 across Angi/HomeAdvisor with 300+ reviews and high Google ratings with hundreds of reviews). Customers often note professional installs, fair pricing, and same-day service. Phone: [phone removed]. Website: brodwayplumbing.com. Hours are typically Mon–Fri 7 AM–5:30 PM (closed weekends), with online booking. License example referenced: CFC1429985.\n• Associated Piping Services Inc. (Orlando): Ranked highly in local directories (e.g., ServiceAgent top pick with ~4.9 stars from 200+ reviews). Family-owned since 1986; handles plumbing (including water heaters) and HVAC. Positive feedback on professionalism, problem-solving, and reliability. Phone: [phone removed]. Address: 1023 29th St, Orlando, FL 32805. Some listings note 24-hour availability.\n• Modern Plumbing Industries (Winter Springs, serves greater Orlando): Family-owned since 1975 with a strong focus on water heater repair, maintenance, installation, and replacement (tank, tankless, hybrid). Offers 24-hour service. High review volume (1,000+ on Google in some reports) and A+ BBB mentions. Phone: [phone removed]. Website: modernpi.com.\nOther Notable Options\n• ABC Plumbing, Air, Heat & Electric: Long-established (since ~1948), high Angi ratings (~4.9 with 600+ reviews), free estimates, and emergency services for water heaters.\n• Shamrock Plumbing or similar 24/7 providers: Good for true emergencies (leaking tank, no hot water at odd hours); they emphasize rapid response for water heater failures.\n• Others with positive mentions: The Flush Club (strong Thumbtack feedback for emergency repairs), Herrell Plumbing (established since 1970, 24/7), Teles Plumbing, and Drain Genie.\nPractical Tips\n• For emergencies (leaking tank, flooding, or complete failure): Prioritize companies advertising 24/7 service. Shut off the water supply and power/gas to the unit first to limit damage.\n• Get 2–3 quotes: Diagnostic/service call fees often run $100–250; tank water heater replacement commonly $1,100–1,800 (tankless higher). Ask about warranties, same-day availability, and whether they haul away the old unit.\n• Verify before hiring: Confirm current Florida plumbing license (CFC number), insurance, and recent reviews on Google, Angi, or Yelp. Check for manufacturer certifications if you have a specific brand (e.g., Rheem).\n• Maintenance note: Annual flushing can extend life; many pros offer this.\nStart with Brodway if you want a water-heater specialist, or Associated/Modern for broader established local service and potential after-hours help. Call a few promptly—response times and availability can vary by day and demand.",
+      "id": "P4",
+      "names": [
+        "Brodway Plumbing",
+        "Associated Piping Services Inc.",
+        "Modern Plumbing Industries",
+        "ABC Plumbing, Air, Heat & Electric",
+        "Shamrock Plumbing",
+        "The Flush Club",
+        "Herrell Plumbing",
+        "Teles Plumbing",
+        "Drain Genie"
+      ],
+      "prompt": "If my water heater breaks in Orlando, which plumber should I call?",
+      "searches": 4,
+      "sources_shown": 75
+    }
+  ],
+  "run_date": "2026-10-15",
+  "web_search_active": true
+}

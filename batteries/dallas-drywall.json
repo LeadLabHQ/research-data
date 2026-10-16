@@ -1,0 +1,151 @@
+{
+  "trade": "drywall",
+  "market": "Dallas, TX",
+  "run_date": "2026-10-15T19:57:44.672Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top drywall contractors in Dallas, TX, based on online reviews and ratings:\n\n1. **Drywall Dallas** (4.9/5 stars on Google) - Offers drywall installation, repair, and finishing services for residential and commercial projects.\n2. **Dallas Drywall Repair** (4.8/5 stars on Google) - Specializes in drywall repair, texture matching, and popcorn ceiling removal.\n3. **Texas Drywall** (4.7/5 stars on Google) - Provides drywall installation, finishing, and repair services for new construction and renovation projects.\n4. **DFW Drywall** (4.7/5 stars on Google) - Offers drywall installation, repair, and finishing services for residential and commercial projects in the Dallas-Fort W",
+      "named_here": [
+        "Drywall Dallas",
+        "Dallas Drywall Repair",
+        "Texas Drywall",
+        "DFW Drywall"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in Dallas, TX, based on online reviews and ratings:\n\n1. **Drywall Solutions Dallas**: With a 4.9-star rating on Google and over 500 reviews, they're a top choice for drywall installation, repair, and finishing services.\n2. **Dallas Drywall Pros**: This company boasts a 4.8-star rating on Google and offers a wide range of drywall services, including installation, repair, and texture coating.\n3. **All Dry Dallas**: With a 4.9-star rating on Google and over 200 reviews, All Dry Dallas provides expert drywall services, including installation, repair, and water damage restoration.\n4. **Drywall Masters**: This Dallas-based company has a 4.8-star rating o",
+      "named_here": [
+        "Drywall Solutions Dallas",
+        "Dallas Drywall Pros",
+        "All Dry Dallas",
+        "Drywall Masters"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated drywall contractors in Dallas, TX, based on online reviews and ratings:\n\n1.  **Dallas Drywall Repair**: 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor, and 4.7/5 stars on Angie's List. They offer drywall installation, repair, and finishing services.\n2.  **Drywall Pros**: 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor, and 4.7/5 stars on Yelp. They provide drywall installation, repair, and texturing services.\n3.  **All Drywall Repair**: 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor, and 4.7/5 stars on Angie's List. They specialize in drywall repair, installation, and finishing services.\n4.  **Drywall Solutions**: 4.8/5 stars on Google, 4.7/5 stars on HomeAdvi",
+      "named_here": [
+        "Dallas Drywall Repair",
+        "Drywall Pros",
+        "All Drywall Repair",
+        "Drywall Solutions"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I don't have have access to real-time information or specific recommendations for drywall contractors in Dallas, TX. However, I can suggest some ways to find a reliable drywall contractor in your area:\n\n1. **Online Reviews**: Check websites like Yelp, Google Reviews, or Angie's List for drywall contractors in Dallas, TX. Read reviews from previous customers to get an idea of their work quality, reliability, and customer service.\n2. **Word of Mouth**: Ask friends, family, or neighbors who have recently had drywall work done for recommendations. They can provide valuable insights into the contractor's work quality and professionalism.\n3. **Professional Associations**: Look for contractors who ",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth",
+        "Professional Associations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable drywall contractor in Dallas, TX! However, I'm a large language model, I don't have have access to real-time information or personal experiences, so I can't provide a specific recommendation. But I can suggest some options to help you find a good drywall contractor:\n\n1. **Online Directories**:\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n\t* Yelp (yelp.com)\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors who have recently done drywall work for recommendations.\n\t* Check online reviews on social media platforms like Facebook or Nextdoor.\n3. **Professional Associations**:\n\t* National Drywall & I",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Professional Associations",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Yelp",
+        "National Drywall & I"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can’t take specific requests for personal recommendations for services. However, I can give you some steps to help you find a reliable drywall contractor in Dallas, TX. Would that help?",
+      "named_here": []
+    },
+    {
+      "prompt": "I need a drywall contractor in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted drywall contractors in Dallas, TX, based on online reviews and ratings:\n\n1. **DFW Drywall Repair** - 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor\n\t* Services: Drywall repair, installation, finishing, and texture matching\n\t* Areas served: Dallas, Fort Worth, and surrounding areas\n2. **Dallas Drywall** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* Services: Drywall installation, repair, and finishing for residential and commercial projects\n\t* Areas served: Dallas, Plano, Irving, and surrounding areas\n3. **J&M Drywall** - 4.7/5 stars on Google, 4.6/5 stars on HomeAdvisor\n\t* Services: Drywall installation, repair, and finishing for new construction and re",
+      "named_here": [
+        "DFW Drywall Repair",
+        "Dallas Drywall",
+        "J&M Drywall",
+        "Services",
+        "Areas served"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in Dallas, TX, based on online reviews and ratings:\n\n1. **Drywall Solutions Dallas**: With a 4.9-star rating on Google and 4.8-star rating on Angie's List, this company has an excellent reputation for providing high-quality drywall services, including installation, repair, and finishing.\n2. **Dallas Drywall Pros**: This company has a 4.8-star rating on Google and 4.7-star rating on HomeAdvisor. They offer a wide range of drywall services, including popcorn ceiling removal, texture coating, and drywall repair.\n3. **Texas Drywall & Repair**: With a 4.7-star rating on Google and 4.6-star rating on Yelp, this company has a strong reputation f",
+      "named_here": [
+        "Drywall Solutions Dallas",
+        "Dallas Drywall Pros",
+        "Texas Drywall & Repair"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted drywall contractors in Dallas, TX, based on online reviews and ratings:\n\n1.  **Plano Drywall Company**: Plano Drywall Company has been serving the Dallas area for over 25 years, offering a wide range of drywall services, from installation to finishing and repair. They have an A+ rating with the Better Business Bureau (BBB) and a 4.9-star rating on Google Reviews.\n2.  **Drywall Pros Dallas**: Drywall Pros Dallas is a locally-owned and operated business with over 10 years of experience in the industry. They offer free estimates and a 100% satisfaction guarantee. They have a 4.9-star rating on Google Reviews and an A+ rating with the BBB.\n3.  **Dallas Drywall R",
+      "named_here": [
+        "Plano Drywall Company",
+        "Drywall Pros Dallas",
+        "Dallas Drywall R"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I've compiled a list of drywall contractors in Dallas, TX, with good reputations based on online reviews and ratings. Please note that reputations can change, and it's essential to do your own research and verify the information before hiring a contractor. Here are some well-regarded drywall contractors in Dallas:\n\n1. **DFW Drywall Repair** - 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor\n2. **Dallas Drywall** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Drywall Repair Dallas** - 4.7/5 stars on Google, 4.6/5 stars on Angie's List\n4. **All Star Drywall** - 4.7/5 stars on Google, 4.6/5 stars on HomeAdvisor\n5. **Precision Drywall** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Dalla",
+      "named_here": [
+        "DFW Drywall Repair",
+        "Dallas Drywall",
+        "Drywall Repair Dallas",
+        "All Star Drywall",
+        "Precision Drywall",
+        "Dalla"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I've compiled a list of top-rated drywall contractors in Dallas, TX, based on online reviews and ratings. Keep in mind that reputation can change over time, and it's always a good idea to verify the information and get multiple quotes before hiring a contractor. Here are some of the best drywall contractors in Dallas, TX:\n\n1. **Drywall Solutions Dallas** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Address: 13531 Midway Rd, Dallas, TX 75243\n\t* Phone: [phone removed]\n2. **All Dry Dallas** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Address: 2660 Villa Creek Dr, Dallas, TX 75234\n\t* Phone: [phone removed]\n3. **Dallas Drywall Pros** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Address: 10330 Cinnamon Creek Ln, Dallas, TX 7",
+      "named_here": [
+        "Drywall Solutions Dallas",
+        "All Dry Dallas",
+        "Dallas Drywall Pros",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some drywall contractors in Dallas, TX with good reputations based on online reviews and ratings:\n\n1.  **Drywall Pros, Inc.**: 4.9/5 on Google, 4.8/5 on Yelp\n2.  **Dallas Drywall Services**: 4.9/5 on Google, 4.7/5 on Yelp\n3.  **Drywall Masters**: 4.9/5 on Google, 4.7/5 on Yelp\n4.  **Texas Drywall & Painting**: 4.8/5 on Google, 4.7/5 on Yelp\n5.  **Drywall Repair Pros**: 4.8/5 on Google, 4.8/5 on Yelp\n6.  **D-FW Drywall**: 4.8/5 on Google, 4.6/5 on Yelp\n7.  **Drywall Solutions**: 4.7/5 on Google, 4.6/5 on Yelp\n8.  **Dallas Drywall Repair**: 4.7/5 on Google, 4.6/5 on Yelp\n9.  **Drywall Services Dallas**: 4.7/5 on Google, 4.6/5 on Yelp\n10. **Metro Drywall Repair**: 4.7/5 on Google, 4.6/",
+      "named_here": [
+        "Drywall Pros, Inc",
+        "Dallas Drywall Services",
+        "Drywall Masters",
+        "Texas Drywall & Painting",
+        "Drywall Repair Pros",
+        "D-FW Drywall",
+        "Drywall Solutions",
+        "Dallas Drywall Repair",
+        "Drywall Services Dallas",
+        "Metro Drywall Repair"
+      ]
+    }
+  ]
+}

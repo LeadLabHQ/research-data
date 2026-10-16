@@ -1,0 +1,145 @@
+{
+  "trade": "plumbing",
+  "market": "Dallas, TX",
+  "run_date": "2026-10-15T19:53:18.230Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best plumbing companies in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated plumbing companies in Dallas, TX, based on customer reviews and ratings:\n\n1. **Berkeys Plumbing, Heating and Air Conditioning**: With over 40 years of experience, Berkeys offers a wide range of plumbing services, including drain cleaning, water heater installation, and leak detection.\n2. **Mr. Rooter Plumbing of Dallas**: As a well-known national brand, Mr. Rooter Plumbing of Dallas provides 24/7 emergency plumbing services, including drain cleaning, pipe repair, and water heater installation.\n3. **Public Service Plumbers**: With over 100 years of experience, Public Service Plumbers offers a variety of plumbing services, including plumbing repairs, installations, and ",
+      "named_here": [
+        "Berkeys Plumbing, Heating and Air Conditioning",
+        "Mr. Rooter Plumbing of Dallas",
+        "Public Service Plumbers"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated plumbing companies in Dallas, TX, based on online reviews, ratings, and reputation:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted name in the plumbing industry. They offer 24/7 emergency services and have a 4.8-star rating on Google.\n2. **Mr. Rooter Plumbing of Dallas**: Another reputable company with a 4.8-star rating on Google, Mr. Rooter Plumbing offers a wide range of services, including drain cleaning, pipe repair, and water heater installation.\n3. **Ben's Plumbing**: With a 4.9-star rating on Google, Ben's Plumbing is a highly-rated company that offers emergency plumbing servi",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Dallas",
+        "Ben's Plumbing"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in Dallas, TX:\n\n1.  **Mr. Rooter Plumbing**: With over 30 years of experience, Mr. Rooter Plumbing is a trusted name in the Dallas plumbing industry. They offer 24/7 emergency services and a wide range of plumbing solutions.\n2.  **Benjamin Franklin Plumbing**: Benjamin Franklin Plumbing is a well-established company with a reputation for prompt and professional service. They offer a 100% satisfaction guarantee and a wide range of plumbing services.\n3.  **Precision Plumbing**: Precision Plumbing has been serving the Dallas area for over 25 years, providing top-notch plumbing services, including emergency repairs, installations, and maintenance",
+      "named_here": [
+        "Mr. Rooter Plumbing",
+        "Benjamin Franklin Plumbing",
+        "Precision Plumbing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'm happy to help you find a good plumber in Dallas, TX. However, I don't have personal recommendations or direct access to specific plumbers. But I can guide you on how to find a reliable and trustworthy plumber in your area.\n\nHere are some steps you can take:\n\n1. **Online Search**: Type \"plumbers in Dallas, TX\" or \"best plumbers in Dallas\" in a search engine like Google. This will give you a list of plumbers in your area, along with their reviews and ratings.\n2. **Check Review Websites**: Look up review websites like Yelp, Angie's List, or HomeAdvisor. These websites allow customers to leave reviews and ratings for plumbers, which can help you make an informed decision.\n3. **Ask for Referr",
+      "named_here": [
+        "Online Search",
+        "Check Review Websites",
+        "Ask for Referr"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable plumbers in Dallas, TX. Here are a few options:\n\n1. **Roto-Rooter**: With multiple locations in the Dallas area, Roto-Rooter is a well-established and reputable plumbing company. They offer 24/7 emergency services and a wide range of plumbing solutions. You can call them at [phone removed].\n2. **Mr. Rooter**: Another well-known plumbing company with a presence in Dallas, Mr. Rooter offers emergency services, drain cleaning, and plumbing repairs. You can reach them at [phone removed].\n3. **Ben's Plumbing**: A locally-owned and operated plumbing company, Ben's Plumbing has been serving Dallas residents for over 20 years. They offer competitive pricing and excellent custom",
+      "named_here": [
+        "Roto-Rooter",
+        "Mr. Rooter",
+        "Ben's Plumbing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal experiences or direct recommendations for specific plumbers in Dallas, TX. But I can provide you with some ways to find a reliable plumber in Dallas:\n\n1. **Online Reviews**: Check online review sites such as:\n\t* Yelp (yelp.com)\n\t* Google Reviews (google.com)\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n2. **Ask for Referrals**: Ask friends, family, neighbors, or coworkers who have had plumbing work done in Dallas for recommendations.\n3. **Check Licenses and Certifications**: Verify the plumber's license and certifications with the Texas State Board of Plumbing Examiners (TSBPE) or the",
+      "named_here": [
+        "Online Reviews",
+        "Ask for Referrals",
+        "Check Licenses and Certifications",
+        "Yelp",
+        "Google Reviews",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted plumbing options in Dallas, TX, based on online reviews and ratings:\n\n1. **Berkeys Plumbing, Heating and Air Conditioning**: With over 40 years of experience, Berkeys is a well-established and reputable plumbing company in Dallas. They have a 4.9-star rating on Google and are accredited by the Better Business Bureau (BBB).\n2. **Mr. Rooter Plumbing of Dallas**: As a national brand with a local presence, Mr. Rooter Plumbing has a strong reputation in Dallas. They have a 4.8-star rating on Google and offer a wide range of plumbing services.\n3. **Public Service Plumbers**: With over 100 years of experience, Public Service Plumbers is a trusted name in Dallas. Th",
+      "named_here": [
+        "Berkeys Plumbing, Heating and Air Conditioning",
+        "Mr. Rooter Plumbing of Dallas",
+        "Public Service Plumbers"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted plumbers in Dallas, TX, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With a 4.8-star rating on Google and 4.9-star rating on Yelp, Roto-Rooter is a well-established and reputable plumbing company in Dallas. They offer 24/7 emergency services and a wide range of plumbing solutions.\n2. **Mr. Rooter Plumbing of Dallas**: Mr. Rooter has a 4.8-star rating on Google and 4.9-star rating on Yelp. They offer affordable and reliable plumbing services, including drain cleaning, pipe repair, and water heater installation.\n3. **Ben's Plumbing**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Ben's Plumbing is a highly-",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Dallas",
+        "Ben's Plumbing"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted plumbers in Dallas, TX, based on online reviews and ratings:\n\n1.  **Mr. Rooter Plumbing**:\n\t* Address: 10455 N Central Expy, Dallas, TX 75231\n\t* Phone: [phone removed]\n\t* Ratings: 4.9/5 on Google, 4.5/5 on Yelp\n\t* Services: Emergency plumbing, drain cleaning, pipe repair, water heater installation\n2.  **Plumbing Masters**:\n\t* Address: 4444 Greenville Ave, Dallas, TX 75206\n\t* Phone: [phone removed]\n\t* Ratings: 4.9/5 on Google, 4.5/5 on Yelp\n\t* Services: Plumbing repair, water heater installation, drain cleaning, and more\n3.  **Benjamin Franklin Plumbing**:\n\t* Address: 10455 N Central Expy, Dallas, TX 75231\n\t* Phone: [phone removed]\n\t* Ratings: 4.8/5 on Google, 4",
+      "named_here": [
+        "Mr. Rooter Plumbing",
+        "Plumbing Masters",
+        "Benjamin Franklin Plumbing",
+        "Address",
+        "Phone",
+        "Ratings",
+        "Services"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some plumbing companies in Dallas, TX, with a good reputation:\n\n1. **Berkey's Plumbing, Heating and Air Conditioning**: With over 40 years of experience, Berkey's has a 4.9-star rating on Google and is known for its reliable and prompt service.\n2. **Mr. Rooter Plumbing of Dallas**: As a well-established franchise, Mr. Rooter has a 4.8-star rating on Google and is praised for its professional and courteous technicians.\n3. **HomeTown Plumbing**: With a 4.9-star rating on Google, HomeTown Plumbing is a family-owned business that offers a wide range of plumbing services, including emergency repairs and maintenance.\n4. **Atlas Plumbing**: Atlas Plumbi",
+      "named_here": [
+        "Berkey's Plumbing, Heating and Air Conditioning",
+        "Mr. Rooter Plumbing of Dallas",
+        "HomeTown Plumbing",
+        "Atlas Plumbing"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Plumbing Companies in Dallas, TX\n\nBased on online reviews and ratings, here are some of the top-rated plumbing companies in Dallas, TX:\n\n### Companies with a Strong Reputation\n\n1. **Roto-Rooter Plumbing & Water Cleanup** (4.9/5 on Google, 4.8/5 on Yelp) - A well-established company with a long history of providing plumbing services in Dallas.\n2. **Mr. Rooter Plumbing of Dallas** (4.9/5 on Google, 4.8/5 on Yelp) - A trusted plumbing company with a reputation for providing fast and reliable service.\n3. **HomeServe USA** (4.8/5 on Google, 4.7/5 on Yelp) - A home warranty and plumbing company that offers 24/7 emergency services.\n\n### Additional Companies with High Ratings\n\n1. **Blue",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Dallas",
+        "HomeServe USA",
+        "Blue"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in Dallas, TX, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup** (4.8/5 on Google, 4.9/5 on Yelp)\n\t* A well-established company with over 80 years of experience, offering 24/7 emergency services.\n2. **Mr. Rooter Plumbing** (4.7/5 on Google, 4.8/5 on Yelp)\n\t* A national franchise with a strong presence in Dallas, known for their fast response times and affordable prices.\n3. **Dallas Plumbing Company** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* A locally owned and operated company with over 30 years of experience, offering a wide range of plumbing services.\n4. **Roto-Rooter's competitor, Benjamin Franklin Plumbing** (4.",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing",
+        "Dallas Plumbing Company",
+        "Roto-Rooter's competitor, Benjamin Franklin Plumbing"
+      ]
+    }
+  ]
+}

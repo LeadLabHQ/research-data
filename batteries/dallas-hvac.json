@@ -1,0 +1,154 @@
+{
+  "trade": "hvac",
+  "market": "Dallas, TX",
+  "run_date": "2026-10-15T19:54:22.262Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best HVAC companies in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top HVAC companies in Dallas, TX, based on customer reviews and ratings:\n\n1. **Spectrum Heating and Air Conditioning**: With over 20 years of experience, Spectrum provides heating, cooling, and indoor air quality solutions to residential and commercial customers.\n2. **Nichols Plumbing, Heating, and Air Conditioning**: Nichols has been serving the Dallas area for over 40 years, offering a wide range of HVAC services, including installation, repair, and maintenance.\n3. **Total Air**: Total Air is a family-owned business that has been providing HVAC services to the Dallas area for over 20 years, with a focus on customer satisfaction and energy-efficient solutions.\n4. **Air ",
+      "named_here": [
+        "Spectrum Heating and Air Conditioning",
+        "Nichols Plumbing, Heating, and Air Conditioning",
+        "Total Air",
+        "Air"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top HVAC Companies in Dallas, TX \n\nTo determine the best HVAC companies in Dallas, TX, we considered factors such as customer reviews, ratings, licenses, and certifications. Here are the top names we'd recommend:\n\n### Top-Rated HVAC Companies \n\n1. **Rheem Service Experts**: A trusted name in the HVAC industry, Rheem Service Experts offers comprehensive services, including installation, repair, and maintenance. With a 4.8-star rating and over 1,000 reviews, they have a proven track record of customer satisfaction.\n\t* License: #20549\n\t* Certification: NATE-certified technicians\n2. **Carrier Home Comfort**: As a leading HVAC company, Carrier Home Comfort provides top-notch services, includin",
+      "named_here": [
+        "Rheem Service Experts",
+        "Carrier Home Comfort",
+        "License",
+        "Certification"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top HVAC companies in Dallas, TX, based on reviews, ratings, and reputation:\n\n1.  **Service Experts** (4.8/5 on Google, 4.5/5 on Yelp)\n\t* Family-owned and operated, serving the Dallas area for over 30 years\n\t* Offers 24/7 emergency service, maintenance, and repair\n2.  **Meyer Cooling and Heating** (4.9/5 on Google, 4.5/5 on Yelp)\n\t* Locally owned and operated, serving the Dallas area since 1964\n\t* Provides installation, repair, and maintenance services for all types of HVAC systems\n3.  **Trane Comfort Specialist** (4.8/5 on Google, 4.5/5 on Yelp)\n\t* Part of the Trane Comfort Specialist network, serving the Dallas area for over 20 years\n\t* Offers a wide range of HVAC serv",
+      "named_here": [
+        "Service Experts",
+        "Meyer Cooling and Heating",
+        "Trane Comfort Specialist"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "There are many reputable HVAC companies in Dallas, TX. Here are a few options you may want to consider:\n\n1. **Spectrum AC**: They offer a wide range of services, including heating and cooling repairs, installations, and maintenance. You can reach them at [phone removed].\n2. **A#1 Air**: This company has been serving the Dallas area for over 20 years and provides services such as HVAC repairs, installations, and duct cleaning. You can call them at [phone removed].\n3. **Cox Air**: Cox Air is a family-owned business that offers heating and cooling services, including repairs, installations, and maintenance. Their phone number is [phone removed].\n4. **Nicholson Heating and Air Conditioning**: This ",
+      "named_here": [
+        "Spectrum AC",
+        "A#1 Air",
+        "Cox Air",
+        "Nicholson Heating and Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Based on online reviews and ratings, here are some top-rated HVAC companies in Dallas, TX:\n\n1. **Rheem Service Experts**: [phone removed] - A trusted provider of Rheem products and services, offering comprehensive HVAC solutions.\n2. **Lennox Dealer: All Star AC & Heating**: [phone removed] - A Lennox-certified dealer providing top-notch HVAC services, including installation, repair, and maintenance.\n3. **HomeServe USA**: [phone removed] - A well-reviewed company offering HVAC services, including emergency repairs and maintenance plans.\n4. **ABC Air Conditioning and Heating**: [phone removed] - A family-owned business with over 20 years of experience providing HVAC services, including installatio",
+      "named_here": [
+        "Rheem Service Experts",
+        "Lennox Dealer",
+        "HomeServe USA",
+        "ABC Air Conditioning and Heating"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have personal experiences or direct interactions with specific companies, but I can provide you with some suggestions on how to find a reliable HVAC company in Dallas, TX. Here are a few options:\n\n**Online Review Sites:**\n\n1. **Angie's List**: A popular review website that allows you to search for HVAC companies in Dallas and read reviews from other customers.\n2. **HomeAdvisor**: A home services marketplace that connects you with pre-screened HVAC contractors in Dallas.\n3. **Yelp**: A review website that provides a comprehensive list of HVAC companies in Dallas, along with customer reviews and ratings.\n\n**Professional Associations:**\n\n1. **A",
+      "named_here": [
+        "Online Review Sites",
+        "Angie's List",
+        "HomeAdvisor",
+        "Yelp",
+        "Professional Associations"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted HVAC companies in Dallas, TX, based on online reviews and ratings:\n\n1. **Spectrum Heating & Cooling** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **A#1 Air Conditioning & Heating** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Willis Carrier Home Comfort** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n4. **Cox Air Conditioning & Heating** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Nicholson Heating and Air Conditioning** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n6. **Total Air & Heat** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n7. **Airtron Heating and Air Conditioning** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n8. **Dallas Air Conditio",
+      "named_here": [
+        "Spectrum Heating & Cooling",
+        "A#1 Air Conditioning & Heating",
+        "Willis Carrier Home Comfort",
+        "Cox Air Conditioning & Heating",
+        "Nicholson Heating and Air Conditioning",
+        "Total Air & Heat",
+        "Airtron Heating and Air Conditioning",
+        "Dallas Air Conditio"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Trusted HVAC Companies in Dallas, TX \n\nWhen searching for a reliable HVAC company in Dallas, TX, it's essential to consider factors such as reputation, experience, and customer reviews. Here are some of the most trusted HVAC companies in Dallas, TX, based on online reviews and ratings:\n\n### Top-Rated HVAC Companies \n\n1. **Rheem Service Experts**: With a 4.8-star rating on Google and 4.9-star rating on Facebook, Rheem Service Experts is a trusted name in the HVAC industry. They offer a wide range of services, including air conditioning, heating, and indoor air quality solutions.\n\t* Address: 13501 N Central Expy, Dallas, TX 75243\n\t* Phone: [phone removed]\n2. **HomeStars**: HomeStars has a 4.",
+      "named_here": [
+        "Rheem Service Experts",
+        "HomeStars",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted HVAC companies in Dallas, TX, based on online reviews and ratings:\n\n1. **Service Experts Heating & Air Conditioning** (4.9/5 stars on Google)\n\t* Phone: [phone removed]\n\t* Address: 1801 N Stemmons Fwy, Dallas, TX 75207\n\t* Service areas: Dallas, Plano, Richardson, Irving, and surrounding areas\n2. **American Air & Heating** (4.8/5 stars on Google)\n\t* Phone: [phone removed]\n\t* Address: 12100 Preston Rd, Dallas, TX 75240\n\t* Service areas: Dallas, Plano, Richardson, Garland, and surrounding areas\n3. **Allied Air Conditioning** (4.8/5 stars on Google)\n\t* Phone: [phone removed]\n\t* Address: 1201 N Greenville Ave, Richardson, TX 75081\n\t* Service areas: Dallas, Richardson",
+      "named_here": [
+        "Service Experts Heating & Air Conditioning",
+        "American Air & Heating",
+        "Allied Air Conditioning",
+        "Phone",
+        "Address",
+        "Service areas"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some HVAC companies in Dallas, TX, with a good reputation:\n\n1. **Spectrum AC & Heating** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Willis Carrier Home Comfort** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **CNC Heating and Air** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n4. **A#1 Air Conditioning & Heating** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Baker Brothers Plumbing, Air Conditioning & Electrical** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n6. **Total Air & Heat** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n7. **Air Conditioning Dallas** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n8. **Nicholson Plumbing, Heating,",
+      "named_here": [
+        "Spectrum AC & Heating",
+        "Willis Carrier Home Comfort",
+        "CNC Heating and Air",
+        "A#1 Air Conditioning & Heating",
+        "Total Air & Heat",
+        "Air Conditioning Dallas",
+        "Nicholson Plumbing, Heating"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Dallas, TX \n\nTo determine the best HVAC companies in Dallas, TX, we considered factors such as customer reviews, ratings, licenses, and certifications. Here are some top-rated HVAC companies in Dallas, TX:\n\n### Companies with a Strong Reputation \n\n1. **Rheem Service Experts**: With a 4.8-star rating on Google and 4.9-star rating on Facebook, Rheem Service Experts is a well-established company with a strong reputation for providing excellent service.\n2. **Lennox Dealer: Atlas AC & Heating**: Atlas AC & Heating has a 4.8-star rating on Google and 4.9-star rating on Facebook, making it a top-rated Lennox dealer in the Dallas area.\n3. **Carrier Factory Authorized D",
+      "named_here": [
+        "Rheem Service Experts",
+        "Lennox Dealer",
+        "Lennox Dealer: Atlas AC & Heating",
+        "Carrier Factory Authorized D"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top HVAC companies in Dallas, TX with a good reputation based on online reviews and ratings:\n\n1. **Service Experts** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* Family-owned and operated for over 30 years\n\t* Offers 24/7 emergency service and financing options\n\t* Specializes in heating, cooling, and indoor air quality solutions\n2. **Perry's Heating & Air** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* Family-owned and operated for over 30 years\n\t* Offers 24/7 emergency service and maintenance plans\n\t* Specializes in heating, cooling, and indoor air quality solutions\n3. **Rheem Authorized Dealer - Air Care Systems** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* Off",
+      "named_here": [
+        "Service Experts",
+        "Perry's Heating & Air",
+        "Rheem Authorized Dealer",
+        "Off"
+      ]
+    }
+  ]
+}

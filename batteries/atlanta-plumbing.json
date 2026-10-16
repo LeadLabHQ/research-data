@@ -1,0 +1,139 @@
+{
+  "trade": "plumbing",
+  "market": "Atlanta, GA",
+  "run_date": "2026-10-15T20:09:23.450Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best plumbing companies in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top plumbing companies in Atlanta, GA, based on customer reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted plumbing company in Atlanta.\n2. **Mr. Rooter Plumbing of Atlanta**: Mr. Rooter is a reputable plumbing company with a strong presence in Atlanta, offering a wide range of plumbing services.\n3. **ARS/Rescue Rooter**: ARS/Rescue Rooter is a popular plumbing company in Atlanta, known for its fast response times and affordable pricing.\n4. **Peachtree Plumbing**: Peachtree Plumbing is a locally owned and operated plumbing company in Atlanta, offering a range of services inclu",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Atlanta",
+        "ARS/Rescue Rooter",
+        "Peachtree Plumbing"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top plumbing companies in Atlanta, GA, based on online reviews, ratings, and reputation:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted name in the plumbing industry. They offer 24/7 emergency services and have a 4.8-star rating on Google.\n2. **Mr. Rooter Plumbing of Atlanta**: Another well-known company with a strong reputation, Mr. Rooter Plumbing offers a wide range of services, including drain cleaning, pipe repair, and water heater installation. They have a 4.7-star rating on Google.\n3. **Plumbing Experts**: With over 20 years of experience, Plumbing Experts is a highly-rated company that",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Atlanta",
+        "Plumbing Experts"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Atlanta, GA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in Atlanta, GA:\n\n1.  **Mr. Rooter Plumbing of Atlanta**: With over 20 years of experience, Mr. Rooter is a well-established and trusted plumbing company in Atlanta. They offer 24/7 emergency services and a wide range of plumbing services.\n2.  **Atlanta Plumbing Company**: This locally-owned and operated business has been serving the Atlanta area for over 20 years. They offer a wide range of plumbing services, including emergency repairs, drain cleaning, and water heater installation.\n3.  **Roto-Rooter Plumbing and Water Cleanup**: Roto-Rooter is a well-known national plumbing company with a location in Atlanta. They offer 24/7 emergency servi",
+      "named_here": [
+        "Mr. Rooter Plumbing of Atlanta",
+        "Atlanta Plumbing Company",
+        "Roto-Rooter Plumbing and Water Cleanup"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'm happy to help you find a plumber in Atlanta, GA. However, I'm a large language model, I don't have personal recommendations or direct access to specific businesses. But I can provide you with some options to find a reliable plumber in Atlanta:\n\n1. **Online Directories**:\n\t* Angie's List: A paid subscription-based service that provides reviews and ratings of local plumbers.\n\t* Yelp: A free review platform where you can search for plumbers in Atlanta and read reviews from other customers.\n\t* HomeAdvisor: A website that connects homeowners with local plumbers and provides reviews and ratings.\n2. **Google Search**:\n\t* Simply type \"plumbers in Atlanta, GA\" or \"emergency plumbers in Atlanta\" i",
+      "named_here": [
+        "Online Directories",
+        "Google Search",
+        "Angie's List",
+        "Yelp",
+        "HomeAdvisor"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable plumbers in Atlanta, GA, and the best one for you will depend on your specific needs and preferences. Here are a few options to consider:\n\n1. **Roto-Rooter**: With multiple locations in Atlanta, Roto-Rooter is a well-established and reputable plumbing company that offers 24/7 emergency services.\n2. **Mr. Rooter**: Another well-known plumbing company with multiple locations in Atlanta, Mr. Rooter offers a wide range of services, including drain cleaning, pipe repair, and water heater installation.\n3. **Platinum Plumbing**: A locally-owned and operated company in Atlanta, Platinum Plumbing offers competitive pricing and excellent customer service.\n4. **Atlanta Plumbing ",
+      "named_here": [
+        "Roto-Rooter",
+        "Mr. Rooter",
+        "Platinum Plumbing",
+        "Atlanta Plumbing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Atlanta, GA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal experiences or direct connections with specific plumbers in Atlanta, GA. But I can provide you with some suggestions on how to find a reputable plumber in Atlanta:\n\n1. **Online Reviews**:\n\t* Check review websites like Yelp, Angie's List, or HomeAdvisor to see ratings and reviews from previous customers.\n2. **Professional Associations**:\n\t* Look for plumbers who are members of professional associations like the Plumbing-Heating-Cooling Contractors Association (PHCC) or the National Kitchen and Bath Association (NKBA).\n3. **Word of Mouth**:\n\t* Ask friends, family, or neighbors for recommendations. They may have had a good experience wi",
+      "named_here": [
+        "Online Reviews",
+        "Professional Associations",
+        "Word of Mouth"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted plumbing options in Atlanta, GA, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted plumbing company in Atlanta. They offer a wide range of services, including drain cleaning, plumbing repair, and water damage restoration. (4.5/5 stars on Google)\n2. **Mr. Rooter Plumbing of Atlanta**: Mr. Rooter is a popular plumbing franchise with a strong presence in Atlanta. They provide 24/7 emergency plumbing services, including drain cleaning, pipe repair, and water heater installation. (4.5/5 stars on Google)\n3. **Peachtree Plumbing**: Peachtree Plumbing is ",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Atlanta",
+        "Peachtree Plumbing"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted plumbers in Atlanta, GA, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and reputable plumbing company in Atlanta. They offer 24/7 emergency services and have a 4.8-star rating on Google.\n2. **Mr. Rooter Plumbing of Atlanta**: Mr. Rooter is a trusted plumbing company with a 4.8-star rating on Google. They offer a wide range of services, including drain cleaning, pipe repair, and water heater installation.\n3. **Plumbing Experts**: This Atlanta-based company has a 4.9-star rating on Google and offers 24/7 emergency services. They specialize in residential an",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Atlanta",
+        "Plumbing Experts"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Atlanta, GA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted plumbing companies in Atlanta, GA, based on online reviews and ratings:\n\n1.  **Mr. Rooter Plumbing of Atlanta**: With over 20 years of experience, Mr. Rooter Plumbing is a well-established and reputable company in Atlanta. They offer 24/7 emergency services and a wide range of plumbing solutions.\n2.  **Mr. Handyman of Atlanta**: Mr. Handyman is a well-known and trusted home repair service that offers plumbing services, including leak detection, drain cleaning, and water heater installation.\n3.  **Atlanta Plumbing Company**: Atlanta Plumbing Company has been serving the Atlanta area for over 20 years, providing a wide range of plumbing services, including eme",
+      "named_here": [
+        "Mr. Rooter Plumbing of Atlanta",
+        "Mr. Handyman of Atlanta",
+        "Atlanta Plumbing Company"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some plumbing companies in Atlanta, GA with a good reputation:\n\n1. **Roto-Rooter Plumbing & Water Cleanup** - With an average rating of 4.5/5 on Google and 4.5/5 on Yelp, Roto-Rooter is a well-established and trusted plumbing company in Atlanta.\n2. **Mr. Rooter Plumbing of Atlanta** - Mr. Rooter has an average rating of 4.5/5 on Google and 4.5/5 on Yelp, with customers praising their prompt and professional service.\n3. **Peachtree Plumbing** - With an average rating of 4.8/5 on Google and 4.5/5 on Yelp, Peachtree Plumbing is a highly rated company known for their reliable and efficient service.\n4. **The Plumbing Company** - This company has an av",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Atlanta",
+        "Peachtree Plumbing",
+        "The Plumbing Company"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Plumbing Companies in Atlanta, GA\n\nBased on online reviews and ratings, here are some of the top-rated plumbing companies in Atlanta, GA:\n\n### Companies with a Strong Reputation\n\n1. **Roto-Rooter Plumbing & Water Cleanup** (4.9/5 on Google, 4.8/5 on Yelp) - A well-established company with a long history of providing plumbing services in Atlanta.\n2. **Mr. Rooter Plumbing of Atlanta** (4.9/5 on Google, 4.8/5 on Yelp) - A trusted plumbing company with a reputation for providing fast and reliable service.\n3. **HomeServe USA** (4.8/5 on Google, 4.7/5 on Yelp) - A home warranty and plumbing company that offers 24/7 emergency plumbing services in Atlanta.\n4. **Plumbing Experts** (4.8/5",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Atlanta",
+        "HomeServe USA",
+        "Plumbing Experts"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Atlanta, GA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in Atlanta, GA, based on online reviews and ratings:\n\n1. **Mr. Rooter Plumbing of Atlanta**: 4.9/5 stars on Google, 4.8/5 stars on Yelp, 4.7/5 stars on Angie's List. They offer 24/7 emergency service and a wide range of plumbing services.\n2. **Roto-Rooter Plumbing & Water Cleanup**: 4.8/5 stars on Google, 4.7/5 stars on Yelp, 4.6/5 stars on Angie's List. They have been serving Atlanta for over 75 years and offer a wide range of plumbing services, including emergency repairs.\n3. **Atlanta Plumbing Company**: 4.9/5 stars on Google, 4.8/5 stars on Yelp, 4.7/5 stars on Angie's List. They offer 24/7 emergency service and a variety of plumbing serv",
+      "named_here": [
+        "Mr. Rooter Plumbing of Atlanta",
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Atlanta Plumbing Company"
+      ]
+    }
+  ]
+}

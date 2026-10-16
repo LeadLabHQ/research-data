@@ -1,0 +1,143 @@
+{
+  "trade": "painting",
+  "market": "Chicago, IL",
+  "run_date": "2026-10-15T19:43:52.091Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best painting companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top painting companies in Chicago, IL, based on customer reviews, ratings, and reputation:\n\n1. **Five Star Painting of Chicago**: Known for their high-quality work and excellent customer service, Five Star Painting has a 4.9-star rating on Google.\n2. **CertPro Painters**: With over 20 years of experience, CertPro Painters offers a wide range of painting services, including residential and commercial painting, and has a 4.8-star rating on Google.\n3. **Chicago Painters Inc.**: This family-owned business has been serving the Chicago area for over 30 years and has a 4.7-star rating on Google.\n4. **Painting Contractors of Chicago**: With a focus on customer satisfaction, Pain",
+      "named_here": [
+        "Five Star Painting of Chicago",
+        "CertPro Painters",
+        "Chicago Painters Inc",
+        "Painting Contractors of Chicago"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated painting companies in Chicago, IL, based on online reviews, ratings, and reputation:\n\n1. **Farrow & Ball** (4.9/5) - Known for their high-end, eco-friendly paints and exceptional service.\n2. **Benjamin Moore** (4.8/5) - A well-established brand with a wide range of paint products and a network of authorized dealers in Chicago.\n3. **Sherwin-Williams** (4.7/5) - Another prominent paint company with a strong presence in Chicago, offering a vast selection of paints and coatings.\n4. **CertaPro Painters** (4.8/5) - A professional painting company with over 30 years of experience, serving residential and commercial clients.\n5. **Painting by Keim** (4.9/5) - A family-o",
+      "named_here": [
+        "Farrow & Ball",
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "CertaPro Painters",
+        "Painting by Keim"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Chicago, IL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top painting companies in Chicago, IL, based on online reviews, ratings, and reputation:\n\n1.  **Certapro Painters Chicago**: With over 40 years of experience, Certapro Painters is a well-established and respected painting company in Chicago. They offer a wide range of painting services, including exterior and interior painting, wallpaper removal, and power washing.\n2.  **Prestige Painting**: Prestige Painting has been serving the Chicago area for over 20 years, providing high-quality painting services to both residential and commercial clients. They offer a 100% satisfaction guarantee and a wide range of colors and finishes.\n3.  **Hawk Painting**: Hawk Painting is a fami",
+      "named_here": [
+        "Certapro Painters Chicago",
+        "Prestige Painting",
+        "Hawk Painting"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'm happy to help you find a house painter in Chicago, IL. However, I'm a large language model, I don't have personal recommendations or direct access to specific businesses. But I can provide you with some suggestions on how to find a reliable and trustworthy house painter in Chicago:\n\n1. **Online Reviews**: Check websites like Yelp, Google Reviews, or Angie's List to find top-rated house painters in Chicago. Read reviews from multiple sources to get a well-rounded view of a painter's work quality, reliability, and customer service.\n2. **Ask for Referrals**: Ask friends, family, or neighbors who have recently had their houses painted for recommendations. They can provide valuable insights i",
+      "named_here": [
+        "Online Reviews",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a good house painter in Chicago, IL! However, I'm a large language model, I don't have have access to real-time information or specific recommendations. But I can suggest some options to help you find a reliable house painter:\n\n1. **Check online directories**:\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n\t* Yelp (yelp.com)\n2. **Ask for referrals**:\n\t* Ask friends, family, or neighbors who have recently painted their homes for recommendations.\n\t* Check with local hardware stores, such as Ace Hardware or True Value, for suggestions.\n3. **Verify licenses and certifications**:\n\t* Make sure the painter is licensed, in",
+      "named_here": [
+        "Check online directories",
+        "Ask for referrals",
+        "Verify licenses and certifications",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Yelp"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Chicago, IL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have personal recommendations or direct access to specific businesses in Chicago, IL. However, I can provide you with some steps to help you find a reliable and trustworthy house painter in Chicago:\n\n1. **Check online review sites:**\n\t* Yelp: Filter by location (Chicago, IL) and rating (4+ stars) to find top-rated painters.\n\t* Google Reviews: Search for house painters in Chicago and filter by rating and location.\n\t* HomeAdvisor, Angie's List, and Thumbtack: These platforms allow you to browse and compare local professionals, including painters.\n2. **Ask for referrals:**\n\t* Ask friends, family, or neighbors who have recently had their homes p",
+      "named_here": [
+        "Check online review sites",
+        "Ask for referrals",
+        "Yelp",
+        "Google Reviews",
+        "HomeAdvisor, Angie's List, and Thumbtack"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house painting companies in Chicago, IL, based on online reviews and ratings:\n\n1. **Certapro Painters of Chicago** (4.9/5 on Google, 4.8/5 on Yelp) - A professional painting company with a wide range of services, including interior and exterior painting, staining, and drywall repair.\n2. **Shoreline Painting** (4.9/5 on Google, 4.8/5 on Yelp) - A family-owned business with over 20 years of experience, offering interior and exterior painting, deck staining, and power washing services.\n3. **Chicago Painters Inc.** (4.8/5 on Google, 4.7/5 on Yelp) - A licensed and insured painting company providing interior and exterior painting, drywall repair, and wallpaper re",
+      "named_here": [
+        "Certapro Painters of Chicago",
+        "Shoreline Painting",
+        "Chicago Painters Inc"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house painter options in Chicago, IL:\n\n1. **Benjamin Moore**: With multiple locations throughout Chicago, Benjamin Moore is a well-known and reputable brand that offers high-quality paint and expert painting services.\n2. **Sherwin-Williams**: Similar to Benjamin Moore, Sherwin-Williams is a trusted brand with multiple locations in Chicago. They offer a wide range of painting services, including interior and exterior painting.\n3. **CertaPro Painters**: CertaPro Painters is a national company with a strong presence in Chicago. They offer a wide range of painting services, including interior and exterior painting, and have a reputation for excellent customer se",
+      "named_here": [
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "CertaPro Painters"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Chicago, IL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted house painting companies in Chicago, IL, based on online reviews and ratings:\n\n1. **Certified Painting Contractors, Inc.** (4.9/5 stars on Angie's List, 4.5/5 stars on Google)\n\t* Family-owned and operated since 1959, with a team of experienced painters serving Chicago and surrounding areas.\n2. **Benjamin Moore Professional Painting** (4.8/5 stars on Angie's List, 4.5/5 stars on Google)\n\t* A Chicago-based painting company with a team of skilled painters and a wide range of services, including interior and exterior painting.\n3. **All Pro Painting** (4.8/5 stars on Angie's List, 4.5/5 stars on Google)\n\t* A locally owned and operated company with over 20 years o",
+      "named_here": [
+        "Certified Painting Contractors, Inc",
+        "Benjamin Moore Professional Painting",
+        "All Pro Painting"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some painting companies in Chicago, IL, with a good reputation based on online reviews and ratings:\n\n1. **ProPainting**: 4.9/5 stars on Google, 4.8/5 stars on Yelp - Known for their professional and efficient service.\n2. **Chicago Painters Inc.**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Offers a wide range of painting services, including residential and commercial painting.\n3. **Noble Painters**: 4.9/5 stars on Google, 4.8/5 stars on Yelp - Provides high-quality painting services with a focus on customer satisfaction.\n4. **Painters Inc.**: 4.7/5 stars on Google, 4.6/5 stars on Yelp - Offers a variety of painting services, including interior and exterior painting, and deck stain",
+      "named_here": [
+        "ProPainting",
+        "Chicago Painters Inc",
+        "Noble Painters",
+        "Painters Inc"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated painting companies in Chicago, IL, known for their excellent reputation:\n\n1. **Sherwin-Williams**: A well-established and reputable company with multiple locations throughout Chicago. They offer a wide range of painting services, including residential, commercial, and industrial painting.\n2. **Benjamin Moore**: Another well-known and respected painting company with several locations in Chicago. They offer high-quality painting services, including interior and exterior painting, and a wide selection of paint products.\n3. **CertaPro Painters**: A professional painting company with multiple locations in the Chicago area. They offer a range of painting services, including",
+      "named_here": [
+        "Sherwin-Williams",
+        "Benjamin Moore",
+        "CertaPro Painters"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Chicago, IL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some painting companies in Chicago, IL with good reputations based on online reviews and ratings:\n\n1. **Sherwin-Williams** (4.8/5 on Google, 4.7/5 on Yelp) - A well-known national chain with a strong presence in Chicago.\n2. **Sheridan Paint Co.** (4.9/5 on Google, 4.8/5 on Yelp) - A family-owned business with over 100 years of experience serving the Chicago area.\n3. **Green Earth Painting** (4.9/5 on Google, 4.8/5 on Yelp) - A locally owned and operated company specializing in eco-friendly and sustainable painting solutions.\n4. **Prestige Painting** (4.8/5 on Google, 4.7/5 on Yelp) - A Chicago-based company offering residential and commercial painting services with a focus on qualit",
+      "named_here": [
+        "Sherwin-Williams",
+        "Sheridan Paint Co",
+        "Green Earth Painting",
+        "Prestige Painting"
+      ]
+    }
+  ]
+}
