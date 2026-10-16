@@ -1,0 +1,149 @@
+{
+  "trade": "painting",
+  "market": "Miami, FL",
+  "run_date": "2026-10-15T20:23:41.731Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best painting companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top painting companies in Miami, FL, based on customer reviews and ratings:\n\n1. **Certapro Painters of Miami**: With over 20 years of experience, Certapro Painters is a trusted name in the industry, offering residential and commercial painting services.\n2. **Sherwin-Williams**: A well-known paint company with multiple locations in Miami, offering a wide range of painting services, including interior and exterior painting, and color consulting.\n3. **Farrow & Ball**: A high-end painting company with a location in Miami's Design District, offering bespoke painting services and premium paint products.\n4. **Miami Painters**: A locally owned and operated company with over 10 y",
+      "named_here": [
+        "Certapro Painters of Miami",
+        "Sherwin-Williams",
+        "Farrow & Ball",
+        "Miami Painters"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated painting companies in Miami, FL, based on online reviews, ratings, and reputation:\n\n1. **H&H Painting**: With over 20 years of experience, H&H Painting is a highly-rated company that offers interior and exterior painting services, as well as power washing and staining.\n\t* Rating: 4.9/5 (Google), 4.8/5 (Yelp)\n2. **Miami Painting Company**: This company has been serving Miami for over 15 years, offering a wide range of painting services, including residential and commercial painting.\n\t* Rating: 4.8/5 (Google), 4.7/5 (Yelp)\n3. **Pro Painters Miami**: With a team of experienced and licensed painters, Pro Painters Miami offers high-quality painting services for inte",
+      "named_here": [
+        "H&H Painting",
+        "Miami Painting Company",
+        "Pro Painters Miami",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top painting companies in Miami, FL, based on online reviews and ratings:\n\n1.  **Bluewater Painting & Decorating**: With over 20 years of experience, Bluewater Painting & Decorating is a well-established company that offers residential and commercial painting services. (4.9/5 on Google, 4.8/5 on Yelp)\n2.  **Miami Painting Pros**: This company has been serving South Florida for over 15 years, providing high-quality painting services for homes and businesses. (4.9/5 on Google, 4.8/5 on Yelp)\n3.  **Palm Beach Painters**: With over 20 years of experience, Palm Beach Painters offers a wide range of painting services, including interior and exterior painting, staining, and ref",
+      "named_here": [
+        "Bluewater Painting & Decorating",
+        "Miami Painting Pros",
+        "Palm Beach Painters"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good house painter in Miami, FL. However, I don't have real-time access to specific contractors or their current availability. Here are some steps you can take to find a reliable house painter:\n\n1. **Online Search**: You can search for house painters in Miami, FL, on online directories like Google, Yelp, or Angie's List. Look for painters with high ratings and positive reviews.\n2. **Ask for Referrals**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide you with firsthand information about the painter's work quality and reliability.\n3. **Check Licenses and Certifications**: Ma",
+      "named_here": [
+        "Online Search",
+        "Ask for Referrals",
+        "Check Licenses and Certifications"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some highly-rated house painters in Miami, FL:\n\n1. **H&R Block Painting**: With a 4.9-star rating on Google and over 1,000 reviews, H&R Block Painting is a top-rated option in Miami. They offer free estimates and a 100% satisfaction guarantee. You can reach them at [phone removed].\n2. **Miami Painting Company**: This company has a 4.8-star rating on Google and offers a wide range of painting services, including interior, exterior, and specialty painting. You can contact them at [phone removed].\n3. **Pro Painters Miami**: With a 4.9-star rating on Google and over 500 reviews, Pro Painters Miami is a highly-recommended option. They offer free estimates and a 100% satisfaction guarantee.",
+      "named_here": [
+        "H&R Block Painting",
+        "Miami Painting Company",
+        "Pro Painters Miami"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have personal recommendations or direct access to specific businesses in Miami, FL. However, I can provide you with some suggestions on how to find a reliable and good house painter in Miami:\n\n1. **Online Reviews**: Check online review platforms such as:\n\t* Yelp (yelp.com)\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n\t* Google Reviews\n2. **Ask for Referrals**: Ask friends, family, neighbors, or coworkers who have recently painted their homes for recommendations.\n3. **Check Local Directories**: Look for local directories like:\n\t* Miami-Dade County's website (miamidade.gov) for a list of licens",
+      "named_here": [
+        "Online Reviews",
+        "Ask for Referrals",
+        "Check Local Directories",
+        "Yelp",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Google Reviews",
+        "Miami-Dade County's website"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house painting companies in Miami, FL, based on online reviews and ratings:\n\n1. **Certapro Painters of Miami**: With a 4.9-star rating on Google and an A+ rating with the Better Business Bureau (BBB), Certapro Painters is a popular choice among Miami homeowners.\n2. **Sherwin-Williams**: As a well-known paint brand, Sherwin-Williams also offers painting services in Miami. They have a 4.5-star rating on Google and are accredited by the BBB.\n3. **Five Star Painting of Miami**: This company has a 4.8-star rating on Google and is known for its professional and reliable service.\n4. **Miami Painters**: With a 4.7-star rating on Google, Miami Painters is a locally o",
+      "named_here": [
+        "Certapro Painters of Miami",
+        "Sherwin-Williams",
+        "Five Star Painting of Miami",
+        "Miami Painters"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house painter options in Miami, FL:\n\n1. **Benjamin Moore**: With a 4.8-star rating on Google and a reputation for high-quality paints, Benjamin Moore has a network of authorized painters in Miami. You can find a local painter through their website.\n2. **Sherwin-Williams**: Similar to Benjamin Moore, Sherwin-Williams is a well-known paint brand with a 4.7-star rating on Google. They also have a network of trusted painters in Miami that you can find through their website.\n3. **Houzz**: Houzz is a popular platform that connects homeowners with professionals, including painters. You can search for painters in Miami, read reviews, and see their portfolios. Top-ra",
+      "named_here": [
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "Houzz"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Miami, FL! A vibrant city with a rich cultural scene and a desire for beautiful homes. Finding a reliable and trustworthy house painter can make a huge difference in the look and feel of your property. Here are some of the most trusted house painting companies in Miami, FL:\n\n1. **Prestige Painting**: With over 20 years of experience, Prestige Painting is a well-established and reputable company that offers a wide range of painting services, including interior and exterior painting, power washing, and deck staining.\n2. **Miami Painters**: Miami Painters has been serving the Miami area for over 20 years, providing high-quality painting services, including residential and commercial painting, s",
+      "named_here": [
+        "Prestige Painting",
+        "Miami Painters"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some painting companies in Miami, FL with a good reputation:\n\n1. **Farrow & Ball** - 4.9/5 stars on Google, known for their high-quality paints and professional painting services.\n2. **Sherwin-Williams** - 4.5/5 stars on Google, a well-established company with a wide range of painting services and products.\n3. **Benjamin Moore** - 4.5/5 stars on Google, a reputable company with a long history of providing high-quality painting services and products.\n4. **Miami Painters** - 4.8/5 stars on Google, a locally-owned company with a strong reputation for residential and commercial painting services.\n5. **Pro Painters** - 4.7/5 stars on Google, a profess",
+      "named_here": [
+        "Farrow & Ball",
+        "Sherwin-Williams",
+        "Benjamin Moore",
+        "Miami Painters",
+        "Pro Painters"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated painting companies in Miami, FL, known for their excellent reputation:\n\n1. **Houzz**: A highly-rated platform that connects homeowners with professionals, including painters. Some top-rated painting companies in Miami on Houzz include:\n\t* Miami Painting Company (4.9/5)\n\t* Painting Solutions Miami (4.8/5)\n\t* Fresh Coat Painters of Miami (4.8/5)\n2. **Yelp**: A popular review website that provides insights into local businesses. Here are some top-rated painting companies in Miami on Yelp:\n\t* CertaPro Painters of Miami (4.5/5)\n\t* Benjamin Moore Miami - Coral Gables (4.5/5)\n\t* Miami Painters (4.5/5)\n3. **Google Reviews**: A widely-used platform for customers to share their",
+      "named_here": [
+        "Houzz",
+        "Yelp",
+        "Google Reviews",
+        "Miami Painting Company",
+        "Painting Solutions Miami",
+        "Fresh Coat Painters of Miami",
+        "CertaPro Painters of Miami",
+        "Benjamin Moore Miami",
+        "Miami Painters"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated painting companies in Miami, FL, based on online reviews and ratings:\n\n1. **Sherwin-Williams Paint Stores of Miami** (4.9/5 stars on Google, 4.8/5 stars on Yelp) - With multiple locations throughout Miami, Sherwin-Williams is a well-known and trusted paint brand with a wide range of products and expert painters.\n2. **Miami Painting Company** (4.9/5 stars on Google, 4.8/5 stars on Yelp) - A family-owned and operated business with over 20 years of experience, offering residential and commercial painting services.\n3. **Pro Painting Services** (4.9/5 stars on Google, 4.7/5 stars on Yelp) - A locally owned and operated company with a reputation for quality work, customer s",
+      "named_here": [
+        "Sherwin-Williams Paint Stores of Miami",
+        "Miami Painting Company",
+        "Pro Painting Services"
+      ]
+    }
+  ]
+}

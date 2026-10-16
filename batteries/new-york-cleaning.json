@@ -1,0 +1,138 @@
+{
+  "trade": "cleaning",
+  "market": "New York, NY",
+  "run_date": "2026-10-15T19:17:26.517Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best house cleaning companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top house cleaning companies in New York, NY, based on customer reviews and ratings:\n\n1. **MaidPro**: With a 4.9-star rating on Google, MaidPro is a popular choice for house cleaning services in NYC. They offer customized cleaning plans and eco-friendly cleaning products.\n2. **The Cleaning Authority**: This company has a 4.8-star rating on Google and offers a range of cleaning services, including one-time, weekly, and bi-weekly cleanings. They use eco-friendly products and have a team of trained professionals.\n3. **TaskRabbit**: TaskRabbit is a task-completion service that offers house cleaning services in NYC. They have a 4.7-star rating on Google and offer a range of c",
+      "named_here": [
+        "MaidPro",
+        "The Cleaning Authority",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top House Cleaning Companies in New York, NY \n\nHere are some of the top house cleaning companies in New York, NY, based on online reviews and ratings:\n\n### Recommended Companies \n\n1. **The Cleaning Authority - NYC**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, this company offers customized cleaning services, including one-time, weekly, bi-weekly, and monthly cleanings. They use eco-friendly products and have a team of background-checked and trained cleaning professionals.\n2. **Merry Maids of New York City**: Merry Maids has a 4.8-star rating on Google and 4.7-star rating on Yelp. They offer flexible scheduling, including one-time, weekly, bi-weekly, and monthly cleaning",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of New York City"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top house cleaning companies in New York, NY, based on online reviews, ratings, and reputation:\n\n**Professional and Reliable Options:**\n\n1. **MaidPro** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Offers eco-friendly and custom cleaning services\n\t* Background-checked and trained staff\n2. **The Cleaning Authority** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* Uses eco-friendly products and state-of-the-art equipment\n\t* Offers recurring and one-time cleaning services\n3. **Molly Maid** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n\t* Provides customized cleaning plans and eco-friendly products\n\t* Background-checked and bonded staff\n\n**Specialty Cleaning Services:**\n\n1.",
+      "named_here": [
+        "Professional and Reliable Options",
+        "MaidPro",
+        "The Cleaning Authority",
+        "Molly Maid",
+        "Specialty Cleaning Services",
+        "Offers eco-friendly and custom cleaning services",
+        "Background-checked and trained staff",
+        "Uses eco-friendly products and state-of-the-art equipment",
+        "Offers recurring and one-time cleaning services",
+        "Background-checked and bonded staff"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "There are many excellent house cleaning companies in New York, NY. Since I don't have real-time access to specific companies' current ratings or availability, I'll provide you with some popular options and ways to find a reliable cleaner:\n\n1. **MaidPro**: A well-known, nationwide cleaning company with a presence in New York City. You can schedule a cleaning online or call [phone removed].\n2. **The Cleaning Authority**: Another popular, eco-friendly cleaning company with a location in NYC. You can reach them at [phone removed] or schedule a cleaning on their website.\n3. **TaskRabbit**: Not a traditional cleaning company, but a task-completion service that connects you with local, background-che",
+      "named_here": [
+        "MaidPro",
+        "The Cleaning Authority",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable house cleaning companies in New York, NY. Here are a few options you can consider:\n\n1. **The Cleaning Authority - NYC**: They offer one-time, weekly, bi-weekly, and monthly cleaning services. You can reach them at [phone removed].\n2. **Merry Maids of New York City**: They provide residential cleaning services, including move-in/move-out cleaning and special occasion cleaning. You can contact them at [phone removed].\n3. **Cleanify**: They offer eco-friendly cleaning services, including one-time, weekly, and bi-weekly cleanings. You can reach them at [phone removed].\n4. **The Cleaning Pros**: They provide professional cleaning services, including residential and commercial",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of New York City",
+        "Cleanify",
+        "The Cleaning Pros"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "A clean home in the Big Apple! I'd be happy to help you find a reliable house cleaning company in New York, NY. However, I'm a large language model, I don't have personal recommendations or direct connections to specific companies. But I can provide you with some options to consider:\n\n1. **Thumbtack**: This is a great platform to find and compare local cleaning services. You can post a job description and receive quotes from multiple companies. Based on your location and requirements, Thumbtack will show you top-rated cleaning services in your area.\n2. **Angie's List**: This review-based platform allows you to read reviews from other customers and compare prices. You can search for cleaning ",
+      "named_here": [
+        "Thumbtack",
+        "Angie's List"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house cleaning companies in New York, NY:\n\n1. **MaidPro**: With a 4.9-star rating on Google, MaidPro is a popular choice for house cleaning in NYC. They offer customized cleaning services, eco-friendly products, and a 100% satisfaction guarantee.\n2. **The Cleaning Authority**: This company has a 4.8-star rating on Google and offers a range of cleaning services, including one-time, weekly, and bi-weekly cleanings. They use eco-friendly products and have a team of background-checked and trained cleaners.\n3. **Handy**: With a 4.7-star rating on Google, Handy is a well-known cleaning service that offers a range of cleaning options, including house cleaning, apar",
+      "named_here": [
+        "MaidPro",
+        "The Cleaning Authority",
+        "Handy"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house cleaning companies in New York, NY:\n\n1. **The Cleaning Authority - NYC**: With a 4.9-star rating on Google and a reputation for reliability, The Cleaning Authority offers a range of cleaning services, including one-time, weekly, and bi-weekly cleanings.\n2. **Merry Maids of New York City**: Merry Maids has a 4.8-star rating on Google and is known for its thorough and eco-friendly cleaning services. They offer flexible scheduling and a 100% satisfaction guarantee.\n3. **Cleanify**: Cleanify has a 4.9-star rating on Google and offers a range of cleaning services, including move-in/move-out cleanings, deep cleanings, and regular maintenance cleanings.\n4. **",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of New York City",
+        "Cleanify"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "The city that never sleeps! Finding a reliable and trustworthy house cleaning company in New York, NY can be a daunting task. Here are some of the most trusted options:\n\n1.  **MaidPro**: MaidPro is a well-established and reputable cleaning service with a strong presence in New York City. They offer customized cleaning plans, flexible scheduling, and a team of background-checked and insured cleaners.\n2.  **The Cleaning Authority**: This national chain has a location in New York and offers eco-friendly cleaning solutions, state-of-the-art equipment, and a 100% satisfaction guarantee.\n3.  **TaskRabbit**: TaskRabbit is a platform that connects you with handpicked, background-checked cleaners. Yo",
+      "named_here": [
+        "MaidPro",
+        "The Cleaning Authority",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some house cleaning companies in New York, NY with a good reputation:\n\n1. **MaidPro**: With an average rating of 4.9/5 on Google and 4.5/5 on Yelp, MaidPro is a well-known and reputable cleaning company in NYC.\n2. **The Cleaning Authority**: This company has an average rating of 4.8/5 on Google and 4.5/5 on Yelp, and is known for its eco-friendly cleaning practices.\n3. **Cleaning Services NYC**: With an average rating of 4.7/5 on Google and 4.5/5 on Yelp, this company offers a range of cleaning services, including one-time and recurring cleanings.\n4. **TaskRabbit**: While not exclusively a cleaning company, TaskRabbit has a strong presence in NYC",
+      "named_here": [
+        "MaidPro",
+        "The Cleaning Authority",
+        "Cleaning Services NYC",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated House Cleaning Companies in New York, NY \n\nTo determine the best house cleaning companies in New York, NY, we considered several factors, including:\n\n* Online reviews and ratings from reputable sources like Yelp, Google, and HomeAdvisor\n* Industry certifications and accreditations, such as IICRC (Institute of Inspection, Cleaning and Restoration Certification) and ISSA (International Sanitary Supply Association)\n* Awards and recognition from reputable organizations, such as the \"Best of\" awards from NYC's Best and the New York City Awards\n\nBased on these criteria, here are some of the top-rated house cleaning companies in New York, NY:\n\n### Top-Rated Companies \n\n1. **The Cleanin",
+      "named_here": [
+        "The Cleanin"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated house cleaning companies in New York, NY, based on online reviews and ratings from sources like Yelp, Google, and Angie's List:\n\n1. **Molly Maid** (4.9/5) - A national franchise with a location in NYC, offering a range of cleaning services, including one-time, recurring, and move-in/move-out cleanings.\n2. **The Cleaning Authority** (4.8/5) - A franchise with a location in NYC, known for their eco-friendly and effective cleaning methods, including green cleaning products and state-of-the-art equipment.\n3. **TaskRabbit** (4.8/5) - A task-completion platform that connects customers with local, background-checked cleaners for one-time, recurring, or move-in/move-ou",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "TaskRabbit"
+      ]
+    }
+  ]
+}

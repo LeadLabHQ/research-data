@@ -1,0 +1,142 @@
+{
+  "trade": "painting",
+  "market": "Las Vegas, NV",
+  "run_date": "2026-10-15T21:11:17.961Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best painting companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated painting companies in Las Vegas, NV, based on customer reviews and ratings:\n\n1. **Certified Painting**: With over 20 years of experience, Certified Painting offers residential and commercial painting services, including interior and exterior painting, drywall repair, and texture matching.\n2. **Nevada Painters**: As a locally-owned and operated company, Nevada Painters provides high-quality painting services, including interior and exterior painting, cabinet painting, and epoxy flooring.\n3. **Las Vegas Painters**: With a team of experienced painters, Las Vegas Painters offers a range of services, including residential and commercial painting, drywall repair, and textur",
+      "named_here": [
+        "Certified Painting",
+        "Nevada Painters",
+        "Las Vegas Painters"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated painting companies in Las Vegas, NV, based on online reviews and ratings:\n\n1. **The Painting Company Las Vegas** (4.9/5 on Google, 4.8/5 on Yelp) - A highly-rated company with over 20 years of experience, offering interior and exterior painting services.\n2. **Las Vegas Painting Company** (4.8/5 on Google, 4.7/5 on Yelp) - A reputable company with a team of experienced painters, providing high-quality painting services for residential and commercial properties.\n3. **H&R Painting** (4.8/5 on Google, 4.7/5 on Yelp) - A family-owned business with over 20 years of experience, offering interior and exterior painting, as well as drywall repair and texture coating.\n4. ",
+      "named_here": [
+        "The Painting Company Las Vegas",
+        "Las Vegas Painting Company",
+        "H&R Painting"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top painting companies in Las Vegas, NV, based on online reviews and ratings:\n\n1.  **Sherwin-Williams** (4.8/5) - A well-known national chain with a strong presence in Las Vegas, offering a wide range of painting services and products.\n2.  **Benjamin Moore** (4.7/5) - Another national chain with a wide selection of paints and expert painting services, with a location in Las Vegas.\n3.  **Las Vegas Painters** (4.9/5) - A local company with over 20 years of experience, offering residential and commercial painting services, including interior and exterior painting.\n4.  **Las Vegas Painting Company** (4.8/5) - A family-owned business with a strong reputation for quality work ",
+      "named_here": [
+        "Sherwin-Williams",
+        "Benjamin Moore",
+        "Las Vegas Painters",
+        "Las Vegas Painting Company"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a good house painter in Las Vegas, NV. However, I'm a large language model, I don't have personal recommendations or direct access to specific contractors. But I can provide you with some suggestions on how to find a reliable and trustworthy house painter in Las Vegas:\n\n1. **Online Reviews**: Check online review sites such as Yelp, Google Reviews, or Angie's List to find highly-rated house painters in Las Vegas. Pay attention to the overall rating, number of reviews, and comments from previous customers.\n2. **Word of Mouth**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide valuable insights and referr",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many good house painters in Las Vegas, NV, and the best one for you will depend on your specific needs and preferences. Here are a few options to consider:\n\n1. **HGTV's Painting Company**: Las Vegas Painting Company - They have a 4.9-star rating on Google and are known for their high-quality work and excellent customer service. You can call them at [phone removed].\n2. **The Painting Company**: With over 20 years of experience, they offer free estimates and a 100% satisfaction guarantee. They have a 4.8-star rating on Google and can be reached at [phone removed].\n3. **Nevada Painting**: This company has a 4.9-star rating on Google and offers a wide range of painting services, includin",
+      "named_here": [
+        "HGTV's Painting Company",
+        "The Painting Company",
+        "Nevada Painting"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal experiences or direct connections to specific businesses in Las Vegas, NV. But I can provide you with some suggestions on how to find a reliable and good house painter in Las Vegas:\n\n1. **Check online reviews**: Look up websites like Yelp, Angie's List, or Google Reviews to see what other customers have to say about local painting contractors in Las Vegas. This can give you an idea of their reputation, quality of work, and customer service.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide first-hand experiences and insights.\n3. **Check with the Bet",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Check with the Bet"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house painters in Las Vegas, NV, based on online reviews and ratings:\n\n1. **Certified Painters**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer interior and exterior painting services, and are known for their attention to detail and customer service.\n2. **Nevada Painters**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They provide a wide range of painting services, including residential and commercial painting, and have a reputation for being reliable and efficient.\n3. **Las Vegas Painters**: 4.7/5 stars on Google, 4.6/5 stars on Yelp. They offer interior and exterior painting services, and are known for their competitive pricing and high-quality wor",
+      "named_here": [
+        "Certified Painters",
+        "Nevada Painters",
+        "Las Vegas Painters"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house painter options in Las Vegas, NV:\n\n1. **Benjamin Moore**: With multiple locations in Las Vegas, Benjamin Moore is a well-known and reputable brand that offers high-quality paints and expert painting services.\n2. **Sherwin-Williams**: Similar to Benjamin Moore, Sherwin-Williams is a trusted brand with multiple locations in Las Vegas. They offer a wide range of painting services, including interior and exterior painting.\n3. **Houzz**: Houzz is a popular platform that connects homeowners with professional painters. They have a list of highly-rated painters in Las Vegas, along with reviews and ratings from previous customers.\n4. **Las Vegas Painting Compan",
+      "named_here": [
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "Houzz",
+        "Las Vegas Painting Compan"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted house painting companies in Las Vegas, NV, based on online reviews and ratings:\n\n1.  **Southern Nevada Painting Contractors** (SNPC) - With over 20 years of experience, SNPC is a well-established and reputable painting company in Las Vegas. They offer a wide range of painting services, including interior and exterior painting, staining, and carpentry.\n2.  **Las Vegas Paint Co.** - This locally owned and operated company has been serving the Las Vegas community for over 15 years. They offer a 5-year warranty on their work and have an A+ rating with the Better Business Bureau (BBB).\n3.  **Desert West Painting** - With over 25 years of experience, Desert West P",
+      "named_here": [
+        "Southern Nevada Painting Contractors",
+        "Las Vegas Paint Co",
+        "Desert West Painting"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some painting companies in Las Vegas, NV, with a good reputation based on online reviews and ratings:\n\n1. **Certified Painting**: 4.9/5 stars on Google, 4.8/5 stars on Yelp - Known for their professionalism, quality work, and excellent customer service.\n2. **Nevada Professional Painting**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Offers residential and commercial painting services, with a focus on attention to detail and customer satisfaction.\n3. **Las Vegas Painters**: 4.7/5 stars on Google, 4.6/5 stars on Yelp - Provides interior and exterior painting services, with a reputation for being reliable, efficient, and affordable.\n4. **All Pro Painting**: 4.7/5 stars on Google, 4.6/",
+      "named_here": [
+        "Certified Painting",
+        "Nevada Professional Painting",
+        "Las Vegas Painters",
+        "All Pro Painting"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated painting companies in Las Vegas, NV, known for their excellent reputation:\n\n1. **The Painting Company Las Vegas** (4.9/5 on Google, 4.8/5 on Yelp) - A locally-owned company with over 20 years of experience, offering residential and commercial painting services.\n2. **H&R Painting** (4.9/5 on Google, 4.8/5 on Yelp) - A family-owned business with over 30 years of experience, providing high-quality painting services for homes and businesses.\n3. **Las Vegas Painting Company** (4.8/5 on Google, 4.7/5 on Yelp) - A reputable company offering a wide range of painting services, including interior, exterior, and specialty painting.\n4. **Five Star Painting of Las Vegas** (4.8/5 o",
+      "named_here": [
+        "The Painting Company Las Vegas",
+        "H&R Painting",
+        "Las Vegas Painting Company",
+        "Five Star Painting of Las Vegas"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some painting companies in Las Vegas, NV with a good reputation based on online reviews and ratings:\n\n1.  **Painter's Touch**: 4.9/5 on Yelp, 4.9/5 on Google Reviews\n2.  **Certified Painting Co.**: 4.9/5 on Yelp, 4.8/5 on Google Reviews\n3.  **Painters of Las Vegas**: 4.8/5 on Yelp, 4.8/5 on Google Reviews\n4.  **Las Vegas Painting Company**: 4.8/5 on Yelp, 4.7/5 on Google Reviews\n5.  **Desert Painting**: 4.7/5 on Yelp, 4.7/5 on Google Reviews\n6.  **Pro Painters**: 4.7/5 on Yelp, 4.6/5 on Google Reviews\n7.  **Las Vegas Painting Solutions**: 4.7/5 on Yelp, 4.6/5 on Google Reviews\n8.  **Desert Valley Painting**: 4.6/5 on Yelp, 4.6/5 on Google Reviews\n9.  **Painting Pros**: 4.6/5 on Yelp",
+      "named_here": [
+        "Painter's Touch",
+        "Certified Painting Co",
+        "Painters of Las Vegas",
+        "Las Vegas Painting Company",
+        "Desert Painting",
+        "Pro Painters",
+        "Las Vegas Painting Solutions",
+        "Desert Valley Painting",
+        "Painting Pros"
+      ]
+    }
+  ]
+}

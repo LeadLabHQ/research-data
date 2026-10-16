@@ -1,0 +1,141 @@
+{
+  "trade": "plumbing",
+  "market": "New York, NY",
+  "run_date": "2026-10-15T19:11:57.460Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best plumbing companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated plumbing companies in New York, NY:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: A well-established company with a strong reputation for providing reliable and efficient plumbing services.\n2. **NYC Plumbers**: A locally-owned and operated company that offers a wide range of plumbing services, including emergency repairs and maintenance.\n3. **Balkan Plumbing**: A family-owned business that has been serving the NYC area for over 60 years, specializing in sewer and water line repairs.\n4. **Duran's Plumbing**: A licensed and insured company that provides 24/7 emergency plumbing services, including drain cleaning and pipe repairs.\n5. **Harris Plumbing**: A reputable compa",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "NYC Plumbers",
+        "Balkan Plumbing",
+        "Duran's Plumbing",
+        "Harris Plumbing"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top plumbing companies in New York, NY, based on online reviews, ratings, and reputation:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted name in the plumbing industry. They offer 24/7 emergency services and have a 4.5-star rating on Google.\n2. **Mr. Rooter Plumbing**: Another well-known company with a strong presence in New York City, Mr. Rooter Plumbing offers a wide range of services, including drain cleaning, pipe repair, and water heater installation. They have a 4.5-star rating on Google.\n3. **Jiffy Plumbing**: Jiffy Plumbing is a fast and reliable service provider that offers emergency p",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing",
+        "Jiffy Plumbing"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in New York, NY:\n\n**Please note that this list is not exhaustive and is based on online reviews and ratings:**\n\n1. **Roto-Rooter Plumbing & Water Cleanup** (4.8/5 on Google, 4.5/5 on Yelp) - With over 80 years of experience, Roto-Rooter is a well-established company with a strong reputation in New York.\n2. **Mr. Rooter Plumbing** (4.8/5 on Google, 4.5/5 on Yelp) - A trusted name in the industry, Mr. Rooter has been serving the NYC area for over 30 years.\n3. **Apollo Plumbing** (4.9/5 on Google, 4.5/5 on Yelp) - Apollo Plumbing has been serving the NYC area for over 20 years, with a strong focus on customer service and quality work.\n4. **Mr. A",
+      "named_here": [
+        "Mr. Rooter Plumbing",
+        "Apollo Plumbing",
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. A"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'm happy to help you find a good plumber in New York, NY. However, I'm a large language model, I don't have personal recommendations or direct access to specific plumbers. But I can provide you with some options to find a reliable plumber:\n\n1. **Online Directories**:\n\t* Yelp: Search for \"plumbers in New York, NY\" and filter by rating, distance, and price.\n\t* Angie's List: A paid subscription-based service that provides reviews and ratings of local plumbers.\n\t* HomeAdvisor: A free platform that connects you with pre-screened plumbers in your area.\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors for recommendations. They might have had a good experience with a plumber in the past.\n",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Yelp",
+        "Angie's List",
+        "HomeAdvisor"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable plumbers in New York, NY. Here are a few options:\n\n1. **Roto-Rooter**: A well-known and reputable plumbing company with multiple locations in NYC. You can call their 24/7 emergency line at [phone removed] or visit their website to schedule a service.\n2. **Hobart & Gill**: A licensed and insured plumbing company serving NYC for over 20 years. You can reach them at [phone removed] or schedule a service through their website.\n3. **Merrill Plumbing**: A family-owned and operated plumbing company with a strong reputation in NYC. You can call them at [phone removed] or visit their website to schedule a service.\n4. **Jack of All Trades**: A licensed and insured plumbing company",
+      "named_here": [
+        "Roto-Rooter",
+        "Hobart & Gill",
+        "Merrill Plumbing",
+        "Jack of All Trades"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Finding a reliable plumber in New York City can be a challenge, but I can provide you with some options. Here are a few recommendations:\n\n**Online Review Sites:**\n\n1. **Angie's List**: Angie's List is a great resource to find top-rated plumbers in NYC. You can search for plumbers in your area and read reviews from other customers.\n2. **HomeAdvisor**: HomeAdvisor is another reputable platform that connects you with pre-screened plumbers in NYC. You can compare prices and read reviews from previous customers.\n3. **Thumbtack**: Thumbtack is a platform that allows you to post a job description and receive bids from multiple plumbers. You can compare prices and reviews before making a decision.\n\n",
+      "named_here": [
+        "Online Review Sites",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted plumbing options in New York, NY, based on customer reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted plumbing company in NYC. They offer 24/7 emergency services and have a 4.5-star rating on Google.\n2. **NYC Plumbers**: This family-owned business has been serving New York City for over 20 years. They offer a wide range of plumbing services, including drain cleaning, pipe repair, and water heater installation. They have a 4.8-star rating on Google.\n3. **Balkan Plumbing**: Balkan Plumbing has been in business for over 60 years and is known for their expert sewer a",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "NYC Plumbers",
+        "Balkan Plumbing"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted plumbers in New York, NY, based on online reviews and ratings:\n\n1. **Roto-Rooter**: With over 80 years of experience, Roto-Rooter is a well-established and reputable plumbing company with multiple locations in New York City. They offer 24/7 emergency services and have a rating of 4.5/5 on Google.\n2. **Mr. Rooter**: Another well-known plumbing company with a strong presence in NYC, Mr. Rooter offers a wide range of services, including drain cleaning, pipe repair, and water heater installation. They have a rating of 4.5/5 on Google.\n3. **Licensed Plumbers NYC**: This company is owned and operated by licensed plumbers with over 20 years of experience. They offe",
+      "named_here": [
+        "Roto-Rooter",
+        "Mr. Rooter",
+        "Licensed Plumbers NYC"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "The city that never sleeps! Finding a reliable plumber in New York City can be a challenge, but I've got some top recommendations for you. Here are some of the most trusted plumbing companies in New York, NY:\n\n1. **Mr. Rooter Plumbing of NYC**: With over 20 years of experience, Mr. Rooter has a 4.9-star rating on Google and is known for their fast response times and affordable prices.\n2. **Roto-Rooter Plumbing and Water Cleanup**: This national company has been serving NYC for over 80 years and has a 4.8-star rating on Google. They offer 24/7 emergency service and a wide range of plumbing services.\n3. **Mr. Appliance Plumbing**: With over 20 years in business, Mr. Appliance has a 4.8-star ra",
+      "named_here": [
+        "Mr. Rooter Plumbing of NYC",
+        "Roto-Rooter Plumbing and Water Cleanup",
+        "Mr. Appliance Plumbing"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some well-reputed plumbing companies in New York, NY:\n\n1. **Roto-Rooter**: With over 80 years of experience, Roto-Rooter is a trusted name in plumbing services, offering 24/7 emergency services.\n2. **Balkan Plumbing**: Family-owned and operated since 1952, Balkan Plumbing is a licensed and insured company serving the NYC area with a reputation for excellent customer service.\n3. **Dewitt Plumbing**: With over 30 years of experience, Dewitt Plumbing is a reliable choice for residential and commercial plumbing needs, offering 24-hour emergency services.\n4. **NYC Plumbers**: As a locally owned and operated company, NYC Plumbers provides fast and affordable plumbing services, including d",
+      "named_here": [
+        "Roto-Rooter",
+        "Balkan Plumbing",
+        "Dewitt Plumbing",
+        "NYC Plumbers"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated plumbing companies in New York, NY, known for their excellent reputation:\n\n1. **Roto-Rooter Plumbing & Water Cleanup** (4.9/5 on Google, 4.8/5 on Yelp) - A well-established company with over 80 years of experience, offering 24/7 emergency services.\n2. **Jackrabbit Heating & Plumbing** (4.9/5 on Google, 4.8/5 on Yelp) - A family-owned business with over 20 years of experience, providing fast and reliable plumbing services.\n3. **Licensed Plumbers NYC** (4.8/5 on Google, 4.7/5 on Yelp) - A licensed and insured company offering a wide range of plumbing services, including emergency repairs and installations.\n4. **All NYC Plumbing** (4.8/5 on Google, 4.7/5 on Yelp) - A ful",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Jackrabbit Heating & Plumbing",
+        "Licensed Plumbers NYC",
+        "All NYC Plumbing"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in New York, NY, based on online reviews and ratings from sources like Yelp, Angie's List, and Google:\n\n1.  **Mr. Rooter Plumbing of New York** (4.9/5 on Yelp, 4.9/5 on Google): A well-established company with over 30 years of experience, offering 24/7 emergency services.\n2.  **Mr. Appliance of New York** (4.8/5 on Yelp, 4.8/5 on Google): Part of the Mr. Rooter network, this company provides plumbing, HVAC, and appliance repair services.\n3.  **Roto-Rooter Plumbing & Water Cleanup of New York** (4.7/5 on Yelp, 4.6/5 on Google): A national company with a strong presence in the NYC area, offering plumbing, drain cleaning, and water damage restor",
+      "named_here": [
+        "Mr. Rooter Plumbing of New York",
+        "Mr. Appliance of New York"
+      ]
+    }
+  ]
+}

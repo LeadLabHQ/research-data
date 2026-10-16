@@ -1,0 +1,148 @@
+{
+  "trade": "drywall",
+  "market": "Miami, FL",
+  "run_date": "2026-10-15T20:22:39.461Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top-rated drywall contractors in Miami, FL, based on online reviews and ratings:\n\n1. **Drywall Solutions of Miami** (4.9/5 stars on Google) - Known for their high-quality work, competitive prices, and excellent customer service.\n2. **Miami Drywall Repair** (4.8/5 stars on Google) - Offers a wide range of drywall services, including repair, installation, and finishing.\n3. **Pro Drywall Services** (4.8/5 stars on Google) - Provides professional drywall installation, repair, and texturing services for residential and commercial projects.\n4. **Drywall Masters** (4.7/5 stars on Google) - Specializes in drywall installation, repair, and finishing, with a focus on attention to ",
+      "named_here": [
+        "Drywall Solutions of Miami",
+        "Miami Drywall Repair",
+        "Pro Drywall Services",
+        "Drywall Masters"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in Miami, FL, based on online reviews and ratings:\n\n1. **Drywall Miami**: With a 4.9-star rating on Google and over 500 reviews, Drywall Miami is a highly-recommended contractor for drywall installation, repair, and finishing.\n2. **Miami Drywall Pros**: This company has a 4.8-star rating on Google and offers a wide range of drywall services, including installation, repair, and texture coating.\n3. **All Drywall Miami**: With a 4.7-star rating on Google and over 200 reviews, All Drywall Miami is a trusted contractor for drywall installation, repair, and finishing services.\n4. **Drywall Repair Miami**: This company specializes in drywall repair and ha",
+      "named_here": [
+        "Drywall Miami",
+        "Miami Drywall Pros",
+        "All Drywall Miami",
+        "Drywall Repair Miami"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated drywall contractors in Miami, FL, based on online reviews and ratings:\n\n1.  **Drywall Masters**: A highly-rated contractor with a 4.9-star rating on Google and a 4.8-star rating on HomeAdvisor. They offer drywall installation, repair, and finishing services.\n2.  **Miami Drywall Repair**: A local business with a 4.9-star rating on Google and a 4.7-star rating on Angie's List. They specialize in drywall repair, installation, and texturing services.\n3.  **Drywall Pros**: A Miami-based contractor with a 4.8-star rating on Google and a 4.7-star rating on HomeAdvisor. They offer drywall installation, repair, and finishing services, including texture matching.\n4.  **All Dryw",
+      "named_here": [
+        "Drywall Masters",
+        "Miami Drywall Repair",
+        "Drywall Pros",
+        "All Dryw"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide general guidance on finding a reliable drywall contractor in Miami, FL. However, I don't have real-time access to specific contractors or their current availability. Here are some steps to help you find a good drywall contractor:\n\n1. **Online Search**: Use search engines like Google to look for drywall contractors in Miami, FL. You can use keywords like \"drywall contractors Miami,\" \"drywall repair Miami,\" or \"drywall installation Miami.\"\n2. **Check Reviews**: Look for contractors with good reviews on platforms like Yelp, Google Reviews, or Angie's List. Pay attention to the overall rating and read the comments to get an idea of their work quality and customer service.\n3. **Ask ",
+      "named_here": [
+        "Online Search",
+        "Check Reviews",
+        "Ask"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'm happy to help you find a reliable drywall contractor in Miami, FL! However, I'm a large language model, I don't have have access to real-time information or specific recommendations. But I can suggest some options to help you find a good drywall contractor:\n\n1. **Online Directories**:\n\t* Angie's List: A paid review platform that provides a list of top-rated drywall contractors in Miami.\n\t* HomeAdvisor: A popular website that connects homeowners with local contractors, including drywall specialists.\n\t* Yelp: A review platform where you can search for drywall contractors in Miami and read reviews from previous customers.\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors who have r",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Angie's List",
+        "HomeAdvisor",
+        "Yelp"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal connections or direct access to specific contractors in Miami, FL. But I can provide you with some suggestions on how to find a reliable drywall contractor in Miami.\n\nHere are a few options:\n\n1. **Check online directories**:\n\t* HomeAdvisor: A popular online platform that connects homeowners with pre-screened contractors, including drywall specialists in Miami.\n\t* Thumbtack: A platform that allows you to compare prices and services from multiple contractors, including drywall contractors in Miami.\n\t* Angie's List: A membership-based review website that provides ratings and reviews of local contractors, including drywall companies in M",
+      "named_here": [
+        "Check online directories",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Angie's List"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted drywall contractors in Miami, FL, based on online reviews and ratings:\n\n1. **Drywall Repair Miami** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\nAddress: 1234 SW 8th St, Miami, FL 33135\nPhone: [phone removed]\n2. **Miami Drywall Services** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\nAddress: 2345 NW 27th Ave, Miami, FL 33142\nPhone: [phone removed]\n3. **Drywall Masters of Miami** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\nAddress: 3456 SW 22nd St, Miami, FL 33145\nPhone: [phone removed]\n4. **All Drywall Services** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\nAddress: 4567 NW 36th St, Miami, FL 33166\nPhone: [phone removed]\n5. **Miami Drywall Pros** - 4.5/5 stars ",
+      "named_here": [
+        "Drywall Repair Miami",
+        "Miami Drywall Services",
+        "Drywall Masters of Miami",
+        "All Drywall Services",
+        "Miami Drywall Pros"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in Miami, FL, based on online reviews and ratings:\n\n1. **Drywall Miami** (4.9/5 on Google, 4.8/5 on Facebook)\n\t* Address: 1545 SW 8th St, Miami, FL 33135\n\t* Phone: [phone removed]\n\t* Services: Drywall installation, repair, texture, and finishing\n2. **Miami Drywall Pros** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Address: 1825 NW 2nd Ave, Miami, FL 33127\n\t* Phone: [phone removed]\n\t* Services: Drywall installation, repair, finishing, and painting\n3. **All Drywall Miami** (4.8/5 on Google, 4.7/5 on Facebook)\n\t* Address: 1320 SW 12th Ave, Miami, FL 33135\n\t* Phone: [phone removed]\n\t* Services: Drywall installation, repair, texture, and finishing\n4. **D",
+      "named_here": [
+        "Drywall Miami",
+        "Miami Drywall Pros",
+        "All Drywall Miami",
+        "Address",
+        "Phone",
+        "Services"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted drywall contractors in Miami, FL, based on online reviews and ratings:\n\n1.  **Drywall Plus**: With over 20 years of experience, Drywall Plus is a well-established and reputable drywall contractor in Miami. They offer a wide range of services, including drywall installation, repair, and finishing.\n2.  **Miami Drywall Services**: Miami Drywall Services has been serving the Miami area for over 15 years, providing expert drywall installation, repair, and finishing services. They have an A+ rating with the Better Business Bureau (BBB).\n3.  **Drywall Pros**: Drywall Pros is a Miami-based contractor with over 10 years of experience in drywall installation, repair, ",
+      "named_here": [
+        "Drywall Plus",
+        "Miami Drywall Services",
+        "Drywall Pros"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I've compiled a list of drywall contractors in Miami, FL, with good reputations based on online reviews and ratings. Please note that this information is subject to change and might not be comprehensive or up-to-date. Here are some of the top-rated drywall contractors in Miami:\n\n1. **Miami Drywall Repair** - 4.9/5 stars on Google, known for their prompt service and quality work.\n2. **Drywall Masters** - 4.8/5 stars on Google, praised for their attention to detail and competitive pricing.\n3. **South Florida Drywall** - 4.7/5 stars on Google, recognized for their reliability and excellent customer service.\n4. **Drywall Solutions** - 4.7/5 stars on Google, commended for their professionalism an",
+      "named_here": [
+        "Miami Drywall Repair",
+        "Drywall Masters",
+        "South Florida Drywall",
+        "Drywall Solutions"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I've compiled a list of highly-rated drywall contractors in Miami, FL, based on online reviews and ratings. Keep in mind that reputation can change over time, and it's always a good idea to do your own research and get multiple quotes before hiring a contractor. Here are some top-rated drywall contractors in Miami, FL:\n\n1. **Drywall Miami** (4.9/5 on Google, 4.8/5 on Facebook)\n\t* Address: 1545 SW 8th St, Miami, FL 33135\n\t* Phone: [phone removed]\n2. **Miami Drywall Pros** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Address: 1825 NW 2nd Ave, Miami, FL 33127\n\t* Phone: [phone removed]\n3. **All Drywall Miami** (4.8/5 on Google, 4.7/5 on Facebook)\n\t* Address: 1345 SW 122nd Ave, Miami, FL 33184\n\t* Phone: (30",
+      "named_here": [
+        "Drywall Miami",
+        "Miami Drywall Pros",
+        "All Drywall Miami",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I don't have direct access to real-time information about specific companies or their reputations. However, I can suggest some ways to find reliable drywall contractors in Miami, FL, and provide a list of some well-known companies that have been reviewed by customers online:\n\n**Ways to find reliable drywall contractors:**\n\n1.  **Check online review sites:** Websites like Yelp, Angie's List, and HomeAdvisor can provide you with a list of top-rated drywall contractors in Miami, along with their reviews and ratings.\n2.  **Ask for referrals:** Ask friends, family, or neighbors who have recently had drywall work done for recommendations.\n3.  **Check with the Better Business Bureau (BBB):** The BB",
+      "named_here": [
+        "Ways to find reliable drywall contractors",
+        "Check online review sites",
+        "Ask for referrals",
+        "Check with the Better Business Bureau"
+      ]
+    }
+  ]
+}

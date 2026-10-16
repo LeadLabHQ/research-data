@@ -1,0 +1,151 @@
+{
+  "trade": "painting",
+  "market": "Los Angeles, CA",
+  "run_date": "2026-10-15T19:34:35.557Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best painting companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top painting companies in Los Angeles, CA, based on customer reviews and ratings:\n\n1. **Certified Painting**: With over 20 years of experience, Certified Painting offers residential and commercial painting services, including interior and exterior painting, cabinet refinishing, and more.\n2. **College Pro Painters**: A well-established company with a strong reputation, College Pro Painters provides high-quality painting services for homes and businesses, with a focus on eco-friendly practices.\n3. **Dunn-Edwards Paints**: As a leading paint supplier, Dunn-Edwards also offers painting services through their network of contractors, ensuring high-quality work and excellent cu",
+      "named_here": [
+        "Certified Painting",
+        "College Pro Painters",
+        "Dunn-Edwards Paints"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated painting companies in Los Angeles, CA, based on online reviews, ratings, and reputation:\n\n1. **Houzz**: A well-known platform that connects homeowners with top-rated professionals, including painters. Their top-rated painting companies in LA include:\n\t* **N-Hance of Los Angeles** (4.9/5 stars, 500+ reviews)\n\t* **Painting LA** (4.8/5 stars, 200+ reviews)\n\t* **LA Painters** (4.8/5 stars, 200+ reviews)\n2. **Yelp**: A popular review website that provides insights into local businesses. Top-rated painting companies in LA on Yelp include:\n\t* **N-Hance of Los Angeles** (4.5/5 stars, 200+ reviews)\n\t* **Superior Painters** (4.5/5 stars, 100+ reviews)\n\t* **LA Painting Pr",
+      "named_here": [
+        "Houzz",
+        "N-Hance of Los Angeles",
+        "Painting LA",
+        "LA Painters",
+        "Yelp",
+        "Superior Painters",
+        "LA Painting Pr"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are the top painting companies in Los Angeles, CA, based on online reviews, ratings, and industry reputation:\n\n1.  **Sherwin-Williams**: One of the largest and most well-known painting companies in the US, with a wide range of products and expert technicians.\n\n2.  **Behr Paints**: Known for their affordable prices and high-quality paints, Behr offers a variety of services, including interior and exterior painting, staining, and refinishing.\n\n3.  **Benjamin Moore**: This company offers a wide range of high-end paints and expert services, including interior and exterior painting, color consulting, and stain work.\n\n4.  **Farrow & Ball**: A premium painting company with a focus on high-end,",
+      "named_here": [
+        "Sherwin-Williams",
+        "Behr Paints",
+        "Benjamin Moore",
+        "Farrow & Ball"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I don't have have access to real-time information or personal recommendations. However, I can provide you with some suggestions on how to find a good house painter in Los Angeles, CA:\n\n1. **Online Reviews**: Check websites like Yelp, Google Reviews, or Angie's List for highly-rated house painters in Los Angeles. Pay attention to the overall rating, number of reviews, and comments from previous customers.\n2. **Ask for Referrals**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide valuable insights into the painter's work quality, reliability, and communication.\n3. **Professional Associations**: Look for painters who are members of pr",
+      "named_here": [
+        "Online Reviews",
+        "Ask for Referrals",
+        "Professional Associations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a good house painter in Los Angeles, CA. However, I'm a large language model, I don't have have access to real-time information or personal experiences, so I can't provide a specific recommendation or phone number.\n\nThat being said, here are some suggestions on how to find a reliable house painter in Los Angeles:\n\n1. **Check online reviews**: Websites like Yelp, Angie's List, or HomeAdvisor can provide a list of top-rated painters in your area. Look for painters with a high rating (4+ stars) and a decent number of reviews.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide valua",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I can provide you with some general tips and suggestions on how to find a good house painter in Los Angeles, CA.\n\n**Before I give you some recommendations, here are some things to consider:**\n\n1. **Get multiple quotes**: Get quotes from at least 3-4 different painters to compare prices and services.\n2. **Check reviews and ratings**: Look up online reviews on sites like Yelp, Google, and Houzz to see what other customers have to say about their experiences.\n3. **Verify licenses and insurance**: Make sure the painter is properly licensed and insured to work in California.\n4. **Check their expertise**: Ensure they specialize in exterior or interior painting, or both.\n5. **Ask about the",
+      "named_here": [
+        "Get multiple quotes",
+        "Check reviews and ratings",
+        "Verify licenses and insurance",
+        "Check their expertise",
+        "Ask about the"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house painting companies in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Kelly-Moore Paints**: With multiple locations in LA, Kelly-Moore Paints offers high-quality painting services and products. (4.8/5 stars on Google)\n2. **Dunn-Edwards Paints**: Another well-known paint company with several locations in LA, Dunn-Edwards Paints provides professional painting services. (4.7/5 stars on Google)\n3. **Certified Painters**: This company has been serving LA for over 20 years, offering interior and exterior painting services. (4.9/5 stars on Google)\n4. **PaintGreen**: An eco-friendly painting company, PaintGreen uses low-VOC paints and offers a rang",
+      "named_here": [
+        "Kelly-Moore Paints",
+        "Dunn-Edwards Paints",
+        "Certified Painters",
+        "PaintGreen"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house painter options in Los Angeles, CA:\n\n1. **Benjamin Moore**: With multiple locations throughout LA, Benjamin Moore is a well-known and reputable brand that offers high-quality paints and expert painting services.\n2. **Sherwin-Williams**: Similar to Benjamin Moore, Sherwin-Williams is a trusted brand with multiple locations in LA. They offer a wide range of painting services, including interior and exterior painting.\n3. **Houzz**: Houzz is a popular platform that connects homeowners with pre-screened and reviewed professionals, including painters. You can find top-rated painters in LA on their website.\n4. **Angie's List**: Angie's List is another platfor",
+      "named_here": [
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "Houzz",
+        "Angie's List"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Finding a reliable and trustworthy house painter in Los Angeles, CA can be a bit overwhelming with so many options available. Here are some highly-recommended house painters in Los Angeles, based on online reviews and ratings:\n\n1. **Sherwin-Williams**: Sherwin-Williams is a well-established and reputable paint store with a large network of professional painters in Los Angeles. Their painters are certified and trained to provide high-quality painting services.\n2. **Farrow & Ball**: Farrow & Ball is a popular choice among homeowners in Los Angeles, known for their high-quality paints and expert painting services. Their painters are trained to provide a meticulous and detailed finish.\n3. **Benj",
+      "named_here": [
+        "Sherwin-Williams",
+        "Farrow & Ball",
+        "Benj"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some painting companies in Los Angeles, CA, with a good reputation based on online reviews and ratings:\n\n1. **Dunn-Edwards Paints**: With multiple locations in LA, Dunn-Edwards is a well-known and trusted painting company with a 4.5-star rating on Google.\n2. **Sherwin-Williams**: Another popular painting company with several locations in LA, Sherwin-Williams has a 4.4-star rating on Google and is known for its high-quality paints and services.\n3. **Kelly-Moore Paints**: With a 4.5-star rating on Google, Kelly-Moore Paints is a reputable painting company in LA that offers a wide range of painting services and products.\n4. **College Pro Painters**: This company has a 4.5-star rating o",
+      "named_here": [
+        "Dunn-Edwards Paints",
+        "Sherwin-Williams",
+        "Kelly-Moore Paints",
+        "College Pro Painters"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated painting companies in Los Angeles, CA, known for their excellent reputation:\n\n1. **Houzz Top Rated Painters**:\n\t* CertaPro Painters of Los Angeles (4.9/5)\n\t* Painters in Los Angeles - The Painting Company (4.8/5)\n\t* LA Painters (4.8/5)\n2. **Yelp Top Rated Painters**:\n\t* CertaPro Painters of Los Angeles (4.5/5, 500+ reviews)\n\t* The Painting Company (4.5/5, 200+ reviews)\n\t* My Favorite Painters (4.5/5, 200+ reviews)\n3. **Angie's List Top Rated Painters**:\n\t* CertaPro Painters of Los Angeles (4.5/5, 100+ reviews)\n\t* LA Painters (4.5/5, 50+ reviews)\n\t* Superior Painters (4.5/5, 50+ reviews)\n4. **Google Reviews Top Rated Painters**:\n\t* CertaPro Painters of Los Angeles (4.8",
+      "named_here": [
+        "Houzz Top Rated Painters",
+        "Yelp Top Rated Painters",
+        "Angie's List Top Rated Painters",
+        "Google Reviews Top Rated Painters",
+        "CertaPro Painters of Los Angeles",
+        "Painters in Los Angeles",
+        "LA Painters",
+        "The Painting Company",
+        "My Favorite Painters",
+        "Superior Painters"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some well-known and reputable painting companies in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Sherwin-Williams** (Multiple locations in LA)\n\t* 4.8/5 stars on Yelp, 4.5/5 stars on Google Reviews\n\t* Known for: High-quality paints, wide color selection, and professional service\n2. **Behr Paints** (Multiple locations in LA)\n\t* 4.7/5 stars on Yelp, 4.4/5 stars on Google Reviews\n\t* Known for: Affordable prices, wide range of colors, and excellent customer service\n3. **Benjamin Moore** (Multiple locations in LA)\n\t* 4.8/5 stars on Yelp, 4.5/5 stars on Google Reviews\n\t* Known for: High-quality paints, expert color matching, and professional painters\n4. **California Paint** ",
+      "named_here": [
+        "Sherwin-Williams",
+        "Behr Paints",
+        "Benjamin Moore",
+        "California Paint",
+        "Known for"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "trade": "hvac",
+  "market": "Los Angeles, CA",
+  "run_date": "2026-10-15T19:23:54.264Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best HVAC companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top HVAC companies in Los Angeles, CA, that are highly rated and recommended:\n\n1. **SoCal HVAC**: With over 20 years of experience, SoCal HVAC offers installation, repair, and maintenance services for residential and commercial clients.\n2. **Brody Pennell Heating and Air Conditioning**: This family-owned business has been serving the LA area for over 70 years, providing heating, cooling, and indoor air quality solutions.\n3. **Kahn Air Conditioning**: Kahn Air Conditioning has been in business for over 30 years, offering a wide range of HVAC services, including installation, repair, and maintenance.\n4. **Temperature Control**: Temperature Control is a full-service HVAC co",
+      "named_here": [
+        "SoCal HVAC",
+        "Brody Pennell Heating and Air Conditioning",
+        "Kahn Air Conditioning",
+        "Temperature Control"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated HVAC companies in Los Angeles, CA, based on online reviews, ratings, and reputation:\n\n**Top-Rated HVAC Companies:**\n\n1. **The Socal HVAC Company** (4.9/5 on Google, 4.8/5 on Yelp) - Known for their excellent customer service and expert technicians.\n2. **Aire Serv of Los Angeles** (4.8/5 on Google, 4.7/5 on Yelp) - A trusted provider of heating, cooling, and indoor air quality solutions.\n3. **Mr. Cool LA** (4.8/5 on Google, 4.7/5 on Yelp) - Offers a wide range of HVAC services, including installation, repair, and maintenance.\n4. **California Air Conditioning Systems, Inc.** (4.7/5 on Google, 4.6/5 on Yelp) - A family-owned business with over 40 years of experien",
+      "named_here": [
+        "Top-Rated HVAC Companies",
+        "The Socal HVAC Company",
+        "Aire Serv of Los Angeles",
+        "Mr. Cool LA",
+        "California Air Conditioning Systems, Inc"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated HVAC companies in Los Angeles, CA, based on online reviews, ratings, and reputation:\n\n1. **Service Experts Heating & Air Conditioning** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* A national company with a strong presence in Los Angeles, offering 24/7 emergency service and a 100% satisfaction guarantee.\n2. **All Phase Air Conditioning & Heating** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* A locally-owned and operated company with over 30 years of experience, serving Los Angeles and surrounding areas.\n3. **TempControl Heating & Air Conditioning** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* A family-owned business with over 20 years of experience, of",
+      "named_here": [
+        "Service Experts Heating & Air Conditioning",
+        "All Phase Air Conditioning & Heating",
+        "TempControl Heating & Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "There are many reputable HVAC companies in Los Angeles, CA. Here are a few options you may consider:\n\n1. **SoCal HVAC**: They offer a wide range of services, including installation, repair, and maintenance of heating and cooling systems.\n2. **LA HVAC Experts**: This company provides 24/7 emergency services and has a team of experienced technicians who can handle various HVAC issues.\n3. **Brody Pennell Heating and Air Conditioning**: They have been serving the Los Angeles area for over 70 years and offer services such as installation, repair, and maintenance of heating and cooling systems.\n4. **Temperature Control Service**: This company offers a variety of services, including HVAC installati",
+      "named_here": [
+        "SoCal HVAC",
+        "LA HVAC Experts",
+        "Brody Pennell Heating and Air Conditioning",
+        "Temperature Control Service"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable HVAC company in Los Angeles, CA. However, I don't have personal experiences or real-time reviews, but I can suggest some options to consider:\n\n1. **Online Reviews**: Check online review platforms like Yelp, Google Reviews, or Facebook Reviews to find top-rated HVAC companies in Los Angeles. Look for companies with a high overall rating (4+ stars) and pay attention to the number of reviews.\n2. **Word of Mouth**: Ask friends, family, or neighbors who have recently had HVAC work done for recommendations.\n3. **Professional Associations**: Look for companies that are members of professional associations like the Air Conditioning Contractors of America (ACC",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth",
+        "Professional Associations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "A good HVAC (Heating, Ventilation, and Air Conditioning) company in Los Angeles, CA can be a bit of a challenge to find, but I can provide you with some recommendations. Keep in mind that I'm a large language model, I don't have personal experiences or endorsements, but I can give you some suggestions based on online reviews and ratings. Here are a few reputable HVAC companies in Los Angeles:\n\n1. **Service Experts Heating & Air Conditioning**: They have an A+ rating with the Better Business Bureau (BBB) and a 4.8-star rating on Google Reviews. They offer a wide range of services, including installation, repair, and maintenance for heating and cooling systems.\n2. **Rheem**: Rheem is a well-kn",
+      "named_here": [
+        "Service Experts Heating & Air Conditioning",
+        "Rheem"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted HVAC companies in Los Angeles, CA, based on online reviews and ratings:\n\n1. **SoCal HVAC** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Services: Heating, cooling, ventilation, and air quality solutions\n\t* Areas served: Los Angeles, Orange County, and surrounding areas\n2. **Brody Pennell Heating and Air Conditioning** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* Services: Heating, cooling, and air conditioning installation, repair, and maintenance\n\t* Areas served: Los Angeles, Beverly Hills, and surrounding areas\n3. **Kahn Air Conditioning** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n\t* Services: Heating, cooling, and air conditioning installation, r",
+      "named_here": [
+        "SoCal HVAC",
+        "Brody Pennell Heating and Air Conditioning",
+        "Kahn Air Conditioning",
+        "Services",
+        "Areas served"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Trusted HVAC Companies in Los Angeles, CA\n\nBased on online reviews, ratings, and licenses, here are some of the most trusted HVAC companies in Los Angeles, CA:\n\n### Top-Rated Companies\n\n1. **American Air Conditioning**: With a 4.8-star rating on Google and 25+ years of experience, they offer residential and commercial HVAC services, including installation, repair, and maintenance.\n\t* License: C-20 (HVAC)\n\t* Reviews: 500+ reviews on Google, Yelp, and Facebook\n2. **Dynamic Air**: This Los Angeles-based company has a 4.9-star rating on Google and offers a wide range of HVAC services, including duct cleaning, air quality testing, and energy-efficient solutions.\n\t* License: C-20 (HVAC)\n\t* Revi",
+      "named_here": [
+        "American Air Conditioning",
+        "Dynamic Air",
+        "License",
+        "Reviews",
+        "Revi"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Los Angeles! A city with a diverse climate that requires reliable HVAC services. Here are some of the most trusted HVAC companies in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Service Experts Heating & Air Conditioning**: A national company with a strong presence in LA, Service Experts offers a wide range of HVAC services, including installation, repair, and maintenance. (4.8/5 on Yelp, 4.9/5 on Google)\n2. **Comfortech**: A locally owned and operated company with over 30 years of experience, Comfortech provides residential and commercial HVAC services, including ductless systems and solar-powered solutions. (4.9/5 on Yelp, 4.8/5 on Google)\n3. **A-1 Heating and Air Conditioni",
+      "named_here": [
+        "Service Experts Heating & Air Conditioning",
+        "Comfortech",
+        "A-1 Heating and Air Conditioni"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some HVAC companies in Los Angeles, CA, with a good reputation:\n\n1. **SoCal HVAC**: Known for their reliable and efficient services, SoCal HVAC has a 4.9-star rating on Google and is accredited by the Better Business Bureau (BBB).\n2. **Brody Pennell Heating and Air Conditioning**: With over 70 years of experience, Brody Pennell has a 4.8-star rating on Google and is a Carrier Factory Authorized Dealer.\n3. **Kahn Air Conditioning**: This family-owned business has a 4.9-star rating on Google and is a Trane Comfort Specialist, offering a wide range of HVAC services.\n4. **Temperature Control Service**: With a 4.8-star rating on Google, Temperature Control Service is a Lennox Premier Dea",
+      "named_here": [
+        "SoCal HVAC",
+        "Brody Pennell Heating and Air Conditioning",
+        "Kahn Air Conditioning",
+        "Temperature Control Service"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Los Angeles, CA\n\nTo determine the best HVAC companies in Los Angeles, CA, we analyzed reviews and ratings from multiple sources, including:\n\n* Yelp\n* Google Reviews\n* HomeAdvisor\n* BBB (Better Business Bureau)\n\nWe considered factors such as:\n\n* Overall rating\n* Number of reviews\n* Customer satisfaction\n* Accreditation and certifications\n\n### Top HVAC Companies in Los Angeles, CA\n\nHere are the top-rated HVAC companies in Los Angeles, CA:\n\n1. **The Socal HVAC Company** (4.9/5 on Yelp, 4.8/5 on Google Reviews)\n\t* Address: 14445 Ventura Blvd, Sherman Oaks, CA 91423\n\t* Services: Heating, ventilation, air conditioning, and indoor air quality solutions\n\t* Licenses and",
+      "named_here": [
+        "The Socal HVAC Company",
+        "Yelp",
+        "Google Reviews",
+        "HomeAdvisor",
+        "BBB",
+        "Number of reviews",
+        "Customer satisfaction",
+        "Accreditation and certifications",
+        "Address",
+        "Services",
+        "Licenses and"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some HVAC companies in Los Angeles, CA with a good reputation based on online reviews and ratings:\n\n1. **Temecula Valley Air Conditioning and Heating** (4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews)\n\t* Known for their prompt, professional service and competitive pricing.\n2. **Comfort Zone Heating and Air** (4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews)\n\t* Offers 24/7 emergency service and has a reputation for being reliable and efficient.\n3. **Rheem Air Conditioning and Heating** (4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews)\n\t* A well-established company with a wide range of HVAC services and a strong warranty program.\n4. **All Star Heating and Air Conditioning** ",
+      "named_here": [
+        "Temecula Valley Air Conditioning and Heating",
+        "Comfort Zone Heating and Air",
+        "Rheem Air Conditioning and Heating",
+        "All Star Heating and Air Conditioning"
+      ]
+    }
+  ]
+}

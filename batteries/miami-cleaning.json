@@ -1,0 +1,142 @@
+{
+  "trade": "cleaning",
+  "market": "Miami, FL",
+  "run_date": "2026-10-15T20:21:24.113Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best house cleaning companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated house cleaning companies in Miami, FL, based on customer reviews and ratings:\n\n1. **Molly Maid**: A well-known and reputable cleaning company with a location in Miami, offering customized cleaning services and a 100% satisfaction guarantee.\n2. **The Cleaning Authority**: A professional cleaning company with a strong presence in Miami, providing eco-friendly cleaning services and a commitment to excellence.\n3. **Cleanify**: A popular cleaning company in Miami, offering flexible scheduling, affordable prices, and a focus on customer satisfaction.\n4. **Handy**: A well-established cleaning company with a large network of professionals in Miami, providing a range of cleani",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Cleanify",
+        "Handy"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated house cleaning companies in Miami, FL:\n\n1. **The Cleaning Authority - Miami**: With a 4.9-star rating on Google and over 10 years of experience, they offer one-time, weekly, bi-weekly, and monthly cleaning services.\n2. **Merry Maids of Miami**: A franchise with a 4.8-star rating on Google, they provide reliable and thorough cleaning services, including deep cleaning and move-in/move-out cleaning.\n3. **Cleanify**: With a 4.9-star rating on Google and a team of expert cleaners, they offer flexible scheduling and a satisfaction guarantee.\n4. **The Cleaning Pros**: A locally-owned company with a 4.8-star rating on Google, they provide eco-friendly cleaning services",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Miami",
+        "Cleanify",
+        "The Cleaning Pros"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated house cleaning companies in Miami, FL, based on online reviews and ratings:\n\n1. **MaidPro Miami** (4.9/5) - Known for their eco-friendly cleaning solutions and customizable cleaning plans.\n2. **The Cleaning Authority** (4.8/5) - Offers a range of cleaning services, including one-time cleans and regular maintenance.\n3. **TaskRabbit** (4.8/5) - A task-completion platform that connects customers with local, background-checked cleaners.\n4. **Maids by TradeMark** (4.8/5) - Provides eco-friendly cleaning services and specializes in move-in/move-out cleans.\n5. **The Cleaning Service Pros** (4.7/5) - Offers a 100% satisfaction guarantee and a range of cleaning services",
+      "named_here": [
+        "MaidPro Miami",
+        "The Cleaning Authority",
+        "TaskRabbit",
+        "Maids by TradeMark",
+        "The Cleaning Service Pros"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a good house cleaning company in Miami, FL. However, I'm a large language model, I don't have have access to real-time information about specific companies or their current availability. But I can provide you with some suggestions on how to find a reliable house cleaning company in Miami:\n\n1. **Online Search**: You can search for house cleaning companies in Miami on Google or other search engines. Use keywords like \"house cleaning services Miami\", \"maid services Miami\", or \"residential cleaning Miami\". This will give you a list of companies that offer cleaning services in your area.\n2. **Review Websites**: Check review websites like Yelp, Angie's List, or HomeAd",
+      "named_here": [
+        "Online Search",
+        "Review Websites"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable house cleaning companies in Miami, FL. Here are a few options you can consider:\n\n1. **The Cleaning Authority - Miami**: [phone removed]\nThe Cleaning Authority is a well-established and reputable cleaning company with experienced staff and a wide range of services, including one-time, weekly, bi-weekly, and monthly cleanings.\n2. **Merry Maids of Miami**: [phone removed]\nMerry Maids is a national franchise with a strong presence in Miami. They offer customized cleaning services, eco-friendly cleaning products, and a satisfaction guarantee.\n3. **Cleanify**: [phone removed]\nCleanify is a Miami-based company that offers a range of cleaning services, including residential and ",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Miami",
+        "Cleanify"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal recommendations or direct connections to specific companies. But I can provide you with some tips on how to find a reliable house cleaning company in Miami, FL.\n\nHere are a few suggestions:\n\n1. **Online Reviews**: Check online review platforms like:\n\t* Yelp: Filter by location and read reviews from other customers.\n\t* Google Reviews: Look for companies with high ratings and a large number of reviews.\n\t* HomeAdvisor, Angie's List, or Thumbtack: Websites that provide pre-screened professionals and customer reviews.\n2. **Word of Mouth**: Ask friends, family, or neighbors for recommendations. They might have had a good experience with a ",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth",
+        "Yelp",
+        "Google Reviews",
+        "HomeAdvisor, Angie's List, or Thumbtack"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house cleaning companies in Miami, FL, based on online reviews and ratings:\n\n1. **Molly Maid**: With over 30 years of experience, Molly Maid is a well-established and reputable cleaning company in Miami. They offer customized cleaning services and have a 4.8-star rating on Google.\n2. **The Cleaning Authority**: This eco-friendly cleaning company uses environmentally responsible products and has a 4.7-star rating on Google. They offer one-time, weekly, bi-weekly, and monthly cleaning services.\n3. **Cleanify**: Cleanify is a popular cleaning company in Miami that offers flexible scheduling and a 4.8-star rating on Google. They use eco-friendly products and hav",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Cleanify"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house cleaning companies in Miami, FL:\n\n1. **The Cleaning Authority - Miami**: With a 4.9-star rating on Google and 4.8-star rating on Facebook, this company is known for its reliable and thorough cleaning services. They offer one-time, weekly, bi-weekly, and monthly cleaning services.\n2. **Merry Maids of Miami**: Merry Maids is a well-established company with a 4.8-star rating on Google and 4.9-star rating on Facebook. They offer a range of cleaning services, including move-in/move-out cleaning and special occasion cleaning.\n3. **Cleanify**: Cleanify has a 4.9-star rating on Google and 4.8-star rating on Facebook. They offer eco-friendly cleaning services a",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Miami",
+        "Cleanify"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Miami! Beautiful city! I've got you covered. Here are some of the most trusted house cleaning companies in Miami, FL:\n\n1. **Molly Maid**: A well-established franchise with over 20 years of experience in Miami, offering customized cleaning services for homes and offices.\n2. **The Cleaning Authority**: A professional cleaning company with a strong reputation in Miami, using a proprietary cleaning system and eco-friendly products.\n3. **TaskRabbit**: A popular task-completion platform that connects you with local, background-checked cleaning professionals in Miami.\n4. **Thumbtack**: A similar platform to TaskRabbit, allowing you to compare prices and reviews for various cleaning services in Miam",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "TaskRabbit",
+        "Thumbtack"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some house cleaning companies in Miami, FL with a good reputation:\n\n1. **Molly Maid of Miami**: With an average rating of 4.9/5 on Google and 4.8/5 on Yelp, Molly Maid is a well-established and trusted cleaning service provider in Miami.\n2. **The Cleaning Authority**: This company has an average rating of 4.8/5 on Google and 4.7/5 on Yelp. They offer eco-friendly cleaning services and have a strong reputation for reliability and quality.\n3. **CleanNet USA**: With an average rating of 4.7/5 on Google and 4.6/5 on Yelp, CleanNet USA is a popular choice for residential and commercial cleaning services in Miami.\n4. **Miami Maid Service**: This locall",
+      "named_here": [
+        "Molly Maid of Miami",
+        "The Cleaning Authority",
+        "CleanNet USA",
+        "Miami Maid Service"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated house cleaning companies in Miami, FL, based on online reviews and ratings:\n\n1. **The Cleaning Authority - Miami**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Offers one-time, weekly, bi-weekly, and monthly cleaning services.\n2. **Merry Maids of Miami**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Provides residential and commercial cleaning services, including move-in/move-out cleaning.\n3. **The Cleaning Pros**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Offers eco-friendly cleaning services, including green cleaning products and practices.\n4. **Cleanify**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Provides one-time, weekly, and recurring cleaning services, with ",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Miami",
+        "The Cleaning Pros",
+        "Cleanify"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some well-known house cleaning companies in Miami, FL with a good reputation based on online reviews and ratings:\n\n1. **Molly Maid of Miami-Dade**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews. They offer customized cleaning services, including one-time and recurring cleanings.\n2. **The Cleaning Authority of Miami**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews. They use eco-friendly cleaning solutions and offer a variety of cleaning services, including move-in/move-out cleanings.\n3. **Servpro of Miami**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews. They offer residential and commercial cleaning services, including disaster restoration and carpet cleaning.\n4. **Ma",
+      "named_here": [
+        "Molly Maid of Miami-Dade",
+        "The Cleaning Authority of Miami",
+        "Servpro of Miami",
+        "Ma"
+      ]
+    }
+  ]
+}

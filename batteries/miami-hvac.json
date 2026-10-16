@@ -1,0 +1,148 @@
+{
+  "trade": "hvac",
+  "market": "Miami, FL",
+  "run_date": "2026-10-15T20:18:30.626Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best HVAC companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated HVAC companies in Miami, FL, based on customer reviews and ratings:\n\n1. **Air Masters Inc.**: With over 30 years of experience, Air Masters offers installation, repair, and maintenance services for residential and commercial HVAC systems.\n2. **One Hour Air Conditioning & Heating**: A well-known national brand with a local presence in Miami, One Hour Air provides 24/7 emergency services and a 100% satisfaction guarantee.\n3. **Service Experts**: With a strong reputation for reliability and professionalism, Service Experts offers a wide range of HVAC services, including installation, repair, and maintenance.\n4. **Santoro's Air Conditioning & Heating**: A family-owned bus",
+      "named_here": [
+        "Air Masters Inc",
+        "One Hour Air Conditioning & Heating",
+        "Service Experts",
+        "Santoro's Air Conditioning & Heating"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top HVAC Companies in Miami, FL \n\nHere are some of the top HVAC companies in Miami, FL, that I'd recommend:\n\n### Top-Rated Companies \n\n1. **Carrier**: As a leading manufacturer of HVAC systems, Carrier has a network of authorized dealers in Miami, offering top-notch equipment and expert installation.\n2. **American Air Heating & Cooling**: With over 20 years of experience, this company offers comprehensive HVAC services, including installation, repair, and maintenance.\n3. **Miami Air Conditioning**: This Miami-based company provides 24/7 emergency services, maintenance, and installation of air conditioning and heating systems.\n4. **Air-Conditioning.com**: With over 15 years of experience, ",
+      "named_here": [
+        "Carrier",
+        "American Air Heating & Cooling",
+        "Miami Air Conditioning",
+        "Air-Conditioning.com"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top HVAC companies in Miami, FL, based on online reviews, ratings, and reputation:\n\n1. **Air Dynamics of Miami** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Known for their prompt service, competitive pricing, and high-quality installations.\n2. **Comfort Zone HVAC** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Offers a wide range of HVAC services, including installation, repair, and maintenance.\n3. **Miami Air Conditioning Pros** (4.8/5 on Google, 4.6/5 on Yelp)\n\t* Provides emergency services, including 24/7 repair and maintenance.\n4. **Sunshine Air Conditioning** (4.7/5 on Google, 4.6/5 on Yelp)\n\t* Offers energy-efficient solutions, including solar-powered HVAC systems.\n5. **Aire Serv o",
+      "named_here": [
+        "Air Dynamics of Miami",
+        "Comfort Zone HVAC",
+        "Miami Air Conditioning Pros",
+        "Sunshine Air Conditioning",
+        "Aire Serv o"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good HVAC company in Miami, FL. However, I don't have real-time access to specific company information or personal recommendations. That being said, here are some steps you can take to find a reliable HVAC company in Miami:\n\n1. **Online Search**: You can start by searching online for \"HVAC companies in Miami, FL\" or \"air conditioning repair in Miami.\" This will give you a list of companies in your area.\n2. **Check Reviews**: Look up reviews on websites like Yelp, Google, or Angie's List to see what other customers have to say about their experiences with different HVAC companies.\n3. **Ask for Referrals**: Ask friends, family, or neigh",
+      "named_here": [
+        "Online Search",
+        "Check Reviews",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Based on online reviews and ratings, here are some top-rated HVAC companies in Miami, FL:\n\n1. **Carrier Air Conditioning**: A well-established company with over 30 years of experience in Miami. They offer a wide range of HVAC services, including installation, repair, and maintenance. [phone removed]\n2. **Miami Air Conditioning**: A family-owned business with over 20 years of experience. They provide 24/7 emergency services and offer competitive pricing. [phone removed]\n3. **Air-Temp of Miami**: A trusted company with over 50 years of experience in the HVAC industry. They offer a variety of services, including duct cleaning and indoor air quality solutions. [phone removed]\n4. **Climate Control S",
+      "named_here": [
+        "Carrier Air Conditioning",
+        "Miami Air Conditioning",
+        "Air-Temp of Miami",
+        "Climate Control S"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Miami has a lot of great HVAC companies to choose from. Here are a few highly-rated options:\n\n1.  **American Air & Heat**: American Air & Heat has been serving Miami for over 30 years. They offer a wide range of services, including air conditioning, heating, and indoor air quality solutions.\n\n2.  **Comfort Zone**: Comfort Zone is a family-owned and operated business that has been serving Miami-Dade County for over 40 years. They provide a variety of services, including air conditioning repair, installation, and maintenance.\n\n3.  **Dyson's Air Conditioning**: Dyson's Air Conditioning has been serving Miami for over 20 years. They specialize in air conditioning and heating services, including ",
+      "named_here": [
+        "American Air & Heat",
+        "Comfort Zone",
+        "Dyson's Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted HVAC companies in Miami, FL, based on online reviews and ratings:\n\n1. **Air On Demand**: With over 20 years of experience, Air On Demand is a family-owned and operated business that provides heating, ventilation, and air conditioning services to Miami residents.\n\t* Rating: 4.9/5 (Google), 4.8/5 (HomeAdvisor)\n2. **Cool Air Technologies**: This company has been serving Miami for over 15 years, offering a range of HVAC services, including installation, repair, and maintenance.\n\t* Rating: 4.8/5 (Google), 4.7/5 (HomeAdvisor)\n3. **Florida Cooling Solutions**: With a team of experienced technicians, Florida Cooling Solutions provides HVAC services, including air co",
+      "named_here": [
+        "Air On Demand",
+        "Cool Air Technologies",
+        "Florida Cooling Solutions",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Most Trusted HVAC Companies in Miami, FL\n\nTo determine the most trusted HVAC companies in Miami, FL, we considered factors such as:\n\n* Online reviews and ratings\n* Licenses and certifications\n* Years of experience in the industry\n* Range of services offered\n* Awards and recognition\n\nBased on these criteria, here are some of the top-rated and most trusted HVAC companies in Miami, FL:\n\n### Top-Rated Options\n\n1. **Carrier: Miami Air Conditioning & Heating** - A Carrier-authorized dealer with over 30 years of experience, offering a wide range of HVAC services, including installation, repair, and maintenance.\n\t* Rating: 4.8/5 stars on Google, 4.9/5 stars on Facebook\n\t* License: Florida License",
+      "named_here": [
+        "Carrier",
+        "Online reviews and ratings",
+        "Licenses and certifications",
+        "Years of experience in the industry",
+        "Range of services offered",
+        "Awards and recognition",
+        "Carrier: Miami Air Conditioning & Heating",
+        "Rating",
+        "License"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted HVAC companies in Miami, FL, based on online reviews and ratings:\n\n1. **Temp Control Systems**: A family-owned business with over 30 years of experience, serving Miami and surrounding areas. They offer installation, repair, and maintenance services for residential and commercial HVAC systems.\n\t* Yelp: 4.9/5\n\t* Google Reviews: 4.8/5\n2. **Air Comfort Solutions**: A locally owned and operated company with over 20 years of experience, providing HVAC installation, repair, and maintenance services for residential and commercial clients.\n\t* Yelp: 4.8/5\n\t* Google Reviews: 4.7/5\n3. **Miami Air Conditioning**: A family-owned business with over 40 years of experience, ",
+      "named_here": [
+        "Temp Control Systems",
+        "Air Comfort Solutions",
+        "Miami Air Conditioning",
+        "Yelp",
+        "Google Reviews"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some HVAC companies in Miami, FL with a good reputation, based on online reviews and ratings:\n\n1. **Air On Demand**: 4.9/5 stars on Google, 4.8/5 stars on Yelp - Known for their reliable and efficient air conditioning services.\n2. **Cool Air Technologies**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Offers a wide range of HVAC services, including installation, repair, and maintenance.\n3. **Florida Cooling Solutions**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Provides personalized HVAC services, including energy-efficient solutions.\n4. **All Year Cooling**: 4.7/5 stars on Google, 4.6/5 stars on Yelp - Offers affordable and reliable air conditioning services, including maintenan",
+      "named_here": [
+        "Air On Demand",
+        "Cool Air Technologies",
+        "Florida Cooling Solutions",
+        "All Year Cooling"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Miami, FL\n\nBased on online reviews and ratings, here are some of the top-rated HVAC companies in Miami, FL:\n\n### Companies with a Strong Reputation\n\n1. **Carrier/Bryant Authorized Dealer - Miami Air Conditioning**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer a wide range of HVAC services, including installation, repair, and maintenance.\n2. **American Air Conditioning**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They provide residential and commercial HVAC services, including air conditioning, heating, and indoor air quality solutions.\n3. **Miami AC Repair - Air On Demand**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer 24/7 emergency AC re",
+      "named_here": [
+        "Carrier/Bryant Authorized Dealer",
+        "American Air Conditioning",
+        "Miami AC Repair"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some well-regarded HVAC companies in Miami, FL, based on online reviews and ratings from various sources like Yelp, Google, and the Better Business Bureau:\n\n1. **Aire Serv of Miami**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Aire Serv is a national company with a strong presence in Miami, offering heating and cooling services, maintenance, and repairs.\n2. **Airmaxx AC & Heating**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Airmaxx is a locally owned and operated company serving Miami and surrounding areas, providing HVAC installation, repair, and maintenance services.\n3. **Heil Plumbing, Heating, and Air Conditioning**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Heil is a famil",
+      "named_here": [
+        "Aire Serv of Miami",
+        "Airmaxx AC & Heating",
+        "Heil Plumbing, Heating, and Air Conditioning"
+      ]
+    }
+  ]
+}

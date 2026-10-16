@@ -1,0 +1,163 @@
+{
+  "trade": "drywall",
+  "market": "Houston, TX",
+  "run_date": "2026-10-15T19:50:12.529Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated drywall contractors in Houston, TX, based on online reviews and ratings:\n\n1. **Houston Drywall Repair** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Drywall Masters** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Texas Drywall** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **Drywall Services Houston** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Houston Drywall Installation** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Pro Drywall** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **Drywall Repair Houston** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n8. **Houston Drywall Contractors** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n9. **Drywall Sol",
+      "named_here": [
+        "Houston Drywall Repair",
+        "Drywall Masters",
+        "Texas Drywall",
+        "Drywall Services Houston",
+        "Houston Drywall Installation",
+        "Pro Drywall",
+        "Drywall Repair Houston",
+        "Houston Drywall Contractors",
+        "Drywall Sol"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in Houston, TX, based on online reviews and ratings:\n\n1. **Drywall Houston** (4.9/5 on Google, 4.8/5 on Yelp) - Offers drywall installation, repair, and finishing services.\n2. **All Drywall Houston** (4.8/5 on Google, 4.7/5 on Yelp) - Provides drywall installation, repair, and texture services.\n3. **Houston Drywall Pros** (4.8/5 on Google, 4.7/5 on Yelp) - Offers drywall installation, repair, and finishing services, including popcorn ceiling removal.\n4. **Drywall Repair Houston** (4.7/5 on Google, 4.6/5 on Yelp) - Specializes in drywall repair, installation, and texture services.\n5. **Texas Drywall Solutions** (4.7/5 on Google, 4.6/5 on Yelp) - Off",
+      "named_here": [
+        "Drywall Houston",
+        "All Drywall Houston",
+        "Houston Drywall Pros",
+        "Drywall Repair Houston",
+        "Texas Drywall Solutions"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated drywall contractors in Houston, TX, based on online reviews and ratings:\n\n**Please note:** I've compiled this list from online reviews on platforms like Angie's List, HomeAdvisor, Yelp, and Google Reviews. The ratings can change over time, and it's essential to do your own research and check current ratings before hiring a contractor.\n\n1. **ABC Drywall Repair Services** (4.9/5 on Google Reviews)\n\t* Specialize in drywall repair, installation, and finishing\n\t* Serving Houston and surrounding areas\n2. **Drywall Pro Houston** (4.8/5 on Google Reviews)\n\t* Offers drywall installation, repair, and finishing services\n\t* Serves Houston, Cypress, The Woodlands, and surrounding ",
+      "named_here": [
+        "Please note",
+        "ABC Drywall Repair Services",
+        "Drywall Pro Houston",
+        "Serving Houston and surrounding areas"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide some general guidance on finding a good drywall contractor in Houston, TX. However, I don't have real-time access to specific contractors or their current availability. Here are some steps you can take to find a reliable drywall contractor:\n\n1. **Online Search**: You can start by searching online for \"drywall contractors in Houston, TX\" or \"drywall repair services in Houston.\" This will give you a list of potential contractors in your area.\n2. **Check Reviews**: Look up reviews on websites like Yelp, Google, or Angie's List to see what other customers have to say about the contractors you're considering. Pay attention to their ratings, comments, and complaints.\n3. **Ask for Ref",
+      "named_here": [
+        "Online Search",
+        "Check Reviews",
+        "Ask for Ref"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable drywall contractor in Houston, TX! However, I'm a large language model, I don't have have access to real-time information or personal experiences, so I can't provide a specific recommendation. But I can suggest some options to help you find a good drywall contractor:\n\n1. **Online Directories**:\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n\t* Yelp (yelp.com)\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors who have recently done drywall work for recommendations.\n\t* Check online reviews on social media platforms like Facebook or Nextdoor.\n3. **Professional Associations**:\n\t* National Drywall & ",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Professional Associations",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Yelp",
+        "National Drywall &"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I can provide you with some suggestions on how to find a reliable drywall contractor in Houston, TX. Unfortunately, I don't have personal recommendations or direct connections to specific contractors. But I can guide you through the process of finding a good drywall contractor.\n\nHere are some steps to help you find a reliable drywall contractor in Houston:\n\n1.  **Online Search**: You can start by searching online for drywall contractors in Houston. Websites like Houzz, Angie's List, and Yelp can provide a list of contractors in your area. You can also check online directories like HomeAdvisor, Thumbtack, or Angie's List.\n2.  **Ask for Referrals**: Ask friends, family, or neighbors w",
+      "named_here": [
+        "Online Search",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted drywall contractors in Houston, TX, based on online reviews and ratings:\n\n1. **Houston Drywall Repair** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Drywall Services Houston** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Texas Drywall** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **Drywall Masters** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Houston Drywall Pros** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Drywall Repair Houston** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **All Star Drywall** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n8. **Drywall Solutions** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n9. **Houston Drywal",
+      "named_here": [
+        "Houston Drywall Repair",
+        "Drywall Services Houston",
+        "Texas Drywall",
+        "Drywall Masters",
+        "Houston Drywall Pros",
+        "Drywall Repair Houston",
+        "All Star Drywall",
+        "Drywall Solutions",
+        "Houston Drywal"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in Houston, TX, based on online reviews and ratings:\n\n1. **Drywall Houston** (4.9/5 on Google, 4.8/5 on Yelp) - Offers drywall installation, repair, and finishing services.\n2. **Houston Drywall Pros** (4.8/5 on Google, 4.7/5 on Yelp) - Provides drywall installation, texture, and painting services.\n3. **All Drywall Houston** (4.8/5 on Google, 4.7/5 on Yelp) - Offers drywall repair, installation, and finishing services, including popcorn ceiling removal.\n4. **Drywall Repair Houston** (4.7/5 on Google, 4.6/5 on Yelp) - Specializes in drywall repair, installation, and texture services.\n5. **Texas Drywall Solutions** (4.7/5 on Google, 4.6/5 on",
+      "named_here": [
+        "Drywall Houston",
+        "Houston Drywall Pros",
+        "All Drywall Houston",
+        "Drywall Repair Houston",
+        "Texas Drywall Solutions"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Houston, TX has a large number of drywall contractors to choose from. Here are some of the most trusted options, along with their ratings and reviews:\n\n1.  **Drywall Masters**: A highly-rated drywall company with a 4.9-star rating on Google and a 5-star rating on Yelp. They offer a wide range of services, from basic drywall repair to complex installation projects.\n\n2.  **Drywall Pro**: This company has a 4.8-star rating on Google and a 4.5-star rating on Angie's List. They offer both residential and commercial drywall services, including texturing and finishing.\n\n3.  **Houston Drywall Repair**: With a 4.9-star rating on Google and a 5-star rating on HomeAdvisor, this company specializes in d",
+      "named_here": [
+        "Drywall Masters",
+        "Drywall Pro",
+        "Houston Drywall Repair"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I've compiled a list of some well-regarded drywall contractors in Houston, TX, based on online reviews and ratings. Please note that reputations can change over time, and it's essential to do your own research and verify the information before hiring a contractor. Here are some drywall contractors in Houston with a good reputation:\n\n1. **Drywall Solutions** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Houston Drywall Repair** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Drywall Pros** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **All Star Drywall** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Drywall Masters** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **ProDrywall** ",
+      "named_here": [
+        "Drywall Solutions",
+        "Houston Drywall Repair",
+        "Drywall Pros",
+        "All Star Drywall",
+        "Drywall Masters",
+        "ProDrywall"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I've compiled a list of highly-rated drywall contractors in Houston, TX, based on online reviews and ratings. Keep in mind that reputation can change over time, and it's always a good idea to do your own research and get multiple quotes before hiring a contractor. Here are some top-rated drywall contractors in Houston, TX:\n\n1. **Drywall Houston** (4.9/5 on Google, 4.8/5 on Facebook)\n\t* Address: [phone removed], 22222 West Rd, Suite 106, Houston, TX 77090\n\t* Services: Drywall repair, installation, texture, and finishing\n2. **Houston Drywall Pros** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Address: [phone removed], 15525 Southwest Fwy, Houston, TX 77065\n\t* Services: Drywall installation, repair, texture, ",
+      "named_here": [
+        "Drywall Houston",
+        "Houston Drywall Pros",
+        "Address",
+        "Services"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-recommended drywall contractors in Houston, TX, based on online reviews and ratings:\n\n1.  **Drywall Pros of Houston**: 4.9/5 stars on Google, 4.8/5 stars on Yelp.\n2.  **Houston Drywall Services**: 4.8/5 stars on Google, 4.7/5 stars on Angie's List.\n3.  **Drywall Masters**: 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor.\n4.  **Houston Drywall Repair**: 4.8/5 stars on Google, 4.7/5 stars on Yelp.\n5.  **Drywall Solutions**: 4.8/5 stars on Google, 4.7/5 stars on Angie's List.\n6.  **Drywall Pros Plus**: 4.8/5 stars on Google, 4.7/5 stars on HomeAdvisor.\n7.  **Houston Drywall Repair Pros**: 4.7/5 stars on Google, 4.6/5 stars on Yelp.\n8.  **Drywall Repair Services**: 4.7/5 s",
+      "named_here": [
+        "Drywall Pros of Houston",
+        "Houston Drywall Services",
+        "Drywall Masters",
+        "Houston Drywall Repair",
+        "Drywall Solutions",
+        "Drywall Pros Plus",
+        "Houston Drywall Repair Pros",
+        "Drywall Repair Services"
+      ]
+    }
+  ]
+}

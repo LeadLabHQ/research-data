@@ -1,0 +1,135 @@
+{
+  "trade": "pest-control",
+  "market": "Los Angeles, CA",
+  "run_date": "2026-10-15T19:26:52.422Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best pest control companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated pest control companies in Los Angeles, CA, based on customer reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company that offers a wide range of services, including termite control, bed bug removal, and pest management.\n2. **Orkin**: Orkin is another reputable pest control company with a long history of providing effective pest control solutions. They offer customized services for residential and commercial properties.\n3. **Western Exterminator**: Western Exterminator has been serving the Los Angeles area for over 100 years, providing pest control services for ants, rodents, termites, and other pests",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Western Exterminator"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top pest control companies in Los Angeles, CA, based on online reviews, ratings, and reputation:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and trusted pest control company with multiple locations in Los Angeles. They offer a wide range of services, including residential and commercial pest control, termite control, and bed bug removal.\n2. **Terminix**: Another well-known and reputable pest control company, Terminix has been in business for over 90 years and has a strong presence in Los Angeles. They offer customized pest control solutions for homes and businesses.\n3. **Trinity Pest Control**: With over 40 years of experience, Trinity P",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Trinity Pest Control"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated pest control companies in Los Angeles, CA:\n\n1. **Orkin Los Angeles**: Orkin is a well-established and reputable company with over 100 years of experience. They offer a wide range of pest control services, including termite control, rodent control, and bed bug control.\n2. **Terminix Los Angeles**: Terminix is another well-known pest control company with a long history of providing effective solutions for pest control, termite control, and rodent control.\n3. **Pest Control Experts**: This company has been serving the Los Angeles area for over 20 years and offers a wide range of pest control services, including termite control, rodent control, and bed bug control.",
+      "named_here": [
+        "Orkin Los Angeles",
+        "Terminix Los Angeles",
+        "Pest Control Experts"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good pest control company in Los Angeles, CA. However, I don't have real-time access to specific companies or their current reputation. That being said, here are a few suggestions:\n\n1. **Check online reviews**: Look up pest control companies in Los Angeles on review websites like Yelp, Google, or Angie's List. Pay attention to the overall rating and read the comments to get an idea of the company's strengths and weaknesses.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have used pest control services in the past for recommendations. They can provide valuable insights into the company's performance and customer servic",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reputable pest control companies in Los Angeles, CA. Here are a few options you can consider:\n\n1. **Orkin**: Orkin is a well-established and well-known pest control company with a strong presence in Los Angeles. They offer a wide range of services, including residential and commercial pest control, termite control, and bed bug control. You can call them at [phone removed] or schedule an appointment on their website.\n2. **Terminix**: Terminix is another large and reputable pest control company that operates in Los Angeles. They offer a variety of services, including pest control, termite control, and mosquito control. You can call them at [phone removed] or schedule an appointmen",
+      "named_here": [
+        "Orkin",
+        "Terminix"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "There are many reliable pest control companies in Los Angeles, CA. I can provide you with some information on how to find a good pest control company, but I can't recommend a specific company. You can try the following options:\n\n1.  **Check Online Reviews**: Websites like Yelp, Google Reviews, and Angie's List can provide valuable insights into a company's reputation, customer satisfaction, and service quality.\n2.  **Ask for Referrals**: Reach out to friends, family, or neighbors who have used pest control services in the past and ask for recommendations.\n3.  **Check Professional Associations**: Look for companies that are members of professional associations like the National Pest Managemen",
+      "named_here": [
+        "Check Online Reviews",
+        "Ask for Referrals",
+        "Check Professional Associations"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted pest control companies in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company with a strong presence in Los Angeles. They offer a range of services, including termite control, bed bug removal, and general pest control. (4.5/5 stars on Google)\n2. **Orkin**: Orkin is another reputable pest control company with a long history of serving the Los Angeles area. They offer customized pest control solutions, including termite control, rodent control, and mosquito control. (4.5/5 stars on Google)\n3. **Western Exterminator**: Western Exterminator has been serving ",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Western Exterminator"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted pest control companies in Los Angeles, CA:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with multiple locations in Los Angeles. They offer a wide range of services, including residential and commercial pest control, termite control, and rodent control.\n2. **Terminix**: Terminix is another well-known pest control company with a strong presence in Los Angeles. They offer customized pest control solutions for homes and businesses, including termite control, bed bug control, and mosquito control.\n3. **Truly Nolen**: Truly Nolen is a family-owned pest control company that has been serving Los Ang",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Truly Nolen"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted pest control companies in Los Angeles, CA:\n\n**Top 5 Pest Control Companies in Los Angeles:**\n\n1. **Orkin**: Orkin is a well-established national pest control company with a strong presence in Los Angeles. They offer a wide range of services, including rodent control, termite control, and bed bug removal.\n2. ** Terminix**: Terminix is another well-known pest control company with a large presence in Los Angeles. They offer a variety of services, including termite control, rodent control, and bed bug removal.\n3. **Truly Nolen**: Truly Nolen is a family-owned pest control company that has been serving Los Angeles for over 80 years. They offer a range of services",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Truly Nolen"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some pest control companies in Los Angeles, CA with a good reputation:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company with a strong presence in Los Angeles. (4.5/5 stars on Google)\n2. **Orkin**: Another well-known pest control company, Orkin has been serving the Los Angeles area for over 100 years. (4.4/5 stars on Google)\n3. **Western Exterminator**: Western Exterminator has been providing pest control services in Los Angeles for over 100 years and has a reputation for effective and reliable service. (4.5/5 stars on Google)\n4. **Isotech Pest Management**: Isotech Pest Management is a locall",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Western Exterminator",
+        "Isotech Pest Management"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Pest Control Companies with the Best Reputation in Los Angeles, CA\n\nBased on online reviews, ratings, and licenses, here are some of the top-rated pest control companies in Los Angeles, CA:\n\n### Top-Rated Companies\n\n1. **Orkin**: With a 4.5-star rating on Google and 4.5-star rating on Yelp, Orkin is a well-established and reputable pest control company with multiple locations in Los Angeles. They offer a wide range of services, including residential and commercial pest control, termite control, and rodent control.\n\t* License: 83793 (California Department of Pesticide Regulation)\n\t* Services: Residential and commercial pest control, termite control, rodent control, and more\n\t* Areas Served",
+      "named_here": [
+        "Orkin",
+        "License",
+        "Services",
+        "Areas Served"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some pest control companies in Los Angeles, CA with good reputations based on online reviews and ratings:\n\n1. **Allgood Pest Solutions** (4.9/5 on Google, 4.9/5 on Yelp) - Family-owned business serving LA for over 20 years.\n2. **Western Exterminator** (4.8/5 on Google, 4.5/5 on Yelp) - Locally owned and operated since 1920, with a wide range of pest control services.\n3. **Orkin** (4.7/5 on Google, 4.5/5 on Yelp) - National company with a local LA office, offering comprehensive pest control solutions.\n4. **Pestmaster Services** (4.8/5 on Google, 4.5/5 on Yelp) - Specializing in eco-friendly and organic pest control methods.\n5. **Aptive Environmental** (4.7/5 on Google, 4.5/5 on Yelp)",
+      "named_here": [
+        "Allgood Pest Solutions",
+        "Western Exterminator",
+        "Orkin",
+        "Pestmaster Services",
+        "Aptive Environmental"
+      ]
+    }
+  ]
+}

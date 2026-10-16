@@ -1,0 +1,134 @@
+{
+  "trade": "pest-control",
+  "market": "Seattle, WA",
+  "run_date": "2026-10-15T20:42:10.142Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best pest control companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top pest control companies in Seattle, WA, based on customer reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company that offers a wide range of services, including termite control, bed bug removal, and wildlife control.\n2. **Orkin**: Orkin is another well-known pest control company that has been serving the Seattle area for over 100 years. They offer customized pest control solutions for homes and businesses.\n3. **Pest Control Seattle**: This locally-owned company has been serving the Seattle area for over 20 years and offers a variety of pest control services, including ant control, spider control, an",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Pest Control Seattle"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top pest control companies in Seattle, WA, based on online reviews, ratings, and reputation:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established and trusted pest control company with a strong presence in Seattle. They offer a wide range of services, including residential and commercial pest control, termite control, and bed bug removal.\n2. **Orkin**: Orkin is another well-known pest control company with a long history of providing effective pest solutions in Seattle. They offer customized pest control plans and have a team of experienced technicians.\n3. **TruGreen**: While primarily known for their lawn care services, TruGreen also offers p",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "TruGreen"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated pest control companies in Seattle, WA:\n\n1. **Orkin**: With over 100 years of experience, Orkin is a well-established and reputable pest control company that offers a wide range of services, including rodent control, termite control, and bed bug removal.\n2. **Terminix**: Terminix is another well-known pest control company with a strong presence in Seattle. They offer a variety of services, including pest control, termite control, and wildlife removal.\n3. **Ehrlich Pest Control**: Ehrlich is a family-owned and operated pest control company that has been serving the Seattle area for over 90 years. They offer a range of services, including pest control, rodent cont",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Ehrlich Pest Control"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good pest control company in Seattle, WA. However, I don't have real-time access to specific company recommendations or reviews. That being said, here are some steps you can take to find a reliable pest control company in Seattle:\n\n1. **Check online reviews**: Look up pest control companies in Seattle on review websites such as Yelp, Google, or Angie's List. Pay attention to the overall rating and read the comments to get an idea of the company's strengths and weaknesses.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have used pest control services in the past for recommendations. They can provide valuable insigh",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are several reputable pest control companies in Seattle, WA. Here are a few options you can consider:\n\n1. **Terminix**: Terminix is a well-established and well-known pest control company with a presence in Seattle. They offer a range of services, including residential and commercial pest control, termite control, and bed bug control.\n2. **Orkin**: Orkin is another large pest control company with a presence in Seattle. They offer customized pest control solutions for homes and businesses, as well as specialized services like bed bug control and mosquito control.\n3. **PestGuard**: PestGuard is a local, family-owned pest control company based in Seattle. They offer a range of services, in",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "PestGuard"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal experiences or direct access to specific company information. But I can provide you with some general recommendations and tips on how to find a good pest control company in Seattle, WA.\n\n**Recommendations:**\n\nHere are a few top-rated pest control companies in Seattle:\n\n1.  **Terminix**: A well-established national company with a strong presence in Seattle, offering a wide range of pest control services, including rodent control, termite control, and bed bug control.\n2.  **Orkin**: Another well-known national company with a local office in Seattle, providing comprehensive pest control services for homes and businesses.\n3.  **Ehrlich P",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Ehrlich P"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted pest control companies in Seattle, WA, based on customer reviews and ratings:\n\n1. **EcoCare Pest Control**: EcoCare is a locally-owned and operated company that uses eco-friendly methods to control pests. They have a 4.9-star rating on Google and are known for their excellent customer service.\n2. **Croach Pest Control**: Croach is a family-owned business that has been serving the Seattle area for over 20 years. They offer a wide range of pest control services, including rodent control, bed bug removal, and more. They have a 4.8-star rating on Google.\n3. **Terminix**: Terminix is a well-established pest control company with a presence in Seattle. They offer a",
+      "named_here": [
+        "EcoCare Pest Control",
+        "Croach Pest Control",
+        "Terminix"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted pest control companies in Seattle, WA:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established and reputable pest control company with a strong presence in Seattle. They offer a wide range of services, including residential and commercial pest control, termite control, and bed bug removal.\n2. **Orkin**: Orkin is another well-known pest control company with a long history of providing effective pest control services in Seattle. They have a team of experienced technicians and offer customized solutions for residential and commercial clients.\n3. **TruGreen**: While primarily known for their lawn care services, TruGreen also offers pes",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "TruGreen"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted pest control companies in Seattle, WA:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company that offers a wide range of services, including rodent control, termite control, and bed bug elimination.\n2. **Terminix**: Terminix is another well-known pest control company with a strong presence in Seattle. They offer a variety of services, including termite control, rodent control, and bed bug removal.\n3. **Hoffman's Pest Control**: Hoffman's is a locally-owned and operated pest control company that has been serving the Seattle area for over 40 years. They offer a range of services, including pest elimina",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Hoffman's Pest Control"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some pest control companies in Seattle, WA with a good reputation:\n\n1. **Eco Elite Pest Control**: 4.9/5 stars on Google, 4.8/5 stars on Yelp - known for eco-friendly and sustainable pest control methods.\n2. **Croach Pest Control**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - offers a wide range of pest control services, including residential and commercial.\n3. **Seattle Pest Control**: 4.7/5 stars on Google, 4.6/5 stars on Yelp - provides customized pest control solutions for homes and businesses.\n4. **Eastside Exterminators**: 4.7/5 stars on Google, 4.6/5 stars on Yelp - serves Seattle and the surrounding areas, offering pest control and wildl",
+      "named_here": [
+        "Eco Elite Pest Control",
+        "Croach Pest Control",
+        "Seattle Pest Control",
+        "Eastside Exterminators"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Pest Control Companies with the Best Reputation in Seattle, WA\n\nBased on online reviews, ratings, and licenses, here are some of the top-rated pest control companies in Seattle, WA:\n\n### Top-Rated Companies\n\n1. **Terminix**: With a 4.5-star rating on Google and 4.5-star rating on Yelp, Terminix is a well-established company with a strong reputation in Seattle. They offer a wide range of services, including residential and commercial pest control, termite control, and bed bug removal.\n\t* License: Washington State Department of Agriculture (WSDA) licensed and certified\n\t* Insurance: Liability insurance and worker's compensation insurance\n2. **Orkin**: Orkin has a 4.4-star rating on Google a",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "License",
+        "Insurance"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some pest control companies in Seattle, WA with a good reputation based on online reviews and ratings:\n\n1. **EcoGuard Pest Management**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews. EcoGuard is a locally-owned and family-operated company that uses eco-friendly and pet-friendly methods to control pests.\n2. **Orkin Pest Control**: 4.7/5 stars on Yelp, 4.5/5 stars on Google Reviews. Orkin is a well-established national company with a strong presence in Seattle, offering a wide range of pest control services.\n3. **Terminix**: 4.6/5 stars on Yelp, 4.4/5 stars on Google Reviews. Terminix is another national company with a long history of providing pest control services in Seattle, ",
+      "named_here": [
+        "EcoGuard Pest Management",
+        "Orkin Pest Control",
+        "Terminix"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "trade": "tree-service",
+  "market": "Los Angeles, CA",
+  "run_date": "2026-10-15T19:35:35.004Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best tree service companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top tree service companies in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Jose Martinez Tree Service** (4.9/5) - Known for their professional and affordable services, including tree trimming, pruning, and removal.\n2. **Los Angeles Tree Care** (4.8/5) - Offers a wide range of services, including tree planting, stump grinding, and emergency tree removal.\n3. **Tree Service Los Angeles** (4.7/5) - Provides tree trimming, pruning, and removal services, as well as tree planting and stump removal.\n4. **Green Tree Services** (4.7/5) - Specializes in tree care, including tree trimming, pruning, and removal, as well as landscaping and gardening services.\n5. **Budge",
+      "named_here": [
+        "Jose Martinez Tree Service",
+        "Los Angeles Tree Care",
+        "Tree Service Los Angeles",
+        "Green Tree Services",
+        "Budge"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated tree service companies in Los Angeles, CA, based on online reviews, ratings, and certifications:\n\n1. **TreeWorks**: With over 20 years of experience, TreeWorks offers comprehensive tree care services, including tree trimming, removal, and planting. (4.9/5 stars on Google, 5/5 stars on Yelp)\n2. **LA Tree Experts**: This company provides emergency tree services, tree pruning, and removal, as well as stump grinding and debris removal. (4.8/5 stars on Google, 4.5/5 stars on Yelp)\n3. **California Tree Service**: With a team of certified arborists, California Tree Service offers tree trimming, removal, and planting, as well as tree health evaluations and pruning. (4.7/5 sta",
+      "named_here": [
+        "TreeWorks",
+        "LA Tree Experts",
+        "California Tree Service"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated tree service companies in Los Angeles, CA:\n\n1.  **Davey Tree Expert Company**: With over 130 years of experience, Davey Tree is a well-established and reputable company that offers a wide range of tree care services, including pruning, removal, and planting.\n2.  **Arborilogical Services**: This company has been serving Los Angeles for over 25 years, providing expert tree care services, including tree removal, pruning, and stump grinding.\n3.  **Tree of Life Tree Care**: With a team of certified arborists, Tree of Life offers a full range of tree services, including tree removal, pruning, and tree planting, with a focus on customer satisfaction.\n4.  **Allied Tree and Tr",
+      "named_here": [
+        "Davey Tree Expert Company",
+        "Arborilogical Services",
+        "Tree of Life Tree Care",
+        "Allied Tree and Tr"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good tree service company in Los Angeles, CA. However, I don't have real-time access to specific companies or their current reputation. Here are some steps you can take to find a reliable tree service company:\n\n1. **Check online reviews**: Look up tree service companies in Los Angeles on review websites such as Yelp, Google, or Angie's List. Pay attention to the overall rating and read the comments to get an idea of the company's strengths and weaknesses.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently used a tree service company for a recommendation. They can provide valuable insights into the compan",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many tree service companies in Los Angeles, CA, and the best one for you will depend on your specific needs and preferences. Here are a few options to consider:\n\n1. **TreeWorks**: With over 20 years of experience, TreeWorks is a reputable and fully insured tree service company that offers a wide range of services, including tree trimming, removal, and planting. They serve residential and commercial clients throughout Los Angeles and surrounding areas. You can reach them at [phone removed].\n2. **LA Tree Experts**: LA Tree Experts is a family-owned and operated business that has been serving Los Angeles for over 15 years. They offer tree trimming, removal, pruning, and stump grinding ",
+      "named_here": [
+        "TreeWorks",
+        "LA Tree Experts"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I can provide you with some tips on how to find a reliable tree service company in Los Angeles, CA. I don't have personal recommendations, but I can suggest some ways to find a good tree service company.\n\nHere are some steps to help you find a reputable tree service company in Los Angeles:\n\n1.  **Check online directories**: Look up online directories like Yelp, Angie's List, or HomeAdvisor to find tree service companies in Los Angeles. You can read reviews from previous customers to get an idea of the company's reputation and quality of service.\n2.  **Get referrals**: Ask friends, family, or neighbors who have recently used a tree service company for recommendations. They can provid",
+      "named_here": [
+        "Check online directories",
+        "Get referrals"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted tree service companies in Los Angeles, CA:\n\n1. **Tree Care LA**: With over 30 years of experience, Tree Care LA is a licensed and insured company that offers tree trimming, pruning, removal, and stump grinding services.\n2. **Los Angeles Tree Service**: This company has been serving the LA area for over 20 years and provides a range of services, including tree removal, trimming, and planting.\n3. **Green Leaf Tree Service**: Green Leaf is a family-owned business that has been operating in LA for over 15 years. They offer tree removal, trimming, pruning, and stump grinding services.\n4. **Tree Service Pros**: With a team of certified arborists, Tree Service Pros",
+      "named_here": [
+        "Tree Care LA",
+        "Los Angeles Tree Service",
+        "Green Leaf Tree Service",
+        "Tree Service Pros"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "When searching for a trusted tree service company in Los Angeles, CA, it's essential to consider factors such as licensure, insurance, experience, and reputation. Here are some of the most trusted options:\n\n### Top-Rated Tree Service Companies in Los Angeles\n\n1. **TreeWorks**: With over 20 years of experience, TreeWorks is a highly-rated tree service company in Los Angeles. They offer a wide range of services, including tree trimming, removal, and planting. **Licensed (C-27) and insured**, they have an A+ rating with the Better Business Bureau (BBB) and a 4.9-star rating on Google Reviews.\n2. **LA Tree Experts**: This company has been serving Los Angeles for over 15 years, providing services",
+      "named_here": [
+        "TreeWorks",
+        "Licensed",
+        "LA Tree Experts"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted tree service companies in Los Angeles, CA:\n\n1. **Arborilogical Services**: A family-owned business with over 30 years of experience, offering comprehensive tree care services, including pruning, removal, and tree health assessments.\n2. **Tree Care LA**: A locally owned and operated company with a team of certified arborists, providing tree pruning, removal, stump grinding, and tree planting services.\n3. **The Tree Care Company**: A BBB-accredited business with over 20 years of experience, offering tree pruning, removal, and maintenance services, as well as tree health assessments and emergency services.\n4. **Green Earth Tree Care**: A company with a strong r",
+      "named_here": [
+        "Arborilogical Services",
+        "Tree Care LA",
+        "The Tree Care Company",
+        "Green Earth Tree Care"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some tree service companies in Los Angeles, CA, with a good reputation based on online reviews and ratings:\n\n1. **Tree Care LA** (4.9/5 on Google, 4.8/5 on Yelp) - Known for their professional and efficient tree trimming, pruning, and removal services.\n2. **Los Angeles Tree Service** (4.8/5 on Google, 4.7/5 on Yelp) - Offers a range of services, including tree removal, stump grinding, and tree planting.\n3. **Green Leaf Tree Service** (4.8/5 on Google, 4.7/5 on Yelp) - Provides tree trimming, pruning, and removal services, as well as tree health care and consulting.\n4. **Budget Tree Service** (4.7/5 on Google, 4.6/5 on Yelp) - Offers affordable tree services, including tree removal, ",
+      "named_here": [
+        "Tree Care LA",
+        "Los Angeles Tree Service",
+        "Green Leaf Tree Service",
+        "Budget Tree Service"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated tree service companies in Los Angeles, CA, based on online reviews and ratings:\n\n1. **TreeWorks**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, TreeWorks is a highly-recommended tree service company in Los Angeles. They offer tree trimming, removal, and pruning services.\n2. **LA Tree Experts**: This company has a 4.8-star rating on Google and 4.7-star rating on Yelp. They provide tree care services, including tree trimming, removal, and stump grinding.\n3. **Southern California Tree Care**: With a 4.8-star rating on Google and 4.7-star rating on Yelp, Southern California Tree Care offers tree trimming, removal, and pruning services, as well as stump gr",
+      "named_here": [
+        "TreeWorks",
+        "LA Tree Experts",
+        "Southern California Tree Care"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some tree service companies in Los Angeles, CA with a good reputation based on online reviews and ratings:\n\n1. **Davey Tree Expert Company**: 4.9/5 stars on Google, 4.8/5 stars on Yelp, and 4.5/5 stars on Angie's List. Davey Tree has been in business for over 130 years and offers a wide range of tree care services.\n2. **Arborilogical Services Inc.**: 4.9/5 stars on Google, 4.8/5 stars on Yelp, and 4.5/5 stars on Angie's List. This family-owned company has been serving the LA area for over 30 years.\n3. **Tree Care LA**: 4.9/5 stars on Google, 4.8/5 stars on Yelp, and 4.5/5 stars on Angie's List. Tree Care LA offers a variety of services, including pruning, removal, and stump grinding",
+      "named_here": [
+        "Davey Tree Expert Company",
+        "Arborilogical Services Inc",
+        "Tree Care LA"
+      ]
+    }
+  ]
+}

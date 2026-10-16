@@ -1,0 +1,153 @@
+{
+  "trade": "plumbing",
+  "market": "Miami, FL",
+  "run_date": "2026-10-15T20:17:35.672Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best plumbing companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top plumbing companies in Miami, FL, based on customer reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted plumbing company in Miami.\n2. **Mr. Rooter Plumbing of Miami**: Mr. Rooter is a reputable plumbing company that offers a wide range of services, including drain cleaning, pipe repair, and water heater installation.\n3. **HomeServe USA**: HomeServe USA is a leading provider of home repair services, including plumbing, HVAC, and electrical work.\n4. **Len's Plumbing**: Len's Plumbing is a family-owned and operated business that has been serving Miami for over 20 years.\n5. **Pi",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Miami",
+        "HomeServe USA",
+        "Len's Plumbing",
+        "Pi"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top plumbing companies in Miami, FL, based on online reviews, ratings, and reputation:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted name in the plumbing industry. They offer 24/7 emergency services and have a 4.8-star rating on Google.\n2. **Mr. Rooter Plumbing of Miami**: Mr. Rooter is a popular choice in Miami, with a 4.9-star rating on Google and a wide range of services, including drain cleaning, pipe repair, and water heater installation.\n3. **Miami Plumbing Co.**: With over 20 years of experience, Miami Plumbing Co. is a local favorite, offering competitive pricing and excellent custome",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Miami",
+        "Miami Plumbing Co"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in Miami, FL:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and reputable plumbing company in Miami. They offer 24/7 emergency services and a wide range of plumbing services.\n2. **Mr. Rooter Plumbing of Miami**: Mr. Rooter is a trusted name in the plumbing industry, and their Miami location is no exception. They offer a wide range of services, including drain cleaning, water heater installation, and leak detection.\n3. **Benjamin Franklin Plumbing of Miami**: Benjamin Franklin Plumbing is a family-owned business with over 20 years of experience in Miami. They offer a wide rang",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Miami",
+        "Benjamin Franklin Plumbing of Miami"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'm happy to help you find a good plumber in Miami, FL. However, I don't have personal recommendations or direct access to specific businesses. But I can provide you with some options to find a reliable plumber:\n\n1. **Online Directories**:\n\t* Yelp: Search for \"plumbers in Miami, FL\" and filter by rating, distance, and reviews.\n\t* Angie's List: A paid subscription service that provides reviews and ratings of local plumbers.\n\t* HomeAdvisor: A free platform that connects you with pre-screened plumbers in your area.\n2. **Google Search**:\n\t* Type \"plumbers in Miami, FL\" or \"emergency plumber Miami\" and browse through the search results.\n\t* Look for plumbers with good reviews, ratings, and a profe",
+      "named_here": [
+        "Online Directories",
+        "Google Search",
+        "Yelp",
+        "Angie's List",
+        "HomeAdvisor"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable plumbers in Miami, FL, and the best one for you will depend on your specific needs and preferences. Here are a few options to consider:\n\n1. **Roto-Rooter**: With over 80 years of experience, Roto-Rooter is a well-established and reputable plumbing company with multiple locations in Miami. They offer 24/7 emergency services and a wide range of plumbing solutions.\n\t* Phone: [phone removed]\n2. **Mr. Rooter**: Another well-known plumbing company with a location in Miami, Mr. Rooter offers affordable and reliable services, including drain cleaning, pipe repair, and water heater installation.\n\t* Phone: [phone removed]\n3. **Miami Plumbing**: A locally-owned and operated plumbi",
+      "named_here": [
+        "Roto-Rooter",
+        "Mr. Rooter",
+        "Miami Plumbing",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal recommendations or direct access to specific plumbers in Miami, FL. But I can provide you with some suggestions on how to find a reliable plumber in Miami:\n\n1. **Online Reviews**: Check websites like:\n\t* Yelp (yelp.com)\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n\t* Google Reviews (google.com/reviews)\n\t* Facebook Reviews (facebook.com/reviews)\n2. **Professional Associations**: Look for plumbers who are members of:\n\t* National Kitchen and Bath Association (nkba.org)\n\t* Plumbing-Heating-Cooling Contractors Association (phccweb.org)\n\t* Florida Plumbing License Board (floridaplumbinglead",
+      "named_here": [
+        "Online Reviews",
+        "Professional Associations",
+        "Yelp",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Google Reviews",
+        "Facebook Reviews",
+        "National Kitchen and Bath Association",
+        "Plumbing-Heating-Cooling Contractors Association",
+        "Florida Plumbing License Board"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted plumbing options in Miami, FL, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted plumbing company in Miami. They offer a wide range of services, including drain cleaning, plumbing repairs, and water damage restoration. (4.8/5 stars on Google)\n2. **HomeServe USA**: HomeServe USA is a national company with a local presence in Miami. They offer plumbing, HVAC, and electrical services, including emergency repairs and maintenance. (4.7/5 stars on Google)\n3. **Mr. Rooter Plumbing of Miami**: Mr. Rooter is a reputable plumbing company with a strong prese",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "HomeServe USA",
+        "Mr. Rooter Plumbing of Miami"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted plumbers in Miami, FL, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With a 4.8-star rating on Google and 4.9-star rating on Yelp, Roto-Rooter is a well-established and reputable plumbing company with multiple locations in Miami.\n2. **Mr. Rooter Plumbing of Miami**: Mr. Rooter has a 4.8-star rating on Google and 4.9-star rating on Yelp. They offer 24/7 emergency services and have a team of experienced plumbers.\n3. **Miami Plumbing**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Miami Plumbing is a highly-rated option with a team of licensed and insured plumbers.\n4. **Allstar Plumbing**: Allstar Plumbing h",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Miami",
+        "Miami Plumbing",
+        "Allstar Plumbing"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted plumbers in Miami, FL, based on online reviews and ratings:\n\n1. **Mr. Rooter Plumbing**:\n\t* Rating: 4.9/5 stars on Yelp, 4.8/5 stars on Google\n\t* Services: Emergency plumbing, drain cleaning, water heater installation, and more\n\t* Address: 1015 NW 2nd Ave, Miami, FL 33127\n2. **A-1 Plumbing**:\n\t* Rating: 4.9/5 stars on Yelp, 4.8/5 stars on Google\n\t* Services: Plumbing, drain cleaning, water heater installation, and more\n\t* Address: 1401 NW 2nd Ave, Miami, FL 33127\n3. **Roto-Rooter Plumbing & Water Cleanup**:\n\t* Rating: 4.8/5 stars on Yelp, 4.7/5 stars on Google\n\t* Services: Emergency plumbing, drain cleaning, water heater installation, and more\n\t* Address: 13",
+      "named_here": [
+        "Mr. Rooter Plumbing",
+        "A-1 Plumbing",
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Rating",
+        "Services",
+        "Address"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some plumbing companies in Miami, FL with a good reputation, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup** - With an average rating of 4.5/5 on Google and 4.5/5 on Yelp, Roto-Rooter is a well-established and trusted plumbing company in Miami.\n2. **Mr. Rooter Plumbing of Miami** - Mr. Rooter has an average rating of 4.5/5 on Google and 4.5/5 on Yelp, with customers praising their prompt and professional service.\n3. **Fowler Plumbing** - With an average rating of 4.8/5 on Google and 4.5/5 on Yelp, Fowler Plumbing is a family-owned business that has been serving Miami for over 20 years.\n4. **Miami Plumbing Services** - This company has an average rat",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Miami",
+        "Fowler Plumbing",
+        "Miami Plumbing Services"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Plumbing Companies in Miami, FL\n\nBased on online reviews and ratings, here are some of the top-rated plumbing companies in Miami, FL:\n\n### Companies with a Strong Reputation\n\n1. **Roto-Rooter Plumbing & Water Cleanup** (4.8/5 on Google, 4.7/5 on Yelp) - A well-established company with a long history of providing plumbing services in Miami.\n2. **Mr. Rooter Plumbing of Miami** (4.8/5 on Google, 4.7/5 on Yelp) - A trusted plumbing company with a reputation for providing fast and reliable service.\n3. **Allstar Plumbing** (4.9/5 on Google, 4.8/5 on Yelp) - A highly-rated plumbing company with a focus on customer satisfaction and competitive pricing.\n4. **Miami Plumbing Co.** (4.8/5 o",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Miami",
+        "Allstar Plumbing",
+        "Miami Plumbing Co"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-recommended plumbing companies in Miami, FL, based on online reviews and ratings:\n\n1. **Benjamin Franklin Plumbing**: 4.9/5 stars on Google, 4.8/5 stars on Yelp, and 4.8/5 stars on Angie's List. They offer 24/7 emergency service and a 100% satisfaction guarantee.\n2. **Mr. Rooter Plumbing**: 4.8/5 stars on Google, 4.7/5 stars on Yelp, and 4.8/5 stars on Angie's List. They offer a 100% satisfaction guarantee and a 24/7 emergency service hotline.\n3. **DrainWorks Plumbing**: 4.9/5 stars on Google, 4.8/5 stars on Yelp, and 4.8/5 stars on Angie's List. They specialize in drain cleaning and repair services.\n4. **B & B Plumbing**: 4.8/5 stars on Google, 4.7/5 stars on Yelp, and ",
+      "named_here": [
+        "Benjamin Franklin Plumbing",
+        "Mr. Rooter Plumbing",
+        "DrainWorks Plumbing",
+        "B & B Plumbing"
+      ]
+    }
+  ]
+}

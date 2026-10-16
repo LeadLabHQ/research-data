@@ -1,0 +1,148 @@
+{
+  "trade": "drywall",
+  "market": "New York, NY",
+  "run_date": "2026-10-15T19:18:10.048Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated drywall contractors in New York, NY, based on online reviews and ratings:\n\n1. **Five Star Drywall** (4.9/5 stars on Google) - Known for their high-quality work and excellent customer service.\n2. **NYC Drywall Repair** (4.8/5 stars on Google) - Offers a wide range of drywall services, including installation, repair, and finishing.\n3. **Drywall Masters** (4.7/5 stars on Google) - Specializes in drywall installation, taping, and finishing for residential and commercial projects.\n4. **Wall Works NYC** (4.7/5 stars on Google) - Provides drywall services, including installation, repair, and texturing, for homes and businesses.\n5. **Drywall Pros NYC** (4.6/5 stars on Google)",
+      "named_here": [
+        "Five Star Drywall",
+        "NYC Drywall Repair",
+        "Drywall Masters",
+        "Wall Works NYC",
+        "Drywall Pros NYC"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in New York, NY:\n\n1. **Drywall Masters**: With over 20 years of experience, they offer expert drywall installation, repair, and finishing services.\n2. **NYC Drywall Pros**: A reputable company with a team of skilled professionals, providing top-notch drywall services, including installation, repair, and texture coating.\n3. **Superior Drywall**: A trusted name in the industry, offering a wide range of drywall services, including installation, repair, and finishing, with a focus on quality and customer satisfaction.\n4. **Drywall Solutions NYC**: A highly-rated company with a team of experienced professionals, providing expert drywall installation, re",
+      "named_here": [
+        "Drywall Masters",
+        "NYC Drywall Pros",
+        "Superior Drywall",
+        "Drywall Solutions NYC"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated drywall contractors in New York, NY:\n\n**Please note:** This is not an exhaustive list, and it's always a good idea to research and get multiple quotes from different contractors before making a decision. I've based my recommendations on online reviews, ratings, and industry reputation.\n\n1. **D & D Drywall** (4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews)\n\t* Address: 187 11th Ave, New York, NY 10011\n\t* Specialties: Drywall installation, repair, finishing, and texture\n2. **Drywall Solutions NYC** (4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews)\n\t* Address: 555 5th Ave, New York, NY 10017\n\t* Specialties: Drywall installation, finishing, texture, and repair\n3. **",
+      "named_here": [
+        "Please note",
+        "D & D Drywall",
+        "Drywall Solutions NYC",
+        "Address",
+        "Specialties"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can't recommend a specific drywall contractor in New York, NY. If you're looking for a reliable drywall contractor, consider asking friends, family, or neighbors for referrals. You can also check online review sites such as Yelp, Angie's List, or Google Reviews to find highly-rated contractors in your area. Additionally, you can contact local trade organizations or professional associations, such as the National Drywall Contractors Association, for a list of licensed and insured contractors in your area.",
+      "named_here": []
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable drywall contractor in New York, NY! However, I'm a large language model, I don't have have access to real-time information or specific recommendations. But I can suggest some options to help you find a good drywall contractor:\n\n1. **Online Directories**:\n\t* HomeAdvisor: A popular platform that allows you to find and compare local contractors, including drywall specialists.\n\t* Angie's List: A review-based website that provides a list of recommended contractors in your area.\n\t* Yelp: A well-known review platform where you can search for drywall contractors in New York, NY, and read reviews from previous customers.\n2. **Word of Mouth**:\n\t* Ask friends, f",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "HomeAdvisor",
+        "Angie's List",
+        "Yelp",
+        "Ask friends, f"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have personal recommendations or direct access to specific contractors in New York, NY. However, I can provide you with some suggestions on how to find a reliable drywall contractor in New York:\n\n1. **Check online directories:**\n\t* Thumbtack: A platform that allows you to browse and compare prices from local contractors.\n\t* HomeAdvisor: Similar to Thumbtack, this site connects homeowners with pre-screened contractors.\n\t* Angie's List: A paid membership-based service that provides reviews and ratings of local contractors.\n2. **Ask for referrals:**\n\t* Ask friends, family, or neighbors who have recently had drywall work done for recommendations",
+      "named_here": [
+        "Check online directories",
+        "Ask for referrals",
+        "Thumbtack",
+        "HomeAdvisor",
+        "Angie's List"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted drywall contractors in New York, NY, based on online reviews and ratings:\n\n1. **Five Star Drywall**: With a 4.9-star rating on Google and 4.5 stars on Yelp, Five Star Drywall is a highly recommended contractor in NYC. They offer drywall installation, repair, and finishing services.\n2. **NYC Drywall**: NYC Drywall has a 4.8-star rating on Google and 4.5 stars on Yelp. They provide drywall installation, taping, and finishing services for residential and commercial projects.\n3. **Drywall Specialist NYC**: With a 4.7-star rating on Google and 4.5 stars on Yelp, Drywall Specialist NYC is a trusted contractor for drywall installation, repair, and finishing service",
+      "named_here": [
+        "Five Star Drywall",
+        "NYC Drywall",
+        "Drywall Specialist NYC"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in New York, NY:\n\n1. **Drywall NYC** (4.9/5 on Google, 4.8/5 on Yelp): With over 10 years of experience, they offer drywall installation, repair, and finishing services.\n2. **NYC Drywall Contractors** (4.8/5 on Google, 4.7/5 on Yelp): This company provides a wide range of drywall services, including installation, repair, and texture coating.\n3. **Drywall Masters NYC** (4.9/5 on Google, 4.8/5 on Yelp): With a team of experienced professionals, they offer high-quality drywall installation, repair, and finishing services.\n4. **Superior Drywall** (4.8/5 on Google, 4.7/5 on Yelp): This company has been serving NYC for over 20 years, providing ",
+      "named_here": [
+        "Drywall NYC",
+        "NYC Drywall Contractors",
+        "Drywall Masters NYC",
+        "Superior Drywall"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted drywall contractors in New York, NY based on online reviews and ratings:\n\n1.  **Diversified Drywall**: Diversified Drywall is a family-owned and operated business that has been serving the New York area for over 30 years. They offer a wide range of drywall services, including installation, repair, and finishing. (4.9/5 stars on Angie's List, 4.8/5 stars on Yelp)\n2.  **All Drywall Systems**: All Drywall Systems is a New York-based company that specializes in drywall installation and repair. They have a team of experienced professionals who can handle any size project. (4.8/5 stars on Angie's List, 4.7/5 stars on Yelp)\n3.  **Drywall Solutions**: Drywall Soluti",
+      "named_here": [
+        "Diversified Drywall",
+        "All Drywall Systems",
+        "Drywall Solutions"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some drywall contractors in New York, NY, with a good reputation based on online reviews and ratings:\n\n1. **Five Star Painting of Manhattan** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **New York Drywall** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Drywall Repair NYC** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **NYC Drywall Contractors** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Manhattan Drywall** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Brooklyn Drywall** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **Queens Drywall** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n8. **Bronx Drywall** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n9. **Staten Isla",
+      "named_here": [
+        "Five Star Painting of Manhattan",
+        "New York Drywall",
+        "Drywall Repair NYC",
+        "NYC Drywall Contractors",
+        "Manhattan Drywall",
+        "Brooklyn Drywall",
+        "Queens Drywall",
+        "Bronx Drywall",
+        "Staten Isla"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Drywall Contractors in New York, NY \n\nTo provide a list of top-rated drywall contractors in New York, NY, I've compiled data from reputable sources such as online review sites, trade organizations, and licensing boards. The following contractors have excellent reputations based on factors like customer reviews, ratings, licenses, and certifications.\n\n### Top-Rated Contractors \n\n1. **Drywall Masters** (4.9/5 on Google, 4.8/5 on Yelp) - Licensed, insured, and bonded. Offers free estimates.\n\t* Address: 123 Main St, New York, NY 10001\n\t* Phone: [phone removed]\n2. **NYC Drywall Pros** (4.8/5 on Google, 4.7/5 on Yelp) - Fast and reliable service, competitive pricing.\n\t* Address: 456 Br",
+      "named_here": [
+        "Drywall Masters",
+        "NYC Drywall Pros",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have have access to real-time information or specific ratings and reviews for individual drywall contractors in New York, NY. However, I can provide you with some information on how to find reputable drywall contractors in the area and suggest a few resources that can help you find top-rated contractors.\n\n**Reputation Sources:**\n\n1.  **Angie's List**: A paid review website that provides ratings and reviews for contractors in various cities, including New York, NY.\n2.  **HomeAdvisor**: A platform that connects homeowners with pre-screened contractors, including drywall specialists.\n3.  **Thumbtack**: A platform that allows you to post a proje",
+      "named_here": [
+        "Reputation Sources",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack"
+      ]
+    }
+  ]
+}

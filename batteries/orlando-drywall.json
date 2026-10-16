@@ -1,0 +1,150 @@
+{
+  "trade": "drywall",
+  "market": "Orlando, FL",
+  "run_date": "2026-10-14T15:01:42.930Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top drywall contractors in Orlando, FL, based on online reviews and ratings:\n\n1. **Drywall Repair Orlando** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Orlando Drywall Services** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Drywall Masters of Orlando** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **All Drywall Services** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Orlando Drywall Contractors** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Drywall Solutions of Central Florida** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **Pro Drywall Repair** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n8. **Drywall Experts of Orlando** - 4.5/5 stars on Google",
+      "named_here": [
+        "Drywall Repair Orlando",
+        "Orlando Drywall Services",
+        "Drywall Masters of Orlando",
+        "All Drywall Services",
+        "Orlando Drywall Contractors",
+        "Drywall Solutions of Central Florida",
+        "Pro Drywall Repair",
+        "Drywall Experts of Orlando"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in Orlando, FL, based on online reviews and ratings:\n\n1. **Drywall Orlando**: With a 4.9-star rating on Google and over 1,000 reviews, they're a top choice for drywall services in Orlando.\n2. **Orlando Drywall Pros**: This company has a 4.8-star rating on Google and is known for its professional and efficient service.\n3. **Drywall Masters**: With a 4.7-star rating on Google and over 500 reviews, Drywall Masters is a trusted name in the Orlando drywall industry.\n4. **All Dry Orlando**: This company offers a wide range of drywall services, including repair, installation, and finishing, and has a 4.7-star rating on Google.\n5. **Florida Drywall Solutio",
+      "named_here": [
+        "Drywall Orlando",
+        "Orlando Drywall Pros",
+        "Drywall Masters",
+        "All Dry Orlando",
+        "Florida Drywall Solutio"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated drywall contractors in Orlando, FL, based on online reviews and ratings:\n\n1.  **Drywall Experts of Orlando**: With a 4.9-star rating on Angie's List and A+ rating on the Better Business Bureau (BBB), this company is known for its excellent service and quality work.\n2.  **Orlando Drywall Repair**: This locally-owned business has a 4.9-star rating on Yelp and is praised for its prompt and professional service.\n3.  **Drywall Pros of Orlando**: This contractor has a 4.8-star rating on Google and is known for its expertise in drywall installation, repair, and finishing.\n4.  **Orlando Drywall Services**: With a 4.8-star rating on Google and a long history of satisfie",
+      "named_here": [
+        "Drywall Experts of Orlando",
+        "Orlando Drywall Repair",
+        "Drywall Pros of Orlando",
+        "Orlando Drywall Services"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I don't have have access to real-time information or specific recommendations for individual contractors. However, I can provide you with some suggestions on how to find a reliable drywall contractor in Orlando, FL:\n\n1. **Online Reviews**: Check websites like Yelp, Google Reviews, or Angie's List to find drywall contractors in Orlando with good ratings and reviews.\n2. **Word of Mouth**: Ask friends, family, or neighbors who have recently had drywall work done for recommendations.\n3. **Local Classifieds**: Check local online classifieds like Craigslist or Facebook Marketplace for drywall contractors in Orlando.\n4. **Professional Associations**: Look for contractors who are members of professi",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth",
+        "Local Classifieds",
+        "Professional Associations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable drywall contractor in Orlando, FL! However, I'm a large language model, I don't have have access to real-time information or specific recommendations. But I can suggest some options to help you find a good drywall contractor:\n\n1. **Online Directories**:\n\t* Angie's List: A paid review platform that provides a list of top-rated drywall contractors in Orlando.\n\t* HomeAdvisor: A popular website that connects homeowners with local contractors, including drywall specialists.\n\t* Yelp: A review platform where you can search for drywall contractors in Orlando and read reviews from previous customers.\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors w",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Angie's List",
+        "HomeAdvisor",
+        "Yelp",
+        "Ask friends, family, or neighbors w"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I can't recommend a specific drywall contractor in Orlando, FL. But I can provide you with some suggestions on how to find a reliable and trustworthy drywall contractor in your area.\n\nHere are a few options:\n\n1.  **Angie's List**: This is a great resource to find top-rated contractors in your area. You can search for drywall contractors in Orlando and read reviews from previous customers to get an idea of their work quality and reliability.\n2.  **Thumbtack**: Thumbtack is another platform that allows you to search for contractors in your area. You can post a job description and receive bids from multiple contractors. This way, you can compare prices and services offered by different",
+      "named_here": [
+        "Angie's List",
+        "Thumbtack"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I've compiled a list of trusted drywall contractors in Orlando, FL, based on online reviews and ratings. Please note that this list is subject to change, and it's essential to do your own research and verify the contractors' licenses, insurance, and certifications before hiring. Here are some top-rated options:\n\n1. **Drywall Repair Orlando** - 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor\n\t* Address: 1231 W State Road 434, Longwood, FL 32750\n\t* Phone: [phone removed]\n2. **Orlando Drywall Services** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* Address: 5321 S Orange Ave, Orlando, FL 32806\n\t* Phone: [phone removed]\n3. **Drywall Solutions of Central Florida** - 4.7/5 stars on Google, 4.6/5",
+      "named_here": [
+        "Drywall Repair Orlando",
+        "Orlando Drywall Services",
+        "Drywall Solutions of Central Florida",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in Orlando, FL, based on online reviews and ratings:\n\n1. **Drywall Orlando**: With a 4.9-star rating on Google and over 1,000 reviews, Drywall Orlando is a highly trusted option. They offer a wide range of services, including drywall installation, repair, and finishing.\n2. **Orlando Drywall Pros**: This company has a 4.8-star rating on Google and over 500 reviews. They specialize in drywall installation, repair, and texture coating, and offer free estimates.\n3. **All Dry Orlando**: With a 4.9-star rating on Google and over 500 reviews, All Dry Orlando is a trusted option for drywall repair, installation, and water damage restoration.\n4. *",
+      "named_here": [
+        "Drywall Orlando",
+        "Orlando Drywall Pros",
+        "All Dry Orlando"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted drywall contractors in Orlando, FL, based on online reviews and ratings:\n\n1.  **Drywall Pros**: With over 20 years of experience, Drywall Pros offers a wide range of drywall services, including installation, repair, and finishing. They have a 4.9-star rating on Google and are certified by the Drywall Association.\n2.  **Orlando Drywall Repair**: This company specializes in drywall repair, installation, and finishing. They have a 4.8-star rating on Google and are known for their prompt, professional service.\n3.  **Drywall Masters**: With over 15 years of experience, Drywall Masters offers a variety of drywall services, including installation, repair, and textu",
+      "named_here": [
+        "Drywall Pros",
+        "Orlando Drywall Repair",
+        "Drywall Masters"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I've compiled a list of drywall contractors in Orlando, FL with good reputations based on online reviews and ratings. Please note that ratings can change over time, and it's essential to do your own research and read recent reviews before making a decision. Here are some top-rated drywall contractors in Orlando, FL:\n\n1. **Drywall Repair Orlando** - 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor\n2. **Orlando Drywall Services** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Drywall Solutions of Central Florida** - 4.7/5 stars on Google, 4.6/5 stars on Angie's List\n4. **All Pro Drywall** - 4.7/5 stars on Google, 4.6/5 stars on HomeAdvisor\n5. **Drywall Masters of Orlando** - 4.6/5 stars on",
+      "named_here": [
+        "Drywall Repair Orlando",
+        "Orlando Drywall Services",
+        "Drywall Solutions of Central Florida",
+        "All Pro Drywall",
+        "Drywall Masters of Orlando"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I've compiled a list of highly-rated drywall contractors in Orlando, FL, based on online reviews and ratings. Keep in mind that reputation can change over time, and it's always a good idea to do your own research and get multiple quotes before hiring a contractor. Here are some top-rated drywall contractors in Orlando, FL:\n\n1. **Drywall Orlando** (4.9/5 on Google, 4.8/5 on Facebook) - [phone removed]\n2. **Orlando Drywall Pros** (4.9/5 on Google, 4.8/5 on HomeAdvisor) - [phone removed]\n3. **All Dry Orlando** (4.8/5 on Google, 4.7/5 on Facebook) - [phone removed]\n4. **Drywall Masters Orlando** (4.8/5 on Google, 4.7/5 on HomeAdvisor) - [phone removed]\n5. **Orlando Drywall Repair** (4.7/5 on Google, 4.7/5 o",
+      "named_here": [
+        "Drywall Orlando",
+        "Orlando Drywall Pros",
+        "All Dry Orlando",
+        "Drywall Masters Orlando",
+        "Orlando Drywall Repair"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some reputable drywall contractors in Orlando, FL, based on online reviews and ratings:\n\n1.  **Drywall Pro**: 4.9/5 stars on Google, 4.9/5 stars on Yelp. They have over 20 years of experience and offer a wide range of services, including drywall installation, repair, and finishing.\n2.  **Orlando Drywall Services**: 4.8/5 stars on Google, 4.8/5 stars on Yelp. They have over 15 years of experience and provide drywall installation, repair, and finishing services, as well as texture and joint compound application.\n3.  **Drywall Masters**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They have over 20 years of experience and offer a range of services, including drywall installation, repai",
+      "named_here": [
+        "Drywall Pro",
+        "Orlando Drywall Services",
+        "Drywall Masters"
+      ]
+    }
+  ]
+}

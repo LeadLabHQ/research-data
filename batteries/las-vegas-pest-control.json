@@ -1,0 +1,144 @@
+{
+  "trade": "pest-control",
+  "market": "Las Vegas, NV",
+  "run_date": "2026-10-15T21:05:37.548Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best pest control companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated pest control companies in Las Vegas, NV, based on customer reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established and reputable pest control company in Las Vegas. They offer a wide range of services, including termite control, bed bug removal, and general pest control.\n2. **Orkin**: Orkin is another well-known pest control company with a strong presence in Las Vegas. They provide comprehensive pest control services, including pest inspections, treatment, and prevention.\n3. **Truly Nolen Pest Control**: Truly Nolen is a family-owned pest control company that has been serving the Las Vegas area for over 80 years. They off",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Truly Nolen Pest Control"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Top Pest Control Companies in Las Vegas, NV \n\nHere are the top pest control companies in Las Vegas, NV, based on online reviews, ratings, and services offered:\n\n#### Top Recommendations \n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with multiple locations in Las Vegas. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control.\n\t* Rating: 4.5/5 (Google), 4.5/5 (Yelp)\n\t* Services: Residential and commercial pest control, termite control, mosquito control, and more\n\t* Coverage areas: Las Vegas, Henderson, North Las Vegas, and surrounding areas\n2. **Terminix",
+      "named_here": [
+        "Orkin",
+        "Rating",
+        "Services",
+        "Coverage areas",
+        "Terminix"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated pest control companies in Las Vegas, NV:\n\n**Top 5 Pest Control Companies in Las Vegas:**\n\n1. **Orkin**: With over 100 years of experience and a strong reputation, Orkin is a well-established and trusted pest control company in Las Vegas. They offer a wide range of services, including termite control, rodent control, and bed bug removal.\n\t* Rating: 4.8/5 (Google), 4.9/5 (Yelp)\n2. **Terminix**: Terminix is another well-known pest control company with a strong presence in Las Vegas. They offer comprehensive pest control services, including termite control, rodent control, and bed bug treatment.\n\t* Rating: 4.7/5 (Google), 4.8/5 (Yelp)\n3. **Ehrlich Pest Control**: E",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Ehrlich Pest Control",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good pest control company in Las Vegas, NV. However, I don't have real-time access to specific company recommendations or reviews. That being said, here are some steps you can take to find a reliable pest control company in Las Vegas:\n\n1. **Check online reviews**: Look up pest control companies in Las Vegas on review websites such as Yelp, Google, or Angie's List. Pay attention to the overall rating and read the comments to get an idea of the company's reputation and quality of service.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have used pest control services in the past for recommendations. They can provide valu",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some highly-recommended pest control companies in Las Vegas, NV:\n\n1. **Orkin Las Vegas**: With over 120 years of experience, Orkin is a well-established and reputable pest control company. They offer a wide range of services, including residential and commercial pest control, termite control, and bed bug removal. Phone: [phone removed].\n2. **Terminix Las Vegas**: Terminix is another well-known and trusted pest control company with a long history of providing effective services. They offer customized solutions for homes and businesses, including termite control, mosquito control, and flea and tick control. Phone: [phone removed].\n3. **Las Vegas Pest Control**: This locally-owned compan",
+      "named_here": [
+        "Orkin Las Vegas",
+        "Terminix Las Vegas",
+        "Las Vegas Pest Control"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are a few options:\n\n1.  **Orkin**: Orkin is a well-established and reputable pest control company with a strong presence in Las Vegas. They offer a wide range of services, including residential and commercial pest control, termite control, and rodent control.\n2.  **Terminix**: Terminix is another well-known pest control company with a strong reputation in Las Vegas. They offer a variety of services, including pest control, termite control, and rodent control.\n3.  **Clever Pest Control**: Clever Pest Control is a locally owned and operated company in Las Vegas that offers a range of pest control services, including pest control, termite control, and rodent control.\n4.  **Pestmaster Servi",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Clever Pest Control",
+        "Pestmaster Servi"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted pest control companies in Las Vegas, NV, based on online reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company with a strong presence in Las Vegas. They offer a range of services, including termite control, bed bug removal, and general pest control.\n\t* Rating: 4.5/5 (Google), 4.5/5 (Yelp)\n2. **Orkin**: Orkin is another reputable pest control company with a long history of serving the Las Vegas area. They offer customized pest control solutions, including termite control, rodent control, and mosquito control.\n\t* Rating: 4.5/5 (Google), 4/5 (Yelp)\n3. **Truly Nolen**: Truly Nolen is a family",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Truly Nolen",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted pest control companies in Las Vegas, NV:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with a strong presence in Las Vegas. They offer a wide range of services, including residential and commercial pest control, termite control, and bed bug removal.\n2. **Terminix**: Terminix is another well-known and trusted pest control company with a long history of providing effective pest control services in Las Vegas. They offer customized solutions for residential and commercial properties, including termite control, rodent control, and mosquito control.\n3. **Trinity Pest Control**: Trinity Pest Control",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Trinity Pest Control"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted pest control companies in Las Vegas, NV, based on online reviews and ratings:\n\n1. **Western Exterminator**:\n\t* Phone: [phone removed]\n\t* Rating: 4.8/5 (Google), 4.9/5 (Yelp)\n\t* Services: General pest control, termite control, rodent control, bed bug control\n2. **Orkin**:\n\t* Phone: [phone removed]\n\t* Rating: 4.7/5 (Google), 4.8/5 (Yelp)\n\t* Services: General pest control, termite control, rodent control, bed bug control\n3. **Terminix**:\n\t* Phone: [phone removed]\n\t* Rating: 4.7/5 (Google), 4.8/5 (Yelp)\n\t* Services: General pest control, termite control, rodent control, bed bug control\n4. **PestMD**:\n\t* Phone: [phone removed]\n\t* Rating: 4.9/5 (Google), 4.9/5 (Yelp)\n",
+      "named_here": [
+        "Western Exterminator",
+        "Orkin",
+        "Terminix",
+        "PestMD",
+        "Phone",
+        "Rating",
+        "Services"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some pest control companies in Las Vegas, NV with a good reputation:\n\n1. **Terminix**: With an average rating of 4.5/5 on Google and 4.5/5 on Yelp, Terminix is a well-established and reputable pest control company in Las Vegas.\n2. **Orkin**: Orkin has an average rating of 4.4/5 on Google and 4/5 on Yelp, and is known for its comprehensive pest control services and experienced technicians.\n3. **Truly Nolen**: Truly Nolen has an average rating of 4.5/5 on Google and 4.5/5 on Yelp, and offers a range of pest control services, including termite control and bed bug removal.\n4. **Bulwark Exterminating**: Bulwark Exterminating has an average rating of 4",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Truly Nolen",
+        "Bulwark Exterminating"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Pest Control Companies in Las Vegas, NV with the Best Reputation\n\nBased on online reviews, ratings, and licenses, here are some of the top-rated pest control companies in Las Vegas, NV:\n\n1. **Orkin**: With a 4.5-star rating on Google and 4.5-star rating on Yelp, Orkin is a well-established and reputable pest control company with over 120 years of experience. They offer a wide range of services, including general pest control, termite control, and rodent control.\n\t* License: Nevada Department of Agriculture (NDA) licensed and certified\n\t* Services: General pest control, termite control, rodent control, and more\n\t* Areas served: Las Vegas, Henderson, North Las Vegas, and surrounding areas\n",
+      "named_here": [
+        "Orkin",
+        "License",
+        "Services",
+        "Areas served"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some pest control companies in Las Vegas, NV with a good reputation based on online reviews and ratings:\n\n1.  **Orkin Pest Control**: Orkin has a 4.5-star rating on Google and 4.5-star rating on Yelp, with customers praising their reliable and effective service.\n2.  **Terminix**: Terminix has a 4.5-star rating on Google and 4.4-star rating on Yelp, with customers appreciating their quick response and thorough treatment.\n3.  **Pest Control of Las Vegas**: This locally-owned company has a 4.9-star rating on Google and 4.8-star rating on Yelp, with customers praising their friendly and knowledgeable technicians.\n4.  **ABC Pest Control**: ABC Pest Control has a 4.8-star rating on Google",
+      "named_here": [
+        "Orkin Pest Control",
+        "Terminix",
+        "Pest Control of Las Vegas",
+        "ABC Pest Control"
+      ]
+    }
+  ]
+}

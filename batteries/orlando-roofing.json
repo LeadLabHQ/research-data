@@ -1,0 +1,148 @@
+{
+  "trade": "roofing",
+  "market": "Orlando, FL",
+  "run_date": "2026-10-14T15:02:10.693Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top roofing companies in Orlando, FL, based on customer reviews, ratings, and reputation:\n\n1. **Roofer's Guild**: With over 20 years of experience, Roofer's Guild is a highly-rated company that offers residential and commercial roofing services.\n2. **Orlando Roofing Company**: This family-owned business has been serving the Orlando area for over 30 years, providing roof repairs, replacements, and installations.\n3. **Roofing USA**: With a 5-star rating on Google, Roofing USA is a popular choice for homeowners and businesses in Orlando, offering a range of roofing services, including metal roofing and solar panel installation.\n4. **Paul's Roofing**: Paul's Roofing has been",
+      "named_here": [
+        "Roofer's Guild",
+        "Orlando Roofing Company",
+        "Roofing USA",
+        "Paul's Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top Roofing Companies in Orlando, FL \n\nWhen searching for the best roofing companies in Orlando, FL, it's essential to consider factors such as experience, reputation, and services offered. Based on online reviews, ratings, and industry reputation, here are some top roofing companies in Orlando, FL:\n\n### Recommended Roofing Companies \n\n1. **Universal Roofing and Construction**: With over 20 years of experience, Universal Roofing and Construction is a highly-rated roofing company in Orlando, offering a wide range of services, including roof repairs, replacements, and maintenance.\n2. **Precision Roofing of Orlando**: Precision Roofing of Orlando has an A+ rating with the Better Business Bur",
+      "named_here": [
+        "Universal Roofing and Construction",
+        "Precision Roofing of Orlando"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated roofing companies in Orlando, FL, based on online reviews, ratings, and industry certifications:\n\n1.  **ABC Supply Roofing** - 4.9/5 stars on Google, 4.9/5 stars on Facebook\n\t* Specializes in residential and commercial roofing, solar panels, and gutters\n\t* Locally owned and operated, with a 100% satisfaction guarantee\n2.  **Legacy Roofing & Construction** - 4.9/5 stars on Google, 4.9/5 stars on Facebook\n\t* Family-owned and operated for over 20 years, with a focus on quality and customer service\n\t* Offers a wide range of roofing services, including shingle, tile, and flat roof repairs\n3.  **Statewide Roofing** - 4.8/5 stars on Google, 4.8/5 stars on Facebook\n\t* Locally",
+      "named_here": [
+        "ABC Supply Roofing",
+        "Legacy Roofing & Construction",
+        "Statewide Roofing",
+        "Locally"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good roofing company in Orlando, FL. However, I don't have real-time access to specific companies or their current reputation. That being said, here are a few steps you can take to find a reliable roofing company:\n\n1. **Online Search**: You can start by searching online for \"roofing companies in Orlando, FL\" or \"best roofers in Orlando.\" This will give you a list of companies in your area. Look for companies with good reviews and ratings on platforms like Google, Yelp, or Angie's List.\n\n2. **Check for Licenses and Certifications**: Ensure the company you choose is properly licensed and insured. You can check with the Florida Departmen",
+      "named_here": [
+        "Online Search",
+        "Check for Licenses and Certifications"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable roofing company in Orlando, FL. However, I don't have personal experiences or real-time reviews, but I can suggest some options to consider:\n\n1. **Check online reviews**: Websites like Yelp, Google Reviews, or HomeAdvisor can provide a list of top-rated roofing companies in Orlando. Look for companies with a high rating (4+ stars) and pay attention to the number of reviews.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently had roofing work done for recommendations.\n3. **Check with local trade organizations**: The National Roofing Contractors Association (NRCA) or the Florida Roofing and Sheet Metal Contractors Association (",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Check with local trade organizations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal preferences or direct relationships with specific companies. But I can provide you with some suggestions on how to find a reputable roofing company in Orlando, FL.\n\nHere are a few options:\n\n1. **Check online reviews**: Look for companies with a good rating on review platforms like:\n\t* Yelp (yelp.com)\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Google Reviews (google.com/maps)\n2. **Get referrals**: Ask friends, family, or neighbors who have recently had roofing work done in Orlando for recommendations.\n3. **Check with the Better Business Bureau (BBB)**: The BBB can provide information on a company's ratings, c",
+      "named_here": [
+        "Check online reviews",
+        "Get referrals",
+        "Check with the Better Business Bureau",
+        "Yelp",
+        "Angie's List",
+        "HomeAdvisor",
+        "Google Reviews"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted roofing companies in Orlando, FL, based on online reviews and ratings:\n\n1. **Richter Roofing**: With over 20 years of experience, Richter Roofing is a family-owned business that offers residential and commercial roofing services. They have a 4.9-star rating on Google and are accredited by the Better Business Bureau (BBB).\n2. **Janney Roofing**: Janney Roofing has been serving the Orlando area for over 30 years. They offer a range of services, including roof repairs, replacements, and maintenance. They have a 4.8-star rating on Google and are certified by the National Roofing Contractors Association (NRCA).\n3. **Roofing Orlando**: Roofing Orlando is a locally",
+      "named_here": [
+        "Richter Roofing",
+        "Janney Roofing",
+        "Roofing Orlando"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Trusted Roofing Companies in Orlando, FL\n\nWhen searching for a reliable roofing company in Orlando, FL, it's essential to consider factors such as reputation, experience, and customer reviews. Here are some of the most trusted options:\n\n### Top-Rated Roofing Companies\n\n1. **Universal Roofing and Construction**: With over 20 years of experience, Universal Roofing and Construction is a highly-rated company with an A+ rating from the Better Business Bureau (BBB). They offer a wide range of roofing services, including repairs, replacements, and maintenance.\n\t* Address: 13531 N US Hwy 192, Orlando, FL 32827\n\t* Phone: [phone removed]\n\t* Website: [www.universalroofingfl.com](http://www.universalr",
+      "named_here": [
+        "Universal Roofing and Construction",
+        "Address",
+        "Phone",
+        "Website"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted roofing companies in Orlando, FL, based on online reviews and ratings:\n\n1.  **ABC Supply Roofing**: ABC Supply is a well-established company with a strong reputation in Orlando. They offer a wide range of roofing services, including installation, repair, and replacement.\n\n2.  **Orlando Roofing Pros**: This company has a strong online presence and excellent customer reviews. They offer services for both residential and commercial properties.\n\n3.  **Florida Roofing & Sheet Metal**: With over 40 years of experience, Florida Roofing & Sheet Metal is a trusted name in the industry. They provide a variety of roofing services, including installation, repair, and ma",
+      "named_here": [
+        "ABC Supply Roofing",
+        "Orlando Roofing Pros",
+        "Florida Roofing & Sheet Metal"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the top roofing companies in Orlando, FL with the best reputation:\n\n1. **JAE Construction** - 4.9/5 stars on Google, 4.8/5 stars on Houzz\n2. **Roofer's Supply** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Winter Park Roofing** - 4.8/5 stars on Google, 4.7/5 stars on Angie's List\n4. **Orlando Roofing Company** - 4.7/5 stars on Google, 4.6/5 stars on HomeAdvisor\n5. **Universal Contracting** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n6. **Storm Solutions Roofing** - 4.7/5 stars on Google, 4.6/5 stars on Facebook\n7. **Ferris Roofing Contractors** - 4.6/5 stars on Google, 4.5/5 stars on Angie's List\n8. **Orlando Roof Repair** - 4.6/5 s",
+      "named_here": [
+        "JAE Construction",
+        "Roofer's Supply",
+        "Winter Park Roofing",
+        "Orlando Roofing Company",
+        "Universal Contracting",
+        "Storm Solutions Roofing",
+        "Ferris Roofing Contractors",
+        "Orlando Roof Repair"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Roofing Companies in Orlando, FL\n\nBased on online reviews, ratings, and industry recognition, here are some of the top-rated roofing companies in Orlando, FL:\n\n### Companies with a Strong Reputation\n\n1. **Universal Roofing and Construction**: 4.9/5 stars on Google, 4.8/5 stars on Facebook. Licensed, insured, and certified by the National Roofing Contractors Association (NRCA).\n2. **Precision Roofing of Orlando**: 4.9/5 stars on Google, 4.8/5 stars on Facebook. A GAF-certified roofing contractor with over 20 years of experience.\n3. **Orlando Roofing Company**: 4.8/5 stars on Google, 4.7/5 stars on Facebook. A family-owned business with over 30 years of experience, offering free i",
+      "named_here": [
+        "Universal Roofing and Construction",
+        "Precision Roofing of Orlando",
+        "Orlando Roofing Company"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some roofing companies in Orlando, FL with a good reputation based on online reviews and ratings:\n\n1. **ABC Supply Roofing**: 4.9/5 stars on Google, 4.8/5 stars on Facebook\n2. **Orlando Roofing Solutions**: 4.9/5 stars on Google, 4.8/5 stars on Facebook\n3. **Express Roofing**: 4.8/5 stars on Google, 4.7/5 stars on Facebook\n4. **Florida Roofing Solutions**: 4.8/5 stars on Google, 4.7/5 stars on Facebook\n5. **Sunshine Roofing**: 4.8/5 stars on Google, 4.7/5 stars on Facebook\n6. **Orlando Roofing Pros**: 4.7/5 stars on Google, 4.6/5 stars on Facebook\n7. **AAA Roofing**: 4.7/5 stars on Google, 4.6/5 stars on Facebook\n8. **All American Roofing**: 4.7/5 stars on Google, 4.6/5 stars on Fac",
+      "named_here": [
+        "ABC Supply Roofing",
+        "Orlando Roofing Solutions",
+        "Express Roofing",
+        "Florida Roofing Solutions",
+        "Sunshine Roofing",
+        "Orlando Roofing Pros",
+        "AAA Roofing",
+        "All American Roofing"
+      ]
+    }
+  ]
+}

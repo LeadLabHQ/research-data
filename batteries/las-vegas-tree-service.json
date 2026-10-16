@@ -1,0 +1,144 @@
+{
+  "trade": "tree-service",
+  "market": "Las Vegas, NV",
+  "run_date": "2026-10-15T21:14:24.936Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best tree service companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top-rated tree service companies in Las Vegas, NV, based on online reviews and ratings:\n\n1. **Las Vegas Tree Trimmers**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer tree trimming, pruning, removal, and stump grinding services.\n2. **Tree Service Las Vegas**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They provide tree removal, trimming, pruning, and stump grinding services, as well as 24/7 emergency tree services.\n3. **Nevada Tree Service**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They offer tree removal, trimming, pruning, and stump grinding services, as well as tree planting and fertilization.\n4. **Henderson Tree Service**: 4.7/5 stars on Google, 4.6/5 s",
+      "named_here": [
+        "Las Vegas Tree Trimmers",
+        "Tree Service Las Vegas",
+        "Nevada Tree Service",
+        "Henderson Tree Service"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top tree service companies in Las Vegas, NV, based on online reviews, ratings, and reputation:\n\n1. **Las Vegas Tree Care**: With a 4.9-star rating on Google and over 1,000 reviews, this company is highly recommended for tree trimming, removal, and stump grinding.\n2. **Tree Doctor Las Vegas**: This company has a 4.8-star rating on Google and offers a wide range of tree services, including pruning, removal, and planting.\n3. **Horizon Tree Service**: With a 4.9-star rating on Google and over 500 reviews, Horizon Tree Service is a trusted provider of tree care services, including emergency storm response.\n4. **Las Vegas Tree Service**: This company has a 4.7-star rating on G",
+      "named_here": [
+        "Las Vegas Tree Care",
+        "Tree Doctor Las Vegas",
+        "Horizon Tree Service",
+        "Las Vegas Tree Service"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated tree service companies in Las Vegas, NV, based on online reviews and ratings:\n\n1. **Tree Top Tree Service** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* 24/7 emergency services, certified arborists, and a wide range of services, including tree removal, pruning, and stump grinding.\n2. **TNT Tree Service** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Locally owned and operated, offering tree removal, pruning, and stump removal, as well as emergency services.\n3. **Las Vegas Tree Trimming** (4.7/5 on Google, 4.6/5 on Yelp)\n\t* Specializing in tree trimming, pruning, and removal, with a focus on safety and customer satisfaction.\n4. **Green Valley Tree Service** (4.7/5 on Google, 4.6/5 on Yel",
+      "named_here": [
+        "Tree Top Tree Service",
+        "TNT Tree Service",
+        "Las Vegas Tree Trimming",
+        "Green Valley Tree Service"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'm happy to help you find a reliable tree service company in Las Vegas, NV. However, I'm a large language model, I don't have personal recommendations or direct affiliations with specific companies. But I can guide you on how to find a good tree service company in your area.\n\nHere are some steps to help you find a reputable tree service company in Las Vegas:\n\n1. **Online Search**: Look up \"tree service companies in Las Vegas, NV\" or \"tree trimming services in Las Vegas\" on search engines like Google. This will give you a list of companies in your area.\n2. **Check Reviews**: Read reviews on websites like Yelp, Google Reviews, or Angie's List to see what previous customers have to say about t",
+      "named_here": [
+        "Online Search",
+        "Check Reviews"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are several good tree service companies in Las Vegas, NV. Here are a few recommendations:\n\n1. **Tree Doctor Las Vegas**: They offer a wide range of tree services, including tree trimming, removal, planting, and stump grinding. They have a team of certified arborists and are licensed and insured. You can reach them at [phone removed].\n2. **Las Vegas Tree Service**: This company provides 24/7 emergency tree services, including tree removal, trimming, and stump grinding. They have a team of experienced professionals and are fully insured. You can call them at [phone removed].\n3. **Tree Pros Las Vegas**: They offer tree trimming, removal, pruning, and stump grinding services. They have a tea",
+      "named_here": [
+        "Tree Doctor Las Vegas",
+        "Las Vegas Tree Service",
+        "Tree Pros Las Vegas"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal experiences or direct connections with specific businesses. But I can provide you with some suggestions on how to find a reputable tree service company in Las Vegas, NV. Here are a few options:\n\n1.  **Check online directories:** Websites like Yelp, Angie's List, or HomeAdvisor can help you find top-rated tree service companies in Las Vegas. You can read reviews from previous customers to get an idea of their quality of work and customer service.\n2.  **Ask for referrals:** Ask friends, family, or neighbors who have recently had tree work done in the area for recommendations. They can provide valuable insights into the company's reliab",
+      "named_here": [
+        "Check online directories",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Las Vegas has a hot desert climate, and trees need regular maintenance to thrive. Here are some of the most trusted tree service companies in Las Vegas, NV:\n\n1. **Las Vegas Tree Trimmers**: With over 20 years of experience, they offer tree trimming, pruning, removal, and stump grinding services.\n2. **Nevada Tree Service**: This family-owned business has been serving Las Vegas for over 30 years, providing tree removal, trimming, and planting services.\n3. **Tree Care Las Vegas**: They offer a wide range of services, including tree pruning, removal, and stump grinding, with a focus on safety and customer satisfaction.\n4. **Hansen's Tree Service**: With over 15 years of experience, they provide ",
+      "named_here": [
+        "Las Vegas Tree Trimmers",
+        "Nevada Tree Service",
+        "Tree Care Las Vegas",
+        "Hansen's Tree Service"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "When searching for a trusted tree service company in Las Vegas, NV, it's essential to consider factors such as reputation, experience, and customer reviews. Here are some of the most trusted options:\n\n### Top-Rated Tree Service Companies\n\n1. **Las Vegas Tree Care**: With over 20 years of experience, Las Vegas Tree Care is a reputable company that offers a wide range of tree services, including tree trimming, removal, and stump grinding. They are licensed, bonded, and insured, and have an A+ rating with the Better Business Bureau (BBB). Their team of certified arborists uses the latest equipment and techniques to ensure safe and efficient service.\n\t* Services: Tree trimming, removal, stump gr",
+      "named_here": [
+        "Las Vegas Tree Care",
+        "Services"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted tree service companies in Las Vegas, NV:\n\n1. **Tree Care Las Vegas**\n\t* Address: 4435 W Flamingo Rd, Las Vegas, NV 89108\n\t* Phone: [phone removed]\n\t* Rating: 4.9/5 on Google, 4.8/5 on Yelp\n\t* Services: Tree removal, trimming, pruning, stump grinding, and more\n2. **Las Vegas Tree Pros**\n\t* Address: 1850 S Decatur Blvd, Las Vegas, NV 89102\n\t* Phone: [phone removed]\n\t* Rating: 4.8/5 on Google, 4.7/5 on Yelp\n\t* Services: Tree removal, trimming, pruning, stump grinding, and more\n3. **Navy City Tree Service**\n\t* Address: 2250 N Martin Luther King Blvd, Las Vegas, NV 89106\n\t* Phone: [phone removed]\n\t* Rating: 4.9/5 on Google, 4.8/5 on Yelp\n\t* Services: Tree removal, t",
+      "named_here": [
+        "Tree Care Las Vegas",
+        "Las Vegas Tree Pros",
+        "Navy City Tree Service",
+        "Address",
+        "Phone",
+        "Rating",
+        "Services"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some tree service companies in Las Vegas, NV with a good reputation:\n\n1. **Tree Care Las Vegas** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Las Vegas Tree Trimmers** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Nevada Tree Service** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **Hansen's Tree Service** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Budget Tree Service** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Las Vegas Tree Removal** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **All Season Tree Service** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n8. **Tree Service Las Vegas** - 4.5/5 stars on Google, 4.4/5 stars ",
+      "named_here": [
+        "Tree Care Las Vegas",
+        "Las Vegas Tree Trimmers",
+        "Nevada Tree Service",
+        "Hansen's Tree Service",
+        "Budget Tree Service",
+        "Las Vegas Tree Removal",
+        "All Season Tree Service",
+        "Tree Service Las Vegas"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Tree Service Companies in Las Vegas, NV\n\nBased on online reviews and ratings, here are some of the top-rated tree service companies in Las Vegas, NV:\n\n### Companies with a Strong Reputation\n\n1. **Las Vegas Tree Care** (4.9/5 on Google, 4.8/5 on Yelp) - Offers tree trimming, removal, pruning, and stump grinding services.\n2. **Tree Care Las Vegas** (4.8/5 on Google, 4.7/5 on Yelp) - Provides tree trimming, removal, pruning, and stump grinding services, as well as emergency storm response.\n3. **Vegas Tree Service** (4.8/5 on Google, 4.7/5 on Yelp) - Offers tree trimming, removal, pruning, and stump grinding services, as well as gutter cleaning and installation.\n4. **Desert Tree Ser",
+      "named_here": [
+        "Las Vegas Tree Care",
+        "Tree Care Las Vegas",
+        "Vegas Tree Service",
+        "Desert Tree Ser"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some tree service companies in Las Vegas, NV with good reputations, based on online reviews and ratings from various sources such as Yelp, Google, and the Better Business Bureau (BBB):\n\n1. **Allied Tree Care**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Allied Tree Care has been serving the Las Vegas area for over 20 years, offering tree trimming, removal, and planting services.\n2. **ArborCare Tree Service**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. ArborCare has been in business for over 30 years, offering tree trimming, removal, and tree health management services.\n3. **Desert Tree Care**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Desert Tree Care has been serving the Las Ve",
+      "named_here": [
+        "Allied Tree Care",
+        "ArborCare Tree Service",
+        "Desert Tree Care"
+      ]
+    }
+  ]
+}

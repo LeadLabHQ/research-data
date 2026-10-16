@@ -1,0 +1,137 @@
+{
+  "trade": "cleaning",
+  "market": "Orlando, FL",
+  "run_date": "2026-10-14T15:02:04.007Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best house cleaning companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated house cleaning companies in Orlando, FL, based on online reviews and ratings:\n\n1. **Molly Maid**: A well-established and reputable cleaning company with a 4.9-star rating on Google. They offer customized cleaning services, including one-time, weekly, and bi-weekly cleanings.\n2. **The Cleaning Authority**: With a 4.8-star rating on Google, this company is known for its eco-friendly cleaning products and thorough cleaning services. They offer a range of cleaning packages, including move-in/move-out and special event cleanings.\n3. **Orlando Cleaning Services**: This locally-owned company has a 4.9-star rating on Google and offers a variety of cleaning services, including",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Orlando Cleaning Services"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated house cleaning companies in Orlando, FL:\n\n1. **The Cleaning Authority - Orlando**: With a 4.9-star rating on Google and 4.8-star rating on Facebook, this company offers reliable and thorough cleaning services.\n2. **Merry Maids of Orlando**: A well-established company with a 4.8-star rating on Google and 4.7-star rating on Facebook, offering a range of cleaning services.\n3. **The Cleaning Pros**: With a 4.9-star rating on Google and 4.8-star rating on Facebook, this company provides professional and eco-friendly cleaning services.\n4. **Cleanify**: A highly-rated company with a 4.9-star rating on Google and 4.8-star rating on Facebook, offering one-time and recur",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Orlando",
+        "The Cleaning Pros",
+        "Cleanify"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated house cleaning companies in Orlando, FL:\n\n1. **Molly Maid of Orlando**: With over 20 years of experience, Molly Maid is a trusted name in the Orlando area. They offer one-time, regular, and move-out cleaning services.\n2. **The Cleaning Authority**: This national franchise has a strong presence in Orlando, with over 1,000 locations across the US. They offer eco-friendly cleaning solutions and flexible scheduling.\n3. **TaskRabbit**: TaskRabbit is a task-completion service that connects you with local, background-checked cleaners. They offer a range of cleaning services, including one-time and recurring cleanings.\n4. **The Maids of Orlando**: This company has been",
+      "named_here": [
+        "Molly Maid of Orlando",
+        "The Cleaning Authority",
+        "TaskRabbit",
+        "The Maids of Orlando"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a good house cleaning company in Orlando, FL. However, I'm a large language model, I don't have personal experiences or direct recommendations. But I can provide you with some suggestions on how to find a reliable and trustworthy cleaning company.\n\nHere are a few options to consider:\n\n1. **Online Reviews**: Check websites like Yelp, Google, or Angie's List for top-rated house cleaning companies in Orlando. You can read reviews from previous customers to get an idea of their quality of service.\n2. **Word of Mouth**: Ask friends, family, or neighbors for recommendations. They may have had a good experience with a cleaning company and can provide you with a persona",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable house cleaning companies in Orlando, FL. Here are a few options you can consider:\n\n1. **The Cleaning Authority - Orlando**: [phone removed]\nThe Cleaning Authority is a well-established and reputable cleaning company with a team of trained and background-checked professionals. They offer one-time, weekly, bi-weekly, and monthly cleaning services.\n\n2. **Merry Maids of Orlando**: [phone removed]\nMerry Maids is a national franchise with a local presence in Orlando. They offer a range of cleaning services, including move-in/move-out cleaning, deep cleaning, and regular maintenance cleaning.\n\n3. **The Cleaning Company**: [phone removed]\nThe Cleaning Company is a locally-owned ",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Orlando",
+        "The Cleaning Company"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Orlando has a plethora of house cleaning companies to choose from. Here are a few highly-rated options you may want to consider:\n\n1.  **Molly Maid**: A well-established national franchise with a strong presence in Orlando. They offer customized cleaning services, including one-time, recurring, and move-in/move-out cleaning.\n2.  **The Cleaning Authority**: A professional cleaning company with eco-friendly products and a focus on detail-oriented cleaning. They offer various services, including one-time, regular, and special occasion cleanings.\n3.  **TaskRabbit**: A task-completion service that connects you with local, background-checked cleaners who can handle a range of tasks, including house",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house cleaning companies in Orlando, FL, based on online reviews and ratings:\n\n1. **MaidPro Orlando**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, MaidPro is a popular choice for house cleaning services in Orlando. They offer customized cleaning plans and eco-friendly cleaning products.\n2. **The Cleaning Authority**: This company has a 4.8-star rating on Google and 4.7-star rating on Yelp. They provide one-time, weekly, bi-weekly, and monthly cleaning services, and use eco-friendly cleaning products.\n3. **Orlando House Cleaning by Cleanify**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Cleanify offers customized cleaning s",
+      "named_here": [
+        "MaidPro Orlando",
+        "The Cleaning Authority",
+        "Orlando House Cleaning by Cleanify"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house cleaning companies in Orlando, FL:\n\n1. **The Cleaning Authority - Orlando**: With a 4.9-star rating on Google and 4.8-star rating on Facebook, this company is known for its reliable and thorough cleaning services. They offer one-time, weekly, bi-weekly, and monthly cleaning services.\n2. **Merry Maids of Orlando**: Merry Maids is a well-established company with a 4.8-star rating on Google and 4.9-star rating on Facebook. They offer a range of cleaning services, including move-in/move-out cleaning and special occasion cleaning.\n3. **The Cleaning Company**: With a 4.9-star rating on Google and 4.8-star rating on Facebook, this company is praised for its a",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Orlando",
+        "The Cleaning Company"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted house cleaning companies in Orlando, FL, based on online reviews and ratings:\n\n1. **Molly Maid**: With a 4.9-star rating on Google and a 4.8-star rating on Yelp, Molly Maid is a popular choice for house cleaning services in Orlando. They offer customized cleaning plans and eco-friendly cleaning solutions.\n2. **The Cleaning Authority**: This company has a 4.8-star rating on Google and a 4.7-star rating on Yelp. They use a proprietary cleaning system and offer a variety of cleaning services, including one-time cleanings and recurring cleanings.\n3. **Servpro**: Servpro is a well-known company that offers a range of cleaning services, including house cleaning, c",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Servpro"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the top-rated house cleaning companies in Orlando, FL:\n\n1. **Molly Maid of Orlando**: 4.9/5 stars on Google, 4.8/5 stars on Yelp - Known for their reliable and thorough cleaning services.\n2. **The Cleaning Authority**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Offers eco-friendly cleaning options and a satisfaction guarantee.\n3. **Orlando House Cleaning by Cleaning Services**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Provides customized cleaning plans and a 100% satisfaction guarantee.\n4. **Two Maids & A Mop**: 4.7/5 stars on Google, 4.6/5 stars on Yelp - Offers a pay-for-performance model, where the price is based on the customer'",
+      "named_here": [
+        "Molly Maid of Orlando",
+        "The Cleaning Authority",
+        "Orlando House Cleaning by Cleaning Services",
+        "Two Maids & A Mop"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated House Cleaning Companies in Orlando, FL\n\nBased on online reviews and ratings, here are some of the top-rated house cleaning companies in Orlando, FL:\n\n### Companies with a 4.5-Star Rating or Higher\n\n1. **The Cleaning Authority - Orlando**: 4.8/5 stars on Google, 4.9/5 stars on Facebook. They offer one-time, weekly, bi-weekly, and monthly cleaning services.\n2. **Merry Maids of Orlando**: 4.7/5 stars on Google, 4.8/5 stars on Facebook. They provide residential cleaning services, including move-in/move-out cleaning and special occasion cleaning.\n3. **The Cleaning Pros**: 4.7/5 stars on Google, 4.8/5 stars on Facebook. They offer customized cleaning plans, including one-time, weekly",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Orlando",
+        "The Cleaning Pros"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated house cleaning companies in Orlando, FL, based on online reviews and ratings:\n\n1. **Molly Maid of Orlando** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Offers customized cleaning services, eco-friendly options, and flexible scheduling.\n2. **The Cleaning Authority of Orlando** - 4.8/5 stars on Google, 4.8/5 stars on Yelp\n\t* Uses eco-friendly products and state-of-the-art equipment to provide a deep clean.\n3. **Servpro of Orlando** - 4.7/5 stars on Google, 4.7/5 stars on Yelp\n\t* Specializes in post-construction, move-in/move-out, and disaster restoration services.\n4. **The Maids of Orlando** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n\t* Offers a 22-point cl",
+      "named_here": [
+        "Molly Maid of Orlando",
+        "The Cleaning Authority of Orlando",
+        "Servpro of Orlando",
+        "The Maids of Orlando",
+        "Offers a 22-point cl"
+      ]
+    }
+  ]
+}

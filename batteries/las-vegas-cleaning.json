@@ -1,0 +1,142 @@
+{
+  "trade": "cleaning",
+  "market": "Las Vegas, NV",
+  "run_date": "2026-10-15T21:07:03.155Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best house cleaning companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top house cleaning companies in Las Vegas, NV, based on customer reviews and ratings:\n\n1. **Merry Maids**: With over 40 years of experience, Merry Maids is a well-established and reputable cleaning company in Las Vegas. They offer customized cleaning services, including one-time, weekly, bi-weekly, and monthly cleanings.\n2. **The Cleaning Authority**: This company has been serving the Las Vegas area for over 20 years and offers a range of cleaning services, including residential, commercial, and move-in/move-out cleanings.\n3. **Clean Sweep**: Clean Sweep is a locally owned and operated cleaning company that offers flexible scheduling and customized cleaning services to f",
+      "named_here": [
+        "Merry Maids",
+        "The Cleaning Authority",
+        "Clean Sweep"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Top House Cleaning Companies in Las Vegas, NV \n\nTo determine the best house cleaning companies in Las Vegas, NV, we considered factors such as customer reviews, services offered, and certifications. Here are the top names we'd recommend:\n\n### Top Recommendations \n\n1. **The Cleaning Authority - Las Vegas**: With a 4.9-star rating on Google and a reputation for providing reliable and trustworthy cleaning services, The Cleaning Authority is a top choice. They offer one-time, weekly, bi-weekly, and monthly cleaning services, as well as specialized services like move-in/move-out cleaning and deep cleaning.\n2. **Merry Maids of Las Vegas**: Merry Maids has a 4.8-star rating on Google and is kno",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Las Vegas"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated house cleaning companies in Las Vegas, NV, based on online reviews and ratings:\n\n1. **Molly Maid of Las Vegas**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Known for their attention to detail and eco-friendly cleaning products.\n2. **The Cleaning Authority**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Offers a proprietary cleaning system and eco-friendly products.\n3. **MaidPro Las Vegas**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Provides customized cleaning plans and uses eco-friendly products.\n4. **Home Clean Heroes**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Offers flexible scheduling and a satisfaction guarantee.\n5. **The Maids of Las Vegas**: 4.7/5 ",
+      "named_here": [
+        "Molly Maid of Las Vegas",
+        "The Cleaning Authority",
+        "MaidPro Las Vegas",
+        "Home Clean Heroes",
+        "The Maids of Las Vegas"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a reliable house cleaning company in Las Vegas, NV. However, I'm a large language model, I don't have personal experiences or direct recommendations. But I can provide you with some options to consider:\n\n1. **Online Review Sites**: Check websites like Yelp, Google Reviews, or Angie's List to find top-rated house cleaning companies in Las Vegas. You can filter the results by rating, price, and location.\n2. **MaidPro**: MaidPro is a national cleaning company with a location in Las Vegas. They offer customized cleaning services and have a 4.5-star rating on Google Reviews.\n3. **The Cleaning Authority**: The Cleaning Authority is another national company with a loca",
+      "named_here": [
+        "Online Review Sites",
+        "MaidPro",
+        "The Cleaning Authority"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable house cleaning companies in Las Vegas, NV. Here are a few options you can consider:\n\n1. **The Cleaning Authority - Las Vegas**: [phone removed]\n\t* They offer one-time, weekly, bi-weekly, and monthly cleaning services, as well as specialized cleaning services like move-in/move-out and construction cleanup.\n2. **MaidPro**: [phone removed]\n\t* MaidPro has a 4.9-star rating on Google and offers customizable cleaning services, including deep cleaning, move-in/move-out, and special occasion cleaning.\n3. **Merry Maids of Las Vegas**: [phone removed]\n\t* Merry Maids is a well-established company with a 4.8-star rating on Google. They offer one-time, weekly, bi-weekly, and monthly ",
+      "named_here": [
+        "The Cleaning Authority",
+        "MaidPro",
+        "Merry Maids of Las Vegas"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal recommendations or endorsements. But I can provide you with some options to consider based on online reviews and ratings. Keep in mind that it's always a good idea to do your own research and read multiple reviews from different sources before making a decision.\n\nHere are a few house cleaning companies in Las Vegas that have received good reviews:\n\n1. **Molly Maid**: 4.8/5 stars on Google, 4.9/5 stars on Yelp, and 4.8/5 stars on Facebook. They offer one-time, recurring, and move-in/move-out cleaning services.\n2. **The Cleaning Authority**: 4.7/5 stars on Google, 4.8/5 stars on Yelp, and 4.7/5 stars on Facebook. They offer one-time, r",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house cleaning companies in Las Vegas, NV, based on online reviews and ratings:\n\n1. **Molly Maid**: With over 30 years of experience, Molly Maid is a well-established and reputable cleaning company with a 4.8-star rating on Google.\n2. **The Cleaning Authority**: This eco-friendly cleaning company has a 4.7-star rating on Google and offers customized cleaning services for homes and apartments.\n3. **Clean Sweep**: With a 4.8-star rating on Yelp, Clean Sweep is a locally owned and operated company that provides reliable and thorough cleaning services.\n4. **Las Vegas House Cleaning**: This company has a 4.9-star rating on Google and offers a range of cleaning se",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Clean Sweep",
+        "Las Vegas House Cleaning"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house cleaning companies in Las Vegas, NV:\n\n1. **The Cleaning Authority - Las Vegas**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, this company is known for its reliable and thorough cleaning services. They offer one-time, weekly, bi-weekly, and monthly cleaning services.\n2. **Merry Maids of Las Vegas**: Merry Maids has a 4.8-star rating on Google and 4.7-star rating on Yelp. They offer a range of cleaning services, including move-in/move-out cleaning, deep cleaning, and regular maintenance cleaning.\n3. **Cleanify**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Cleanify is a popular choice for house cleaning in Las Vegas. T",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Las Vegas",
+        "Cleanify"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted house cleaning companies in Las Vegas, NV:\n\n1.  **Molly Maid**: With over 30 years of experience, Molly Maid is a well-established and reputable cleaning service that offers customized cleaning plans for residential homes.\n2.  **The Cleaning Authority**: This company has been in business for over 15 years and uses eco-friendly cleaning solutions to provide a safe and effective cleaning experience.\n3.  **Servpro**: Servpro is a nationwide franchise with a local presence in Las Vegas, offering a range of cleaning services, including home and office cleaning, water damage restoration, and more.\n4.  **The Maids**: The Maids is a professional cleaning service tha",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Servpro",
+        "The Maids"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some house cleaning companies in Las Vegas, NV with a good reputation:\n\n1. **Molly Maid of Las Vegas** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **The Cleaning Authority** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **MaidPro Las Vegas** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n4. **Clean Sweep Cleaning Services** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n5. **Las Vegas House Cleaning** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n6. **Sparkle & Shine Cleaning Services** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n7. **Two Maids & A Mop** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n8. **Green Clean Las Vegas** - 4.8/5 stars on ",
+      "named_here": [
+        "Molly Maid of Las Vegas",
+        "The Cleaning Authority",
+        "MaidPro Las Vegas",
+        "Clean Sweep Cleaning Services",
+        "Las Vegas House Cleaning",
+        "Sparkle & Shine Cleaning Services",
+        "Two Maids & A Mop",
+        "Green Clean Las Vegas"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated House Cleaning Companies in Las Vegas, NV \n\nTo determine the best house cleaning companies in Las Vegas, NV, we analyzed online reviews and ratings from reputable sources such as Yelp, Google, and HomeAdvisor. We considered factors such as overall rating, number of reviews, and consistency of positive feedback.\n\n### Top 5 House Cleaning Companies \n\nHere are the top 5 house cleaning companies in Las Vegas, NV, along with their ratings and number of reviews:\n\n1. **The Cleaning Authority - Las Vegas**: 4.9/5 (220+ reviews)\n\t* Licensed, bonded, and insured\n\t* Offers one-time, weekly, bi-weekly, and monthly cleaning services\n\t* Uses eco-friendly cleaning products\n2. **Merry Maids of ",
+      "named_here": [
+        "The Cleaning Authority",
+        "Licensed, bonded, and insured",
+        "Uses eco-friendly cleaning products",
+        "Merry Maids of"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated house cleaning companies in Las Vegas, NV, based on online reviews and ratings:\n\n1. **Molly Maid of Las Vegas** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* Specializes in residential and commercial cleaning services, including one-time and recurring cleanings.\n2. **The Cleaning Authority of Las Vegas** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* Offers eco-friendly cleaning solutions and a proprietary cleaning process using a truck-mounted system.\n3. **TaskRabbit** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* A task-completion platform that connects customers with local house cleaners and other professionals.\n4. **Las Vegas Cleaning Pros** (4.9/5 stars on G",
+      "named_here": [
+        "Molly Maid of Las Vegas",
+        "The Cleaning Authority of Las Vegas",
+        "TaskRabbit",
+        "Las Vegas Cleaning Pros"
+      ]
+    }
+  ]
+}

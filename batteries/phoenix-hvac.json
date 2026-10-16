@@ -1,0 +1,140 @@
+{
+  "trade": "hvac",
+  "market": "Phoenix, AZ",
+  "run_date": "2026-10-15T20:01:17.115Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best HVAC companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top HVAC companies in Phoenix, AZ, based on customer reviews, ratings, and reputation:\n\n1. **Day & Night Air Conditioning, Heating & Plumbing**: With over 40 years of experience, Day & Night is a well-established and trusted HVAC company in Phoenix.\n2. **Magic Touch Mechanical**: Magic Touch has been serving the Phoenix area for over 20 years, offering a wide range of HVAC services, including installation, repair, and maintenance.\n3. **Hobaica Services**: Hobaica Services has been in business for over 25 years, providing HVAC, plumbing, and electrical services to homeowners and businesses in Phoenix.\n4. **Donley Service Center**: Donley Service Center is a family-owned b",
+      "named_here": [
+        "Magic Touch Mechanical",
+        "Hobaica Services",
+        "Donley Service Center"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Top-Rated HVAC Companies in Phoenix, AZ \n\nTo determine the best HVAC companies in Phoenix, AZ, we considered factors such as customer reviews, ratings, licenses, and certifications. Here's a list of top-rated HVAC companies in Phoenix, AZ, along with their notable achievements and specialties:\n\n1. **Rheem Service Experts**: As a Rheem-authorized dealer, they offer expert installation, repair, and maintenance of Rheem HVAC systems. With a 4.8-star rating on Google and 95% customer satisfaction rate, they're a trusted name in the industry.\n2. **HomeServe USA**: This company offers a wide range of HVAC services, including installation, repair, and maintenance of heating and cooling systems.",
+      "named_here": [
+        "Rheem Service Experts",
+        "HomeServe USA"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated HVAC companies in Phoenix, AZ, based on online reviews, ratings, and reputation:\n\n1. **Precision Air Conditioning**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer residential and commercial HVAC services, including installation, repair, and maintenance.\n2. **Comfort Experts**: 4.9/5 stars on Google, 4.7/5 stars on Yelp. They provide heating and cooling services, including air conditioning repair, installation, and maintenance.\n3. **Desertaire**: 4.8/5 stars on Google, 4.6/5 stars on Yelp. This family-owned business offers HVAC services, including installation, repair, and maintenance, with a focus on energy efficiency.\n4. **Air Pro**: 4.8/5 stars on Go",
+      "named_here": [
+        "Precision Air Conditioning",
+        "Comfort Experts",
+        "Desertaire",
+        "Air Pro"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good HVAC company in Phoenix, AZ. However, I don't have real-time access to specific company information or personal recommendations. That being said, here are some steps you can take to find a reliable HVAC company in Phoenix:\n\n1. **Online Reviews**: Check online review platforms like Google, Yelp, or Angie's List to see what other customers have to say about HVAC companies in Phoenix. Look for companies with high overall ratings and pay attention to the comments to get an idea of their strengths and weaknesses.\n2. **Licenses and Certifications**: Make sure the company you choose is properly licensed and certified. In Arizona, HVAC c",
+      "named_here": [
+        "Online Reviews",
+        "Licenses and Certifications"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Recommended HVAC Companies in Phoenix, AZ \n\nBased on online reviews and ratings, here are some top-rated HVAC companies in Phoenix, AZ:\n\n### Top-Rated Companies \n\n1. **Rheem Service**: [phone removed] - A trusted name in the HVAC industry, Rheem offers excellent service and repair for their own brand of equipment, as well as others.\n2. **American Air Heating & Cooling**: [phone removed] - With over 20 years of experience, this company offers 24/7 emergency service, competitive pricing, and a 100% satisfaction guarantee.\n3. **Arizona Comfort Systems**: [phone removed] - This family-owned business provides expert HVAC services, including installation, repair, and maintenance, with a focus on ",
+      "named_here": [
+        "Rheem Service",
+        "American Air Heating & Cooling",
+        "Arizona Comfort Systems"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal experiences or direct connections with specific companies in Phoenix, AZ. But I can provide you with some tips on how to find a reliable HVAC company in Phoenix and some top-rated options to consider:\n\n**Tips for finding a good HVAC company:**\n\n1. **Check online reviews**: Look up companies on review websites like Yelp, Google, and Angie's List to see what previous customers say about their experiences.\n2. **Ask for referrals**: Ask friends, family, or neighbors for recommendations.\n3. **Check licenses and certifications**: Make sure the company is licensed, bonded, and insured. You can check the Arizona Registrar of Contractors webs",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Check licenses and certifications"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted HVAC companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Donley Service Center**: With over 40 years of experience, Donley Service Center is a family-owned business that offers heating, cooling, and plumbing services. They have a 4.9-star rating on Google and an A+ rating with the Better Business Bureau (BBB).\n2. **Magic Touch Mechanical**: Magic Touch Mechanical has been serving the Phoenix area for over 20 years, providing HVAC installation, repair, and maintenance services. They have a 4.8-star rating on Google and are accredited by the BBB with an A+ rating.\n3. **Hobaica Services**: Hobaica Services is a locally owned and operated compan",
+      "named_here": [
+        "Donley Service Center",
+        "Magic Touch Mechanical",
+        "Hobaica Services"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Trusted HVAC Companies in Phoenix, AZ\n\nBased on online reviews, ratings, and licenses, here are some of the most trusted HVAC companies in Phoenix, AZ:\n\n### Top-Rated Companies\n\n1. **Rheem Service** (4.8/5 on Google, 4.9/5 on Yelp) - a trusted brand with a wide range of HVAC services, including maintenance, repairs, and installations.\n2. **American Air Heating & Cooling** (4.8/5 on Google, 4.9/5 on Yelp) - a family-owned business with over 20 years of experience serving Phoenix and surrounding areas.\n3. **Cooling Masters** (4.8/5 on Google, 4.9/5 on Yelp) - a locally-owned company with over 20 years of experience providing HVAC services, including emergency repairs and maintenance.\n\n### O",
+      "named_here": [
+        "Rheem Service",
+        "American Air Heating & Cooling",
+        "Cooling Masters"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted HVAC companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Aire Serv of Phoenix**:\n\t* Rating: 4.9/5 on Google, 4.8/5 on Yelp\n\t* Servicing all types of HVAC systems, including residential and commercial\n\t* Offers 24/7 emergency service\n2. **Comfortech Air Conditioning and Heating**:\n\t* Rating: 4.9/5 on Google, 4.8/5 on Yelp\n\t* Family-owned and operated for over 20 years\n\t* Offers a wide range of HVAC services, including installation, repair, and maintenance\n3. **Phoenix Air Conditioning and Heating**:\n\t* Rating: 4.8/5 on Google, 4.7/5 on Yelp\n\t* Offers 24/7 emergency service and a 100% satisfaction guarantee\n\t* Specializes in residential and co",
+      "named_here": [
+        "Aire Serv of Phoenix",
+        "Comfortech Air Conditioning and Heating",
+        "Phoenix Air Conditioning and Heating",
+        "Rating",
+        "Offers 24/7 emergency service",
+        "Specializes in residential and co"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the top-rated HVAC companies in Phoenix, AZ:\n\n1. **Day & Night Air Conditioning, Heating & Plumbing** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Magic Touch Mechanical** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n3. **Hobaica Services** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n4. **Donley Service Center** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n5. **Parker & Sons** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n6. **John's Refrigeration** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n7. **Howard Air** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n8. **American Home Water and Air** - 4.6/5 stars on Google, 4.5/5 stars on Yelp",
+      "named_here": [
+        "Magic Touch Mechanical",
+        "Hobaica Services",
+        "Donley Service Center",
+        "Parker & Sons",
+        "John's Refrigeration",
+        "Howard Air",
+        "American Home Water and Air"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Phoenix, AZ\n\nBased on online reviews and ratings, here are some of the top-rated HVAC companies in Phoenix, AZ:\n\n### Companies with a Strong Reputation\n\n1. **Rheem Service Experts**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. A trusted brand with a long history of providing excellent service.\n2. **HomeServe USA**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Known for their fast and reliable service, with a wide range of HVAC solutions.\n3. **Aire Serv**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. A well-established company with a strong reputation for providing excellent customer service.\n4. **Mr. Cool**: 4.7/5 stars on Google, 4.6/5 stars on Yelp. A popular c",
+      "named_here": [
+        "Rheem Service Experts",
+        "HomeServe USA",
+        "Aire Serv",
+        "Mr. Cool"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated HVAC companies in Phoenix, AZ, based on online reviews and ratings from sources like Yelp, Google, and the Better Business Bureau:\n\n1. **Air Pro Heating and Air Conditioning**: 4.9/5 stars on Google, 4.9/5 stars on Yelp. They offer installation, repair, and maintenance services for heating and cooling systems.\n2. **Desert Air Conditioning and Heating**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They provide residential and commercial HVAC services, including installation, repair, and maintenance.\n3. **Heating and Air Pros**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer a wide range of HVAC services, including installation, repair, and maintenance, as well ",
+      "named_here": [
+        "Air Pro Heating and Air Conditioning",
+        "Desert Air Conditioning and Heating",
+        "Heating and Air Pros"
+      ]
+    }
+  ]
+}

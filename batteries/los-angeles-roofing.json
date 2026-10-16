@@ -1,0 +1,137 @@
+{
+  "trade": "roofing",
+  "market": "Los Angeles, CA",
+  "run_date": "2026-10-15T19:25:11.504Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top roofing companies in Los Angeles, CA, based on customer reviews, ratings, and reputation:\n\n1. **Roofing Masters**: With over 20 years of experience, Roofing Masters offers a wide range of roofing services, including installation, repair, and maintenance.\n2. **LA Roofing Company**: This family-owned business has been serving the Los Angeles area for over 30 years, providing high-quality roofing services and exceptional customer service.\n3. **All American Roofing**: With a 5-star rating on Yelp, All American Roofing is known for its professional and reliable service, offering roofing installation, repair, and inspection services.\n4. **Roof Repair LA**: This company spe",
+      "named_here": [
+        "Roofing Masters",
+        "LA Roofing Company",
+        "All American Roofing",
+        "Roof Repair LA"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated roofing companies in Los Angeles, CA, based on online reviews, ratings, and industry reputation:\n\n1. **Annie's Roofing**: A family-owned business with over 20 years of experience, offering roofing services, including repairs, replacements, and maintenance.\n2. **A-1 Roofing**: A trusted name in LA with over 40 years of experience, providing roofing services, including tile, shingle, and flat roofing.\n3. **LA Roofing Experts**: A highly-rated company with a focus on residential and commercial roofing, offering services like roof repairs, replacements, and inspections.\n4. **Roofing LA**: A reputable company with over 15 years of experience, providing roofing servi",
+      "named_here": [
+        "Annie's Roofing",
+        "A-1 Roofing",
+        "LA Roofing Experts",
+        "Roofing LA"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Los Angeles, CA, based on online reviews, ratings, and industry certifications:\n\n1. **ABC Roofing & Solar** (4.9/5 stars on Yelp, 4.8/5 stars on Google) - Known for their solar roofing and energy-efficient solutions.\n2. **Brite Roofing** (4.9/5 stars on Yelp, 4.7/5 stars on Google) - Offers a wide range of roofing services, including tile, shingle, and flat roof repairs.\n3. **California Roofing Solutions** (4.8/5 stars on Yelp, 4.7/5 stars on Google) - Specializes in commercial and residential roofing, with a focus on quality and customer service.\n4. **EcoStar Roofing** (4.8/5 stars on Yelp, 4.5/5 stars on Google) - Emphasizes eco-friendly ",
+      "named_here": [
+        "ABC Roofing & Solar",
+        "Brite Roofing",
+        "California Roofing Solutions",
+        "EcoStar Roofing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good roofing company in Los Angeles, CA. However, I don't have real-time access to specific companies or their current reputation. Here are some steps you can take to find a reliable roofing company:\n\n1. **Online Search**: Look up roofing companies in Los Angeles on search engines like Google. Check their websites for services offered, testimonials, and contact information.\n2. **Check Reviews**: Websites like Yelp, Angie's List, and Google Reviews can give you an idea of a company's reputation and quality of work. Pay attention to the overall rating and read the comments to understand the pros and cons.\n3. **Ask for Referrals**: A",
+      "named_here": [
+        "Online Search",
+        "Check Reviews",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Based on online reviews and ratings, here are some top-rated roofing companies in Los Angeles, CA:\n\n1. **Roofland**: [phone removed] - 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer free inspections and estimates.\n2. **LA Roofing**: [phone removed] - 4.8/5 stars on Google, 4.7/5 stars on Yelp. They provide emergency roof repair services and offer financing options.\n3. **California Roofing & Construction**: [phone removed] - 4.9/5 stars on Google, 4.8/5 stars on Yelp. They specialize in residential and commercial roofing, as well as solar panel installation.\n4. **Roofing LA**: [phone removed] - 4.7/5 stars on Google, 4.6/5 stars on Yelp. They offer a wide range of roofing services, includ",
+      "named_here": [
+        "Roofland",
+        "LA Roofing",
+        "California Roofing & Construction",
+        "Roofing LA"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can't recommend a specific roofing company in Los Angeles, CA. However, I can provide some suggestions on how to find a reliable and trustworthy roofer in your area. Would that help?",
+      "named_here": []
+    },
+    {
+      "prompt": "I need a roofing company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Los Angeles has numerous reputable roofing companies. Here are some of the most trusted options:\n\n1. **Roofing Masters**: With over 20 years of experience, Roofing Masters offers a wide range of services, including roof repairs, replacements, and installations.\n2. **LA Roofing Company**: This family-owned business has been serving the LA area for over 30 years, providing top-notch roofing services and excellent customer support.\n3. **Central Roofing Company**: As one of the largest roofing contractors in LA, Central Roofing Company has been in business for over 25 years, offering a variety of roofing services, including commercial and residential roofing.\n4. **Roof Repair LA**: This company ",
+      "named_here": [
+        "Roofing Masters",
+        "LA Roofing Company",
+        "Central Roofing Company",
+        "Roof Repair LA"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Most Trusted Roofing Companies in Los Angeles, CA\n\nBased on online reviews, ratings, and licenses, here are the top 5 most trusted roofing companies in Los Angeles, CA:\n\n#### Ranking Criteria\n\nThe ranking is based on a combination of factors, including:\n\n* Online reviews and ratings from reputable sources such as Google, Yelp, and BBB\n* Licenses and certifications from the State of California and the roofing industry\n* Experience and reputation in the Los Angeles area\n\n#### Top 5 Roofing Companies\n\n1. **A & A Roofing**: With over 20 years of experience, A & A Roofing is a highly-rated company with an A+ rating from the Better Business Bureau (BBB) and 4.9-star reviews on Google.\n\t* Licen",
+      "named_here": [
+        "A & A Roofing",
+        "Licen"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted roofing companies in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Duro-Last Roofing**: With over 20 years of experience, Duro-Last is a well-established and reputable roofing company in Los Angeles. They specialize in commercial and residential roofing services, including installation, repair, and maintenance.\n\t* Rating: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **H2O Construction**: H2O Construction is a licensed and insured roofing company in Los Angeles that offers a wide range of services, including roofing installation, repair, and replacement. They also provide emergency services for storm damage and leaks.\n\t* Rating: 4.9/5 stars on ",
+      "named_here": [
+        "Duro-Last Roofing",
+        "H2O Construction",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some well-reputed roofing companies in Los Angeles, CA:\n\n1. **Roofing Services Inc.**: With over 20 years of experience, they offer a wide range of roofing services, including repairs, replacements, and installations.\n2. **Central Roofing Company**: A family-owned business with over 25 years of experience, they specialize in commercial and residential roofing services.\n3. **LA Roofing Company**: They offer a variety of roofing services, including asphalt shingle, clay tile, and metal roofing, with a focus on customer satisfaction.\n4. **Roof Masters**: With over 30 years of experience, they provide roofing services for residential and commercial properties, including repairs, replace",
+      "named_here": [
+        "Roofing Services Inc",
+        "Central Roofing Company",
+        "LA Roofing Company",
+        "Roof Masters"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Roofing Companies in Los Angeles, CA\n\nTo determine the best roofing companies in Los Angeles, CA, we've considered factors such as customer reviews, ratings, licenses, and certifications. Here's a list of top-rated roofing companies in Los Angeles, CA:\n\n### Companies with a Strong Reputation\n\n1. **A & A Roofing**: With a 4.9-star rating on Google and over 20 years of experience, A & A Roofing is a trusted name in Los Angeles. They offer residential and commercial roofing services, including repairs, replacements, and maintenance.\n\t* License: #1139475\n\t* Certifications: GAF, Owens Corning\n2. **LA Roofing**: LA Roofing has a 4.8-star rating on Google and is a GAF-certified roofing",
+      "named_here": [
+        "A & A Roofing",
+        "LA Roofing",
+        "License",
+        "Certifications"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Los Angeles, CA, based on online reviews and ratings from sources like Yelp, Angie's List, and the Better Business Bureau:\n\n1. **Crown Roofing** (4.9/5 stars on Yelp, A+ rating on Angie's List)\n\t* Address: 1200 W 7th St, Los Angeles, CA 90017\n2. **AAA Roofing** (4.8/5 stars on Yelp, A+ rating on Angie's List)\n\t* Address: 11301 W Olympic Blvd, Los Angeles, CA 90064\n3. **West Coast Roofing** (4.8/5 stars on Yelp, A+ rating on Angie's List)\n\t* Address: 12121 San Fernando Rd, Sylmar, CA 91342 (serves Los Angeles area)\n4. **All Weather Roofing** (4.7/5 stars on Yelp, A+ rating on Angie's List)\n\t* Address: 5221 San Fernando Rd, Los Angeles, CA 91",
+      "named_here": [
+        "Crown Roofing",
+        "AAA Roofing",
+        "West Coast Roofing",
+        "All Weather Roofing",
+        "Address"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "trade": "roofing",
+  "market": "Houston, TX",
+  "run_date": "2026-10-15T19:47:58.633Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top roofing companies in Houston, TX, based on customer reviews, ratings, and industry reputation:\n\n1. **Amstill Roofing**: With over 40 years of experience, Amstill Roofing is a family-owned business that offers a wide range of roofing services, including repairs, replacements, and maintenance.\n2. **Roof Fix**: Roof Fix is a Houston-based company that provides roofing services for residential and commercial properties. They offer a 100% satisfaction guarantee and have a 4.9-star rating on Google.\n3. **Houston Roofing & Construction**: This company has been serving the Houston area for over 20 years and offers a variety of roofing services, including roof repairs, replac",
+      "named_here": [
+        "Amstill Roofing",
+        "Roof Fix",
+        "Houston Roofing & Construction"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top Roofing Companies in Houston, TX \n\nWhen searching for the best roofing companies in Houston, TX, it's essential to consider factors such as experience, reputation, and customer reviews. Based on online reviews, ratings, and industry reputation, here are some top roofing companies in Houston, TX:\n\n### Recommended Roofing Companies \n\n1. **Hicks Roofing**: With over 40 years of experience, Hicks Roofing is a trusted name in Houston, offering a wide range of roofing services, including repairs, replacements, and maintenance.\n2. **All Star Roofing**: This Houston-based company has been in business for over 20 years, providing top-notch roofing services, including tile, shingle, and metal r",
+      "named_here": [
+        "Hicks Roofing",
+        "All Star Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Houston, TX, based on online reviews and ratings:\n\n**Top-Rated Roofing Companies in Houston:**\n\n1. **Certified Restoration Services** (4.9/5 stars on Google, 4.9/5 stars on Yelp)\n\t* Specializes in storm damage restoration and roof repair\n\t* Serving Houston for over 10 years\n2. **Gulf Coast Roofing** (4.8/5 stars on Google, 4.8/5 stars on Yelp)\n\t* Family-owned and operated since 1985\n\t* Offers roof installation, repair, and maintenance services\n3. **ABC Roofing** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* Locally owned and operated since 1983\n\t* Provides roof installation, repair, and emergency services\n4. **Pro Roofing Services** (4.7/",
+      "named_here": [
+        "Top-Rated Roofing Companies in Houston",
+        "Certified Restoration Services",
+        "Gulf Coast Roofing",
+        "ABC Roofing",
+        "Pro Roofing Services",
+        "Serving Houston for over 10 years",
+        "Family-owned and operated since 1985",
+        "Locally owned and operated since 1983"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good roofing company in Houston, TX. However, I don't have real-time access to specific companies or their current ratings. That being said, here are some steps you can take to find a reliable roofing company in Houston:\n\n1. **Check online reviews**: Look up roofing companies in Houston on review websites such as Google, Yelp, or Angie's List. Pay attention to the overall rating and read the comments to get an idea of the company's strengths and weaknesses.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently had their roofs repaired or replaced for recommendations. They can provide valuable insights into the ",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable roofing company in Houston, TX. However, I don't have personal experiences or real-time reviews, but I can suggest some options to consider:\n\n1. **Check online reviews**: Websites like Yelp, Google Reviews, or Angie's List can provide a list of top-rated roofing companies in Houston. Look for companies with a high rating (4+ stars) and pay attention to the number of reviews.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently had roofing work done for recommendations.\n3. **Check with local trade organizations**: The National Roofing Contractors Association (NRCA) or the Roofing Contractors Association of Texas (RCAT) may have",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Check with local trade organizations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Houston! I'd be happy to help you find a reliable roofing company in Houston, TX. However, I'm a large language model, I don't have personal experiences or direct connections with specific companies. But I can provide you with some suggestions on how to find a good roofing company and a few recommendations based on online reviews and ratings.\n\n**How to find a good roofing company:**\n\n1. **Check online reviews**: Look for companies with high ratings on review platforms like:\n\t* Google Reviews\n\t* Yelp\n\t* Angie's List\n\t* HomeAdvisor\n\t* Thumbtack\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently had their roofs repaired or replaced for recommendations.\n3. **Check lice",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Google Reviews",
+        "Yelp",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Check lice"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted roofing companies in Houston, TX, based on online reviews and ratings:\n\n1. **Amstill Roofing**: With over 45 years of experience, Amstill Roofing is a family-owned business that offers a wide range of roofing services, including repairs, replacements, and installations. (4.9/5 stars on Google)\n2. **Roof Fix**: Roof Fix is a Houston-based roofing company that provides residential and commercial roofing services, including roof repairs, replacements, and maintenance. (4.8/5 stars on Google)\n3. **Houston Roofing & Construction**: This company offers a variety of roofing services, including roof repairs, replacements, and installations, as well as construction s",
+      "named_here": [
+        "Amstill Roofing",
+        "Roof Fix",
+        "Houston Roofing & Construction"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Most Trusted Roofing Companies in Houston, TX \n\nWhen searching for a reliable roofing company in Houston, TX, it's essential to consider factors such as experience, reputation, and customer reviews. Based on online reviews and ratings, here are some of the most trusted roofing companies in Houston:\n\n### Top-Rated Roofing Companies \n\n1. **Houston Roofing Pros** (4.9/5 on Google, 4.8/5 on Facebook)\n\t* Licensed, insured, and bonded\n\t* Offers free inspections and estimates\n\t* Provides a 100% satisfaction guarantee\n2. **Texas Roofing & Repair** (4.8/5 on Google, 4.7/5 on Facebook)\n\t* Family-owned and operated for over 20 years\n\t* Offers a wide range of roofing services, including repairs, rep",
+      "named_here": [
+        "Houston Roofing Pros",
+        "Texas Roofing & Repair",
+        "Licensed, insured, and bonded",
+        "Offers free inspections and estimates",
+        "Provides a 100% satisfaction guarantee"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-rated roofing companies in Houston, TX:\n\n1.  **ABC Home & Commercial Services**: A well-established company with over 100 years of experience, ABC Home & Commercial Services offers a wide range of roofing services, including installation, repair, and maintenance.\n2.  **All American Roofing**: A locally owned and operated company with over 30 years of experience, All American Roofing provides high-quality roofing services, including residential and commercial roofing, gutters, and skylights.\n3.  **A-Tex Roofing**: A trusted and certified roofing company with over 20 years of experience, A-Tex Roofing offers a variety of roofing services, including new roof installations, ",
+      "named_here": [
+        "ABC Home & Commercial Services",
+        "All American Roofing",
+        "A-Tex Roofing"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some reputable roofing companies in Houston, TX, based on online reviews and ratings:\n\n1. **Amstill Roofing**: 4.9/5 stars on Google, 4.8/5 stars on Yelp - Known for their excellent customer service and high-quality roofing installations.\n2. **Roof Fix**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Offers a wide range of roofing services, including repairs, replacements, and maintenance.\n3. **Houston Roofing & Construction**: 4.7/5 stars on Google, 4.6/5 stars on Yelp - Provides comprehensive roofing services, including inspections, repairs, and installations.\n4. **All-Tex Home Improvement Services**: 4.7/5 stars on Google, 4.6/5 stars on Yelp - Offers roofing, siding, and window s",
+      "named_here": [
+        "Amstill Roofing",
+        "Roof Fix",
+        "Houston Roofing & Construction",
+        "All-Tex Home Improvement Services"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Roofing Companies in Houston, TX \n\nBased on online reviews, ratings, and licenses, here are some of the top-rated roofing companies in Houston, TX:\n\n### Companies with a Strong Reputation \n\n1. **Huffman Roofing Company** - 4.9/5 stars on Google, 4.8/5 stars on Facebook. Licensed, bonded, and insured.\n2. **Texas Roofing & Construction** - 4.8/5 stars on Google, 4.7/5 stars on Facebook. GAF-certified and Owens Corning certified.\n3. **Peak Roofing & Construction** - 4.8/5 stars on Google, 4.7/5 stars on Facebook. Licensed, insured, and manufacturer-certified.\n4. **United Roofing & Construction** - 4.7/5 stars on Google, 4.6/5 stars on Facebook. GAF-certified and Owens Corning certi",
+      "named_here": [
+        "Huffman Roofing Company",
+        "Texas Roofing & Construction",
+        "Peak Roofing & Construction",
+        "United Roofing & Construction"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some roofing companies in Houston, TX with a good reputation based on online reviews and ratings:\n\n**Note:** Ratings can change over time, and it's essential to research and verify the information before making a decision.\n\n1. **Brothers Roofing** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* Family-owned and operated since 1967\n\t* Wide range of services, including roof repairs, replacements, and installations\n2. **Buckeye Roofing** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* Locally owned and operated since 1984\n\t* Offers residential and commercial roofing services\n3. **Gulf Coast Roofing** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* Family-owned and operated since 1984\n\t",
+      "named_here": [
+        "Note",
+        "Brothers Roofing",
+        "Buckeye Roofing",
+        "Gulf Coast Roofing",
+        "Family-owned and operated since 1967",
+        "Locally owned and operated since 1984",
+        "Offers residential and commercial roofing services",
+        "Family-owned and operated since 1984"
+      ]
+    }
+  ]
+}

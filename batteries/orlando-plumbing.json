@@ -1,0 +1,147 @@
+{
+  "trade": "plumbing",
+  "market": "Orlando, FL",
+  "run_date": "2026-10-14T15:01:31.173Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best plumbing companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated plumbing companies in Orlando, FL, based on customer reviews and ratings:\n\n1. **Mr. Rooter Plumbing of Orlando**: With over 45 years of experience, Mr. Rooter is a trusted name in plumbing services, offering 24/7 emergency services and a wide range of plumbing solutions.\n2. **Roto-Rooter Plumbing & Water Cleanup**: Another well-established plumbing company, Roto-Rooter has been serving Orlando for over 80 years, providing emergency plumbing services, drain cleaning, and water damage restoration.\n3. **Orlando Plumbing Services**: This locally owned and operated company offers a full range of plumbing services, including leak detection, pipe repair, and water heater ins",
+      "named_here": [
+        "Mr. Rooter Plumbing of Orlando",
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Orlando Plumbing Services"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top plumbing companies in Orlando, FL, based on online reviews, ratings, and reputation:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted name in the plumbing industry. They offer 24/7 emergency services and have a 4.8-star rating on Google.\n2. **Mr. Rooter Plumbing of Orlando**: Another reputable company with a 4.8-star rating on Google, Mr. Rooter Plumbing offers a wide range of services, including drain cleaning, pipe repair, and water heater installation.\n3. **Allstar Plumbing**: With a 4.9-star rating on Google, Allstar Plumbing is a highly-rated company that offers emergency services, drai",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Orlando",
+        "Allstar Plumbing"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated plumbing companies in Orlando, FL, based on online reviews and ratings:\n\n1.  **Roto-Rooter Plumbing and Water Cleanup** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* 24/7 emergency service, licensed and insured, and certified technicians\n2.  **Orlando Plumbing Company** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Locally owned and operated, with a team of experienced plumbers and a wide range of services\n3.  **Mr. Rooter Plumbing of Orlando** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Nationally recognized brand with a local presence, offering 24/7 emergency service and a 100% satisfaction guarantee\n4.  **Beyer Plumbing & A/C** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Family-owned and operated sin",
+      "named_here": [
+        "Roto-Rooter Plumbing and Water Cleanup",
+        "Orlando Plumbing Company",
+        "Mr. Rooter Plumbing of Orlando",
+        "Beyer Plumbing & A/C",
+        "Family-owned and operated sin"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'm happy to help you find a good plumber in Orlando, FL. However, I'm a large language model, I don't have personal recommendations or direct access to local businesses. But I can guide you on how to find a reliable plumber in your area.\n\nHere are some steps you can take to find a good plumber in Orlando:\n\n1. **Online Search**: You can search for plumbers in Orlando on online directories like Google, Yelp, or Angie's List. Use keywords like \"plumbers in Orlando\" or \"Orlando plumbing services\" to get a list of local plumbers.\n2. **Check Reviews**: Look for plumbers with good reviews and ratings on these websites. Pay attention to comments about their work quality, responsiveness, and custome",
+      "named_here": [
+        "Online Search",
+        "Check Reviews"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable plumbers in Orlando, FL. Here are some highly-rated options:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: [phone removed]\n\t* Rating: 4.8/5 stars on Google, 4.8/5 stars on Yelp\n\t* Services: 24/7 emergency plumbing, drain cleaning, water damage restoration\n2. **Mr. Rooter Plumbing of Orlando**: [phone removed]\n\t* Rating: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Services: Plumbing repairs, drain cleaning, sewer line installation, water heater services\n3. **Allstar Plumbing**: [phone removed]\n\t* Rating: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* Services: Residential and commercial plumbing, drain cleaning, water heater installation\n4. **Hobbs Plumbing**: [phone removed]\n\t* ",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Orlando",
+        "Allstar Plumbing",
+        "Hobbs Plumbing",
+        "Rating",
+        "Services"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal recommendations or direct access to specific plumbers in Orlando, FL. But I can guide you on how to find a reliable and trustworthy plumber in your area.\n\nHere are a few options to consider:\n\n1.  **Online Directories**:\n    *   **Angie's List**: A paid review website that allows you to search for plumbers in Orlando and read reviews from past customers.\n    *   **HomeAdvisor**: A platform that connects you with pre-screened plumbers in your area, providing you with quotes and reviews.\n    *   **Thumbtack**: A platform that allows you to post a job and receive bids from local plumbers.\n2.  **Professional Associations**:\n    *   **Orla",
+      "named_here": [
+        "Online Directories",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Professional Associations",
+        "Orla"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Orlando, FL has numerous trusted plumbing options. Here are some of the top-rated plumbers in the area:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: A well-known national chain with a local presence in Orlando, offering a wide range of plumbing services.\n2. **Mr. Rooter Plumbing of Orlando**: Another national chain with a strong reputation, providing plumbing repair, installation, and maintenance services.\n3. **Orlando Plumbing Services**: A locally owned and operated company with over 20 years of experience, offering residential and commercial plumbing services.\n4. **A1 Service Plumbing**: A family-owned business with a 5-star rating, providing plumbing repair, installation, and maintenanc",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Orlando",
+        "Orlando Plumbing Services",
+        "A1 Service Plumbing"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "When searching for a trusted plumber in Orlando, FL, it's essential to consider factors like licensing, experience, reviews, and certifications. Here are some top-rated and trusted plumbing options in Orlando:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and reputable plumbing company with a 4.8-star rating on Google and a 5-star rating on HomeAdvisor.\n2. **Mr. Rooter Plumbing of Orlando**: Mr. Rooter is a trusted plumbing franchise with a 4.9-star rating on Google and a 5-star rating on HomeAdvisor. They offer 24/7 emergency services and a wide range of plumbing solutions.\n3. **Allstar Plumbing**: Allstar Plumbing is a loc",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Orlando",
+        "Allstar Plumbing"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted plumbers in Orlando, FL, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing and Water Cleanup**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Emergency services available 24/7\n\t* Wide range of services, including drain cleaning, water heater repair, and pipe installation\n2. **Orlando Plumbing Company**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Family-owned and operated since 1983\n\t* Services include plumbing repair, installation, and maintenance\n3. **Mr. Rooter Plumbing**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* 24/7 emergency services available\n\t* Services include drain cleaning, sewer repair, and water heater installation\n4. **All ",
+      "named_here": [
+        "Roto-Rooter Plumbing and Water Cleanup",
+        "Orlando Plumbing Company",
+        "Mr. Rooter Plumbing",
+        "Emergency services available 24/7",
+        "Family-owned and operated since 1983",
+        "24/7 emergency services available",
+        "All"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some plumbing companies in Orlando, FL with a good reputation:\n\n1. **Roto-Rooter Plumbing & Water Cleanup** - With an average rating of 4.5/5 on Google and 4.5/5 on Yelp, Roto-Rooter is a well-established and trusted plumbing company in Orlando.\n2. **Mr. Rooter Plumbing of Orlando** - Mr. Rooter has an average rating of 4.5/5 on Google and 4.5/5 on Yelp, with customers praising their prompt and professional service.\n3. **Orlando Plumbing Services** - This company has an average rating of 4.8/5 on Google and 4.5/5 on Yelp, with customers raving about their reliable and affordable plumbing services.\n4. **Fowler Plumbing** - With an average rating o",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Orlando",
+        "Orlando Plumbing Services",
+        "Fowler Plumbing"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Plumbing Companies in Orlando, FL\n\nBased on online reviews and ratings, here are some of the top-rated plumbing companies in Orlando, FL:\n\n### Companies with a Strong Reputation\n\n1. **Roto-Rooter Plumbing & Water Cleanup** (4.9/5 on Google, 4.8/5 on Yelp) - A well-established company with a long history of providing plumbing services in Orlando.\n2. **Mr. Rooter Plumbing of Orlando** (4.9/5 on Google, 4.8/5 on Yelp) - A reputable company with a wide range of plumbing services, including drain cleaning, pipe repair, and water heater installation.\n3. **Ace Plumbing** (4.8/5 on Google, 4.7/5 on Yelp) - A family-owned and operated plumbing company with a strong reputation for providi",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Orlando",
+        "Ace Plumbing"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-rated plumbing companies in Orlando, FL, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: 4.9/5 stars on Google, 4.5/5 stars on Yelp. Known for their 24/7 emergency services and comprehensive plumbing solutions.\n2. **Mr. Rooter Plumbing of Orlando**: 4.8/5 stars on Google, 4.5/5 stars on Yelp. Offers emergency services, drain cleaning, and water heater installation.\n3. **Orlando Plumbing Company**: 4.9/5 stars on Google, 4.5/5 stars on Yelp. Family-owned and operated, providing plumbing services, drain cleaning, and water heater repair.\n4. **A-Plus Plumbing Services**: 4.8/5 stars on Google, 4.5/5 stars on Yelp. Offers 24/7 emergency ser",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Orlando",
+        "Orlando Plumbing Company",
+        "A-Plus Plumbing Services"
+      ]
+    }
+  ]
+}

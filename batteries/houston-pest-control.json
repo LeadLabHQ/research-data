@@ -1,0 +1,141 @@
+{
+  "trade": "pest-control",
+  "market": "Houston, TX",
+  "run_date": "2026-10-15T19:48:40.837Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best pest control companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated pest control companies in Houston, TX, based on customer reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company that offers a wide range of services, including termite control, bed bug removal, and wildlife control.\n2. **Orkin**: Orkin is another reputable pest control company with a long history of providing effective pest management solutions. They offer services for residential and commercial properties, including pest control, termite control, and bed bug removal.\n3. **Rentokil**: Rentokil is a global pest control company with a strong presence in Houston. They offer a range of services, includi",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Rentokil"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top Pest Control Companies in Houston, TX \n\nHere are the top pest control companies in Houston, TX, that I'd recommend:\n\n### Top Recommendations \n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with a strong presence in Houston. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control.\n2. **Terminix**: Another well-known and trusted name in the pest control industry, Terminix has been serving Houston for over 90 years. They offer comprehensive pest control services, including termite control, bed bug control, and wildlife control.\n3. **Trinity Pest Control*",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Trinity Pest Control*"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated pest control companies in Houston, TX, based on online reviews and ratings:\n\n1. **Orkin** (4.5/5 stars on Google, 4.5/5 stars on Yelp)\n\t* Services: General pest control, termite control, bed bug control, rodent control, and more.\n\t* Address: Multiple locations in Houston\n2. ** Terminix** (4.5/5 stars on Google, 4/5 stars on Yelp)\n\t* Services: General pest control, termite control, bed bug control, rodent control, and more.\n\t* Address: Multiple locations in Houston\n3. **Allied Pest Control** (4.8/5 stars on Google, 4.5/5 stars on Yelp)\n\t* Services: General pest control, termite control, bed bug control, rodent control, and more.\n\t* Address: Multiple locations in",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Allied Pest Control",
+        "Services",
+        "Address"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "There are many reputable pest control companies in Houston, TX. Here are a few options you may want to consider:\n\n1. **Terminix**: A well-known national pest control company with a local office in Houston. They offer a range of services, including termite control, bed bug treatment, and general pest control.\n2. **Orkin**: Another national pest control company with a presence in Houston. They provide services for residential and commercial properties, including pest control, termite control, and mosquito control.\n3. **Houston Pest Control**: A local, family-owned company that specializes in pest control services, including ant control, roach control, and rodent control.\n4. **Bugco Pest Contro",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Houston Pest Control",
+        "Bugco Pest Contro"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Based on online reviews and ratings, here are some top-rated pest control companies in Houston, TX:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with multiple locations in Houston. They offer a wide range of services, including termite control, mosquito control, and general pest control.\n\t* Phone: [phone removed]\n\t* Rating: 4.5/5 stars on Google, 4.5/5 stars on Yelp\n2. **Terminix**: Another well-known pest control company with a strong presence in Houston, Terminix offers comprehensive pest control services, including termite control, rodent control, and bed bug control.\n\t* Phone: [phone removed]\n\t* Rating: 4.4/5 stars on Goog",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Phone",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Finding a reliable pest control company in Houston, TX, can be a challenge. Here are some popular and reputable options:\n\n1.  ** Terminix**: A well-established company with a wide range of services, including termite control, rodent control, and mosquito control.\n2.  **Orkin**: Another well-known company with a strong presence in Houston, offering services like pest control, termite control, and wildlife control.\n3.  **A-1 Pest Control**: A family-owned business with over 30 years of experience, providing services such as residential and commercial pest control, termite control, and rodent control.\n4.  **Allgood Pest Solutions**: A local company with a focus on eco-friendly and family-friend",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "A-1 Pest Control",
+        "Allgood Pest Solutions"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted pest control companies in Houston, TX, based on customer reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company with a strong presence in Houston. They offer a wide range of services, including termite control, bed bug removal, and wildlife control.\n2. **Orkin**: Orkin is another reputable pest control company with a long history of serving Houston residents. They offer customized pest control solutions, including pest inspections, treatment, and prevention.\n3. **Houston Pest Control**: This locally owned and operated company has been serving the Houston area for over 20 years. They offer ",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Houston Pest Control"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted pest control companies in Houston, TX:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with a strong presence in Houston. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control.\n2. **Terminix**: Terminix is another well-known and trusted pest control company with a long history of providing effective pest control services in Houston. They offer a variety of services, including termite control, bed bug control, and general pest control.\n3. **Trinity Pest Control**: Trinity Pest Control is a locally-owned and operated company ",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Trinity Pest Control"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted pest control companies in Houston, TX:\n\n1. **Orkin Pest Control**: Orkin has been a leading pest control company for over 120 years and is a well-established name in the industry. They offer a wide range of services, including termite control, rodent control, and bed bug removal.\n2. ** Terminix**: Terminix is another well-known pest control company with a strong presence in Houston. They offer a variety of services, including termite control, rodent control, and mosquito control.\n3. **Pest Control Solutions**: Pest Control Solutions is a local company based in Houston that offers a range of pest control services, including termite control, bed bug removal, a",
+      "named_here": [
+        "Orkin Pest Control",
+        "Terminix",
+        "Pest Control Solutions"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some pest control companies in Houston, TX with a good reputation:\n\n1. **Terminix**: With an average rating of 4.5/5 on Google and 4.5/5 on Yelp, Terminix is a well-known and reputable pest control company in Houston.\n2. **Orkin**: Orkin has an average rating of 4.4/5 on Google and 4/5 on Yelp, and is a popular choice for pest control services in Houston.\n3. **Bulwark Exterminating**: Bulwark Exterminating has an average rating of 4.9/5 on Google and 4.5/5 on Yelp, and is known for its effective and customer-friendly service.\n4. **Pest Control Houston**: With an average rating of 4.8/5 on Google and 4.5/5 on Yelp, Pest Control Houston is a locall",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Bulwark Exterminating",
+        "Pest Control Houston"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Pest Control Companies with the Best Reputation in Houston, TX \n\nBased on online reviews, ratings, and licenses, here are some of the top-rated pest control companies in Houston, TX:\n\n### Top-Rated Companies \n\n1. **Orkin**: With an average rating of 4.5/5 on Google and 4.5/5 on Yelp, Orkin is a well-established and reputable pest control company with over 120 years of experience. They offer a wide range of services, including termite control, mosquito control, and general pest control.\n\t* License: Texas Department of Agriculture (TDA) license number: 1012134\n\t* Services: Termite control, mosquito control, general pest control, and more\n\t* Areas served: Houston, TX, and surrounding areas\n2",
+      "named_here": [
+        "Orkin",
+        "License",
+        "Services",
+        "Areas served"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some well-reputed pest control companies in Houston, TX:\n\n1. **Orkin Pest Control**: A national company with a strong presence in Houston, Orkin is a well-established and trusted brand with a 4.8-star rating on Google Reviews.\n2. **Terminix**: Another national company with a large presence in Houston, Terminix has a 4.6-star rating on Google Reviews and is known for its comprehensive pest control services.\n3. **Pest Control Solutions (PCS)**: A local company with over 20 years of experience, PCS has a 4.9-star rating on Google Reviews and offers eco-friendly and traditional pest control services.\n4. **All American Pest Control**: A family-owned business with over 20 years of experie",
+      "named_here": [
+        "Orkin Pest Control",
+        "Terminix",
+        "Pest Control Solutions",
+        "All American Pest Control"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "trade": "pest-control",
+  "market": "Denver, CO",
+  "run_date": "2026-10-15T20:30:36.863Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best pest control companies in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated pest control companies in Denver, CO, based on customer reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company that offers a wide range of services, including termite control, bed bug removal, and wildlife control.\n2. **Orkin**: Orkin is another well-known pest control company that has been serving the Denver area for over 100 years. They offer customized pest control solutions for homes and businesses.\n3. **Pest Control Denver**: This locally-owned company specializes in eco-friendly pest control solutions and offers services for ants, rodents, bed bugs, and more.\n4. **EnviroPest**: EnviroPest is a",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Pest Control Denver",
+        "EnviroPest"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated pest control companies in Denver, CO:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with a strong presence in Denver.\n2. **Terminix**: Another well-known and trusted brand, Terminix offers a wide range of pest control services, including residential and commercial solutions.\n3. **Trinity Pest Control**: A locally-owned and operated company, Trinity Pest Control has been serving Denver for over 20 years, offering effective and eco-friendly solutions.\n4. **Pest Control Services (PCS)**: With over 30 years of experience, PCS is a trusted name in Denver's pest control industry, offering customized s",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Trinity Pest Control",
+        "Pest Control Services"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated pest control companies in Denver, CO, based on online reviews and ratings:\n\n1. **Orkin Pest Control**\n\t* Rating: 4.8/5 (Google), 4.7/5 (Yelp)\n\t* Services: General pest control, termite control, bed bug removal, wildlife control\n2. **Terminix**\n\t* Rating: 4.7/5 (Google), 4.5/5 (Yelp)\n\t* Services: General pest control, termite control, bed bug removal, rodent control\n3. **Arrow Exterminating**\n\t* Rating: 4.8/5 (Google), 4.5/5 (Yelp)\n\t* Services: General pest control, termite control, bed bug removal, wildlife control\n4. **Aptive Environmental**\n\t* Rating: 4.9/5 (Google), 4.5/5 (Yelp)\n\t* Services: General pest control, termite control, bed bug removal, rodent control\n5. ",
+      "named_here": [
+        "Orkin Pest Control",
+        "Terminix",
+        "Arrow Exterminating",
+        "Aptive Environmental",
+        "Rating",
+        "Services"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good pest control company in Denver, CO. However, I don't have real-time access to specific companies or their current ratings. That being said, here are a few options to consider:\n\n1. **Terminix**: A well-known national pest control company with a presence in Denver.\n2. **Orkin**: Another national pest control company with a location in Denver.\n3. **Local companies**: You can also search online for local, family-owned pest control companies in Denver, such as **EnviroPest** or **Pest Control of Colorado**.\n\nTo find the best company for your needs, I recommend:\n\n* Checking online review sites like **Yelp**, **Google Reviews**, or ",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Local companies",
+        "EnviroPest",
+        "Pest Control of Colorado",
+        "Yelp",
+        "Google Reviews"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated pest control companies in Denver, CO:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with multiple locations in the Denver area. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control.\n\t* Phone: [phone removed]\n2. **Terminix**: Another well-known and experienced pest control company, Terminix has been serving the Denver area for over 90 years. They offer customized pest control solutions for homes and businesses, including termite control, rodent control, and mosquito control.\n\t* Phone: [phone removed]\n3. **TruGreen**: While primarily ",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "TruGreen",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can't recommend a specific pest control company in Denver, CO. However, I can provide some suggestions on how to find a reputable pest control company in your area. Would that help?",
+      "named_here": []
+    },
+    {
+      "prompt": "I need a pest control company in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted pest control companies in Denver, CO, based on online reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company with a strong presence in Denver. They offer a wide range of services, including termite control, bed bug removal, and wildlife control. (4.5/5 stars on Google)\n2. **Orkin**: Orkin is another reputable pest control company with a long history of serving the Denver area. They provide comprehensive pest control services, including pest inspections, treatment, and prevention. (4.4/5 stars on Google)\n3. **TruTech**: TruTech is a local, family-owned pest control company that has been ser",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "TruTech"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted pest control companies in Denver, CO, based on online reviews, ratings, and licenses:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with a strong presence in Denver. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control. (4.5/5 stars on Google, 4.5/5 stars on Yelp)\n2. **Terminix**: Another well-known and trusted pest control company, Terminix has been serving Denver for over 90 years. They offer customized pest control solutions for homes and businesses, including termite control, rodent control, and bed bug control. (4.5",
+      "named_here": [
+        "Orkin",
+        "Terminix"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted pest control companies in Denver, CO:\n\n1. **Terminix**: Terminix is a well-established national company with a large presence in Denver. They offer a wide range of pest control services, including termite control, rodent control, and bed bug removal.\n2. **Orkin**: Orkin is another well-known national company with a long history of providing pest control services in Denver. They offer a variety of services, including general pest control, termite control, and wildlife control.\n3. **Pestmaster Services**: Pestmaster Services is a local company with over 30 years of experience in pest control in Denver. They offer a wide range of services, including termite con",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Pestmaster Services"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some pest control companies in Denver, CO with a good reputation:\n\n1. **Terminix**: With an average rating of 4.5/5 on Google and 4.5/5 on Yelp, Terminix is a well-established pest control company with a strong presence in Denver.\n2. **Orkin**: Orkin has an average rating of 4.4/5 on Google and 4/5 on Yelp, and is known for its comprehensive pest control services and experienced technicians.\n3. **Rentokil**: Rentokil has an average rating of 4.5/5 on Google and 4.5/5 on Yelp, and offers a range of pest control services, including residential and commercial pest control.\n4. **Truly Nolen**: Truly Nolen has an average rating of 4.5/5 on Google and ",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Rentokil",
+        "Truly Nolen"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Pest Control Companies with the Best Reputation in Denver, CO\n\nBased on online reviews, ratings, and industry reputation, here are some of the top-rated pest control companies in Denver, CO:\n\n### Top-Rated Companies\n\n1. **Orkin**: With a 4.5-star rating on Google and 4.5-star rating on Yelp, Orkin is a well-established and reputable pest control company with multiple locations in the Denver area.\n2. **Terminix**: Terminix has a 4.5-star rating on Google and 4.5-star rating on Yelp, making it another well-known and respected pest control company with a strong presence in Denver.\n3. **Trinity Pest Control**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Trinity Pest Control ",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Trinity Pest Control"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some well-reviewed pest control companies in Denver, CO, with a good reputation:\n\n1. **Orkin Pest Control**: Orkin is a well-established national pest control company with a location in Denver. They offer a range of services, including termite control, rodent control, and bed bug elimination.\n2. **Terminix**: Terminix is another national pest control company with a location in Denver. They offer a variety of services, including termite control, rodent control, and pest extermination.\n3. **Pestmaster Services**: Pestmaster Services is a Denver-based company that offers a range of pest control services, including rodent control, bed bug elimination, and termite control.\n4. **Ehrlich P",
+      "named_here": [
+        "Orkin Pest Control",
+        "Terminix",
+        "Pestmaster Services",
+        "Ehrlich P"
+      ]
+    }
+  ]
+}

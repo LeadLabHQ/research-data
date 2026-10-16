@@ -1,0 +1,144 @@
+{
+  "trade": "plumbing",
+  "market": "Los Angeles, CA",
+  "run_date": "2026-10-15T19:22:28.699Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best plumbing companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top plumbing companies in Los Angeles, CA, based on customer reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted plumbing company in Los Angeles.\n2. **Mr. Rooter Plumbing of Los Angeles**: Mr. Rooter is a popular choice for plumbing services, offering 24/7 emergency service and a wide range of plumbing solutions.\n3. **Plumber Los Angeles**: This company offers a variety of plumbing services, including drain cleaning, water heater installation, and leak detection.\n4. **Los Angeles Plumbers**: With over 20 years of experience, Los Angeles Plumbers provides fast and reliable plumb",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Los Angeles",
+        "Plumber Los Angeles",
+        "Los Angeles Plumbers"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated plumbing companies in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted name in the plumbing industry. They offer 24/7 emergency services and have a 4.8-star rating on Google.\n2. **Mighty Plumber**: This family-owned business has been serving LA since 1976 and has a 4.9-star rating on Google. They offer competitive pricing and a wide range of plumbing services.\n3. **American Water Resources**: This company provides comprehensive plumbing services, including drain cleaning, water heater installation, and pipe repair. They have a 4.8-s",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mighty Plumber",
+        "American Water Resources"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in Los Angeles, CA:\n\n**Note:** This is not an exhaustive list, and ratings can change over time. I've compiled a list of highly-recommended companies based on online reviews, ratings, and industry reputation.\n\n1. **Roto-Rooter Plumbing and Water Cleanup** (4.8/5 on Yelp, 4.7/5 on Google Reviews)\n\t* Address: 12345 W Olympic Blvd, Los Angeles, CA 90064\n\t* Phone: [phone removed]\n2. **Mr. Rooter Plumbing of Los Angeles** (4.9/5 on Yelp, 4.8/5 on Google Reviews)\n\t* Address: 12345 W 3rd St, Los Angeles, CA 90064\n\t* Phone: [phone removed]\n3. **All Star Plumbing** (4.9/5 on Yelp, 4.8/5 on Google Reviews)\n\t* Address: 12345 S Vermont Ave, Los Angeles, CA",
+      "named_here": [
+        "Note",
+        "Roto-Rooter Plumbing and Water Cleanup",
+        "Mr. Rooter Plumbing of Los Angeles",
+        "All Star Plumbing",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I don't have have access to real-time information or personal recommendations. However, I can suggest some ways for you to find a reliable plumber in Los Angeles, CA:\n\n1. **Online Directories**: You can check online directories like Yelp, Angie's List, or HomeAdvisor to find plumbers in your area. These websites allow you to read reviews, compare prices, and check the plumber's credentials.\n2. **Google Search**: Simply type \"plumbers in Los Angeles, CA\" or \"emergency plumbers in LA\" in Google, and you'll get a list of nearby plumbers along with their contact information and reviews.\n3. **Word of Mouth**: Ask your friends, family, or neighbors for recommendations. They might have had a good e",
+      "named_here": [
+        "Online Directories",
+        "Google Search",
+        "Word of Mouth"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable plumbers in Los Angeles, CA. Here are a few options:\n\n1. **Roto-Rooter**: With multiple locations throughout LA, Roto-Rooter is a well-established and reputable plumbing company. You can call their 24/7 emergency line at [phone removed].\n2. **Mighty Plumber**: A family-owned business with over 20 years of experience, Mighty Plumber offers competitive pricing and excellent customer service. You can reach them at [phone removed].\n3. **The Drip Plumber**: A licensed and insured plumbing company with a focus on drain cleaning and repair. They offer 24/7 emergency services and can be reached at [phone removed].\n4. **LA Plumbing Pros**: A highly-rated plumbing company with a t",
+      "named_here": [
+        "Roto-Rooter",
+        "Mighty Plumber",
+        "The Drip Plumber",
+        "LA Plumbing Pros"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have personal experiences or direct access to real-time information about specific plumbers in Los Angeles, CA. However, I can provide you with some suggestions on how to find a reliable plumber in Los Angeles:\n\n1.  **Online Reviews**: Check online review platforms like Yelp, Angie's List, or Google Reviews to find top-rated plumbers in Los Angeles. Look for reviews that mention specific services, prices, and customer service.\n2.  **Word of Mouth**: Ask friends, family, or neighbors who have recently had plumbing work done for recommendations. They can provide valuable insights into a plumber's reliability, professionalism, and work quality.",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted plumbing options in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted plumbing company in Los Angeles. They offer a wide range of services, including drain cleaning, plumbing repair, and water damage restoration.\n\t* Rating: 4.5/5 (Google), 4.5/5 (Yelp)\n2. **Mr. Rooter Plumbing of Los Angeles**: Mr. Rooter is a reputable plumbing company with a strong presence in Los Angeles. They offer 24/7 emergency services, drain cleaning, and plumbing repair.\n\t* Rating: 4.5/5 (Google), 4.5/5 (Yelp)\n3. **Plumber Los Angeles**: This locally owne",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Los Angeles",
+        "Plumber Los Angeles",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted plumbers in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Roto-Rooter**: With over 80 years of experience, Roto-Rooter is a well-established and reputable plumbing company with multiple locations in Los Angeles. They offer 24/7 emergency services and have a rating of 4.5/5 on Google.\n2. **Mighty Plumber**: Mighty Plumber is a family-owned business with over 20 years of experience serving Los Angeles. They offer competitive pricing, 24/7 emergency services, and have a rating of 4.5/5 on Google.\n3. **Blue Ribbon Plumbing**: Blue Ribbon Plumbing is a licensed and insured plumbing company with over 20 years of experience in Los Angeles. They offer ",
+      "named_here": [
+        "Roto-Rooter",
+        "Mighty Plumber",
+        "Blue Ribbon Plumbing"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted and highly-rated plumbing services in Los Angeles, CA:\n\n1.  **Mr. Rooter Plumbing**: A well-established company with over 40 years of experience, offering 24/7 emergency service.\n2.  **Roto-Rooter Plumbing & Water Cleanup**: A trusted name in the industry, providing reliable service and a 100% satisfaction guarantee.\n3.  **Plumbing Experts LA**: A locally-owned and operated company with a team of experienced plumbers, offering competitive pricing and a 100% satisfaction guarantee.\n4.  **Honest-1 Auto Care**: A full-service plumbing company that also offers auto repair services, with a focus on customer satisfaction and fair pricing.\n5.  **Mr. Appliance**: A ",
+      "named_here": [
+        "Mr. Rooter Plumbing",
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Plumbing Experts LA",
+        "Honest-1 Auto Care",
+        "Mr. Appliance"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some plumbing companies in Los Angeles, CA, with a good reputation, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup** (4.5/5 stars on Google, 4.5/5 stars on Yelp) - A well-established national chain with a local presence in LA.\n2. **Mr. Rooter Plumbing of Los Angeles** (4.5/5 stars on Google, 4.5/5 stars on Yelp) - Another national chain with a strong reputation in the LA area.\n3. **Carter's Plumbing** (4.9/5 stars on Google, 4.5/5 stars on Yelp) - A family-owned business with over 20 years of experience in LA.\n4. **Dutton Plumbing** (4.8/5 stars on Google, 4.5/5 stars on Yelp) - A local, family-owned company with over 30 years of experience.\n5. **Pip",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Los Angeles",
+        "Carter's Plumbing",
+        "Dutton Plumbing",
+        "Pip"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Plumbing Companies in Los Angeles, CA\n\nTo determine the best plumbing companies in Los Angeles, CA, we analyzed online reviews and ratings from reputable sources such as Yelp, Google, and the Better Business Bureau. We considered factors such as overall rating, number of reviews, and customer satisfaction.\n\n### Selection Criteria\n\n* Minimum rating of 4.5/5 stars on Yelp and Google\n* Minimum of 100 reviews on Yelp and Google\n* Accreditation from the Better Business Bureau (BBB)\n* Licenses and certifications from the State of California and the City of Los Angeles\n\n### Top-Rated Plumbing Companies\n\nHere are the top-rated plumbing companies in Los Angeles, CA:\n\n1. **Roto-Rooter Plu",
+      "named_here": [
+        "Accreditation from the Better Business Bureau",
+        "Roto-Rooter Plu"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: 4.8/5 stars on Yelp, 4.8/5 stars on Google Reviews, and 4.5/5 stars on Angie's List.\n2. **Mr. Rooter Plumbing**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews, and 4.5/5 stars on Angie's List.\n3. **Plumbing Experts**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews, and 4.5/5 stars on Angie's List.\n4. **1-800-PLUMBER**: 4.7/5 stars on Yelp, 4.6/5 stars on Google Reviews, and 4.5/5 stars on Angie's List.\n5. **Mr. Drain LA**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews, and 4.5/5 stars on Angie's List.\n6. **Los Angeles Plumbing*",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing",
+        "Plumbing Experts",
+        "1-800-PLUMBER",
+        "Mr. Drain LA",
+        "Los Angeles Plumbing*"
+      ]
+    }
+  ]
+}

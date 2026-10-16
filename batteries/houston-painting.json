@@ -1,0 +1,145 @@
+{
+  "trade": "painting",
+  "market": "Houston, TX",
+  "run_date": "2026-10-15T19:51:25.815Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best painting companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top painting companies in Houston, TX, based on customer reviews and ratings:\n\n1. **Southern Painting**: With over 30 years of experience, Southern Painting is a well-established company that offers interior and exterior painting services.\n2. **CertPro Painters**: CertPro Painters is a reputable company that provides high-quality painting services, including interior and exterior painting, staining, and drywall repair.\n3. **Five Star Painting**: Five Star Painting is a trusted company that offers a wide range of painting services, including residential and commercial painting, deck staining, and fence painting.\n4. **ProTech Painting**: ProTech Painting is a locally owned",
+      "named_here": [
+        "Southern Painting",
+        "CertPro Painters",
+        "Five Star Painting",
+        "ProTech Painting"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top Painting Companies in Houston, TX \n\nTo determine the best painting companies in Houston, TX, we considered factors such as customer reviews, ratings, licenses, and certifications. Here are the top names we'd recommend:\n\n### Top 10 Painting Companies \n\n1. **Houzz**: 4.9/5 stars, over 1,000 reviews\n\t* Licensed, bonded, and insured\n\t* Offers interior and exterior painting services\n2. **My Neighborly**: 4.8/5 stars, over 500 reviews\n\t* Part of a large network of home service professionals\n\t* Provides free estimates and a 100% satisfaction guarantee\n3. **Crown Painting**: 4.8/5 stars, over 200 reviews\n\t* Family-owned and operated for over 20 years\n\t* Offers interior and exterior painting, ",
+      "named_here": [
+        "Houzz",
+        "My Neighborly",
+        "Crown Painting",
+        "Licensed, bonded, and insured",
+        "Offers interior and exterior painting services",
+        "Offers interior and exterior painting"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top painting companies in Houston, TX, based on online reviews and ratings:\n\n1. **Certified Painting Contractors of Houston (CPC)**: A local, family-owned business with over 30 years of experience, CPC has a 4.9-star rating on Google and is known for its high-quality work and excellent customer service.\n2. **All American Painting**: With a 4.8-star rating on Google and over 20 years of experience, All American Painting offers a wide range of painting services, including interior and exterior painting, staining, and more.\n3. **ABC Painting**: This Houston-based company has a 4.8-star rating on Google and is known for its attention to detail, excellent communication, and h",
+      "named_here": [
+        "Certified Painting Contractors of Houston",
+        "All American Painting",
+        "ABC Painting"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a good house painter in Houston, TX. However, I'm a large language model, I don't have personal recommendations or direct access to specific businesses. But I can provide you with some suggestions on how to find a reliable and trustworthy house painter in Houston:\n\n1. **Online Reviews**: Check online review platforms like Yelp, Google, or Angie's List to find highly-rated house painters in Houston. You can filter the results by location, rating, and services offered.\n2. **Ask for Referrals**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide you with first-hand experience and feedback about the painter'",
+      "named_here": [
+        "Online Reviews",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a good house painter in Houston, TX! However, I'm a large language model, I don't have have access to real-time information or personal experiences, so I can't provide a specific recommendation. But I can suggest some options to help you find a reliable house painter:\n\n1. **Check online reviews**: Websites like Angie's List, HomeAdvisor, or Yelp can connect you with highly-rated painters in your area. You can filter by rating, price, and services offered.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide valuable insights into a painter's work quality and professionalism.\n3. **",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have personal recommendations or direct access to specific businesses in Houston, TX. However, I can provide you with some suggestions on how to find a good house painter in Houston:\n\n1. **Online Reviews**: Check online review platforms like:\n\t* Yelp: [www.yelp.com](http://www.yelp.com)\n\t* Google Reviews: [www.google.com/maps](http://www.google.com/maps)\n\t* Angie's List: [www.angieslist.com](http://www.angieslist.com)\n\t* HomeAdvisor: [www.homeadvisor.com](http://www.homeadvisor.com)\n2. **Word of Mouth**: Ask friends, family, or neighbors who have recently had their homes painted for recommendations. They can provide valuable insights into th",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth",
+        "Yelp",
+        "Google Reviews",
+        "Angie's List",
+        "HomeAdvisor"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house painting companies in Houston, TX, based on online reviews and ratings:\n\n1. **CertPro Painters**: With a 4.9-star rating on Google and an A+ rating with the Better Business Bureau (BBB), CertPro Painters is a popular choice among Houston homeowners.\n2. **Five Star Painting**: This company has a 4.8-star rating on Google and is accredited by the BBB with an A+ rating. They offer a wide range of painting services, including interior and exterior painting.\n3. **Texas Professional Painting**: With a 4.8-star rating on Google and an A+ rating with the BBB, Texas Professional Painting is a trusted option for house painting in Houston.\n4. **Southern Painting*",
+      "named_here": [
+        "CertPro Painters",
+        "Five Star Painting",
+        "Texas Professional Painting",
+        "Southern Painting*"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house painter options in Houston, TX:\n\n1. **Benjamin Moore**: With multiple locations throughout Houston, Benjamin Moore is a well-known and trusted brand for painting supplies and services. They offer a wide range of paint options and have a network of certified painters.\n2. **Sherwin-Williams**: Similar to Benjamin Moore, Sherwin-Williams is a reputable brand with multiple locations in Houston. They offer painting services, including interior and exterior painting, and have a team of experienced painters.\n3. **Houzz**: Houzz is a popular platform that connects homeowners with pre-screened professionals, including painters. You can search for painters in Ho",
+      "named_here": [
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "Houzz"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted house painting companies in Houston, TX, based on online reviews and ratings:\n\n1.  **Prestige Painting**:\n\t* Rating: 4.9/5 on Houzz, 4.8/5 on Google Reviews\n\t* Services: Interior and exterior painting, color consultations, and repair work\n\t* Price range: $2,000 - $10,000+\n2.  **All American Painting**:\n\t* Rating: 4.8/5 on Houzz, 4.7/5 on Google Reviews\n\t* Services: Exterior painting, interior painting, and power washing\n\t* Price range: $2,000 - $8,000+\n3.  **CertaPro Painters of Houston**:\n\t* Rating: 4.8/5 on Houzz, 4.7/5 on Google Reviews\n\t* Services: Exterior and interior painting, color consultations, and repair work\n\t* Price range: $2,000 - $10,000+\n4.  ",
+      "named_here": [
+        "Prestige Painting",
+        "All American Painting",
+        "CertaPro Painters of Houston",
+        "Rating",
+        "Services",
+        "Price range"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some painting companies in Houston, TX with a good reputation, based on online reviews and ratings:\n\n1. **Southern Painting**: With over 30 years of experience, Southern Painting has a 4.9-star rating on Google and is known for its high-quality work and excellent customer service.\n2. **Five Star Painting**: This company has a 4.8-star rating on Google and is a part of the Five Star Painting franchise, which has a reputation for providing excellent painting services.\n3. **ProTech Painting**: ProTech Painting has a 4.9-star rating on Google and is known for its attention to detail and commitment to customer satisfaction.\n4. **Houston House Painting**: With a 4.8-star rating on Google,",
+      "named_here": [
+        "Southern Painting",
+        "Five Star Painting",
+        "ProTech Painting",
+        "Houston House Painting"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated painting companies in Houston, TX, known for their excellent reputation:\n\n1. **Houzz**: A highly-rated company with over 4.5 stars and 1,200+ reviews. They offer interior and exterior painting services, as well as power washing and staining.\n2. **CertaPro Painters**: With over 4.5 stars and 500+ reviews, CertaPro is a well-established painting company that provides high-quality services, including interior and exterior painting, staining, and more.\n3. **Benjamin Moore**: The official Benjamin Moore paint store in Houston has a 4.5-star rating and over 200 reviews. They offer painting services, as well as paint sales and consultations.\n4. **The Painting Company Houston",
+      "named_here": [
+        "Houzz",
+        "CertaPro Painters",
+        "Benjamin Moore",
+        "The Painting Company Houston"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some reputable painting companies in Houston, TX, based on online reviews and ratings:\n\n1. **ProPainters** (4.9/5 on Google, 4.8/5 on Yelp) - A family-owned business with over 30 years of experience, offering residential and commercial painting services.\n2. **Texas Painters** (4.9/5 on Google, 4.7/5 on Yelp) - A locally owned and operated company with a focus on quality, customer satisfaction, and environmentally friendly practices.\n3. **D&L Painting** (4.8/5 on Google, 4.6/5 on Yelp) - A family-owned business with over 20 years of experience, offering painting, staining, and power washing services.\n4. **Painting Pros** (4.8/5 on Google, 4.5/5 on Yelp) - A professional painting comp",
+      "named_here": [
+        "ProPainters",
+        "Texas Painters",
+        "D&L Painting",
+        "Painting Pros"
+      ]
+    }
+  ]
+}

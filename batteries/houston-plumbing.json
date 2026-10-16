@@ -1,0 +1,144 @@
+{
+  "trade": "plumbing",
+  "market": "Houston, TX",
+  "run_date": "2026-10-15T19:46:32.816Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best plumbing companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top plumbing companies in Houston, TX, based on online reviews and ratings:\n\n1. **John Moore Services**: With over 50 years of experience, John Moore Services is a well-established and reputable plumbing company in Houston. They offer a wide range of services, including drain cleaning, water heater installation, and leak detection. (4.9/5 stars on Google)\n2. **ABC Home & Commercial Services**: ABC Home & Commercial Services is a trusted plumbing company in Houston that offers 24/7 emergency services. They have a team of licensed and insured plumbers who can handle any plumbing issue. (4.8/5 stars on Google)\n3. **Mr. Rooter Plumbing of Houston**: Mr. Rooter Plumbing of Ho",
+      "named_here": [
+        "John Moore Services",
+        "ABC Home & Commercial Services",
+        "Mr. Rooter Plumbing of Houston"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top plumbing companies in Houston, TX, based on online reviews, ratings, and reputation:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and trusted name in the plumbing industry. They offer 24/7 emergency services and have a 4.8-star rating on Google.\n2. **Mr. Rooter Plumbing**: Another well-known company with a strong presence in Houston, Mr. Rooter Plumbing offers a wide range of services, including drain cleaning, pipe repair, and water heater installation. They have a 4.7-star rating on Google.\n3. **Ben Franklin Plumbing**: With over 40 years of experience, Ben Franklin Plumbing is a reputable company",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing",
+        "Ben Franklin Plumbing"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated plumbing companies in Houston, TX, based on online reviews, ratings, and reputation:\n\n1.  **Mr. Rooter Plumbing of Houston**: With over 30 years of experience, Mr. Rooter Plumbing is a trusted name in Houston, offering 24/7 emergency services, drain cleaning, and faucet installation.\n2.  **Roto-Rooter Plumbing and Water Cleanup**: Roto-Rooter is a well-known national company with a strong presence in Houston, providing emergency services, drain cleaning, and water damage restoration.\n3.  **Benjamin Franklin Plumbing**: This company has been serving Houston for over 20 years, offering 24/7 service, drain cleaning, and water heater installation.\n4.  **Service Experts He",
+      "named_here": [
+        "Mr. Rooter Plumbing of Houston",
+        "Roto-Rooter Plumbing and Water Cleanup",
+        "Benjamin Franklin Plumbing",
+        "Service Experts He"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'm happy to help you find a good plumber in Houston, TX. However, I'm a large language model, I don't have have access to real-time information or personal recommendations. But I can provide you with some suggestions on how to find a reliable plumber in your area:\n\n1. **Online Reviews**: Check websites like Yelp, Google Reviews, or Angie's List to read reviews from previous customers. Look for plumbers with high ratings and positive comments.\n2. **Ask for Referrals**: Ask friends, family, or neighbors who have recently used a plumber for recommendations. They can provide valuable insights into the plumber's work quality and reliability.\n3. **Professional Associations**: Look for plumbers wh",
+      "named_here": [
+        "Online Reviews",
+        "Ask for Referrals",
+        "Professional Associations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable plumbers in Houston, TX. Here are a few options:\n\n1. **Roto-Rooter**: With multiple locations in Houston, Roto-Rooter is a well-established and reputable plumbing company. They offer 24/7 emergency services and a wide range of plumbing solutions. You can call them at [phone removed].\n2. **Mister Rooter**: Another well-known plumbing company with multiple locations in Houston, Mister Rooter offers emergency services, drain cleaning, and plumbing repairs. You can call them at [phone removed].\n3. **Allstar Plumbing**: A Houston-based company with a strong reputation for providing excellent service, Allstar Plumbing offers a wide range of plumbing services, including emerge",
+      "named_here": [
+        "Roto-Rooter",
+        "Mister Rooter",
+        "Allstar Plumbing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal preferences or direct connections with specific plumbers in Houston, TX. But I can provide you with some suggestions on how to find a reliable and good plumber in Houston.\n\nHere are a few options:\n\n1. **Check online reviews**: Websites like Yelp, Angie's List, and Google Reviews can give you an idea of a plumber's reputation and customer satisfaction. Look for plumbers with high ratings and a large number of reviews.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently used a plumber in Houston for recommendations. Word of mouth is a great way to find a reliable and trustworthy plumber.\n3. **Check with the Te",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Check with the Te"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "There are several trusted plumbing options in Houston, TX. Here are a few:\n\n1. **John Moore Services**: A well-established company with over 50 years of experience, offering a wide range of plumbing services, including drain cleaning, water heater installation, and leak detection.\n2. **ABC Home & Commercial Services**: A reputable company that provides plumbing services, including plumbing repairs, installations, and maintenance, as well as drain cleaning and water treatment solutions.\n3. **Mr. Rooter Plumbing of Houston**: A trusted brand with a team of experienced plumbers, offering services such as drain cleaning, plumbing repairs, and water heater installation.\n4. **Roto-Rooter Plumbing ",
+      "named_here": [
+        "John Moore Services",
+        "ABC Home & Commercial Services",
+        "Mr. Rooter Plumbing of Houston",
+        "Roto-Rooter Plumbing"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted plumbers in Houston, TX, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With a 4.8-star rating on Google and 4.9-star rating on Yelp, Roto-Rooter is a well-established and reputable plumbing company in Houston. They offer 24/7 emergency services and a wide range of plumbing solutions.\n2. **Mr. Rooter Plumbing of Houston**: Mr. Rooter has a 4.8-star rating on Google and 4.9-star rating on Yelp. They offer affordable and reliable plumbing services, including drain cleaning, pipe repair, and water heater installation.\n3. **Allstar Plumbing**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Allstar Plumbing is a ",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Houston",
+        "Allstar Plumbing"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Houston has a large number of plumbers to choose from, but here are some of the most trusted options based on online reviews and ratings:\n\n**Top-Rated Plumbers in Houston:**\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* 24/7 emergency service\n\t* Licensed, bonded, and insured\n\t* Wide range of services, including drain cleaning, pipe repair, and water heater installation\n2. **Benjamin Franklin Plumbing**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* 24/7 emergency service\n\t* Guaranteed 1-hour response time\n\t* Wide range of services, including drain cleaning, pipe repair, and water heater installation\n3. **Mr. Rooter Plumbing**: 4.7/5 stars on Goog",
+      "named_here": [
+        "Top-Rated Plumbers in Houston",
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Benjamin Franklin Plumbing",
+        "Mr. Rooter Plumbing",
+        "24/7 emergency service",
+        "Licensed, bonded, and insured",
+        "Guaranteed 1-hour response time"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top-rated plumbing companies in Houston, TX, based on online reviews and reputation:\n\n1. **Nick's Plumbing Service**: With over 40 years of experience, Nick's Plumbing Service has a 4.9-star rating on Google and is known for its reliable and efficient service.\n2. **John Moore Services**: John Moore Services has been serving Houston for over 50 years and has a 4.8-star rating on Google. They offer a wide range of plumbing services, including drain cleaning and water heater installation.\n3. **ABC Home & Commercial Services**: ABC Home & Commercial Services has a 4.7-star rating on Google and offers plumbing services, including leak detection and pipe repair.\n4. **Roto-Root",
+      "named_here": [
+        "Nick's Plumbing Service",
+        "John Moore Services",
+        "ABC Home & Commercial Services",
+        "Roto-Root"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Plumbing Companies in Houston, TX \n\nTo determine the best plumbing companies in Houston, TX, we analyzed reviews and ratings from multiple sources, including Yelp, Google, and the Better Business Bureau. We considered factors such as customer satisfaction, response time, and quality of work.\n\n### Top 10 Plumbing Companies \n\nHere are the top 10 plumbing companies in Houston, TX, with their reputation ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup** (4.8/5) - A well-established company with over 80 years of experience, offering 24/7 emergency services.\n\t* Address: 2225 Westheimer Rd, Houston, TX 77098\n\t* Phone: [phone removed]\n2. **Mr. Rooter Plumbing of Houston** (4.7/5) - A ",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Houston",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in Houston, TX, based on online reviews and ratings:\n\n1. **Benjamin Franklin Plumbing**: 4.9/5 stars on Angie's List, 4.8/5 stars on Google Reviews, 4.9/5 stars on Yelp.\n2. **Mr. Rooter Plumbing of Houston**: 4.8/5 stars on Google Reviews, 4.7/5 stars on Angie's List, 4.8/5 stars on Yelp.\n3. **Roto-Rooter Plumbing and Water Cleanup**: 4.7/5 stars on Google Reviews, 4.6/5 stars on Angie's List, 4.7/5 stars on Yelp.\n4. **Academy Plumbing**: 4.8/5 stars on Google Reviews, 4.7/5 stars on Angie's List, 4.8/5 stars on Yelp.\n5. **Service Experts Plumbing**: 4.7/5 stars on Google Reviews, 4.6/5 stars on Angie's List, 4.7/5 stars on Yelp.\n6. **Reliabl",
+      "named_here": [
+        "Benjamin Franklin Plumbing",
+        "Mr. Rooter Plumbing of Houston",
+        "Roto-Rooter Plumbing and Water Cleanup",
+        "Academy Plumbing",
+        "Service Experts Plumbing",
+        "Reliabl"
+      ]
+    }
+  ]
+}

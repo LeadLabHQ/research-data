@@ -1,0 +1,138 @@
+{
+  "trade": "painting",
+  "market": "New York, NY",
+  "run_date": "2026-10-15T19:18:56.143Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best painting companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "New York City has numerous painting companies, and the \"best\" one can depend on factors like location, budget, and specific needs. That being said, here are some top-rated painting companies in New York, NY, based on customer reviews and ratings:\n\n1. **Five Star Painting** (4.9/5) - With over 200 locations, including several in NYC, Five Star Painting offers residential and commercial painting services.\n2. **N-Hance Wood Refinishing** (4.8/5) - While they specialize in wood refinishing, N-Hance also provides painting services for homes and businesses in NYC.\n3. **Painting with Passion** (4.9/5) - This family-owned business has been serving NYC for over 20 years, offering interior and exterio",
+      "named_here": [
+        "Five Star Painting",
+        "N-Hance Wood Refinishing",
+        "Painting with Passion"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top painting companies in New York, NY, based on online reviews, ratings, and reputation:\n\n1. **Benjamin Moore**: With multiple locations throughout NYC, Benjamin Moore is a well-known and respected painting company that offers high-quality paints and expert services.\n2. **Sherwin-Williams**: Another prominent paint company with multiple locations in NYC, Sherwin-Williams offers a wide range of painting services, from residential to commercial.\n3. **Houzz**: While not exclusively a painting company, Houzz is a popular platform that connects homeowners with top-rated painting professionals in NYC. Their list of recommended painters includes:\n\t* **Smart Painting NYC** (4.9",
+      "named_here": [
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "Houzz",
+        "Smart Painting NYC"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top painting companies in New York, NY, based on online reviews, ratings, and reputation:\n\n1.  **Sherwin-Williams**: A well-known national brand with a strong presence in New York, offering a wide range of paints, coatings, and services.\n2.  **Benjamin Moore**: A popular choice among homeowners and professionals, offering a vast color selection and high-quality finishes.\n3.  **Behr**: A budget-friendly option with a wide range of paints and stains, available at Home Depot stores throughout NYC.\n4.  **Valspar**: Another well-established brand with a variety of paints and coatings, offering a wide range of colors and finishes.\n5.  **Farrow & Ball**: A high-end option known",
+      "named_here": [
+        "Sherwin-Williams",
+        "Benjamin Moore",
+        "Behr",
+        "Valspar",
+        "Farrow & Ball"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good house painter in New York, NY. However, I don't have real-time access to specific contractors or their contact information.\n\nHere are a few options to consider:\n\n1. **Online Directories**: You can check online directories like Yelp, Angie's List, or HomeAdvisor to find highly-rated house painters in New York, NY. These websites allow you to filter by location, read reviews, and compare prices.\n2. **Word of Mouth**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide valuable insights into the painter's work quality, reliability, and professionalism.\n3. **Local Hardware",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Local Hardware"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable and skilled house painters in New York, NY. Here are a few options to consider:\n\n1. **Benjamin Moore**: With multiple locations throughout New York City, Benjamin Moore is a well-known and reputable painting company. They offer a wide range of services, including interior and exterior painting, and have a team of experienced professionals. You can find a location near you and schedule a consultation by calling [phone removed] or visiting their website.\n2. **Sherwin-Williams**: Similar to Benjamin Moore, Sherwin-Williams is a trusted brand with multiple locations in NYC. They offer a variety of painting services, including interior and exterior painting, and have a team",
+      "named_here": [
+        "Benjamin Moore",
+        "Sherwin-Williams"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I can provide you with some general tips and a few options to consider when searching for a house painter in New York, NY. Keep in mind that I'm a large language model, I don't have personal recommendations or direct connections, but I can give you some suggestions on how to find a reliable and skilled painter.\n\n**Tips for finding a good house painter:**\n\n1.  **Get referrals**: Ask friends, family, or neighbors who have recently had their homes painted for recommendations. They can provide valuable insights into a painter's work quality, reliability, and professionalism.\n2.  **Check online reviews**: Look up painters on websites like Angie's List, Yelp, or Google Reviews to see what",
+      "named_here": [
+        "Get referrals",
+        "Check online reviews"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house painting companies in New York, NY, based on online reviews and ratings:\n\n1. **Five Star Painting** (4.9/5 on Google, 4.8/5 on Yelp): With over 200 locations across the US, Five Star Painting has a strong presence in New York City. They offer a wide range of painting services, including interior and exterior painting, deck staining, and more.\n2. **PaintGreen** (4.9/5 on Google, 4.8/5 on Yelp): PaintGreen is a locally owned and operated painting company that uses eco-friendly painting practices. They offer interior and exterior painting services, as well as wallpaper removal and installation.\n3. **Noble Painters** (4.8/5 on Google, 4.7/5 on Yelp): Noble",
+      "named_here": [
+        "Five Star Painting",
+        "PaintGreen",
+        "Noble Painters"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house painter options in New York, NY:\n\n1. **Benjamin Moore**: With multiple locations throughout NYC, Benjamin Moore is a well-known and trusted brand for painting supplies and services. They offer a wide range of paint options and have a network of certified painters.\n2. **Sherwin-Williams**: Similar to Benjamin Moore, Sherwin-Williams is a reputable brand with multiple locations in NYC. They offer painting services, including interior and exterior painting, and have a team of experienced painters.\n3. **Houzz**: Houzz is a popular platform that connects homeowners with pre-screened professionals, including painters. You can find highly-rated painters in NY",
+      "named_here": [
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "Houzz"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Finding a reliable house painter in New York City can be a daunting task, but I'm here to help. Here are some of the most trusted options in New York, NY:\n\n1.  **Benjamin Moore Paints**: While primarily a paint manufacturer, Benjamin Moore also offers a comprehensive painting service through their Paint Crew division. They have a team of experienced painters who can handle everything from interior and exterior painting to color consultation and project management.\n2.  **PPG Paints**: Similar to Benjamin Moore, PPG Paints offers a painting service through their ProMar 200 program. They have a network of certified painters who can provide top-notch painting services, including color matching, ",
+      "named_here": [
+        "Benjamin Moore Paints",
+        "PPG Paints"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some painting companies in New York, NY with a good reputation:\n\n1. **Noble Painters**: Known for their high-quality work and excellent customer service, Noble Painters has been serving the NYC area for over 20 years.\n2. **Paintworks NYC**: With a 4.9-star rating on Google, Paintworks NYC is a popular choice among NYC residents and businesses, offering a wide range of painting services.\n3. **Hudson Painters**: This family-owned business has been serving the NYC area for over 30 years, providing top-notch painting services and exceptional customer service.\n4. **Five Star Painting of Manhattan**: As a locally owned and operated franchise, Five Star Painting of Manhattan has built a re",
+      "named_here": [
+        "Noble Painters",
+        "Paintworks NYC",
+        "Hudson Painters",
+        "Five Star Painting of Manhattan"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated painting companies in New York, NY, known for their excellent reputation:\n\n1. **Benjamin Moore's Painting Services**: As a well-established brand, Benjamin Moore's painting services have a reputation for quality and reliability.\n2. **Sherwin-Williams Painting**: Another prominent paint brand, Sherwin-Williams offers professional painting services with a focus on customer satisfaction.\n3. **NYC Painters**: With over 20 years of experience, NYC Painters have built a reputation for providing high-quality painting services to residential and commercial clients.\n4. **Painting in New York**: This company has a 4.9-star rating on Google and is known for its attention to deta",
+      "named_here": [
+        "Benjamin Moore's Painting Services",
+        "Sherwin-Williams Painting",
+        "NYC Painters",
+        "Painting in New York"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some well-established painting companies in New York, NY, with a good reputation:\n\n1.  **Sherwin-Williams**: A well-known national chain with a wide range of products and services.\n2.  **Benjamin Moore**: Another well-established national chain with a reputation for high-quality paints and expert advice.\n3.  **Behr Paints**: A popular choice for DIY projects and professional painting jobs, with a wide range of colors and finishes.\n4.  **Farrow & Ball**: A high-end paint brand with a wide range of eco-friendly and sustainable options.\n5.  **Valspar**: A well-known national chain with a wide range of products and services, including custom color matching.\n6.  **Dunn-Edwards**: A Calif",
+      "named_here": [
+        "Sherwin-Williams",
+        "Benjamin Moore",
+        "Behr Paints",
+        "Farrow & Ball",
+        "Valspar",
+        "Dunn-Edwards"
+      ]
+    }
+  ]
+}

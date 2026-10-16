@@ -1,0 +1,146 @@
+{
+  "trade": "drywall",
+  "market": "Seattle, WA",
+  "run_date": "2026-10-15T20:44:46.899Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated drywall contractors in Seattle, WA, based on online reviews and ratings:\n\n1. **Seattle Drywall** (4.9/5 stars on Google) - Known for their high-quality work and excellent customer service.\n2. **Drywall Masters** (4.8/5 stars on Google) - Offers a wide range of drywall services, including installation, repair, and finishing.\n3. **ProDrywall** (4.8/5 stars on Yelp) - Specializes in drywall installation, repair, and texturing, with a focus on attention to detail.\n4. **Seattle Painting and Drywall** (4.7/5 stars on Google) - A full-service contractor that offers drywall installation, repair, and painting services.\n5. **Drywall Experts** (4.7/5 stars on Yelp) - Provides pr",
+      "named_here": [
+        "Seattle Drywall",
+        "Drywall Masters",
+        "ProDrywall",
+        "Seattle Painting and Drywall",
+        "Drywall Experts"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in Seattle, WA, based on online reviews and ratings:\n\n1. **Drywall Masters**: With a 4.9-star rating on Google and over 500 reviews, Drywall Masters is a highly-recommended contractor in Seattle. They offer drywall installation, repair, and finishing services.\n2. **Seattle Drywall Pros**: This company has a 4.8-star rating on Google and is known for its professional and efficient service. They provide drywall installation, repair, and texture coating services.\n3. **Drywall Solutions NW**: With a 4.7-star rating on Google and over 200 reviews, Drywall Solutions NW is a trusted contractor in Seattle. They offer drywall installation, repair, and finis",
+      "named_here": [
+        "Drywall Masters",
+        "Seattle Drywall Pros",
+        "Drywall Solutions NW"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated drywall contractors in Seattle, WA, based on online reviews and ratings:\n\n1.  **Drywall Masters**: With an average rating of 4.9/5 on Yelp and 4.8/5 on Angie's List, Drywall Masters is a highly-recommended contractor in Seattle. They offer a wide range of services, including drywall installation, repair, and finishing.\n2.  **Drywall Pro**: This contractor has a 4.9/5 rating on Google and 4.8/5 on Yelp. They specialize in drywall installation, repair, and finishing, and have over 10 years of experience in the industry.\n3.  **Seattle Drywall**: With a 4.8/5 rating on Yelp and 4.7/5 on Google, Seattle Drywall is a popular choice for drywall services in the area. They off",
+      "named_here": [
+        "Drywall Masters",
+        "Drywall Pro",
+        "Seattle Drywall"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good drywall contractor in Seattle, WA. However, I don't have real-time access to specific contractors or their current availability. Here are a few options to consider:\n\n1. **Online Directories**:\n\t* Angie's List: A paid subscription-based service that provides reviews and ratings of local contractors.\n\t* Yelp: A free review platform where you can search for drywall contractors in Seattle and read reviews from other customers.\n\t* HomeAdvisor: A website that connects homeowners with pre-screened contractors.\n2. **Professional Associations**:\n\t* National Association of the Remodeling Industry (NARI) - Seattle Chapter: A trade organizat",
+      "named_here": [
+        "Online Directories",
+        "Professional Associations",
+        "Angie's List",
+        "Yelp",
+        "HomeAdvisor",
+        "National Association of the Remodeling Industry"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable drywall contractor in Seattle, WA! However, I'm a large language model, I don't have have access to real-time information or specific recommendations. But I can suggest some options to help you find a good drywall contractor:\n\n1. **Online Directories**:\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n\t* Yelp (yelp.com)\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors who have recently done a drywall project for recommendations.\n\t* Check online reviews on sites like Google, Facebook, or Nextdoor.\n3. **Professional Associations**:\n\t* National Drywall & Interior Systems Contractors Association (NDI",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Professional Associations",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Yelp"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I can provide you with some suggestions on how to find a good drywall contractor in Seattle, WA.\n\nHere are a few options:\n\n1.  **Angie's List**: Angie's List is a great resource to find reputable contractors in your area. You can search for drywall contractors in Seattle and read reviews from other customers to get an idea of their quality of work and professionalism.\n2.  **Better Business Bureau (BBB)**: The BBB is another great resource to find accredited businesses in your area. You can search for drywall contractors in Seattle and check their ratings and complaints filed against them.\n3.  **HomeAdvisor**: HomeAdvisor is a platform that connects homeowners with pre-screened contr",
+      "named_here": [
+        "Angie's List",
+        "Better Business Bureau",
+        "HomeAdvisor"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted drywall contractors in Seattle, WA, based on online reviews and ratings:\n\n1. **Seattle Drywall Company** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Address: 12345 Lake City Way NE, Seattle, WA 98125\n\t* Phone: [phone removed]\n2. **Drywall Solutions** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* Address: 4567 Rainier Ave S, Seattle, WA 98118\n\t* Phone: [phone removed]\n3. **Puget Sound Drywall** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n\t* Address: 7890 Aurora Ave N, Seattle, WA 98103\n\t* Phone: [phone removed]\n4. **Seattle Drywall Repair** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n\t* Address: 9012 35th Ave NE, Seattle, WA 98115\n\t* Phone: (206) 524-444",
+      "named_here": [
+        "Seattle Drywall Company",
+        "Drywall Solutions",
+        "Puget Sound Drywall",
+        "Seattle Drywall Repair",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in Seattle, WA, based on online reviews and ratings:\n\n1. **Drywall Northwest**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Drywall Northwest is a highly-recommended option in Seattle. They offer drywall installation, repair, and finishing services.\n2. **Seattle Drywall**: This company has a 4.8-star rating on Google and 4.7-star rating on Yelp. They provide drywall installation, repair, and texture services, and have been serving Seattle for over 20 years.\n3. **Drywall Masters**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Drywall Masters is a trusted option for drywall installation, repair, and finish",
+      "named_here": [
+        "Drywall Northwest",
+        "Seattle Drywall",
+        "Drywall Masters"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted drywall contractors in Seattle, WA, based on online reviews and ratings:\n\n1.  **Seattle Drywall Company**: With over 20 years of experience, Seattle Drywall Company offers a wide range of services, including drywall installation, repair, and finishing. They have an A+ rating with the Better Business Bureau and 4.9-star rating on Yelp.\n2.  **Drywall Pros**: This family-owned business has been serving Seattle for over 15 years, offering drywall installation, repair, and finishing services. They have an A+ rating with the Better Business Bureau and 4.8-star rating on Yelp.\n3.  **Cascade Drywall**: With over 25 years of experience, Cascade Drywall offers a varie",
+      "named_here": [
+        "Seattle Drywall Company",
+        "Drywall Pros",
+        "Cascade Drywall"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I've compiled a list of highly-reputed drywall contractors in Seattle, WA, based on online reviews and ratings. Please note that reputations can change over time, and it's essential to do your own research and verify the information before hiring a contractor. Here are some well-regarded drywall contractors in Seattle:\n\n1. **Seattle Drywall** (4.9/5 on Google, 4.8/5 on Yelp) - Known for their high-quality work, attention to detail, and excellent customer service.\n2. **Drywall Masters** (4.8/5 on Google, 4.7/5 on Yelp) - Offers a wide range of drywall services, including installation, repair, and finishing, with a focus on customer satisfaction.\n3. **ProDrywall** (4.7/5 on Google, 4.6/5 on Ye",
+      "named_here": [
+        "Seattle Drywall",
+        "Drywall Masters",
+        "ProDrywall"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Based on online reviews and ratings, here are some top-rated drywall contractors in Seattle, WA:\n\n1. **Drywall Northwest** (4.9/5 on Google, 4.8/5 on Yelp) - With over 20 years of experience, they offer drywall installation, repair, and finishing services.\n2. **Seattle Drywall Pros** (4.9/5 on Google, 4.8/5 on Yelp) - This company provides professional drywall services, including installation, repair, and texture coating.\n3. **Drywall Masters** (4.8/5 on Google, 4.7/5 on Yelp) - With over 15 years of experience, they offer drywall installation, repair, and finishing services, as well as popcorn ceiling removal.\n4. **All Dry Seattle** (4.8/5 on Google, 4.7/5 on Yelp) - This company provides d",
+      "named_here": [
+        "Drywall Northwest",
+        "Seattle Drywall Pros",
+        "Drywall Masters",
+        "All Dry Seattle"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I don't have direct access to real-time information about specific contractors in Seattle, WA, or their current reputation. However, I can suggest some ways to find reliable drywall contractors in Seattle and provide you with a list of well-known contractors in the area who have been reviewed positively by multiple sources.\n\nTo find reliable contractors, you can:\n\n1.  **Check online review sites**: Websites like Yelp, Angie's List, and HomeAdvisor can give you an idea of a contractor's reputation and past performance.\n2.  **Ask for referrals**: Ask friends, family, or neighbors who have recently completed a drywall project for recommendations.\n3.  **Verify licenses and certifications**: Ensu",
+      "named_here": [
+        "Check online review sites",
+        "Ask for referrals",
+        "Verify licenses and certifications"
+      ]
+    }
+  ]
+}

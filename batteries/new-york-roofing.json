@@ -1,0 +1,142 @@
+{
+  "trade": "roofing",
+  "market": "New York, NY",
+  "run_date": "2026-10-15T19:14:49.914Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top roofing companies in New York, NY, based on customer reviews, ratings, and reputation:\n\n1. **Noble Roofing** - 4.9/5 stars on Google, known for their expert roof installations, repairs, and maintenance services.\n2. **NYC Roofing** - 4.8/5 stars on Google, offering a wide range of roofing services, including flat roof repair, shingle installation, and gutter cleaning.\n3. **Roofer NYC** - 4.7/5 stars on Google, providing high-quality roofing services, including roof replacement, repair, and inspection.\n4. **New York Roofing** - 4.7/5 stars on Google, specializing in commercial and residential roofing, including flat roofs, shingle roofs, and slate roofs.\n5. **All Weath",
+      "named_here": [
+        "Noble Roofing",
+        "NYC Roofing",
+        "Roofer NYC",
+        "New York Roofing",
+        "All Weath"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top Roofing Companies in New York, NY \n\nHere are some of the top roofing companies in New York, NY, based on online reviews, ratings, and reputation:\n\n### Recommended Roofing Companies \n\n1. **Glickman Roofing**: With over 30 years of experience, Glickman Roofing is a trusted name in NYC, offering roofing services, including repairs, replacements, and maintenance.\n2. **Allied Roofing**: A family-owned business with over 20 years of experience, Allied Roofing provides top-notch roofing services, including slate, tile, and flat roofing.\n3. **J. Crew Roofing**: A NYC-based company with over 15 years of experience, J. Crew Roofing offers roofing repairs, replacements, and maintenance services,",
+      "named_here": [
+        "Glickman Roofing",
+        "Allied Roofing",
+        "J. Crew Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in New York, NY, based on online reviews, ratings, and industry reputation:\n\n1. **Lone Star Roofing** (4.8/5 on Google, 4.5/5 on Yelp) - A family-owned business with over 30 years of experience, serving Brooklyn, Queens, the Bronx, and Manhattan.\n2. **Liberty Roofing** (4.8/5 on Google, 4.5/5 on Yelp) - A full-service roofing company with over 20 years of experience, offering residential and commercial roofing services throughout the city.\n3. **New York Roofing Company** (4.7/5 on Google, 4.5/5 on Yelp) - A locally owned and operated business with over 15 years of experience, serving all five boroughs.\n4. **R & J Roofing** (4.7/5 on Google, 4.",
+      "named_here": [
+        "Lone Star Roofing",
+        "Liberty Roofing",
+        "New York Roofing Company",
+        "R & J Roofing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good roofing company in New York, NY. However, I don't have real-time access to specific companies or their current reputation. That being said, here are some steps you can take to find a reliable roofing company:\n\n1. **Online Search**: Look up roofing companies in New York, NY, on search engines like Google. Check their websites, reviews, and ratings on platforms like Yelp, Google Reviews, or Angie's List.\n2. **Ask for Referrals**: Ask friends, family, or neighbors who have recently had roofing work done for recommendations. They can provide valuable insights into the company's work quality, professionalism, and customer service.\n3. ",
+      "named_here": [
+        "Online Search",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Based on online reviews and ratings, here are some top-rated roofing companies in New York, NY:\n\n1. **Glickman Roofing**: With over 20 years of experience, Glickman Roofing is a trusted name in NYC. They offer a wide range of roofing services, including repairs, replacements, and maintenance. [phone removed]\n2. **Allied Roofing**: Allied Roofing has been serving NYC for over 30 years, providing high-quality roofing services, including slate, tile, and flat roofing. [phone removed]\n3. **J. Crew Roofing**: J. Crew Roofing is a family-owned business with over 20 years of experience in NYC. They offer competitive pricing and excellent customer service. [phone removed]\n4. **United Roofing**: United ",
+      "named_here": [
+        "Glickman Roofing",
+        "Allied Roofing",
+        "J. Crew Roofing",
+        "United Roofing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Finding a reliable and trustworthy roofing company in New York, NY can be a daunting task, but I can provide you with some suggestions to help you get started. Please note that I'm a large language model, I don't endorse specific companies, but I can give you some recommendations based on online reviews and ratings.\n\nHere are a few highly-rated roofing companies in New York, NY:\n\n1. **All City Roofing** (4.9/5 on Google Reviews): A family-owned and operated business with over 20 years of experience serving NYC and surrounding areas.\n2. **NYC Roofing & Siding** (4.8/5 on Google Reviews): A fully licensed and insured company with a team of experienced roofers serving Manhattan, Brooklyn, Queen",
+      "named_here": [
+        "All City Roofing",
+        "NYC Roofing & Siding"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted roofing companies in New York, NY:\n\n1. **Noble Roofing**: With over 20 years of experience, Noble Roofing is a family-owned business that offers a wide range of roofing services, including repairs, installations, and maintenance.\n2. **NYC Roofing**: NYC Roofing is a licensed and insured company that provides roofing services for residential and commercial properties. They offer a 10-year warranty on all their work.\n3. **Keller Roofing**: Keller Roofing is a reputable company that has been serving the New York City area for over 30 years. They specialize in roof repairs, replacements, and installations.\n4. **Bronx Roofing**: Bronx Roofing is a locally owned a",
+      "named_here": [
+        "Noble Roofing",
+        "NYC Roofing",
+        "Keller Roofing",
+        "Bronx Roofing"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Most Trusted Roofing Companies in New York, NY\n\nBased on online reviews, ratings, and licenses, here are some of the most trusted roofing companies in New York, NY:\n\n### Top-Rated Roofing Companies\n\n1. **GAF Roofing** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Address: 1400 Broadway, New York, NY 10018\n\t* Phone: [phone removed]\n\t* GAF is a well-known roofing manufacturer with a network of authorized contractors. They offer a wide range of roofing services, including installation, repair, and maintenance.\n2. **United Roofing and Siding** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Address: 1545 Adam Clayton Powell Jr Blvd, New York, NY 10026\n\t* Phone: [phone removed]\n\t* United Roofing and Siding is a famil",
+      "named_here": [
+        "GAF Roofing",
+        "United Roofing and Siding",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted roofing companies in New York, NY:\n\n1.  **ABC Roofing**: ABC Roofing is a family-owned business with over 20 years of experience serving the New York City area. They offer a wide range of roofing services, including installation, repair, and maintenance.\n2.  **New York City Roofing**: This company has been serving the New York City area for over 30 years, providing both residential and commercial roofing services. They offer a variety of roofing materials, including asphalt shingles, metal roofing, and flat roofing.\n3.  **Empire Roofing**: Empire Roofing has been in business for over 40 years, providing roofing services to both residential and commercial cli",
+      "named_here": [
+        "ABC Roofing",
+        "New York City Roofing",
+        "Empire Roofing"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some reputable roofing companies in New York, NY, based on online reviews and ratings:\n\n1. **Noble Roofing** (4.9/5 on Google, 4.8/5 on Yelp) - Known for their excellent customer service and high-quality workmanship.\n2. **NYC Roofing** (4.8/5 on Google, 4.7/5 on Yelp) - Offers a wide range of roofing services, including repairs, installations, and maintenance.\n3. **Roofing NYC** (4.8/5 on Google, 4.7/5 on Yelp) - Provides residential and commercial roofing services, with a focus on customer satisfaction.\n4. **Keller Roofing & Siding** (4.7/5 on Google, 4.6/5 on Yelp) - Family-owned and operated, offering roofing, siding, and gutter services.\n5. **Long Island Roofing & Chimney** (4.7",
+      "named_here": [
+        "Noble Roofing",
+        "NYC Roofing",
+        "Roofing NYC",
+        "Keller Roofing & Siding",
+        "Long Island Roofing & Chimney"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated roofing companies in New York, NY, based on online reviews and ratings:\n\n1. **Glickman Roofing** (4.9/5 on Google, 4.8/5 on Yelp) - A family-owned business with over 30 years of experience.\n2. **J. Crew Roofing** (4.9/5 on Google, 4.8/5 on Yelp) - A fully licensed and insured company with over 20 years of experience.\n3. **Allied Roofing & Waterproofing** (4.8/5 on Google, 4.7/5 on Yelp) - A NYC-based company with over 40 years of experience.\n4. **NYC Roofing Pros** (4.8/5 on Google, 4.7/5 on Yelp) - A local company with over 15 years of experience serving NYC and surrounding areas.\n5. **United Roofing & Siding** (4.7/5 on Google, 4.6/5 on Yelp) - A family-owned",
+      "named_here": [
+        "Glickman Roofing",
+        "J. Crew Roofing",
+        "Allied Roofing & Waterproofing",
+        "NYC Roofing Pros",
+        "United Roofing & Siding"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in New York, NY, based on online reviews and ratings from sources like Yelp, Angie's List, and Google:\n\n1. **American Roofing Company** (4.9/5 on Yelp) - Serving NYC for over 20 years, offering residential and commercial roofing services.\n2. **A-1 Roofing** (4.8/5 on Yelp) - Family-owned and operated since 1979, specializing in roofing, gutters, and siding.\n3. **Gutter Helmet** (4.8/5 on Yelp) - A leading provider of gutter protection systems and roofing services, serving NYC for over 40 years.\n4. **Allied Roofing & Siding** (4.7/5 on Yelp) - A NYC-based company offering residential and commercial roofing, siding, and gutter installation servi",
+      "named_here": [
+        "American Roofing Company",
+        "A-1 Roofing",
+        "Gutter Helmet",
+        "Allied Roofing & Siding"
+      ]
+    }
+  ]
+}

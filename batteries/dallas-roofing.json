@@ -1,0 +1,141 @@
+{
+  "trade": "roofing",
+  "market": "Dallas, TX",
+  "run_date": "2026-10-15T19:55:33.320Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated roofing companies in Dallas, TX, based on customer reviews and ratings:\n\n1. **RoofCrafters** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Texas Star Roofing** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Daltex Contractors** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **ProTech Roofing** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Alliance Roofing** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Roofing Dallas** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **Lone Star Roofing** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n8. **Dallas Roofing Company** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n9. **Hometown Roofing** - 4.4/5 stars on Google",
+      "named_here": [
+        "RoofCrafters",
+        "Texas Star Roofing",
+        "Daltex Contractors",
+        "ProTech Roofing",
+        "Alliance Roofing",
+        "Roofing Dallas",
+        "Lone Star Roofing",
+        "Dallas Roofing Company",
+        "Hometown Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top Roofing Companies in Dallas, TX \n\nWhen searching for the best roofing companies in Dallas, TX, it's essential to consider factors such as experience, reputation, and customer reviews. Based on online reviews, ratings, and industry reputation, here are some top roofing companies in Dallas, TX, that I'd recommend:\n\n### Top 10 Roofing Companies \n\n1. **North American Roofing**: With over 20 years of experience, North American Roofing is a well-established company with a strong reputation for providing high-quality roofing services.\n2. **ABC Roofing**: ABC Roofing is a trusted name in the Dallas roofing industry, offering a wide range of services, including roof repairs, replacements, and ",
+      "named_here": [
+        "North American Roofing",
+        "ABC Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Dallas, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Dallas, TX:\n\n**Based on online reviews and ratings:**\n\n1.  **Certified Roofing Solutions** (5-star rating on Google, Angie's List, and HomeAdvisor) - Family-owned and operated, they offer free estimates and a 100% satisfaction guarantee.\n2.  **Gulf Coast Roofing** (4.9-star rating on Google, Angie's List, and HomeAdvisor) - Locally owned and operated, they provide a wide range of roofing services, including installation, repair, and maintenance.\n3.  **Dallas Roofing Company** (4.8-star rating on Google, Angie's List, and HomeAdvisor) - They offer a 100% satisfaction guarantee and are a certified installer for many major roofing manufacturer",
+      "named_here": [
+        "Based on online reviews and ratings",
+        "Certified Roofing Solutions",
+        "Gulf Coast Roofing",
+        "Dallas Roofing Company"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good roofing company in Dallas, TX. However, I don't have real-time access to specific companies or their current reputation. That being said, here are some steps you can take to find a reliable roofing company:\n\n1. **Check online reviews**: Look up roofing companies in Dallas on review websites such as Google, Yelp, or Angie's List. Pay attention to the overall rating and read the comments to get an idea of the company's strengths and weaknesses.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently had their roof repaired or replaced for recommendations. They can provide valuable insights into the company's w",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a good roofing company in Dallas, TX. However, I don't have personal experiences or real-time reviews, but I can suggest some options to consider:\n\n1. **Check online reviews**: Websites like Yelp, Google Reviews, or Angie's List can provide a list of top-rated roofing companies in Dallas. Look for companies with a high rating (4+ stars) and pay attention to the comments and reviews.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently had roofing work done for recommendations.\n3. **Check with local trade organizations**: The National Roofing Contractors Association (NRCA) or the Roofing Contractors Association of Texas (RCAT) may have a ",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Check with local trade organizations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Dallas, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can’t process requests for personal recommendations. For assistance with finding a roofing company in Dallas, TX, you might want to consider the following options:\n\n*   The National Roofing Contractors Association (NRCA) website has a contractor locator tool that can help you find a qualified and certified roofing contractor in your area.\n*   The Better Business Bureau (BBB) website also has a directory of accredited businesses, including roofing contractors in Dallas, TX.\n*   You can also check online review sites such as Yelp or Angie's List to see what other customers have to say about their experiences with different roofing companies.",
+      "named_here": [
+        "The National Roofing Contractors Association",
+        "The Better Business Bureau"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted roofing companies in Dallas, TX, based on online reviews and ratings:\n\n1. **Lon Smith Roofing** - With over 45 years of experience, Lon Smith Roofing is a Dallas-based company that offers a wide range of roofing services, including repairs, replacements, and installations.\n\t* Rating: 4.9/5 (Google), 4.8/5 (Yelp)\n2. **Atlas Roofing** - Atlas Roofing is a national company with a local office in Dallas, offering roofing services for residential and commercial properties.\n\t* Rating: 4.8/5 (Google), 4.7/5 (Yelp)\n3. **Roofing Dallas** - As the name suggests, Roofing Dallas is a local company that specializes in roofing services, including repairs, replacements, an",
+      "named_here": [
+        "Lon Smith Roofing",
+        "Atlas Roofing",
+        "Roofing Dallas",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "When searching for a trusted roofing company in Dallas, TX, it's essential to consider factors such as reputation, experience, licenses, and insurance. Here are some of the most trusted roofing companies in Dallas, TX, based on online reviews and ratings:\n\n1. **Gerard Roofing**: With over 40 years of experience, Gerard Roofing is a well-established and reputable company in Dallas. They offer a wide range of roofing services, including repairs, replacements, and installations. (4.9/5 stars on Google, 4.8/5 stars on Facebook)\n2. **Atlas Roofing**: Atlas Roofing is a national company with a strong presence in Dallas. They offer high-quality roofing solutions, including asphalt shingles, metal, ",
+      "named_here": [
+        "Gerard Roofing",
+        "Atlas Roofing"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Dallas, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted roofing companies in Dallas, TX:\n\n1.  **ABC Supply Roofing**: ABC Supply is a well-established company with a strong reputation for quality and customer service. They offer a wide range of roofing services, including installation, repair, and maintenance.\n2.  **James Hardie Siding & Roofing**: James Hardie is a well-known brand in the roofing industry, and their Dallas location offers top-notch roofing services, including installation, repair, and maintenance of various types of roofing materials.\n3.  **GAF Roofing**: GAF is a leading manufacturer of roofing materials and has a strong presence in the Dallas area. They offer a wide range of roofing services, ",
+      "named_here": [
+        "ABC Supply Roofing",
+        "James Hardie Siding & Roofing",
+        "GAF Roofing"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top-rated roofing companies in Dallas, TX, based on online reviews and reputation:\n\n1. **Lon Smith Roofing** - With over 45 years of experience, Lon Smith Roofing is a well-established and reputable company in Dallas.\n2. **Roofer's Supply** - Roofer's Supply has been serving the Dallas area for over 20 years and has a strong reputation for quality work and customer service.\n3. **Daltex Contractors** - Daltex Contractors is a family-owned business with over 25 years of experience in the roofing industry, serving the Dallas-Fort Worth area.\n4. **Atlas Roofing** - Atlas Roofing is a national company with a local presence in Dallas, offering a wide range of roofing services ",
+      "named_here": [
+        "Lon Smith Roofing",
+        "Roofer's Supply",
+        "Daltex Contractors",
+        "Atlas Roofing"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Roofing Companies in Dallas, TX \n\nBased on online reviews, ratings, and industry reputation, here are some of the top-rated roofing companies in Dallas, TX:\n\n### Companies with a Strong Reputation \n\n1. **North American Roofing**: With over 20 years of experience, North American Roofing has an A+ rating with the Better Business Bureau (BBB) and a 4.9-star rating on Google Reviews.\n2. **Gerard Roofing**: Gerard Roofing has been serving Dallas for over 40 years and has a 4.8-star rating on Google Reviews and an A+ rating with the BBB.\n3. **ABC Roofing**: ABC Roofing has a 4.7-star rating on Google Reviews and an A+ rating with the BBB. They offer a wide range of roofing services, i",
+      "named_here": [
+        "North American Roofing",
+        "Gerard Roofing",
+        "ABC Roofing"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Dallas, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated roofing companies in Dallas, TX, based on online reviews and ratings from various sources such as Angie's List, HomeAdvisor, and Yelp:\n\n1.  **AAA Roofing**: 4.9/5 stars on Angie's List, 4.9/5 stars on HomeAdvisor, 4.9/5 stars on Yelp.\n2.  **Crown Roofing**: 4.9/5 stars on Angie's List, 4.8/5 stars on HomeAdvisor, 4.8/5 stars on Yelp.\n3.  **Dallas Roofing Pros**: 4.9/5 stars on Angie's List, 4.8/5 stars on HomeAdvisor, 4.8/5 stars on Yelp.\n4.  **Gulf Coast Roofing**: 4.8/5 stars on Angie's List, 4.7/5 stars on HomeAdvisor, 4.7/5 stars on Yelp.\n5.  **Metroplex Roofing**: 4.8/5 stars on Angie's List, 4.7/5 stars on HomeAdvisor, 4.7/5 stars on Yelp.\n6.  **North Texas Roof",
+      "named_here": [
+        "AAA Roofing",
+        "Crown Roofing",
+        "Dallas Roofing Pros",
+        "Gulf Coast Roofing",
+        "Metroplex Roofing",
+        "North Texas Roof"
+      ]
+    }
+  ]
+}

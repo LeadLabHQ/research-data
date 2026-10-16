@@ -1,0 +1,135 @@
+{
+  "trade": "cleaning",
+  "market": "Los Angeles, CA",
+  "run_date": "2026-10-15T19:27:47.273Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best house cleaning companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top house cleaning companies in Los Angeles, CA, based on customer reviews and ratings:\n\n1. **Molly Maid**: With over 30 years of experience, Molly Maid is a well-established and reputable cleaning company with a strong presence in Los Angeles.\n2. **The Cleaning Authority**: This eco-friendly cleaning company uses environmentally responsible products and has a team of trained and background-checked cleaners.\n3. **Cleanify**: Cleanify offers a range of cleaning services, including one-time, weekly, and bi-weekly cleanings, and has a 4.9-star rating on Yelp.\n4. **TaskRabbit**: While not exclusively a cleaning company, TaskRabbit offers a range of cleaning services, includi",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Cleanify",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top House Cleaning Companies in Los Angeles, CA\n\nTo determine the best house cleaning companies in Los Angeles, CA, we considered factors such as customer reviews, services offered, and reputation. Here are the top names we'd recommend:\n\n### Top Recommendations\n\n1. **The Cleaning Authority - Los Angeles**: With a 4.9-star rating on Google and over 1,000 reviews, The Cleaning Authority is a trusted and reliable cleaning services provider in Los Angeles. They offer one-time, weekly, bi-weekly, and monthly cleaning services, as well as specialized services like move-in/move-out cleaning and deep cleaning.\n2. **Merry Maids of Los Angeles**: Merry Maids has a 4.8-star rating on Google and over",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Los Angeles"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated house cleaning companies in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Molly Maid**: With over 30 years of experience, Molly Maid is a well-established and reliable cleaning service provider in LA. They offer customizable cleaning plans and eco-friendly products. (4.9/5 stars on Yelp)\n2. **The Cleaning Authority**: This company uses a proprietary cleaning system and eco-friendly products to provide top-notch cleaning services. They're known for their attention to detail and customer satisfaction. (4.8/5 stars on Yelp)\n3. **Green Cleaning Services**: As the name suggests, this company focuses on environmentally friendly cleaning methods and prod",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Green Cleaning Services"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "There are many excellent house cleaning companies in Los Angeles, CA. Here are a few options to consider:\n\n1. **Molly Maid**: A well-known and reputable cleaning company with a location in Los Angeles. They offer customized cleaning services and a 24-hour guarantee. You can call them at [phone removed].\n2. **The Cleaning Authority**: This company uses eco-friendly cleaning products and has a team of trained and background-checked cleaners. They serve the entire Los Angeles area and can be reached at [phone removed].\n3. **Clean Sweep**: A locally owned and operated cleaning company that offers one-time, weekly, bi-weekly, and monthly cleaning services. They can be contacted at [phone removed].\n4",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Clean Sweep"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable house cleaning companies in Los Angeles, CA. Here are a few options you can consider:\n\n1. **The Cleaning Authority - Los Angeles**: [phone removed]\nThe Cleaning Authority is a well-established and reputable cleaning company with a team of background-checked and trained professionals. They offer one-time, weekly, bi-weekly, and monthly cleaning services.\n\n2. **Merry Maids of Los Angeles**: [phone removed]\nMerry Maids is a national franchise with a local presence in Los Angeles. They offer a range of cleaning services, including move-in/move-out cleaning, deep cleaning, and regular maintenance cleaning.\n\n3. **Cleanify**: [phone removed]\nCleanify is a Los Angeles-based clea",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Los Angeles",
+        "Cleanify"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "There are many great house cleaning companies in Los Angeles, CA. Here are a few options to consider:\n\n1. **Molly Maid**: A well-established national chain with a strong presence in LA. They offer customized cleaning services, flexible scheduling, and eco-friendly products.\n2. **The Cleaning Authority**: This company prides itself on using eco-friendly cleaning solutions and state-of-the-art equipment. They offer a range of cleaning services, including one-time deep cleans and regular maintenance cleanings.\n3. **TaskRabbit**: While not a traditional cleaning company, TaskRabbit is a great platform to find local, pre-screened cleaning professionals. You can post a job and receive bids from mu",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house cleaning companies in Los Angeles, CA:\n\n1. **Molly Maid**: A well-established and reputable cleaning company with a strong presence in LA. They offer customized cleaning services and a satisfaction guarantee.\n2. **The Cleaning Authority**: This company uses eco-friendly cleaning products and has a team of trained and background-checked cleaners. They offer one-time, weekly, and bi-weekly cleaning services.\n3. **TaskRabbit**: While not exclusively a cleaning company, TaskRabbit offers a range of cleaning services, from one-time deep cleans to regular maintenance cleaning. You can choose from a list of pre-screened and reviewed taskers.\n4. **Handy**: Han",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "TaskRabbit",
+        "Handy"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house cleaning companies in Los Angeles, CA:\n\n1. **The Cleaning Authority - Los Angeles**: With a 4.9-star rating on Google and 4.8-star rating on Facebook, this company is known for its reliable and thorough cleaning services. They offer one-time, weekly, bi-weekly, and monthly cleaning services.\n2. **Merry Maids of Los Angeles**: Merry Maids is a well-established company with a 4.8-star rating on Google and 4.7-star rating on Facebook. They offer a range of cleaning services, including move-in/move-out cleaning and special occasion cleaning.\n3. **The Cleaning Company**: With a 4.9-star rating on Google and 4.8-star rating on Facebook, this company is known",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Los Angeles",
+        "The Cleaning Company"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted house cleaning companies in Los Angeles, CA:\n\n1. **Molly Maid**: With over 40 years of experience, Molly Maid is a well-established and reputable cleaning company with a strong presence in Los Angeles. They offer customized cleaning services for homes, apartments, and condos.\n2. **The Maids**: The Maids is a leading national cleaning company with a location in Los Angeles. They offer eco-friendly cleaning services using environmentally responsible products and state-of-the-art equipment.\n3. **Pride Cleaning Services**: Pride Cleaning Services is a family-owned and operated business with over 20 years of experience in Los Angeles. They provide residential and",
+      "named_here": [
+        "Molly Maid",
+        "The Maids",
+        "Pride Cleaning Services"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some house cleaning companies in Los Angeles, CA, with excellent reputations based on online reviews and ratings:\n\n1. **Molly Maid**: With a 4.9-star rating on Google, Molly Maid is a well-established and reputable cleaning company in LA.\n2. **The Cleaning Authority**: This company has a 4.8-star rating on Google and is known for its eco-friendly cleaning practices and reliable service.\n3. **Cleanify**: With a 4.8-star rating on Yelp, Cleanify offers customizable cleaning services and a satisfaction guarantee.\n4. **TaskRabbit**: TaskRabbit is a task-completion service that includes house cleaning, with a 4.7-star rating on Yelp and a wide range of services.\n5. **Handy**: Handy is a ",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Cleanify",
+        "TaskRabbit",
+        "Handy"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated House Cleaning Companies in Los Angeles, CA\n\nTo determine the best house cleaning companies in Los Angeles, CA, we analyzed online reviews and ratings from reputable sources such as Yelp, Google, and HomeAdvisor. We considered factors such as overall rating, number of reviews, and consistency of positive feedback.\n\n### Top 5 House Cleaning Companies in Los Angeles, CA\n\n1. **The Cleaning Authority - Los Angeles**: With a 4.9-star rating on Yelp and 5-star rating on Google, this company is known for its reliable and thorough cleaning services. They offer one-time, weekly, bi-weekly, and monthly cleaning services, and their team is bonded, insured, and background-checked.\n\t* Servic",
+      "named_here": [
+        "The Cleaning Authority",
+        "Servic"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-recommended house cleaning companies in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Molly Maid of Los Angeles** (4.9/5 stars on Google, 4.5/5 stars on Yelp)\n\t* Offers customized cleaning services, including one-time deep cleans, move-in/move-out cleans, and regular maintenance cleaning.\n2. **The Cleaning Authority of Los Angeles** (4.8/5 stars on Google, 4.5/5 stars on Yelp)\n\t* Uses a proprietary cleaning system and eco-friendly products to provide a thorough and effective cleaning experience.\n3. **Green Clean of Los Angeles** (4.8/5 stars on Google, 4.5/5 stars on Yelp)\n\t* A green cleaning company that uses eco-friendly products and offers a range of ser",
+      "named_here": [
+        "Molly Maid of Los Angeles",
+        "The Cleaning Authority of Los Angeles",
+        "Green Clean of Los Angeles"
+      ]
+    }
+  ]
+}

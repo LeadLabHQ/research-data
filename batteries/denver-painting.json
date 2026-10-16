@@ -1,0 +1,148 @@
+{
+  "trade": "painting",
+  "market": "Denver, CO",
+  "run_date": "2026-10-15T20:33:47.640Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best painting companies in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top painting companies in Denver, CO, based on customer reviews and ratings:\n\n1. **Five Star Painting of Denver**: With a 4.9-star rating on Google, Five Star Painting is a highly recommended company that offers residential and commercial painting services.\n2. **Denver Paint Pros**: Denver Paint Pros has a 4.8-star rating on Google and is known for its professional and affordable painting services for homes and businesses.\n3. **Painting Plus of Denver**: With a 4.7-star rating on Google, Painting Plus offers a wide range of painting services, including interior and exterior painting, deck staining, and more.\n4. **Color World Housepainting**: Color World Housepainting has",
+      "named_here": [
+        "Five Star Painting of Denver",
+        "Denver Paint Pros",
+        "Painting Plus of Denver",
+        "Color World Housepainting"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated painting companies in Denver, CO, based on online reviews and ratings:\n\n1. **Farrow-Ball**: A high-end painting company that uses eco-friendly, low-VOC paints and offers a wide range of services, including interior and exterior painting.\n2. **The Painting Company**: A family-owned business with over 20 years of experience, offering residential and commercial painting services, including interior, exterior, and specialty painting.\n3. **Colorado Painting Company**: A reputable company with a team of experienced painters, offering interior and exterior painting services, as well as deck staining and sealing.\n4. **Denver Paint Company**: A locally-owned business wi",
+      "named_here": [
+        "Farrow-Ball",
+        "The Painting Company",
+        "Colorado Painting Company",
+        "Denver Paint Company"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top painting companies in Denver, CO, based on online reviews, ratings, and industry reputation:\n\n1. **Sterling Painting Company** (4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews) - A family-owned and operated business with over 30 years of experience in Denver.\n2. **Pete's Painting** (4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews) - A locally owned and operated company with a focus on quality work and excellent customer service.\n3. **Colorado Painting Company** (4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews) - A full-service painting company offering interior and exterior painting, staining, and trim work.\n4. **All Pro Painting** (4.8/5 stars on Yelp, 4.7/",
+      "named_here": [
+        "Sterling Painting Company",
+        "Pete's Painting",
+        "Colorado Painting Company",
+        "All Pro Painting"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a good house painter in Denver, CO. However, I'm a large language model, I don't have personal recommendations or direct access to local businesses. But I can provide you with some options to find a reliable and trustworthy house painter:\n\n1. **Online Review Sites**: Check websites like Yelp, Google Reviews, or Angie's List to find highly-rated house painters in Denver. You can filter the results by rating, distance, and services offered.\n2. **Local Paint Stores**: Visit local paint stores like Sherwin-Williams, Benjamin Moore, or Behr, and ask for recommendations. They often have a list of trusted painters who use their products.\n3. **Word of Mouth**: Ask frien",
+      "named_here": [
+        "Online Review Sites",
+        "Local Paint Stores",
+        "Word of Mouth"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a good house painter in Denver, CO! However, I'm a large language model, I don't have have access to real-time information or specific recommendations. But I can suggest some options to help you find a reliable painter:\n\n1. **Check online reviews**: Websites like Angie's List, HomeAdvisor, or Yelp can provide a list of top-rated painters in Denver. You can filter by rating, price, and services offered.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently painted their homes for recommendations.\n3. **Check with local trade organizations**: The Painting and Decorating Contractors of America (PDCA) or the National Association of the Remodel",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Check with local trade organizations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have personal experiences or direct recommendations, but I can provide you with some suggestions on how to find a reliable house painter in Denver, CO. Here are a few options:\n\n1. **Online Reviews**:\n\t* Check websites like:\n\t\t+ Yelp (yelp.com)\n\t\t+ Google Reviews (google.com/maps)\n\t\t+ Angie's List (angieslist.com)\n\t* Look for painters with a high rating (4+ stars) and a large number of reviews.\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors who have recently painted their homes for recommendations.\n\t* Ask about their experience, the quality of work, and the price.\n3. **Denver Painter Associations**:\n\t* Contact the:\n\t\t+ National As",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth",
+        "Denver Painter Associations",
+        "Check websites like",
+        "Contact the"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house painting companies in Denver, CO, based on online reviews and ratings:\n\n1. **Five Star Painting of Denver**: With a 4.9-star rating on Google and 4.8-star rating on HomeAdvisor, Five Star Painting is a popular choice among Denver homeowners.\n2. **CertPro Painters**: CertPro Painters has a 4.8-star rating on Google and 4.7-star rating on Yelp. They offer a wide range of painting services, including interior and exterior painting.\n3. **Denver Paint Pros**: With a 4.8-star rating on Google and 4.7-star rating on HomeAdvisor, Denver Paint Pros is a trusted option for house painting in Denver.\n4. **Klippert's Painting**: Klippert's Painting has a 4.7-star r",
+      "named_here": [
+        "Five Star Painting of Denver",
+        "CertPro Painters",
+        "Denver Paint Pros",
+        "Klippert's Painting"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house painter options in Denver, CO:\n\n1. **Benjamin Moore**: With multiple locations in the Denver area, Benjamin Moore is a well-known and reputable brand that offers high-quality paint and expert painting services.\n2. **Sherwin-Williams**: Similar to Benjamin Moore, Sherwin-Williams is a trusted brand with multiple locations in Denver. They offer a wide range of painting services, including interior and exterior painting.\n3. **Houzz**: Houzz is a popular platform that connects homeowners with pre-screened professionals, including painters. You can find highly-rated painters in Denver on Houzz, along with reviews and portfolios.\n4. **Angie's List**: Angie's",
+      "named_here": [
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "Houzz",
+        "Angie's List"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Denver, CO! A beautiful city with a thriving arts scene and a plethora of talented house painters. Here are some of the most trusted options in Denver:\n\n**Top-Rated House Painters in Denver:**\n\n1. **Prestige Painting**: With over 25 years of experience, Prestige Painting is a top-rated painting company in Denver. They offer a wide range of services, including interior and exterior painting, staining, and faux finishing.\n2. **Denver Painters**: This company has been serving Denver for over 20 years, providing high-quality painting services for residential and commercial properties. They offer a 100% satisfaction guarantee and a free estimate.\n3. **Colorado Painting Solutions**: With a team of",
+      "named_here": [
+        "Top-Rated House Painters in Denver",
+        "Prestige Painting",
+        "Denver Painters",
+        "Colorado Painting Solutions"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some painting companies in Denver, CO with a good reputation:\n\n1. **Five Star Painting of Denver** - 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor\n2. **Certified Painting** - 4.9/5 stars on Google, 4.7/5 stars on Yelp\n3. **Denver Paint Pros** - 4.8/5 stars on Google, 4.7/5 stars on HomeAdvisor\n4. **Painting Plus of Denver** - 4.8/5 stars on Google, 4.6/5 stars on Yelp\n5. **Colorado Painting Company** - 4.7/5 stars on Google, 4.6/5 stars on HomeAdvisor\n6. **Brush Strokes Painting** - 4.7/5 stars on Google, 4.5/5 stars on Yelp\n7. **ProTech Painting** - 4.7/5 stars on Google, 4.5/5 stars on HomeAdvisor\n8. **All American Painting** - 4.6/5 stars ",
+      "named_here": [
+        "Five Star Painting of Denver",
+        "Certified Painting",
+        "Denver Paint Pros",
+        "Painting Plus of Denver",
+        "Colorado Painting Company",
+        "Brush Strokes Painting",
+        "ProTech Painting",
+        "All American Painting"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated painting companies in Denver, CO, known for their excellent reputation:\n\n1. **The Painting Company** (4.9/5 on Google, 4.8/5 on HomeAdvisor) - A Denver-based company with over 20 years of experience, offering residential and commercial painting services.\n2. **Denver Paint Company** (4.9/5 on Google, 4.8/5 on HomeAdvisor) - A family-owned business with over 15 years of experience, providing high-quality painting services for homes and businesses.\n3. **CertaPro Painters** (4.8/5 on Google, 4.8/5 on HomeAdvisor) - A national company with a location in Denver, offering a wide range of painting services, including interior, exterior, and specialty painting.\n4. **Sherwin-Wi",
+      "named_here": [
+        "The Painting Company",
+        "Denver Paint Company",
+        "CertaPro Painters",
+        "Sherwin-Wi"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some painting companies in Denver, CO with a good reputation based on online reviews and ratings:\n\n1. **Sherwin-Williams Painting Contractors** (4.9/5 on Google, 4.8/5 on Yelp) - A well-known national chain with a strong presence in Denver.\n2. **Certified Painting** (4.9/5 on Google, 4.8/5 on Yelp) - A local company with over 20 years of experience and a focus on quality and customer service.\n3. **Denver Painters** (4.8/5 on Google, 4.7/5 on Yelp) - A family-owned business with a reputation for excellent work and competitive pricing.\n4. **All Pro Painting** (4.8/5 on Google, 4.7/5 on Yelp) - A locally owned company with a focus on residential and commercial painting services.\n5. **F",
+      "named_here": [
+        "Sherwin-Williams Painting Contractors",
+        "Certified Painting",
+        "Denver Painters",
+        "All Pro Painting"
+      ]
+    }
+  ]
+}

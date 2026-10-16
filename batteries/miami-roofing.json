@@ -1,0 +1,138 @@
+{
+  "trade": "roofing",
+  "market": "Miami, FL",
+  "run_date": "2026-10-15T20:19:24.262Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top roofing companies in Miami, FL, based on customer reviews, ratings, and reputation:\n\n1. **A1 Roofing & Construction**: With over 20 years of experience, A1 Roofing & Construction is a reputable company that offers a wide range of roofing services, including repairs, replacements, and installations.\n2. **Miami Roofing Company**: As a locally-owned and operated business, Miami Roofing Company has been serving the Miami area for over 15 years, providing high-quality roofing services and excellent customer service.\n3. **ABC Roofing**: With a strong focus on customer satisfaction, ABC Roofing has been a trusted name in the Miami roofing industry for over 30 years, offerin",
+      "named_here": [
+        "A1 Roofing & Construction",
+        "Miami Roofing Company",
+        "ABC Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Top Roofing Companies in Miami, FL \n\nTo determine the best roofing companies in Miami, FL, we considered factors such as:\n\n* **Reputation**: Online reviews, ratings, and testimonials from previous customers\n* **Experience**: Number of years in business, expertise in various roofing materials and services\n* **Licenses and Certifications**: Valid licenses, certifications, and industry affiliations\n* **Insurance and Warranty**: Availability of liability insurance and warranty offerings\n* **Services**: Range of services offered, including roofing installation, repair, and maintenance\n\nBased on these criteria, here are some top roofing companies in Miami, FL:\n\n1. **Pinnacle Roofing Profession",
+      "named_here": [
+        "Reputation",
+        "Experience",
+        "Licenses and Certifications",
+        "Insurance and Warranty",
+        "Services",
+        "Pinnacle Roofing Profession"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Miami, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Miami, FL, based on online reviews and ratings from sources like Angie's List, HomeAdvisor, and the Better Business Bureau:\n\n1. **ABC Roofing Inc.**\n\t* Rating: 4.9/5 stars on Angie's List\n\t* Years in business: 1980\n\t* Specialties: Roofing, gutters, siding\n2. **South Florida Roofing**\n\t* Rating: 4.9/5 stars on HomeAdvisor\n\t* Years in business: 2006\n\t* Specialties: Roofing, gutters, skylights, solar panels\n3. **Miami Roofing Company**\n\t* Rating: 4.8/5 stars on Google Reviews\n\t* Years in business: 1995\n\t* Specialties: Roofing, gutters, siding, windows\n4. **Gulf Coast Roofing**\n\t* Rating: 4.8/5 stars on HomeAdvisor\n\t* Years in business: 2002\n\t*",
+      "named_here": [
+        "ABC Roofing Inc",
+        "South Florida Roofing",
+        "Miami Roofing Company",
+        "Gulf Coast Roofing",
+        "Rating",
+        "Years in business",
+        "Specialties"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good roofing company in Miami, FL. However, I don't have real-time access to specific companies or their current reputation. That being said, here are some steps you can take to find a reliable roofing company in Miami:\n\n1. **Check online reviews**: Look up roofing companies in Miami on review websites such as Google, Yelp, or Angie's List. Pay attention to the overall rating and read the comments to get an idea of the company's strengths and weaknesses.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently had roofing work done for recommendations. They can provide valuable insights into the company's work",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reputable roofing companies in Miami, FL. Here are a few recommendations:\n\n1. **United Roofing Company**: With over 20 years of experience, United Roofing Company is a well-established and trusted roofing contractor in Miami. They offer a wide range of roofing services, including repairs, replacements, and maintenance.\n2. **Miami Roofing Experts**: This company has a team of experienced professionals who specialize in residential and commercial roofing. They offer free inspections and estimates, and they use high-quality materials.\n3. **A1A Roofing**: A1A Roofing is a family-owned business with over 30 years of experience in the roofing industry. They offer a wide range of roo",
+      "named_here": [
+        "United Roofing Company",
+        "Miami Roofing Experts",
+        "A1A Roofing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Miami, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can’t recommend a specific roofing company in Miami, FL. For recommendations, you can try checking with the National Roofing Contractors Association (NRCA) or the Florida Roofing and Sheet Metal Contractors Association (FRSA) for a list of certified and reputable roofing contractors in the area.",
+      "named_here": []
+    },
+    {
+      "prompt": "I need a roofing company in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted roofing companies in Miami, FL, based on online reviews and ratings:\n\n1. **ABC Roofing Corp.** - 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer residential and commercial roofing services, including repairs, replacements, and installations.\n2. **Miami Roofing Company** - 4.8/5 stars on Google, 4.7/5 stars on Yelp. They provide a range of services, including roof inspections, repairs, and replacements, as well as solar panel installations.\n3. **TRC Roofing** - 4.8/5 stars on Google, 4.7/5 stars on Yelp. They specialize in residential and commercial roofing, including flat roofs, shingle roofs, and metal roofs.\n4. **All American Roofing** - 4.7/5 stars",
+      "named_here": [
+        "ABC Roofing Corp",
+        "Miami Roofing Company",
+        "TRC Roofing",
+        "All American Roofing"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Most Trusted Roofing Companies in Miami, FL\n\nBased on online reviews, ratings, and licenses, here are some of the most trusted roofing companies in Miami, FL:\n\n#### Top-Rated Roofing Companies:\n\n1. **United Roofing Company**: With a 4.9-star rating on Google and 25+ years of experience, United Roofing Company is a top-rated option in Miami. They offer free inspections and estimates.\n\t* License: #RBC12917\n\t* Insurance: Workers' Compensation and Liability Insurance\n2. **Miami Roofing Experts**: This company has a 4.8-star rating on Google and offers a wide range of roofing services, including repairs, replacements, and maintenance.\n\t* License: #RBC13051\n\t* Insurance: Workers' Compensation ",
+      "named_here": [
+        "United Roofing Company",
+        "Miami Roofing Experts",
+        "License",
+        "Insurance"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Miami, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Miami has a lot of great roofing companies to choose from. Here are some of the most trusted options:\n\n1. **Gulf Coast Roofing**: Gulf Coast Roofing is a family-owned business with over 20 years of experience in Miami. They offer a wide range of roofing services, including roof replacements, repairs, and maintenance.\n2. **AAA Roofing**: AAA Roofing is a local, family-owned business with a strong reputation in Miami. They offer free estimates, competitive pricing, and a 100% satisfaction guarantee.\n3. **Florida Roofing & Sheet Metal**: Florida Roofing & Sheet Metal is a full-service roofing company that offers a wide range of services, including roof installations, repairs, and maintenance. T",
+      "named_here": [
+        "Gulf Coast Roofing",
+        "AAA Roofing",
+        "Florida Roofing & Sheet Metal"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some well-known roofing companies in Miami, FL, with a good reputation:\n\n1. **ABC Roofing Corp**: With over 30 years of experience, ABC Roofing Corp is a family-owned business that offers a wide range of roofing services, including residential and commercial roofing.\n2. **Tropical Roofing and Construction**: Tropical Roofing has been serving the Miami area for over 20 years, providing roofing services, including repairs, replacements, and new installations.\n3. **A1 Roofing Miami**: A1 Roofing Miami is a locally owned and operated company that offers a variety of roofing services, including metal roofing, tile roofing, and flat roofing.\n4. **Miami Roofing Company**: Miami Roofing Com",
+      "named_here": [
+        "ABC Roofing Corp",
+        "Tropical Roofing and Construction",
+        "A1 Roofing Miami",
+        "Miami Roofing Company"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Roofing Companies in Miami, FL\n\nBased on online reviews, ratings, and industry reputation, here are some of the top-rated roofing companies in Miami, FL:\n\n### Companies with a Strong Reputation\n\n1. **United Roofing Company**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, United Roofing Company is a highly-recommended roofing contractor in Miami. They offer residential and commercial roofing services, including repairs, replacements, and maintenance.\n2. **Miami Roofing Experts**: This company has a 4.8-star rating on Google and 4.7-star rating on Yelp. They provide a wide range of roofing services, including tile, shingle, and flat roof installations.\n3. **A1A Roo",
+      "named_here": [
+        "United Roofing Company",
+        "Miami Roofing Experts",
+        "A1A Roo"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Miami, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some well-established and reputable roofing companies in Miami, FL, based on online reviews and ratings:\n\n1. **ABC Roofing**: ABC Roofing is a family-owned business with over 30 years of experience in Miami. They offer a wide range of roofing services, from repairs to replacements, and have an A+ rating with the Better Business Bureau (BBB).\n2. **US Roofing**: US Roofing is a local company with over 25 years of experience in the Miami area. They offer residential and commercial roofing services, including repairs, replacements, and new installations, and have an A+ rating with the BBB.\n3. **J&M Roofing**: J&M Roofing is a Miami-based company with over 20 years of experience. They of",
+      "named_here": [
+        "ABC Roofing",
+        "US Roofing",
+        "J&M Roofing"
+      ]
+    }
+  ]
+}

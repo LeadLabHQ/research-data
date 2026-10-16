@@ -1,0 +1,149 @@
+{
+  "trade": "roofing",
+  "market": "Seattle, WA",
+  "run_date": "2026-10-15T20:40:55.763Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top roofing companies in Seattle, WA, based on customer reviews, ratings, and industry reputation:\n\n1. **Pro Roofing Northwest**: With over 20 years of experience, Pro Roofing Northwest offers a wide range of roofing services, including repairs, replacements, and maintenance.\n2. **Cobra Roofing & Construction**: Cobra Roofing & Construction is a family-owned business that provides roofing services, including asphalt shingle, metal, and flat roof installations.\n3. **Roofing Services Inc.**: Roofing Services Inc. has been serving the Seattle area for over 30 years, offering roofing repairs, replacements, and maintenance services.\n4. **Guardian Roofing**: Guardian Roofing i",
+      "named_here": [
+        "Pro Roofing Northwest",
+        "Cobra Roofing & Construction",
+        "Roofing Services Inc",
+        "Guardian Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top Roofing Companies in Seattle, WA \n\nTo determine the best roofing companies in Seattle, WA, we considered factors such as:\n\n* **Reputation**: Online reviews, ratings, and testimonials from previous customers\n* **Experience**: Years of operation, number of projects completed, and expertise in various roofing services\n* **Licenses and Certifications**: Valid licenses, certifications, and insurance coverage\n* **Services Offered**: Range of roofing services, including installation, repair, and maintenance\n\nBased on these criteria, here are the top roofing companies in Seattle, WA:\n\n### Top Recommendations \n\n1. **Roofer Seattle** (4.9/5 on Google, 4.8/5 on Yelp) - A Seattle-based company wi",
+      "named_here": [
+        "Reputation",
+        "Experience",
+        "Licenses and Certifications",
+        "Services Offered",
+        "Roofer Seattle"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated roofing companies in Seattle, WA, based on online reviews and ratings:\n\n**Top 10 Roofing Companies in Seattle:**\n\n1. **Roofing Solutions NW** (4.9/5 on Google, 4.8/5 on Yelp) - Highly-rated for their professionalism, quality work, and customer service.\n2. **Allied Roofing** (4.8/5 on Google, 4.7/5 on Yelp) - Experienced team with over 30 years of service, offering a wide range of roofing services.\n3. **West Coast Roofing** (4.8/5 on Google, 4.7/5 on Yelp) - Family-owned business with a reputation for quality work, timely service, and competitive pricing.\n4. **Northwest Roofing & Construction** (4.8/5 on Google, 4.7/5 on Yelp) - Offers a comprehensive range of roofing ",
+      "named_here": [
+        "Roofing Solutions NW",
+        "Allied Roofing",
+        "West Coast Roofing",
+        "Northwest Roofing & Construction"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good roofing company in Seattle, WA. However, I don't have real-time access to specific companies or their current reputation. That being said, here are some steps you can take to find a reliable roofing company:\n\n1. **Ask for referrals**: Ask friends, family, or neighbors who have recently had their roofs repaired or replaced for recommendations. They can provide valuable insights into the company's work quality, customer service, and overall experience.\n2. **Check online reviews**: Look up roofing companies in Seattle on review websites such as:\n\t* Yelp\n\t* Google Reviews\n\t* Angie's List\n\t* HomeAdvisor\n\t* Better Business Bureau (",
+      "named_here": [
+        "Ask for referrals",
+        "Check online reviews",
+        "Yelp",
+        "Google Reviews",
+        "Angie's List",
+        "HomeAdvisor",
+        "Better Business Bureau"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable roofing company in Seattle, WA. Here are some highly-recommended options:\n\n1. **Roofer Seattle**: A local, family-owned business with over 20 years of experience. They offer free inspections and estimates. (206) 246-ROOF (7663)\n2. **Seattle Roofing Company**: A reputable company with a 4.9-star rating on Google. They provide residential and commercial roofing services. (425) 644-ROOF (7663)\n3. **All About Roofing**: A Seattle-based company with over 30 years of experience. They offer a wide range of roofing services, including repairs, replacements, and maintenance. (206) 529-ROOF (7663)\n4. **Pioneer Roofing**: A trusted company with a 4.8-star rating",
+      "named_here": [
+        "Roofer Seattle",
+        "Seattle Roofing Company",
+        "All About Roofing",
+        "Pioneer Roofing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I can provide you with some ways to find a reliable roofing company in Seattle, WA:\n\n1.  **Check Online Reviews**: Websites like Yelp, Angie's List, and Google Reviews can give you an idea of a company's reputation and the quality of their work. Look for companies with high ratings and a large number of reviews.\n2.  **Ask for Referrals**: Ask friends, family, or neighbors who have recently had their roofs replaced or repaired for recommendations. Personal recommendations can be a great way to find a trustworthy company.\n3.  **Check Licenses and Certifications**: Make sure the company is properly licensed, bonded, and insured. You can check the Washington State Department of Labor an",
+      "named_here": [
+        "Check Online Reviews",
+        "Ask for Referrals",
+        "Check Licenses and Certifications"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted roofing companies in Seattle, WA, based on online reviews and ratings:\n\n1. **Pro Roofing Northwest**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer residential and commercial roofing services, including repairs, replacements, and maintenance.\n2. **Cobra Roofing & Construction**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They provide roofing services, including asphalt shingle, metal, and flat roofing, as well as siding and gutter installation.\n3. **Guardian Roofing**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They offer roofing services, including repairs, replacements, and maintenance, as well as solar panel installation and skylight installati",
+      "named_here": [
+        "Pro Roofing Northwest",
+        "Cobra Roofing & Construction",
+        "Guardian Roofing"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Most Trusted Roofing Companies in Seattle, WA\n\nBased on online reviews, ratings, and industry certifications, here are the top 5 most trusted roofing companies in Seattle, WA:\n\n#### Ranking Criteria\n\nThe ranking is based on a combination of factors, including:\n\n* Online reviews and ratings from reputable sources like Google, Yelp, and HomeAdvisor\n* Industry certifications, such as GAF and Owens Corning certifications\n* Licenses and insurance coverage\n* Years of experience in the industry\n\n#### Top 5 Most Trusted Roofing Companies\n\n1. **Roofer Seattle** (4.9/5 on Google, 4.8/5 on HomeAdvisor)\n\t* GAF and Owens Corning certified\n\t* Licensed and insured\n\t* Offers free inspections and estimat",
+      "named_here": [
+        "Roofer Seattle",
+        "Licenses and insurance coverage",
+        "Years of experience in the industry",
+        "GAF and Owens Corning certified",
+        "Licensed and insured",
+        "Offers free inspections and estimat"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Seattle, WA! Beautiful city with stunning views of the Olympic and Cascade mountains. When it comes to roofing needs, it's essential to find a reputable and trustworthy company to ensure your home or building is protected from the Pacific Northwest's rainy weather. Here are some top-rated roofing companies in Seattle:\n\n1. **Masters Roofing Inc.**: Masters Roofing has been serving the Seattle area for over 30 years, offering a wide range of roofing services, including residential and commercial roofing, siding, and gutters.\n2. **Seattle Roofing & Siding**: This family-owned business has been in operation for over 20 years, providing top-notch roofing and siding services, including repairs, re",
+      "named_here": [
+        "Masters Roofing Inc",
+        "Seattle Roofing & Siding"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the top-rated roofing companies in Seattle, WA:\n\n1. **Pro Roofing NW**: 4.9/5 stars on Google, 4.8/5 stars on Yelp - Known for their excellent customer service and high-quality workmanship.\n2. **Cobra Roofing & Construction**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Offers a wide range of roofing services, including repairs, replacements, and new installations.\n3. **Guardian Roofing**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Specializes in residential and commercial roofing, with a focus on sustainability and energy efficiency.\n4. **Seattle Roofing Company**: 4.7/5 stars on Google, 4.6/5 stars on Yelp - Provides a variety of roo",
+      "named_here": [
+        "Pro Roofing NW",
+        "Cobra Roofing & Construction",
+        "Guardian Roofing",
+        "Seattle Roofing Company"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Roofing Companies in Seattle, WA\n\nBased on online reviews, ratings, and industry recognition, here are some of the top-rated roofing companies in Seattle, WA:\n\n### Companies with a Strong Reputation\n\n1. **Roofer Seattle** (4.9/5 on Google, 4.8/5 on Yelp) - A Seattle-based company with over 20 years of experience, offering residential and commercial roofing services.\n2. **Seattle Roofing Company** (4.8/5 on Google, 4.7/5 on Yelp) - A family-owned business with over 30 years of experience, providing roofing, gutter, and siding services.\n3. **All About Roofing** (4.9/5 on Google, 4.8/5 on Yelp) - A Seattle-based company with over 20 years of experience, offering roofing, gutter, an",
+      "named_here": [
+        "Roofer Seattle",
+        "Seattle Roofing Company",
+        "All About Roofing"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some well-established and reputable roofing companies in Seattle, WA, along with their online reviews and ratings:\n\n1.  **All Phase Roofing**: 4.9/5 stars on Angie's List, 4.8/5 stars on Google Reviews\n2.  **Rainier Roofing and Construction**: 4.9/5 stars on Angie's List, 4.8/5 stars on Google Reviews\n3.  **Elite Roofing and Construction**: 4.8/5 stars on Angie's List, 4.7/5 stars on Google Reviews\n4.  **Gerber Roofing**: 4.8/5 stars on Angie's List, 4.7/5 stars on Google Reviews\n5.  **Gutter Helmet of Seattle**: 4.8/5 stars on Angie's List, 4.7/5 stars on Google Reviews\n6.  **Precision Roofing**: 4.7/5 stars on Angie's List, 4.6/5 stars on Google Reviews\n7.  **Henderson Roofing Inc",
+      "named_here": [
+        "All Phase Roofing",
+        "Rainier Roofing and Construction",
+        "Elite Roofing and Construction",
+        "Gerber Roofing",
+        "Gutter Helmet of Seattle",
+        "Precision Roofing",
+        "Henderson Roofing Inc"
+      ]
+    }
+  ]
+}

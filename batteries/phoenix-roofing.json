@@ -1,0 +1,146 @@
+{
+  "trade": "roofing",
+  "market": "Phoenix, AZ",
+  "run_date": "2026-10-15T20:02:45.693Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top roofing companies in Phoenix, AZ, based on customer reviews, ratings, and industry reputation:\n\n1. **Roofing Solutions**: With over 20 years of experience, Roofing Solutions offers a wide range of roofing services, including repairs, replacements, and installations.\n2. **Phoenix Roofing & Construction**: This family-owned business has been serving the Phoenix area for over 15 years, providing high-quality roofing services and excellent customer service.\n3. **Arizona Roofing Systems**: With a focus on energy-efficient roofing solutions, Arizona Roofing Systems offers a variety of services, including roof repairs, replacements, and coatings.\n4. **Allstate Roofing**: As",
+      "named_here": [
+        "Roofing Solutions",
+        "Phoenix Roofing & Construction",
+        "Arizona Roofing Systems",
+        "Allstate Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Top Roofing Companies in Phoenix, AZ \n\nTo determine the best roofing companies in Phoenix, AZ, we considered factors such as:\n\n* **Reputation**: Online reviews, ratings, and testimonials from previous customers.\n* **Experience**: Number of years in business, expertise in various roofing materials and services.\n* **Licenses and Certifications**: Valid licenses, certifications, and insurance.\n* **Services Offered**: Range of services, including roofing repairs, replacements, and maintenance.\n\nBased on these criteria, here are the top roofing companies in Phoenix, AZ:\n\n1. **Allstate Roofing**: With over 20 years of experience, Allstate Roofing is a trusted name in Phoenix, offering a wide r",
+      "named_here": [
+        "Reputation",
+        "Experience",
+        "Licenses and Certifications",
+        "Services Offered",
+        "Allstate Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Royal Roofing & Exteriors**: 4.9/5 stars on Google, 4.9/5 stars on Yelp. They offer a wide range of roofing services, including installation, repair, and maintenance.\n2. **Patriot Roofing**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They specialize in residential and commercial roofing, with a focus on quality and customer service.\n3. **Arizona Roofing Solutions**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They offer a 100% satisfaction guarantee and a wide range of roofing services, including tile, shingle, and metal roofing.\n4. **Absolute Roofing**: 4.8/5 stars on Google, 4.7/5 s",
+      "named_here": [
+        "Royal Roofing & Exteriors",
+        "Patriot Roofing",
+        "Arizona Roofing Solutions",
+        "Absolute Roofing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good roofing company in Phoenix, AZ. However, I don't have real-time access to specific company information or personal recommendations. That being said, here are some steps you can take to find a reliable roofing company in Phoenix:\n\n1. **Online Search**: You can start by searching online for \"roofing companies in Phoenix, AZ\" or \"roof repair in Phoenix, AZ.\" This will give you a list of potential companies to consider.\n2. **Check Reviews**: Look up reviews on websites like Yelp, Google, or Angie's List to see what other customers have to say about their experiences with different roofing companies.\n3. **Check Licenses and Certificat",
+      "named_here": [
+        "Online Search",
+        "Check Reviews",
+        "Check Licenses and Certificat"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Based on online reviews and ratings, here are some top-rated roofing companies in Phoenix, AZ:\n\n1. **Roofless Construction**: [phone removed] - 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer free inspections and estimates.\n2. **Allstate Roofing**: [phone removed] - 4.8/5 stars on Google, 4.7/5 stars on Yelp. They provide a wide range of roofing services, including repairs and replacements.\n3. **Arizona Roofing Company**: [phone removed] - 4.8/5 stars on Google, 4.7/5 stars on Yelp. They offer competitive pricing and a 100% satisfaction guarantee.\n4. **TLC Roofing**: [phone removed] - 4.9/5 stars on Google, 4.8/5 stars on Yelp. They provide emergency roof repairs and replacements.\n5. **Ra",
+      "named_here": [
+        "Roofless Construction",
+        "Allstate Roofing",
+        "Arizona Roofing Company",
+        "TLC Roofing",
+        "Ra"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal experiences or direct connections with specific companies. But I can provide you with some suggestions on how to find a reliable roofing company in Phoenix, AZ.\n\nHere are a few tips to help you find a good roofing company:\n\n1.  **Check online reviews**: Look up roofing companies in Phoenix on review websites like Yelp, Google, or Angie's List. Pay attention to the overall rating and read the reviews to get a sense of the company's reputation.\n2.  **Check licenses and certifications**: Ensure the company is licensed and certified by the Arizona Registrar of Contractors (ROC) or the National Roofing Contractors Association (NRCA).\n3.  ",
+      "named_here": [
+        "Check online reviews",
+        "Check licenses and certifications"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted roofing companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Roofing Solutions**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer residential and commercial roofing services, including repairs, replacements, and installations.\n2. **Phoenix Roofing & Construction**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They provide a wide range of roofing services, including tile, shingle, and flat roof installations.\n3. **Arizona Roof Rescue**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They specialize in roof repairs, replacements, and maintenance, with a focus on customer service.\n4. **Express Roofing**: 4.8/5 stars on Google, 4.7/5 stars on ",
+      "named_here": [
+        "Roofing Solutions",
+        "Phoenix Roofing & Construction",
+        "Arizona Roof Rescue",
+        "Express Roofing"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Most Trusted Roofing Companies in Phoenix, AZ\n\nBased on online reviews, ratings, and industry reputation, here are the top 5 most trusted roofing companies in Phoenix, AZ:\n\n### Ranking Criteria\n\nThe ranking is based on a combination of factors, including:\n\n* Online reviews and ratings from multiple sources (e.g., Google, Yelp, BBB)\n* Industry certifications and accreditations (e.g., GAF, Owens Corning)\n* Years of experience and reputation in the Phoenix area\n* Range of services offered (e.g., residential, commercial, roofing, siding, gutters)\n\n### Top 5 Roofing Companies\n\n1. **Rooftop Roofing**: With a 4.9-star rating on Google and 200+ reviews, Rooftop Roofing is a highly-rated option in",
+      "named_here": [
+        "Rooftop Roofing",
+        "Industry certifications and accreditations",
+        "Range of services offered"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted roofing companies in Phoenix, AZ, based on online reviews and ratings:\n\n1.  **Olson Roofing**: With over 30 years of experience, Olson Roofing is a family-owned and operated company that offers residential and commercial roofing services, including roof repairs, replacements, and installations.\n2.  **Arizona Roofing Solutions**: This locally owned and operated company has been serving the Phoenix area for over 20 years, offering roof repairs, replacements, and maintenance services for residential and commercial properties.\n3.  **ABC Roofing**: With over 40 years of experience, ABC Roofing is a trusted provider of roof repairs, replacements, and installations",
+      "named_here": [
+        "Olson Roofing",
+        "Arizona Roofing Solutions",
+        "ABC Roofing"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some well-reputed roofing companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Roofing Solutions**: 4.9/5 stars on Google, 4.8/5 stars on Yelp - Known for their excellent customer service and high-quality workmanship.\n2. **Arizona Roof Rescue**: 4.9/5 stars on Google, 4.7/5 stars on Yelp - Offers a wide range of roofing services, including repairs, replacements, and maintenance.\n3. **Express Roofing**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Provides fast and reliable roofing services, with a focus on customer satisfaction.\n4. **Phoenix Roofing & Repair**: 4.8/5 stars on Google, 4.6/5 stars on Yelp - Offers affordable and efficient roofing solutions, including r",
+      "named_here": [
+        "Roofing Solutions",
+        "Arizona Roof Rescue",
+        "Express Roofing",
+        "Phoenix Roofing & Repair"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Roofing Companies in Phoenix, AZ \n\nBased on online reviews, ratings, and industry recognition, here are some of the top-rated roofing companies in Phoenix, AZ:\n\n### Companies with a Strong Reputation \n\n1. **RHB Roofing** (4.9/5 on Google, 4.8/5 on Yelp) - A family-owned business with over 20 years of experience.\n2. **Rooftop Roofing** (4.9/5 on Google, 4.8/5 on Yelp) - A fully licensed and insured company with over 15 years of experience.\n3. **Arizona Roofing Company** (4.8/5 on Google, 4.7/5 on Yelp) - A local, family-owned business with over 30 years of experience.\n4. **Allstate Roofing** (4.8/5 on Google, 4.7/5 on Yelp) - A well-established company with over 20 years of exper",
+      "named_here": [
+        "RHB Roofing",
+        "Rooftop Roofing",
+        "Arizona Roofing Company",
+        "Allstate Roofing"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **ABC Supply Company** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Address: 2440 W Bell Rd, Phoenix, AZ 85053\n\t* Phone: [phone removed]\n2. **Phoenix Roofing Pros** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Address: 2425 W Bell Rd, Phoenix, AZ 85053\n\t* Phone: [phone removed]\n3. **All American Roofing** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Address: 1933 W Indian School Rd, Phoenix, AZ 85015\n\t* Phone: [phone removed]\n4. **Allstate Roofing** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Address: 2222 W Camelback Rd, Phoenix, AZ 85015\n\t* Phone: [phone removed]\n5. **Pioneer Roofing** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Ad",
+      "named_here": [
+        "ABC Supply Company",
+        "Phoenix Roofing Pros",
+        "All American Roofing",
+        "Allstate Roofing",
+        "Pioneer Roofing",
+        "Address",
+        "Phone",
+        "Ad"
+      ]
+    }
+  ]
+}

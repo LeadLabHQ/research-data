@@ -1,0 +1,136 @@
+{
+  "trade": "painting",
+  "market": "Phoenix, AZ",
+  "run_date": "2026-10-15T20:06:53.987Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best painting companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top painting companies in Phoenix, AZ, based on customer reviews and ratings:\n\n1. **Arizona Painting Company**: With over 20 years of experience, they offer interior and exterior painting services for residential and commercial properties.\n2. **Certified Painters**: This company has been serving Phoenix for over 15 years and provides a wide range of painting services, including epoxy floor coatings and cabinet refinishing.\n3. **Five Star Painting**: A locally-owned and operated company that offers interior and exterior painting services, as well as drywall repair and texture matching.\n4. **Klappenberger & Son**: A family-owned business that has been serving Phoenix for o",
+      "named_here": [
+        "Arizona Painting Company",
+        "Certified Painters",
+        "Five Star Painting",
+        "Klappenberger & Son"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated painting companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Sherwin-Williams**: With multiple locations throughout Phoenix, Sherwin-Williams is a well-established and reputable painting company that offers high-quality painting services and products.\n2. **Benjamin Moore**: Another well-known brand with multiple locations in Phoenix, Benjamin Moore offers a wide range of painting services, including interior and exterior painting, and a vast selection of paint colors and products.\n3. **Houzz**: While not a traditional painting company, Houzz is a popular platform that connects homeowners with top-rated painting professionals in Phoenix. Their l",
+      "named_here": [
+        "Sherwin-Williams",
+        "Benjamin Moore",
+        "Houzz"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated painting companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Five Star Painting Phoenix** (4.9/5 on Google, 4.8/5 on Yelp) - Known for their exceptional customer service, attention to detail, and color consultations.\n2. **Pete's Painting** (4.9/5 on Google, 4.8/5 on Yelp) - A locally owned business with over 25 years of experience, offering a wide range of painting services, including interior and exterior painting.\n3. **Certified Painting Contractors** (4.8/5 on Google, 4.7/5 on Yelp) - A family-owned business with a team of experienced painters, offering residential and commercial painting services.\n4. **Phoenix Paint Co.** (4.8/5 on Google, 4.7/5 o",
+      "named_here": [
+        "Five Star Painting Phoenix",
+        "Pete's Painting",
+        "Certified Painting Contractors",
+        "Phoenix Paint Co"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a good house painter in Phoenix, AZ. However, I'm a large language model, I don't have personal recommendations or direct access to local businesses. But I can provide you with some suggestions on how to find a reliable and trustworthy house painter in Phoenix:\n\n1. **Online Reviews**: Check online review sites such as Yelp, Google Reviews, or Angie's List to find highly-rated house painters in Phoenix. Pay attention to the overall rating, number of reviews, and comments from previous customers.\n2. **Ask for Referrals**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide valuable insights and firsthand ex",
+      "named_here": [
+        "Online Reviews",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some highly-rated house painters in Phoenix, AZ:\n\n1. **Humble Painting**: With over 20 years of experience, Humble Painting is a reputable and reliable choice. They offer free estimates and a 100% satisfaction guarantee. [phone removed]\n2. **Sherwin-Williams Paint Store**: While not a traditional painting contractor, Sherwin-Williams offers professional painting services through their store locations. They have a team of experienced painters and a wide range of products. [phone removed]\n3. **Benjamin Moore's Arizona Painting Contractors**: Similar to Sherwin-Williams, Benjamin Moore partners with local painting contractors who meet their standards. They offer a wide range of products ",
+      "named_here": [
+        "Humble Painting",
+        "Sherwin-Williams Paint Store",
+        "Benjamin Moore's Arizona Painting Contractors"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal experiences or direct connections to specific individuals or businesses. But I can provide you with some tips and resources to help you find a good house painter in Phoenix, AZ:\n\n1. **Ask for referrals**:\n\t* Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide valuable insights into the painter's work quality, reliability, and communication.\n\t* Check online review sites like Yelp, Google Reviews, or Facebook Reviews for painters in Phoenix. Look for painters with a 4-star or higher rating.\n2. **Check online directories**:\n\t* Angie's List, HomeAdvisor, and Thumbtack are popular ",
+      "named_here": [
+        "Ask for referrals",
+        "Check online directories"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house painting companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Certified Painting**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer interior and exterior painting services, and are known for their attention to detail and customer service.\n2. **Arizona Painting Company**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They have been serving the Phoenix area for over 20 years and offer a wide range of painting services, including residential and commercial painting.\n3. **Five Star Painting of Phoenix**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They offer interior and exterior painting services, and are known for their professionali",
+      "named_here": [
+        "Certified Painting",
+        "Arizona Painting Company",
+        "Five Star Painting of Phoenix"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house painter options in Phoenix, AZ:\n\n### Top-Rated Painting Companies \n\n1. **Humble Painting Company**: With a 4.9-star rating on Google and over 1,500 reviews, Humble Painting Company is a highly trusted option in Phoenix. They offer free estimates and a 100% satisfaction guarantee.\n2. **Sherwin-Williams**: As a well-known brand, Sherwin-Williams offers professional painting services with a 4.8-star rating on Google. They have a team of experienced painters and offer a wide range of paint options.\n3. **Benjamin Moore**: Another reputable brand, Benjamin Moore has a 4.7-star rating on Google and offers high-quality painting services. They have a network of",
+      "named_here": [
+        "Humble Painting Company",
+        "Sherwin-Williams",
+        "Benjamin Moore"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted house painting companies in Phoenix, AZ, based on online reviews and ratings:\n\n1.  **Sherwin-Williams Paint Store**: While not a painting company per se, Sherwin-Williams is a well-known and trusted paint store with a location in Phoenix. They offer painting services, and their staff can help you choose the right paint and provide guidance on the painting process.\n2.  **Five Star Painting Phoenix**: Five Star Painting is a national painting company with a location in Phoenix. They have an A+ rating with the Better Business Bureau and a 4.9-star rating on Google.\n3.  **Certified Painting Contractors**: Certified Painting Contractors is a locally owned and ope",
+      "named_here": [
+        "Sherwin-Williams Paint Store",
+        "Five Star Painting Phoenix",
+        "Certified Painting Contractors"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some painting companies in Phoenix, AZ, with a good reputation, based on online reviews and ratings:\n\n1. **Certified Painting**: 4.9/5 stars on Google, 4.8/5 stars on Yelp - Known for their professional and courteous service.\n2. **DPS Painting**: 4.9/5 stars on Google, 4.7/5 stars on Yelp - Offers residential and commercial painting services with a focus on quality and customer satisfaction.\n3. **Arizona Painting Company**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Provides interior and exterior painting services with a team of experienced professionals.\n4. **Fresh Coat Painters of Phoenix**: 4.8/5 stars on Google, 4.7/5 stars on Yelp - Offers a wide range of painting services, i",
+      "named_here": [
+        "Certified Painting",
+        "DPS Painting",
+        "Arizona Painting Company",
+        "Fresh Coat Painters of Phoenix"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated painting companies in Phoenix, AZ, known for their excellent reputation:\n\n1. **Sherwin-Williams**: With multiple locations throughout Phoenix, Sherwin-Williams is a well-established and reputable painting company that offers high-quality products and professional services.\n2. **Benjamin Moore**: Another well-known painting company with several locations in Phoenix, Benjamin Moore is famous for its premium paints and exceptional customer service.\n3. **Houzz**: While not a traditional painting company, Houzz is a popular platform that connects homeowners with top-rated painting professionals in Phoenix. You can find highly reviewed painters on their website.\n4. **The Pa",
+      "named_here": [
+        "Sherwin-Williams",
+        "Benjamin Moore",
+        "Houzz",
+        "The Pa"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some painting companies in Phoenix, AZ with a good reputation, based on online reviews and ratings:\n\n1. **Sherwin-Williams**: With a physical location in Phoenix, Sherwin-Williams is a well-known national brand with a wide range of paint products and a reputation for quality work.\n2. **Benjamin Moore**: Another national brand with a location in Phoenix, Benjamin Moore is known for its high-quality paints and coatings, as well as its professional painting services.\n3. **Pete's Painting**: A locally owned and operated company with over 20 years of experience, Pete's Painting has a 4.9-star rating on Google and is known for its attention to detail and customer satisfaction.\n4. **Arizon",
+      "named_here": [
+        "Sherwin-Williams",
+        "Benjamin Moore",
+        "Pete's Painting",
+        "Arizon"
+      ]
+    }
+  ]
+}

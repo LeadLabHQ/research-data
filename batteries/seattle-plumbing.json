@@ -1,0 +1,145 @@
+{
+  "trade": "plumbing",
+  "market": "Seattle, WA",
+  "run_date": "2026-10-15T20:37:38.619Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best plumbing companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top plumbing companies in Seattle, WA, based on customer reviews and ratings:\n\n1. **Rooter-Man of Seattle**: With over 40 years of experience, Rooter-Man offers a wide range of plumbing services, including drain cleaning, sewer repair, and water heater installation.\n2. **Mr. Rooter Plumbing of Seattle**: As a trusted name in the industry, Mr. Rooter provides 24/7 emergency plumbing services, including drain cleaning, pipe repair, and toilet installation.\n3. **Apollo Plumbing**: With a 4.9-star rating on Google, Apollo Plumbing is known for its fast response times, competitive pricing, and expert technicians who can handle any plumbing issue.\n4. **Fox Plumbing & Heating**",
+      "named_here": [
+        "Rooter-Man of Seattle",
+        "Mr. Rooter Plumbing of Seattle",
+        "Apollo Plumbing",
+        "Fox Plumbing & Heating"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated plumbing companies in Seattle, WA, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With over 80 years of experience, Roto-Rooter is a well-established and reputable plumbing company in Seattle. They offer 24/7 emergency services and a wide range of plumbing solutions. (4.8/5 stars on Google)\n2. **All Star Plumbing**: All Star Plumbing is a family-owned business with over 20 years of experience serving Seattle and surrounding areas. They offer competitive pricing and excellent customer service. (4.8/5 stars on Google)\n3. **Seattle Plumbing Company**: This locally-owned company has been serving Seattle for over 15 years, offerin",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "All Star Plumbing",
+        "Seattle Plumbing Company"
+      ]
+    },
+    {
+      "prompt": "What are the best plumbing companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated plumbing companies in Seattle, WA, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup** (4.9/5 on Google, 4.8/5 on Yelp) - A well-established company with a wide range of services, including emergency plumbing, drain cleaning, and water damage restoration.\n2. **Seattle Water Heater Co.** (4.9/5 on Google, 4.8/5 on Yelp) - Specializing in water heater installation, repair, and maintenance, with a focus on energy-efficient solutions.\n3. **HomeServe USA** (4.8/5 on Google, 4.7/5 on Yelp) - A national company with a strong presence in Seattle, offering plumbing repair, maintenance, and protection plans.\n4. **All Service Plumbing** (4.8/",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Seattle Water Heater Co",
+        "HomeServe USA",
+        "All Service Plumbing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'm happy to help you find a good plumber in Seattle, WA. However, I'm a large language model, I don't have have access to real-time information about specific plumbers or their current availability. But I can provide you with some options to find a reliable plumber in Seattle:\n\n1. **Online Directories**:\n\t* Yelp: Check out Yelp's list of top-rated plumbers in Seattle.\n\t* Angie's List: Look for plumbers in Seattle with high ratings and reviews.\n\t* HomeAdvisor: Find plumbers in Seattle with good reviews and ratings.\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors for recommendations.\n\t* Check with your local hardware store or home improvement store for referrals.\n3. **Professional ",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Yelp",
+        "Angie's List",
+        "HomeAdvisor",
+        "Professional"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable plumbers in Seattle, WA, and the best one for you will depend on your specific needs and preferences. Here are a few options to consider:\n\n1. **Roto-Rooter**: Roto-Rooter is a well-established and reputable plumbing company with multiple locations in Seattle. They offer 24/7 emergency services, and their plumbers are licensed and insured. You can call them at [phone removed].\n2. **Mr. Rooter**: Mr. Rooter is another well-known plumbing company with a location in Seattle. They offer a wide range of services, including drain cleaning, pipe repair, and water heater installation. You can call them at [phone removed].\n3. **Seattle Plumbing**: Seattle Plumbing is a locally-ow",
+      "named_here": [
+        "Roto-Rooter",
+        "Mr. Rooter",
+        "Seattle Plumbing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good plumber in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal experiences or direct connections with specific plumbers in Seattle. But I can provide you with some options to find a reliable plumber in Seattle:\n\n1. **Online Review Sites:**\n\t* Check websites like Yelp, Angie's List, or HomeAdvisor to read reviews from previous customers. You can filter by location (Seattle) and read ratings, reviews, and ratings to find a good plumber.\n2. **Professional Associations:**\n\t* The Master Plumbers Association of Washington (MPAW) is a great resource to find licensed and certified plumbers in Seattle. You can search their directory to find a plumber near you.\n\t* The Plumbing-Heating-Cooling Contractors ",
+      "named_here": [
+        "Online Review Sites",
+        "Professional Associations",
+        "The Master Plumbers Association of Washington",
+        "The Plumbing-Heating-Cooling Contractors"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted plumbing options in Seattle, WA, based on online reviews and ratings:\n\n1. **Rooter-Man**: With a 4.9-star rating on Google and 4.5 stars on Yelp, Rooter-Man is a popular choice for plumbing services in Seattle. They offer 24/7 emergency services and a wide range of plumbing solutions.\n2. **Mr. Rooter Plumbing**: Mr. Rooter has a 4.8-star rating on Google and 4.5 stars on Yelp. They provide residential and commercial plumbing services, including drain cleaning, pipe repair, and water heater installation.\n3. **Sarkinen Plumbing**: With a 4.9-star rating on Google and 4.5 stars on Yelp, Sarkinen Plumbing is a family-owned business that has been serving Seattle ",
+      "named_here": [
+        "Rooter-Man",
+        "Mr. Rooter Plumbing",
+        "Sarkinen Plumbing"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted plumbers in Seattle, WA, based on online reviews and ratings:\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With a 4.8-star rating on Google and 4.9-star rating on Yelp, Roto-Rooter is a well-established and reputable plumbing company in Seattle. They offer 24/7 emergency services and a wide range of plumbing solutions.\n2. **Mr. Rooter Plumbing of Seattle**: Mr. Rooter has a 4.8-star rating on Google and 4.9-star rating on Yelp. They offer affordable and reliable plumbing services, including drain cleaning, pipe repair, and water heater installation.\n3. **All Star Plumbing**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, All Star Plumbing is ",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Mr. Rooter Plumbing of Seattle",
+        "All Star Plumbing"
+      ]
+    },
+    {
+      "prompt": "I need a plumber in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "A reliable plumber is essential in Seattle, where the rainy climate can lead to water damage and leaks. Here are some of the most trusted plumbing options in Seattle, WA:\n\n**Top-Rated Plumbing Companies:**\n\n1.  **Mr. Rooter Plumbing of Seattle**: With over 30 years of experience, Mr. Rooter is a well-established and reputable company that offers 24/7 emergency services.\n2.  **ServiceMaster DSI**: This family-owned business has been serving Seattle for over 50 years, offering a wide range of plumbing services, including drain cleaning and water heater installation.\n3.  **Seattle Plumbing Company**: This local, family-owned business has been in operation for over 40 years and offers a variety ",
+      "named_here": [
+        "Top-Rated Plumbing Companies",
+        "Mr. Rooter Plumbing of Seattle",
+        "ServiceMaster DSI",
+        "Seattle Plumbing Company"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some plumbing companies in Seattle, WA with a good reputation:\n\n1. **Rooter-Man of Seattle**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Mr. Rooter Plumbing of Seattle**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Spartan Plumbing**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n4. **Fox Plumbing & Heating**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n5. **Gene Johnson Plumbing & Heating**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n6. **Seattle Plumbing**: 4.7/5 stars on Google, 4.6/5 stars on Yelp\n7. **Best Plumbing**: 4.7/5 stars on Google, 4.6/5 stars on Yelp\n8. **Plumbing Services of Seattle**: 4.7/5 stars on Google, 4.6/5 stars on Ye",
+      "named_here": [
+        "Rooter-Man of Seattle",
+        "Mr. Rooter Plumbing of Seattle",
+        "Spartan Plumbing",
+        "Fox Plumbing & Heating",
+        "Gene Johnson Plumbing & Heating",
+        "Seattle Plumbing",
+        "Plumbing Services of Seattle"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Plumbing Companies in Seattle, WA \n\nBased on online reviews and ratings, here are some of the top-rated plumbing companies in Seattle, WA:\n\n### Companies with a Strong Reputation \n\n1. **Roto-Rooter Plumbing & Water Cleanup**: With a 4.8-star rating on Google and 4.9-star rating on Yelp, Roto-Rooter is a well-established and reputable plumbing company with multiple locations in Seattle.\n2. **Perry's Plumbing**: Perry's Plumbing has a 4.9-star rating on Google and 4.8-star rating on Yelp, with customers praising their professionalism, prompt service, and fair prices.\n3. **All Star Plumbing**: All Star Plumbing has a 4.8-star rating on Google and 4.7-star rating on Yelp, with custo",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Perry's Plumbing",
+        "All Star Plumbing"
+      ]
+    },
+    {
+      "prompt": "Which plumbing companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-rated plumbing companies in Seattle, WA, based on online reviews and ratings from sources like Yelp, Angie's List, and Google:\n\n1. **Roto-Rooter**: 4.8/5 stars on Yelp, 4.5/5 stars on Google. Roto-Rooter is a well-established national plumbing franchise with a location in Seattle.\n2. **HireRight Plumbing**: 4.9/5 stars on Yelp, 4.8/5 stars on Google. HireRight Plumbing is a local, family-owned business serving the Seattle area for over 20 years.\n3. **Seattle Plumbing and Drain**: 4.9/5 stars on Yelp, 4.8/5 stars on Google. This company has been serving Seattle residents and businesses for over 15 years.\n4. **Northwest Plumbing**: 4.8/5 stars on Yelp, 4.7/5 stars on Googl",
+      "named_here": [
+        "Roto-Rooter",
+        "HireRight Plumbing",
+        "Seattle Plumbing and Drain",
+        "Northwest Plumbing"
+      ]
+    }
+  ]
+}

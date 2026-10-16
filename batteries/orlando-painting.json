@@ -1,0 +1,154 @@
+{
+  "trade": "painting",
+  "market": "Orlando, FL",
+  "run_date": "2026-10-14T15:01:37.748Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best painting companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top painting companies in Orlando, FL, based on customer reviews and ratings:\n\n1. **Certapro Painters of Orlando**: Known for their professional and reliable service, Certapro Painters offers a wide range of painting services, including interior and exterior painting, staining, and drywall repair.\n2. **Sherwin-Williams Paint Store**: With multiple locations in Orlando, Sherwin-Williams is a trusted name in the painting industry, offering high-quality paints and expert painting services.\n3. **Benjamin Moore Paints**: Another well-established paint store with multiple locations in Orlando, Benjamin Moore offers a wide range of painting services, including color consultatio",
+      "named_here": [
+        "Certapro Painters of Orlando",
+        "Sherwin-Williams Paint Store",
+        "Benjamin Moore Paints"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated painting companies in Orlando, FL, based on online reviews, ratings, and reputation:\n\n1. **Sherwin-Williams**: With multiple locations in Orlando, Sherwin-Williams is a well-established and reputable painting company that offers high-quality painting services and products.\n2. **Benjamin Moore**: Another well-known brand with several locations in Orlando, Benjamin Moore is a trusted name in the painting industry, offering expert painting services and top-notch products.\n3. **H&H Painting**: With an average rating of 4.9/5 on Google, H&H Painting is a highly-rated, locally-owned painting company that offers residential and commercial painting services.\n4. **Orlan",
+      "named_here": [
+        "Sherwin-Williams",
+        "Benjamin Moore",
+        "H&H Painting",
+        "Orlan"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated painting companies in Orlando, FL:\n\n1.  **Sherwin-Williams** - With a wide range of colors and a network of expert painters, Sherwin-Williams is a well-known and trusted brand in the industry.\n2.  **Behr Paints** - Behr Paints offers high-quality paints and stains, and their team of professionals can help you choose the perfect colors for your project.\n3.  **Benjamin Moore** - Benjamin Moore is a popular choice among homeowners and contractors alike, offering a vast selection of colors and expert advice from their experienced painters.\n4.  **Dunn-Edwards Paints** - Dunn-Edwards is a locally-owned company with over 80 years of experience in the Orlando area, providing ",
+      "named_here": [
+        "Sherwin-Williams",
+        "Behr Paints",
+        "Benjamin Moore",
+        "Dunn-Edwards Paints"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'm happy to help you find a good house painter in Orlando, FL. However, I'm a large language model, I don't have personal recommendations or direct access to local businesses. But I can provide you with some suggestions on how to find a reliable and trustworthy house painter in Orlando:\n\n1. **Online Reviews**: Check online review platforms such as Yelp, Google Reviews, or Angie's List to find highly-rated house painters in Orlando. You can filter the results by location, rating, and services offered.\n2. **Word of Mouth**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide you with first-hand experience and feedback about the painter",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a good house painter in Orlando, FL! However, I'm a large language model, I don't have have access to real-time information or personal experiences, so I can't provide a specific recommendation. But I can suggest some options to help you find a reliable house painter:\n\n1. **Check online reviews**: Websites like Angie's List, HomeAdvisor, or Yelp can provide a list of top-rated house painters in Orlando. Look for painters with a high rating (4+ stars) and a decent number of reviews.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide valuable insights into a painter's work quality",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal recommendations or direct access to specific businesses or individuals. But I can provide you with some suggestions on how to find a reliable and skilled house painter in Orlando, FL:\n\n1. **Online Reviews**: Check online review platforms like:\n\t* Yelp\n\t* Google Reviews\n\t* Angie's List\n\t* HomeAdvisor\n\t* Thumbtack\n\t* Houzz\nThese websites can give you an idea of a painter's reputation, work quality, and customer satisfaction.\n2. **Ask for Referrals**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide valuable insights into the painter's work, reliability, and professionalism.\n3",
+      "named_here": [
+        "Online Reviews",
+        "Ask for Referrals",
+        "Yelp",
+        "Google Reviews",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Houzz"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house painting companies in Orlando, FL, based on online reviews and ratings:\n\n1. **Certapro Painters of Orlando**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer a wide range of painting services, including interior and exterior painting, cabinet painting, and more.\n2. **Sherwin-Williams**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. As a well-known paint brand, they also offer painting services through their certified contractors.\n3. **Five Star Painting of Orlando**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They provide interior and exterior painting services, as well as drywall repair and texture matching.\n4. **Orlando Painters**: 4.8/5 stars ",
+      "named_here": [
+        "Certapro Painters of Orlando",
+        "Sherwin-Williams",
+        "Five Star Painting of Orlando",
+        "Orlando Painters"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house painter options in Orlando, FL:\n\n1. **Sherwin-Williams**: With multiple locations in Orlando, Sherwin-Williams is a well-established and reputable painting company that offers high-quality painting services.\n2. **Benjamin Moore**: Another well-known brand, Benjamin Moore has several authorized retailers in Orlando that offer painting services, including **Benjamin Moore of Orlando** and **Painting Solutions of Orlando** (a Benjamin Moore certified applicator).\n3. **Houzz**: Houzz is a popular platform that connects homeowners with professional painters. You can find top-rated painters in Orlando on Houzz, with reviews and ratings from previous customer",
+      "named_here": [
+        "Sherwin-Williams",
+        "Benjamin Moore",
+        "Benjamin Moore of Orlando",
+        "Painting Solutions of Orlando",
+        "Houzz"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Orlando is a big market for house painters, and there are many reliable options to choose from. Here are some of the most trusted house painters in Orlando, FL, based on online reviews and ratings:\n\n1. **Five Star Painting Orlando**:\n\t* Rating: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Years in business: 10+ years\n\t* Services: Interior and exterior painting, power washing, and more\n\t* Certifications: Angie's List Super Service Award winner\n2. **Certified Painting Contractors of Florida**:\n\t* Rating: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* Years in business: 20+ years\n\t* Services: Residential and commercial painting, epoxy flooring, and more\n\t* Certifications: EPA Lead-Safe Certific",
+      "named_here": [
+        "Five Star Painting Orlando",
+        "Certified Painting Contractors of Florida",
+        "Rating",
+        "Years in business",
+        "Services",
+        "Certifications"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some painting companies in Orlando, FL with a good reputation:\n\n1. **Certapro Painters of Orlando**: 4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor\n2. **Orlando Painters**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Fresh Coat Painters of Orlando**: 4.8/5 stars on Google, 4.7/5 stars on HomeAdvisor\n4. **Painting by Pappas**: 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **N-Hance Wood Refinishing of Orlando**: 4.7/5 stars on Google, 4.6/5 stars on HomeAdvisor\n6. **Five Star Painting of Orlando**: 4.6/5 stars on Google, 4.5/5 stars on HomeAdvisor\n7. **Orlando Painting Services**: 4.6/5 stars on Google, 4.5/5 stars on Yelp\n8. **Color World ",
+      "named_here": [
+        "Certapro Painters of Orlando",
+        "Orlando Painters",
+        "Fresh Coat Painters of Orlando",
+        "Painting by Pappas",
+        "N-Hance Wood Refinishing of Orlando",
+        "Five Star Painting of Orlando",
+        "Orlando Painting Services",
+        "Color World"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated painting companies in Orlando, FL, known for their excellent reputation:\n\n1. **Sherwin-Williams**: With multiple locations in Orlando, Sherwin-Williams is a well-established and reputable painting company that offers high-quality products and professional services.\n2. **Benjamin Moore**: Another well-known brand, Benjamin Moore has several locations in Orlando, providing top-notch painting services and products.\n3. **Orlando Painting Company**: With a 4.9-star rating on Google, this company is highly praised for its professionalism, quality work, and excellent customer service.\n4. **H&H Painting**: This Orlando-based company has a 4.8-star rating on Google and is know",
+      "named_here": [
+        "Sherwin-Williams",
+        "Benjamin Moore",
+        "Orlando Painting Company",
+        "H&H Painting"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some painting companies in Orlando, FL with a good reputation based on online reviews and ratings:\n\n1. **Prestige Painting of Central Florida** - 4.9/5 stars on Yelp, 4.9/5 stars on Google Reviews\n2. **Orlando Painting Pros** - 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews\n3. **Laminate Painting and Decorating** - 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews\n4. **AAA Painting Company** - 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews\n5. **Florida Painting Services** - 4.7/5 stars on Yelp, 4.6/5 stars on Google Reviews\n6. **Quick Coat Painting** - 4.7/5 stars on Yelp, 4.6/5 stars on Google Reviews\n7. **Allied Painting** - 4.7/5 stars on Yelp, 4.6/5 stars on Google Revi",
+      "named_here": [
+        "Prestige Painting of Central Florida",
+        "Orlando Painting Pros",
+        "Laminate Painting and Decorating",
+        "AAA Painting Company",
+        "Florida Painting Services",
+        "Quick Coat Painting",
+        "Allied Painting"
+      ]
+    }
+  ]
+}

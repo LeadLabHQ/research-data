@@ -1,0 +1,155 @@
+{
+  "trade": "drywall",
+  "market": "Phoenix, AZ",
+  "run_date": "2026-10-15T20:05:33.559Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top drywall contractors in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Drywall Repair Phoenix** (4.9/5) - Known for their fast and reliable service, they offer drywall installation, repair, and finishing.\n2. **Phoenix Drywall Services** (4.8/5) - With over 20 years of experience, they provide drywall installation, texture matching, and repair services.\n3. **AZ Drywall** (4.7/5) - This family-owned business offers drywall installation, repair, and finishing, as well as texture matching and removal.\n4. **Drywall Solutions** (4.7/5) - They specialize in drywall repair, installation, and finishing, and also offer texture matching and popcorn ceiling removal.\n5. *",
+      "named_here": [
+        "Drywall Repair Phoenix",
+        "Phoenix Drywall Services",
+        "AZ Drywall",
+        "Drywall Solutions"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Drywall Masters**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Drywall Masters is a highly-recommended drywall contractor in Phoenix. They offer drywall installation, repair, and finishing services.\n2. **Phoenix Drywall Pros**: This company has a 4.8-star rating on Google and 4.7-star rating on Yelp. They provide drywall installation, repair, and texture services, as well as popcorn ceiling removal.\n3. **All Drywall Services**: With a 4.8-star rating on Google and 4.7-star rating on Yelp, All Drywall Services is a trusted drywall contractor in Phoenix. They offer drywall i",
+      "named_here": [
+        "Drywall Masters",
+        "Phoenix Drywall Pros",
+        "All Drywall Services"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated drywall contractors in Phoenix, AZ, based on online reviews and ratings:\n\n**Please note that this is not an exhaustive list, and it's always a good idea to research and verify a contractor's credentials, licenses, and reviews before hiring them.**\n\n1. **Drywall Solutions** (5-star rating, 4.9/5 on Google)\n\t* Address: 3433 N 24th St, Phoenix, AZ 85008\n\t* Phone: [phone removed]\n2. **Arizona Drywall** (5-star rating, 4.9/5 on Google)\n\t* Address: 2345 W McDowell Rd, Phoenix, AZ 85009\n\t* Phone: [phone removed]\n3. **Drywall Pros** (5-star rating, 4.8/5 on Google)\n\t* Address: 1234 N 48th St, Phoenix, AZ 85008\n\t* Phone: [phone removed]\n4. **Wall Wizards** (5-star rating, 4.8/5 o",
+      "named_here": [
+        "Arizona Drywall",
+        "Drywall Pros",
+        "Wall Wizards",
+        "Drywall Solutions",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide general guidance, but I don't have real-time access to specific contractors or their current availability. That being said, here are some steps you can take to find a good drywall contractor in Phoenix, AZ:\n\n1. **Online Search**: You can start by searching online for drywall contractors in Phoenix, AZ. Use search engines like Google and keywords like \"drywall contractors Phoenix AZ\" or \"drywall repair Phoenix AZ\". This will give you a list of potential contractors in your area.\n2. **Check Reviews**: Look up reviews on websites like Yelp, Angie's List, or HomeAdvisor to see what other customers have to say about the contractors you're considering. Pay attention to their ratings,",
+      "named_here": [
+        "Online Search",
+        "Check Reviews"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'm happy to help you find a reliable drywall contractor in Phoenix, AZ! However, I'm a large language model, I don't have have access to real-time information or specific recommendations. But I can suggest some options to help you find a good drywall contractor:\n\n1. **Online Directories**:\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n\t* Yelp (yelp.com)\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors who have recently done drywall work for recommendations.\n\t* Check online reviews on social media platforms like Facebook or Nextdoor.\n3. **Professional Associations**:\n\t* National Drywall & Interior Systems Contractors Association (NDI",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Professional Associations",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Yelp"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal recommendations or direct access to specific contractor directories. But I can guide you on how to find a reliable drywall contractor in Phoenix, AZ:\n\n1.  **Check online directories:**\n    *   HomeAdvisor: A popular platform that connects homeowners with pre-screened contractors.\n    *   Thumbtack: A platform that allows you to post a job and receive bids from local contractors.\n    *   Angie's List: A review-based directory that can help you find top-rated contractors.\n2.  **Ask for referrals:**\n    *   Ask friends, family, or neighbors who have recently had drywall work done for recommendations.\n    *   Check local online forums or",
+      "named_here": [
+        "Check online directories",
+        "Ask for referrals",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Angie's List",
+        "Check local online forums or"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I've compiled a list of trusted drywall contractors in Phoenix, AZ, based on online reviews and ratings. Please note that this list is not exhaustive, and it's essential to do your own research and verify the contractors' licenses, insurance, and reputation before hiring. Here are some top-rated options:\n\n1. **Phoenix Drywall Repair** (4.9/5 stars on Google) - Offers drywall installation, repair, and finishing services.\n2. **Drywall Masters** (4.8/5 stars on Google) - Provides drywall installation, repair, and texture matching services.\n3. **Arizona Drywall** (4.7/5 stars on Google) - Specializes in drywall installation, repair, and finishing for residential and commercial projects.\n4. **Pho",
+      "named_here": [
+        "Phoenix Drywall Repair",
+        "Drywall Masters",
+        "Arizona Drywall",
+        "Pho"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Drywall Arizona** (4.9/5 on Google, 4.8/5 on Yelp) - With over 20 years of experience, they offer drywall installation, repair, and finishing services.\n2. **Phoenix Drywall Pros** (4.8/5 on Google, 4.7/5 on Yelp) - This company provides residential and commercial drywall services, including installation, repair, and texture coating.\n3. **Arizona Drywall & Painting** (4.8/5 on Google, 4.7/5 on Yelp) - They offer a wide range of drywall services, including installation, repair, and finishing, as well as painting and texture coating.\n4. **Drywall Masters** (4.7/5 on Google, 4.6/5 on ",
+      "named_here": [
+        "Drywall Arizona",
+        "Phoenix Drywall Pros",
+        "Arizona Drywall & Painting",
+        "Drywall Masters"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted drywall contractors in Phoenix, AZ, based on online reviews and ratings:\n\n1.  **Phoenix Drywall Repair**: Phoenix Drywall Repair is a locally owned and operated company that offers a wide range of drywall services, including repair, installation, and finishing. They have a 4.9-star rating on Google and a 4.8-star rating on Yelp.\n2.  **Drywall Pros**: Drywall Pros is a well-established company in Phoenix that offers drywall installation, repair, and finishing services. They have a 4.9-star rating on Google and a 4.7-star rating on Yelp.\n3.  **Arizona Drywall**: Arizona Drywall is a family-owned business that has been serving the Phoenix area for over 20 years",
+      "named_here": [
+        "Phoenix Drywall Repair",
+        "Drywall Pros",
+        "Arizona Drywall"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some drywall contractors in Phoenix, AZ with a good reputation:\n\n1. **Arizona Drywall Company** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Drywall Solutions** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Phoenix Drywall Repair** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **Desert Drywall** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **All Star Drywall** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Drywall Experts of Phoenix** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **Valley Drywall** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n8. **Phoenix Drywall Services** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n9. **Dryw",
+      "named_here": [
+        "Arizona Drywall Company",
+        "Drywall Solutions",
+        "Phoenix Drywall Repair",
+        "Desert Drywall",
+        "All Star Drywall",
+        "Drywall Experts of Phoenix",
+        "Valley Drywall",
+        "Phoenix Drywall Services",
+        "Dryw"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I've compiled a list of top-rated drywall contractors in Phoenix, AZ, based on online reviews and ratings. Keep in mind that reputation can change over time, and it's always a good idea to verify the information and get multiple quotes before hiring a contractor. Here are some of the best drywall contractors in Phoenix, AZ:\n\n1. **Drywall Masters** (4.9/5 on Google, 4.8/5 on Yelp) - [phone removed]\n2. **All Drywall Pros** (4.9/5 on Google, 4.8/5 on Yelp) - [phone removed]\n3. **Phoenix Drywall Repair** (4.8/5 on Google, 4.7/5 on Yelp) - [phone removed]\n4. **Drywall Solutions** (4.8/5 on Google, 4.7/5 on Yelp) - [phone removed]\n5. **Arizona Drywall Pros** (4.7/5 on Google, 4.6/5 on Yelp) - [phone removed]\n6. ",
+      "named_here": [
+        "Drywall Masters",
+        "All Drywall Pros",
+        "Phoenix Drywall Repair",
+        "Drywall Solutions",
+        "Arizona Drywall Pros"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-rated drywall contractors in Phoenix, AZ, based on online reviews and ratings:\n\n**Please note that ratings can change over time, and it's always a good idea to research and contact multiple contractors for a quote and to verify their licenses and insurance.**\n\n1. **Drywall Solutions Inc.** (4.9/5 stars on Yelp, 4.8/5 stars on Google)\n\t* Address: 2435 W Glendale Ave, Phoenix, AZ 85021\n\t* Phone: [phone removed]\n2. **Arizona Drywall Company** (4.8/5 stars on Yelp, 4.7/5 stars on Google)\n\t* Address: 1515 W Bell Rd, Phoenix, AZ 85023\n\t* Phone: [phone removed]\n3. **Drywall Pros** (4.8/5 stars on Yelp, 4.7/5 stars on Google)\n\t* Address: 2323 W Bethany Home Rd, Phoenix, AZ 85015\n\t",
+      "named_here": [
+        "Arizona Drywall Company",
+        "Drywall Pros",
+        "Drywall Solutions Inc",
+        "Address",
+        "Phone"
+      ]
+    }
+  ]
+}

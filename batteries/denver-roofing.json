@@ -1,0 +1,153 @@
+{
+  "trade": "roofing",
+  "market": "Denver, CO",
+  "run_date": "2026-10-15T20:29:44.277Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top roofing companies in Denver, CO, based on customer reviews and ratings:\n\n1. **Interstate Roofing**: With over 25 years of experience, Interstate Roofing is a reputable company that offers a wide range of roofing services, including roof repairs, replacements, and installations.\n2. **Roofing Masters**: Roofing Masters is a locally owned and operated company that has been serving the Denver area for over 20 years. They offer a variety of roofing services, including asphalt shingle, metal, and flat roof installations.\n3. **Colorado Roofing Solutions**: Colorado Roofing Solutions is a full-service roofing company that offers roof repairs, replacements, and installations.",
+      "named_here": [
+        "Interstate Roofing",
+        "Roofing Masters",
+        "Colorado Roofing Solutions"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated roofing companies in Denver, CO, based on online reviews, ratings, and reputation:\n\n1. **Denver Roofing Company**: With over 20 years of experience, they offer residential and commercial roofing services, including repairs, replacements, and maintenance. (4.9/5 stars on Google)\n2. **Apex Roofing and Siding**: A locally-owned company with a focus on quality, customer service, and competitive pricing. They offer roofing, siding, and gutter services. (4.8/5 stars on Google)\n3. **Rooftop Roofing**: A Denver-based company with over 15 years of experience, offering residential and commercial roofing services, including storm damage repairs. (4.8/5 stars on Google)\n4.",
+      "named_here": [
+        "Denver Roofing Company",
+        "Apex Roofing and Siding",
+        "Rooftop Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Denver, CO, based on online reviews and ratings from sources like Angie's List, HomeAdvisor, and Yelp:\n\n1. **American Roofing Company**: 4.9/5 on Angie's List, 4.9/5 on HomeAdvisor, 4.8/5 on Google Reviews\n\t* Locally owned and operated for over 20 years, with a focus on residential and commercial roofing services.\n2. **Premier Roofing & Exteriors**: 4.9/5 on Angie's List, 4.8/5 on HomeAdvisor, 4.7/5 on Google Reviews\n\t* Family-owned and operated since 1999, offering roofing, siding, and gutters services.\n3. **Boulder Roofing Company**: 4.9/5 on Angie's List, 4.8/5 on HomeAdvisor, 4.7/5 on Google Reviews\n\t* Locally owned and operated since 1",
+      "named_here": [
+        "American Roofing Company",
+        "Premier Roofing & Exteriors",
+        "Boulder Roofing Company",
+        "Locally owned and operated since 1"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good roofing company in Denver, CO. However, I don't have real-time access to specific companies or their current ratings. That being said, here are some steps you can take to find a reliable roofing company:\n\n1. **Online Search**: You can start by searching online for roofing companies in Denver, CO. Look for companies with good reviews on websites like Google, Yelp, or Angie's List.\n2. **Check Licenses and Certifications**: Make sure the company you choose is properly licensed and certified. You can check with the Colorado Department of Regulatory Agencies (DORA) to verify a company's license.\n3. **Ask for Referrals**: Ask frien",
+      "named_here": [
+        "Online Search",
+        "Check Licenses and Certifications",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a good roofing company in Denver, CO. However, I don't have personal experiences or real-time reviews, but I can suggest some options to consider:\n\n1. **Check online reviews**: Websites like Yelp, Google Reviews, or HomeAdvisor can provide a list of top-rated roofing companies in Denver. Look for companies with a high rating (4+ stars) and pay attention to the number of reviews.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently had roofing work done for recommendations.\n3. **Check with local trade organizations**: The National Roofing Contractors Association (NRCA) or the Roofing Contractors Association of Denver (RCAD) may have a lis",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Check with local trade organizations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have personal experiences or direct recommendations, but I can provide you with some suggestions on how to find a reputable roofing company in Denver, CO:\n\n1. **Check online reviews**: Look up roofing companies in Denver on websites like:\n\t* Yelp\n\t* Angie's List\n\t* Google Reviews\n\t* HomeAdvisor\n\t* Thumbtack\n\t* Facebook Reviews\n2. **Ask for referrals**: Ask friends, family, neighbors, or coworkers who have recently had roofing work done in Denver for recommendations.\n3. **Check with the Better Business Bureau (BBB)**: The BBB can provide information on a company's reputation, complaints, and ratings.\n4. **Get multiple quotes**: Get quotes fro",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Check with the Better Business Bureau",
+        "Get multiple quotes",
+        "Yelp",
+        "Angie's List",
+        "Google Reviews",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Facebook Reviews"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted roofing companies in Denver, CO, based on online reviews and ratings:\n\n1. **Interlock Roofing** (4.9/5 stars on Google, 4.8/5 stars on Yelp) - Known for their high-quality metal roofing systems and excellent customer service.\n2. **Roof Masters** (4.8/5 stars on Google, 4.7/5 stars on Yelp) - Offers a wide range of roofing services, including repairs, replacements, and installations.\n3. **Denver Roofing Inc.** (4.7/5 stars on Google, 4.6/5 stars on Yelp) - Provides comprehensive roofing solutions, including residential and commercial roofing services.\n4. **Allied Roofing** (4.7/5 stars on Google, 4.6/5 stars on Yelp) - Specializes in asphalt shingle roofing, ",
+      "named_here": [
+        "Interlock Roofing",
+        "Roof Masters",
+        "Denver Roofing Inc",
+        "Allied Roofing"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Most Trusted Roofing Companies in Denver, CO\n\nBased on online reviews, ratings, and industry reputation, here are the top 5 most trusted roofing companies in Denver, CO:\n\n1. **Denver Roofing Company** (4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor)\n\t* Licensed, bonded, and insured\n\t* Offers free inspections and estimates\n\t* Provides a 100% satisfaction guarantee\n2. **Apex Roofing & Siding** (4.9/5 stars on Google, 4.8/5 stars on HomeAdvisor)\n\t* Family-owned and operated for over 20 years\n\t* Offers a 100% satisfaction guarantee\n\t* Provides free inspections and estimates\n3. **J. Baker Roofing** (4.8/5 stars on Google, 4.7/5 stars on HomeAdvisor)\n\t* Locally owned and operated for over 3",
+      "named_here": [
+        "Denver Roofing Company",
+        "Apex Roofing & Siding",
+        "J. Baker Roofing",
+        "Licensed, bonded, and insured",
+        "Offers free inspections and estimates",
+        "Provides a 100% satisfaction guarantee",
+        "Offers a 100% satisfaction guarantee",
+        "Provides free inspections and estimates"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Denver, CO! Here are some of the most trusted roofing companies in Denver, based on online reviews, ratings, and reputation:\n\n1. **Colorado Roofing Inc.** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* Family-owned and operated, Colorado Roofing Inc. has been serving Denver for over 30 years.\n\t* They offer a wide range of roofing services, including roof repairs, replacements, and inspections.\n2. **Denver Roofing Company** (4.9/5 stars on Google, 4.7/5 stars on Yelp)\n\t* This locally owned company has been in business for over 20 years, providing top-notch roofing services to Denver residents.\n\t* They offer free estimates, financing options, and a 100% satisfaction guarantee.\n3. **Legacy Roo",
+      "named_here": [
+        "Colorado Roofing Inc",
+        "Denver Roofing Company",
+        "Legacy Roo"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the top-rated roofing companies in Denver, CO:\n\n1. **Roofing Masters**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Interstate Roofing**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Metro Roofing and Exteriors**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n4. **Roof Worx**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n5. **All Seasons Roofing and Restoration**: 4.7/5 stars on Google, 4.6/5 stars on Yelp\n6. **Colorado Roofing Solutions**: 4.7/5 stars on Google, 4.6/5 stars on Yelp\n7. **Keller Roofing and Siding**: 4.7/5 stars on Google, 4.6/5 stars on Yelp\n8. **Retro Roofing Colorado**: 4.7/5 stars on Google, 4.6/5 stars on Yelp\n9. **",
+      "named_here": [
+        "Roofing Masters",
+        "Interstate Roofing",
+        "Metro Roofing and Exteriors",
+        "Roof Worx",
+        "All Seasons Roofing and Restoration",
+        "Colorado Roofing Solutions",
+        "Keller Roofing and Siding",
+        "Retro Roofing Colorado"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Roofing Companies in Denver, CO \n\nBased on online reviews, ratings, and industry recognition, here are some of the top-rated roofing companies in Denver, CO:\n\n### Companies with a Strong Reputation \n\n1. **Denver Roofing Company** (4.9/5 on Google, 4.8/5 on Facebook) - A locally-owned and operated company with over 20 years of experience.\n2. **Apex Roofing and Siding** (4.9/5 on Google, 4.8/5 on Facebook) - A family-owned business with over 20 years of experience, offering a wide range of roofing services.\n3. **Roofless Inc.** (4.8/5 on Google, 4.7/5 on Facebook) - A Denver-based company with over 15 years of experience, specializing in residential and commercial roofing.\n4. **J.",
+      "named_here": [
+        "Denver Roofing Company",
+        "Apex Roofing and Siding",
+        "Roofless Inc"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Denver, CO, based on online reviews and ratings:\n\n1. **Legacy Roofing & Exteriors**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer a wide range of roofing services, including installation, repair, and replacement.\n2. **Denver Roofing Company**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They specialize in residential and commercial roofing, with a focus on quality and customer service.\n3. **Mountain States Roofing**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They offer a variety of roofing services, including asphalt shingle, metal, and flat roof repairs and replacements.\n4. **Allstate Roofing**: 4.8/5 stars on Google, 4.7/5 sta",
+      "named_here": [
+        "Legacy Roofing & Exteriors",
+        "Denver Roofing Company",
+        "Mountain States Roofing",
+        "Allstate Roofing"
+      ]
+    }
+  ]
+}

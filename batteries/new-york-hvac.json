@@ -1,0 +1,145 @@
+{
+  "trade": "hvac",
+  "market": "New York, NY",
+  "run_date": "2026-10-15T19:13:55.357Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best HVAC companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top HVAC companies in New York, NY, based on customer reviews, ratings, and reputation:\n\n1. **Superior Mechanical Services**: With over 20 years of experience, they offer a wide range of HVAC services, including installation, repair, and maintenance.\n2. **NYC HVAC**: A family-owned business with over 15 years of experience, they provide 24/7 emergency services and specialize in high-rise building HVAC systems.\n3. **Total HVAC**: With a team of licensed and certified technicians, they offer HVAC installation, repair, and maintenance services for residential and commercial properties.\n4. **Air Conditioning NYC**: Specializing in air conditioning installation, repair, and m",
+      "named_here": [
+        "Superior Mechanical Services",
+        "NYC HVAC",
+        "Total HVAC",
+        "Air Conditioning NYC"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top HVAC Companies in New York, NY \n\nHere are some of the top HVAC companies in New York, NY, based on online reviews, ratings, and reputation:\n\n### Top-Rated Companies \n\n1. **Hewes & Rudd Plumbing & HVAC**: With over 100 years of experience, they offer a wide range of HVAC services, including installation, repair, and maintenance. (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n2. **Carrier Enterprise**: As a Carrier-authorized dealer, they provide top-notch HVAC services, including system installations, repairs, and maintenance. (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n3. **All City Heating, Air Conditioning & Plumbing**: This family-owned business has been serving NYC for over 20 year",
+      "named_here": [
+        "Hewes & Rudd Plumbing & HVAC",
+        "Carrier Enterprise"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top HVAC companies in New York, NY, based on online reviews, ratings, and industry reputation:\n\n1.  **Meyer & Depew Plumbing, Heating, & Air Conditioning**: 4.9/5 stars on Yelp, 4.9/5 stars on Google Reviews. They offer a wide range of HVAC services, including installation, repair, and maintenance.\n2.  **Comfort Masters**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews. They provide residential and commercial HVAC services, including heating, cooling, and indoor air quality solutions.\n3.  **Service Experts Heating & Air Conditioning**: 4.7/5 stars on Yelp, 4.5/5 stars on Google Reviews. They offer a range of HVAC services, including installation, repair, and maintena",
+      "named_here": [
+        "Comfort Masters",
+        "Service Experts Heating & Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good HVAC company in New York, NY. However, I don't have real-time access to specific company information or personal recommendations. That being said, here are some steps you can take to find a reliable HVAC company in New York City:\n\n1. **Online Search**: You can start by searching online for \"HVAC companies in New York, NY\" or \"best HVAC companies in NYC.\" This will give you a list of companies that serve the area.\n2. **Check Reviews**: Look up reviews on websites like Yelp, Google, or Angie's List to see what other customers have to say about their experiences with different HVAC companies.\n3. **Ask for Referrals**: Ask friends, f",
+      "named_here": [
+        "Online Search",
+        "Check Reviews",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Based on online reviews and ratings, here are some top-rated HVAC companies in New York, NY:\n\n1. **Hobart & Gill**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer heating, cooling, and plumbing services. [phone removed]\n2. **Carrier NY**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. As a Carrier factory-authorized dealer, they provide expert HVAC services. [phone removed]\n3. **All City Heating, Cooling & Plumbing**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They offer 24/7 emergency services and a wide range of HVAC solutions. [phone removed]\n4. **M&M Heating & Cooling**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They provide affordable and reliable HVAC services, including maintenan",
+      "named_here": [
+        "Hobart & Gill",
+        "Carrier NY",
+        "All City Heating, Cooling & Plumbing",
+        "M&M Heating & Cooling"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal preferences or direct experiences with specific HVAC companies in New York, NY. But I can provide you with some suggestions on how to find a reliable HVAC company in your area.\n\nTo find a good HVAC company in New York, NY, consider the following options:\n\n1.  **Check online reviews**: Websites like Yelp, Google, and Angie's List can give you an idea of a company's reputation and customer satisfaction. Look for companies with high ratings and a large number of reviews.\n2.  **Ask for referrals**: Ask friends, family, or neighbors who have recently hired an HVAC company in the area for recommendations. They can provide valuable insights",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted HVAC companies in New York, NY:\n\n1. **Ranshaw Heating and Cooling**: With over 50 years of experience, Ranshaw is a family-owned business that provides heating, cooling, and ventilation services to residential and commercial clients.\n2. **Petro Home Services**: Petro is a well-established company that offers HVAC services, including installation, repair, and maintenance, to homeowners and businesses in the NYC area.\n3. **Allstate Air Conditioning & Heating**: Allstate has been serving the NYC area for over 30 years, providing a range of HVAC services, including installation, repair, and maintenance.\n4. **NYC HVAC**: As a locally owned and operated company, N",
+      "named_here": [
+        "Ranshaw Heating and Cooling",
+        "Petro Home Services",
+        "Allstate Air Conditioning & Heating",
+        "NYC HVAC"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Trusted HVAC Companies in New York, NY \n\nHere are some of the most trusted HVAC companies in New York, NY, based on online reviews, ratings, and licenses:\n\n### Top-Rated Companies \n\n1. **Carrier**: As a well-established brand, Carrier has a network of authorized dealers in New York City. Their technicians are trained to provide expert HVAC services, including installation, repair, and maintenance. \n    * Rating: 4.5/5 (based on 500+ reviews)\n    * License: Licensed and insured\n    * Services: Installation, repair, maintenance, and replacement of HVAC systems\n    * Availability: 24/7 emergency services\n2. **Heating & Air Conditioning Companies**: \n    * **Hobart & Gill**: With over 100 yea",
+      "named_here": [
+        "Carrier",
+        "Heating & Air Conditioning Companies",
+        "Hobart & Gill",
+        "Rating",
+        "License",
+        "Services",
+        "Availability"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted HVAC companies in New York, NY, based on online reviews and ratings:\n\n1.  **Comfort Experts**: Comfort Experts is a highly-rated HVAC company serving New York City and the surrounding areas. They have a 4.9-star rating on Google and offer 24/7 emergency service.\n2.  **Service Champions**: Service Champions is a well-established HVAC company with a 4.8-star rating on Google. They offer a wide range of services, including installation, maintenance, and repair.\n3.  **H&H Heating and Air Conditioning**: H&H has been serving New York City for over 40 years and has a 4.7-star rating on Google. They offer 24/7 emergency service and a wide range of HVAC services.\n4.",
+      "named_here": [
+        "Comfort Experts",
+        "Service Champions",
+        "H&H Heating and Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some HVAC companies in New York, NY with a good reputation:\n\n1. **Air Repair**: With over 50 years of experience, Air Repair has a 4.9-star rating on Google and is known for its reliable and efficient heating and cooling services.\n2. **NYC HVAC**: This company has a 4.8-star rating on Google and is praised for its prompt and professional service, as well as its competitive pricing.\n3. **Superior Mechanical Services**: With a 4.7-star rating on Google, Superior Mechanical Services is a trusted provider of HVAC installation, maintenance, and repair services in NYC.\n4. **Bolster**: Bolster has a 4.7-star rating on Google and is known for its innovat",
+      "named_here": [
+        "Air Repair",
+        "NYC HVAC",
+        "Superior Mechanical Services",
+        "Bolster"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in New York, NY \n\nTo determine the best HVAC companies in New York, NY, we considered factors such as customer reviews, ratings, licenses, and certifications. Here are some top-rated HVAC companies in New York, NY:\n\n### Companies with a Strong Reputation \n\n1. **Carrier**: A well-established company with a long history of providing HVAC services in New York City. They offer a wide range of services, including installation, repair, and maintenance. \n    - Rating: 4.5/5 (based on 500+ reviews)\n    - License: Licensed and insured\n    - Certifications: NATE-certified technicians\n2. **Bryant**: Another reputable HVAC company with a strong presence in New York City. They",
+      "named_here": [
+        "Carrier",
+        "Bryant",
+        "Rating",
+        "License",
+        "Certifications"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated HVAC companies in New York, NY, based on online reviews and ratings:\n\n1.  **Comfortech Energy Solutions**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews\n2.  **Len The Plumber**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews\n3.  **Mr. Rooter Plumbing and HVAC**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews\n4.  **Temperature Pro**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews\n5.  **Aire Serv**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews\n6.  **Heating Experts**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews\n7.  **Comfort First**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews\n8.  **Mr. Appliance**: 4.8/5 stars on Yelp, 4.7/5 stars o",
+      "named_here": [
+        "Comfortech Energy Solutions",
+        "Len The Plumber",
+        "Mr. Rooter Plumbing and HVAC",
+        "Temperature Pro",
+        "Aire Serv",
+        "Heating Experts",
+        "Comfort First",
+        "Mr. Appliance"
+      ]
+    }
+  ]
+}

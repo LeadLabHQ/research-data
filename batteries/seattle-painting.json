@@ -1,0 +1,148 @@
+{
+  "trade": "painting",
+  "market": "Seattle, WA",
+  "run_date": "2026-10-15T20:46:06.389Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best painting companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top painting companies in Seattle, WA, based on customer reviews and ratings:\n\n1. **Seattle Painters**: With over 20 years of experience, Seattle Painters is a locally-owned company that offers interior and exterior painting services.\n2. **Protech Painting**: Protech Painting has been serving the Seattle area for over 25 years, providing high-quality painting services for residential and commercial properties.\n3. **College Pro Painters**: College Pro Painters is a well-established company that has been painting homes in Seattle for over 40 years, with a focus on customer service and quality workmanship.\n4. **Five Star Painting**: Five Star Painting is a national company ",
+      "named_here": [
+        "Seattle Painters",
+        "Protech Painting",
+        "College Pro Painters",
+        "Five Star Painting"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top Painting Companies in Seattle, WA \n\nHere are the top painting companies in Seattle, WA, that I'd recommend:\n\n### Top 10 Painting Companies \n\n1. **HousePainting.com**: A highly-rated, locally-owned company with over 20 years of experience in exterior and interior painting.\n2. **Seattle Painters**: A reputable company with a team of skilled professionals, offering a wide range of painting services, including residential and commercial painting.\n3. **Painter1 of Seattle**: A well-established company with over 30 years of experience, providing high-quality painting services for homes, apartments, and commercial buildings.\n4. **Benjamin Moore of Seattle**: A trusted company with a team of ",
+      "named_here": [
+        "HousePainting.com",
+        "Seattle Painters",
+        "Painter1 of Seattle",
+        "Benjamin Moore of Seattle"
+      ]
+    },
+    {
+      "prompt": "What are the best painting companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top painting companies in Seattle, WA, based on online reviews, ratings, and reputation:\n\n1. **Pacific Painting**: With over 20 years of experience, Pacific Painting offers top-notch residential and commercial painting services in Seattle. (5-star rating on Yelp, Angie's List, and Google)\n2. **Seattle Painters**: This family-owned business has been serving the Seattle area for over 25 years, providing high-quality painting services for homes and businesses. (4.9-star rating on Google, 5-star on Facebook)\n3. **B&D Painting**: With over 35 years of experience, B&D Painting offers interior and exterior painting services, as well as faux finishing and staining. (4.9-star rat",
+      "named_here": [
+        "Pacific Painting",
+        "Seattle Painters",
+        "B&D Painting"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a good house painter in Seattle, WA. However, I'm a large language model, I don't have personal recommendations or direct access to specific contractors. But I can provide you with some suggestions on how to find a reliable and trustworthy house painter in Seattle:\n\n1. **Online Reviews**: Check online review platforms like Yelp, Google Reviews, or Angie's List to find top-rated house painters in Seattle. Pay attention to the overall rating, number of reviews, and comments from previous customers.\n2. **Word of Mouth**: Ask friends, family, or neighbors who have recently painted their homes for recommendations. They can provide valuable insights and referrals.\n3. ",
+      "named_here": [
+        "Online Reviews",
+        "Word of Mouth"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a good house painter in Seattle, WA! However, I'm a large language model, I don't have have access to real-time information or specific recommendations. But I can suggest some options to help you find a reliable house painter:\n\n1. **Check online directories**:\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n\t* Yelp (yelp.com)\n2. **Ask for referrals**:\n\t* Ask friends, family, or neighbors who have recently painted their homes for recommendations.\n\t* Check with local hardware stores, such as Ace Hardware or Behr, for suggestions.\n3. **Verify licenses and certifications**:\n\t* Make sure the painter is licensed, bonded, ",
+      "named_here": [
+        "Check online directories",
+        "Ask for referrals",
+        "Verify licenses and certifications",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Yelp"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house painter in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I'm a large language model, I don't have personal recommendations or direct connections to specific businesses. But I can provide you with some suggestions on how to find a reliable house painter in Seattle, WA:\n\n1. **Online Directories:**\n\t* Check online directories like Yelp, Angie's List, or HomeAdvisor for top-rated house painters in Seattle. You can filter by location, ratings, and customer reviews.\n2. **Professional Associations:**\n\t* Look for members of professional associations like the Painting and Decorating Contractors of America (PDCA) or the National Kitchen and Bath Association (NKBA). These organizations have directories of certified professionals.\n3. **Word of Mouth:",
+      "named_here": [
+        "Online Directories",
+        "Professional Associations",
+        "Word of Mouth"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house painting companies in Seattle, WA, based on online reviews and ratings:\n\n1. **Five Star Painting of Seattle**: With a 4.9-star rating on Google and 4.8-star rating on HomeAdvisor, Five Star Painting is a popular choice among Seattle homeowners.\n2. **ProPainting**: ProPainting has a 4.8-star rating on Google and 4.7-star rating on Yelp, with customers praising their professionalism and attention to detail.\n3. **Seattle Painters**: Seattle Painters has a 4.7-star rating on Google and 4.6-star rating on HomeAdvisor, with customers appreciating their competitive pricing and high-quality work.\n4. **CertaPro Painters of Seattle**: CertaPro Painters is a nati",
+      "named_here": [
+        "Five Star Painting of Seattle",
+        "ProPainting",
+        "Seattle Painters",
+        "CertaPro Painters of Seattle"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house painter options in Seattle, WA:\n\n### Top-Rated Painting Companies \n\n1. **Benjamin Moore**: With multiple locations in Seattle, Benjamin Moore is a well-known and trusted brand for painting supplies and services. They offer a wide range of paint options and have a network of certified painters. \n    * Rating: 4.8/5 (Google), 4.9/5 (Yelp)\n    * Cost: $500-$5,000\n    * Services: Interior and exterior painting, color consultations, and paint sales\n2. **Sherwin-Williams**: Similar to Benjamin Moore, Sherwin-Williams is another reputable brand with multiple locations in Seattle. They offer painting services and have a list of recommended painters.\n    * Rati",
+      "named_here": [
+        "Benjamin Moore",
+        "Sherwin-Williams",
+        "Rating",
+        "Cost",
+        "Services",
+        "Rati"
+      ]
+    },
+    {
+      "prompt": "I need a house painter in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Seattle! Beautiful city. I'd be happy to help you find a reliable house painter in Seattle, WA. Here are some top-rated options:\n\n**Top 5 House Painting Companies in Seattle:**\n\n1. **Pete's Painting**: With over 20 years of experience, Pete's Painting is a well-established and highly-rated painting company in Seattle. They offer interior and exterior painting services, including color consultations and free estimates.\n\t* Rating: 4.9/5 on Angie's List, 4.8/5 on Google Reviews\n\t* Address: 1425 1st Ave S, Seattle, WA 98134\n2. **All Pro Painting**: All Pro Painting is a family-owned business with over 15 years of experience serving the Seattle area. They offer residential and commercial painting",
+      "named_here": [
+        "Pete's Painting",
+        "All Pro Painting",
+        "Rating",
+        "Address"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some painting companies in Seattle, WA with excellent reputations:\n\n1. **Pro Painters**: Known for their high-quality work and attention to detail, Pro Painters has a 4.9-star rating on Google and is a member of the Painting and Decorating Contractors of America (PDCA).\n2. **Seattle Painters**: With over 20 years of experience, Seattle Painters has a 4.8-star rating on Google and is accredited by the Better Business Bureau (BBB).\n3. **Dunn Lumber Painting**: As a division of the well-established Dunn Lumber company, Dunn Lumber Painting has a 4.7-star rating on Google and offers a wide range of painting services.\n4. **Five Star Painting of Seattle**: This locally owned and operated ",
+      "named_here": [
+        "Pro Painters",
+        "Seattle Painters",
+        "Dunn Lumber Painting",
+        "Five Star Painting of Seattle"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated painting companies in Seattle, WA, known for their excellent reputation:\n\n1. **Benjamin Moore of Seattle**: A highly-rated, family-owned business with over 20 years of experience. They offer high-quality paints and exceptional customer service.\n2. **Seattle Paint Company**: A professional, locally-owned company with a 4.9-star rating on Google. They provide top-notch painting services for residential and commercial projects.\n3. **All-Painting Services**: A Seattle-based company with over 30 years of experience, offering a wide range of painting services, including interior, exterior, and specialty painting.\n4. **Painting Seattle**: A highly-rated company with a 4.8-st",
+      "named_here": [
+        "Benjamin Moore of Seattle",
+        "Seattle Paint Company",
+        "All-Painting Services",
+        "Painting Seattle"
+      ]
+    },
+    {
+      "prompt": "Which painting companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some painting companies in Seattle, WA with a good reputation:\n\n**Top-Rated Painting Companies in Seattle:**\n\n1. **Sherwin-Williams** (4.8/5 on Yelp, 4.9/5 on Google Reviews) - A well-known national chain with a location in Seattle.\n2. **Benjamin Moore** (4.8/5 on Yelp, 4.8/5 on Google Reviews) - Another national chain with a location in Seattle.\n3. **Pete's Painting** (4.9/5 on Yelp, 4.8/5 on Google Reviews) - A local, family-owned company with over 30 years of experience.\n4. **Seattle Painters** (4.8/5 on Yelp, 4.7/5 on Google Reviews) - A local company with a team of experienced painters and a reputation for quality work.\n5. **Herman's Painting** (4.8/5 on Yelp, 4.7/5 on Google R",
+      "named_here": [
+        "Top-Rated Painting Companies in Seattle",
+        "Sherwin-Williams",
+        "Benjamin Moore",
+        "Pete's Painting",
+        "Seattle Painters",
+        "Herman's Painting"
+      ]
+    }
+  ]
+}

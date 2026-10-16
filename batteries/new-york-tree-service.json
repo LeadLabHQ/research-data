@@ -1,0 +1,140 @@
+{
+  "trade": "tree-service",
+  "market": "New York, NY",
+  "run_date": "2026-10-15T19:19:43.626Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best tree service companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated tree service companies in New York, NY, based on customer reviews and ratings:\n\n1. **Bartlett Tree Experts**: With over 100 years of experience, Bartlett Tree Experts is a trusted name in the industry. They offer a range of services, including tree pruning, removal, and planting. (4.9/5 stars on Google)\n2. **SavATree**: SavATree is a professional tree care company that provides services like tree pruning, removal, and stump grinding. They also offer plant health care and tree planting services. (4.8/5 stars on Google)\n3. **The Tree Care Company**: This family-owned business has been serving the NYC area for over 20 years. They offer tree removal, pruning, and planting",
+      "named_here": [
+        "Bartlett Tree Experts",
+        "SavATree",
+        "The Tree Care Company"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated tree service companies in New York, NY:\n\n1. **The Tree Care Company**: With over 30 years of experience, they offer a wide range of services including tree pruning, removal, and planting.\n2. **New York Tree Service**: A fully insured and bonded company with a team of certified arborists, providing services such as tree trimming, removal, and stump grinding.\n3. **TreeWorks**: A reputable company with over 20 years of experience, offering services like tree pruning, removal, and cabling, as well as emergency storm response.\n4. **SavATree**: A well-established company with multiple locations in the NYC area, providing services such as tree pruning, removal, and planting,",
+      "named_here": [
+        "The Tree Care Company",
+        "New York Tree Service",
+        "TreeWorks",
+        "SavATree"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated tree service companies in New York, NY, based on online reviews and ratings:\n\n1.  **Davey Tree Expert Company**: With over 130 years of experience, Davey is one of the largest and most respected tree service companies in the US. They have a strong presence in New York City, offering a wide range of services, including tree removal, pruning, and maintenance.\n\nRating: 4.8/5 stars on Google, 4.9/5 stars on Yelp\n\n2.  **Arborist Tree Service**: Arborist Tree Service is a family-owned business serving the New York City area for over 20 years. They offer a variety of services, including tree removal, pruning, and stump grinding.\n\nRating: 4.9/5 stars on Google, 4.8/5 stars on",
+      "named_here": [
+        "Davey Tree Expert Company",
+        "Arborist Tree Service"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good tree service company in New York, NY. However, I don't have real-time access to specific company information or reviews. That being said, here are a few suggestions:\n\n1. **Check online reviews**: Look up tree service companies in New York, NY on review websites such as Yelp, Google, or Angie's List. Pay attention to the overall rating and read the comments to get an idea of the company's reputation and quality of work.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently used a tree service company for recommendations. They can provide valuable insights into the company's work quality, pricing, and custom",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are several tree service companies in New York, NY, that come highly recommended. Here are a few options:\n\n1. **The Tree Care Company**: Based in Manhattan, they offer a wide range of tree services, including tree removal, pruning, planting, and stump grinding. They have a team of certified arborists and a 5-star rating on Google. You can reach them at [phone removed].\n2. **New York Tree Service**: With over 20 years of experience, they provide professional tree care services, including emergency tree removal, tree trimming, and stump removal. They serve all five boroughs and have a 4.5-star rating on Google. You can reach them at [phone removed].\n3. **Davey Tree Expert Company**: A well",
+      "named_here": [
+        "The Tree Care Company",
+        "New York Tree Service",
+        "Davey Tree Expert Company"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I can provide you with some suggestions on how to find a reliable tree service company in New York, NY. Since I'm a large language model, I don't have personal recommendations or endorsements, but I can give you some options to consider:\n\n1.  **Check online reviews**: Look up tree service companies on review websites like Yelp, Google, or Angie's List. Pay attention to ratings and comments from previous customers to get a sense of their reputation.\n2.  **Ask for referrals**: Ask friends, family, or neighbors who have used tree services in the past for recommendations. They may have had a positive experience with a particular company.\n3.  **Check with the Arbor Day Foundation**: The ",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals",
+        "Check with the Arbor Day Foundation"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted tree service companies in New York, NY, based on online reviews and ratings:\n\n1. **Bartlett Tree Experts**: With over 100 years of experience, Bartlett Tree Experts is a well-established company that provides a range of tree care services, including pruning, removal, and planting.\n\t* Rating: 4.9/5 (Google), 4.8/5 (Yelp)\n2. **SavATree**: SavATree is a professional tree care company that offers services like tree pruning, removal, and stump grinding. They also provide plant health care and tree planting services.\n\t* Rating: 4.8/5 (Google), 4.7/5 (Yelp)\n3. **Almstead Tree & Shrub Care**: Almstead Tree & Shrub Care is a family-owned business that has been servin",
+      "named_here": [
+        "Bartlett Tree Experts",
+        "SavATree",
+        "Almstead Tree & Shrub Care",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "When it comes to finding a trusted tree service company in New York, NY, there are several factors to consider. To help you make an informed decision, I've compiled a list of highly-rated tree service companies in New York, NY, along with their reputation, services offered, and certifications.\n\n### Top-Rated Tree Service Companies in New York, NY\n\n1. **The Tree Care Company** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Services: Tree pruning, removal, planting, stump grinding, and more\n\t* Certifications: ISA-certified arborists, fully insured and bonded\n\t* Address: 123 Main St, New York, NY 10001\n\t* Contact: [phone removed]\n2. **New York Tree Service** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Services: Tr",
+      "named_here": [
+        "The Tree Care Company",
+        "New York Tree Service",
+        "Services",
+        "Certifications",
+        "Address",
+        "Contact"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted tree service companies in New York, NY, based on online reviews and ratings:\n\n1. **Davey Tree Expert Company**: With over 90 years of experience, Davey is a well-established and reputable tree service company in New York City. They offer a wide range of services, including pruning, removal, and stump grinding.\n\t* Address: 110 E 59th St, New York, NY 10022\n\t* Rating: 4.8/5 on Google, 4.9/5 on Yelp\n2. **Tree Care Industry Association (TCIA) Certified Arborists**: The TCIA is a national organization that certifies arborists who meet strict standards. In New York City, you can find several TCIA-certified arborists, including:\n\t* **Island Tree Care**: 4.9/5 on Go",
+      "named_here": [
+        "Davey Tree Expert Company",
+        "Tree Care Industry Association",
+        "Island Tree Care",
+        "Address",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some highly-reputed tree service companies in New York, NY, based on online reviews and ratings:\n\n1. **Bartlett Tree Experts**: With over 100 years of experience, Bartlett Tree Experts is a well-established company with a strong reputation for providing high-quality tree care services.\n2. **SavATree**: SavATree is a reputable company that offers a range of tree services, including pruning, removal, and planting. They have a team of certified arborists and a strong focus on customer service.\n3. **Davey Tree Expert Co.**: Davey Tree Expert Co. is a national company with a local office in New York City. They offer a range of tree services, including pruning, removal, and planting, and ",
+      "named_here": [
+        "Bartlett Tree Experts",
+        "SavATree",
+        "Davey Tree Expert Co"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated tree service companies in New York, NY, known for their excellent reputation:\n\n1. **The City Tree Service** (4.9/5 on Google, 4.8/5 on Yelp) - A NYC-based company offering tree pruning, removal, and planting services.\n2. **New York Tree Service** (4.8/5 on Google, 4.7/5 on Yelp) - Providing tree care services, including pruning, removal, and stump grinding, with a focus on customer satisfaction.\n3. **H & H Tree Service** (4.8/5 on Google, 4.7/5 on Yelp) - A family-owned business offering tree trimming, removal, and stump grinding services, with a strong reputation for reliability and professionalism.\n4. **Tree Care Services** (4.7/5 on Google, 4.6/5 on Yelp) - A certi",
+      "named_here": [
+        "The City Tree Service",
+        "New York Tree Service",
+        "H & H Tree Service",
+        "Tree Care Services"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some tree service companies in New York, NY with a good reputation based on online reviews and ratings:\n\n1. **Arborilogical Services**: 4.9/5 stars on Yelp, 4.9/5 stars on Google Reviews. They specialize in tree pruning, removal, and stump grinding.\n2. **Tree Care New York**: 4.8/5 stars on Yelp, 4.8/5 stars on Google Reviews. They offer a wide range of tree services, including pruning, removal, and planting.\n3. **All Clear Tree Service**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews. They provide tree removal, pruning, and stump grinding services, as well as emergency storm damage repair.\n4. **New York Tree Service**: 4.7/5 stars on Yelp, 4.7/5 stars on Google Reviews. They o",
+      "named_here": [
+        "Arborilogical Services",
+        "Tree Care New York",
+        "All Clear Tree Service",
+        "New York Tree Service"
+      ]
+    }
+  ]
+}

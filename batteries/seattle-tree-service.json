@@ -1,0 +1,143 @@
+{
+  "trade": "tree-service",
+  "market": "Seattle, WA",
+  "run_date": "2026-10-15T20:47:43.528Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best tree service companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated tree service companies in Seattle, WA, based on online reviews and ratings:\n\n1. **Bartlett Tree Experts** - With over 100 years of experience, Bartlett Tree Experts is a well-established company that offers a wide range of tree services, including pruning, removal, and planting.\n2. **SavATree** - SavATree is a professional tree care company that provides services such as tree pruning, removal, and stump grinding, as well as plant health care and tree planting.\n3. **Seattle Tree Care** - Seattle Tree Care is a locally-owned company that offers tree services such as pruning, removal, and stump grinding, as well as tree planting and landscaping.\n4. **Proven Tree Service*",
+      "named_here": [
+        "Bartlett Tree Experts",
+        "SavATree",
+        "Seattle Tree Care",
+        "Proven Tree Service*"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated tree service companies in Seattle, WA, based on online reviews and ratings:\n\n1. **Seattle Tree Care**: With a 4.9-star rating on Google and over 1,000 reviews, Seattle Tree Care is a highly-recommended company that offers tree trimming, removal, and pruning services.\n2. **Tree Masters**: Tree Masters has a 4.8-star rating on Google and is known for their professional and reliable tree care services, including tree removal, pruning, and stump grinding.\n3. **Emerald City Tree Care**: With a 4.8-star rating on Google, Emerald City Tree Care offers a range of tree services, including tree trimming, removal, and stump grinding, as well as emergency tree services.\n4. **Arbo",
+      "named_here": [
+        "Seattle Tree Care",
+        "Tree Masters",
+        "Emerald City Tree Care",
+        "Arbo"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated tree service companies in Seattle, WA that I recommend based on online reviews and ratings:\n\n1. **Arborwell Tree Care** (4.9/5 on Google, 4.8/5 on Yelp)\n\t* Full-service tree care company providing pruning, removal, and maintenance services.\n\t* Certified arborists on staff.\n\t* Servicing Seattle and surrounding areas.\n2. **Seattle Tree Care** (4.9/5 on Google, 4.7/5 on Yelp)\n\t* Family-owned and operated for over 20 years.\n\t* Offers tree pruning, removal, and stump grinding services.\n\t* Certified arborists and ISA (International Society of Arboriculture) members.\n3. **All Phase Tree Service** (4.8/5 on Google, 4.7/5 on Yelp)\n\t* Provides tree pruning, removal, and mainten",
+      "named_here": [
+        "Arborwell Tree Care",
+        "Seattle Tree Care",
+        "All Phase Tree Service",
+        "Certified arborists on staff",
+        "Servicing Seattle and surrounding areas",
+        "Certified arborists and ISA",
+        "Provides tree pruning, removal, and mainten"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a reliable tree service company in Seattle, WA. However, I'm a large language model, I don't have personal experiences or direct connections with local businesses. But I can provide you with some suggestions on how to find a good tree service company in Seattle:\n\n1. **Online Reviews**: Check websites like Yelp, Google Reviews, or Angie's List to see what previous customers have to say about tree service companies in Seattle. Look for companies with high ratings and positive reviews.\n2. **ISA Certification**: Look for companies that have certified arborists on staff, as indicated by the International Society of Arboriculture (ISA) certification. This ensures that",
+      "named_here": [
+        "Online Reviews",
+        "ISA Certification"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable tree service company in Seattle, WA. Here are some highly-recommended options:\n\n1. **The Tree Care Company**: A Seattle-based company with over 30 years of experience. They offer a wide range of services, including tree pruning, removal, planting, and stump grinding. [phone removed]\n2. **Seattle Tree Care**: A locally-owned and operated company with a team of certified arborists. They provide services such as tree trimming, removal, and stump grinding, as well as emergency storm response. [phone removed]\n3. **Big Trees Inc.**: A professional tree service company with over 20 years of experience in the Seattle area. They offer services like tree pruning,",
+      "named_here": [
+        "The Tree Care Company",
+        "Seattle Tree Care",
+        "Big Trees Inc"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Seattle! Beautiful city surrounded by lush greenery. I'd be happy to help you find a reliable tree service company in Seattle. However, I'm a large language model, I don't have personal experiences or direct recommendations. But I can provide you with some options and factors to consider:\n\n**Top-rated tree service companies in Seattle:**\n\n1. **All City Tree Service**: They offer a wide range of tree services, including pruning, removal, stump grinding, and arborist services.\n2. **Tree Tech**: This company has been serving Seattle for over 20 years, providing tree pruning, removal, and maintenance services.\n3. **Seattle Tree Service**: They offer tree removal, pruning, stump grinding, and oth",
+      "named_here": [
+        "Top-rated tree service companies in Seattle",
+        "All City Tree Service",
+        "Tree Tech",
+        "Seattle Tree Service"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Seattle has plenty of reputable tree service companies. Here are some of the most trusted options:\n\n1. **Bartlett Tree Experts**: With over 100 years of experience, Bartlett Tree Experts is a well-established company that offers a wide range of tree services, including pruning, removal, and planting.\n2. **SavATree**: SavATree is a certified arborist company that provides tree care services, including tree pruning, removal, and stump grinding. They also offer plant health care services.\n3. **Cedar Grove Tree Service**: Cedar Grove Tree Service is a locally owned company that has been serving the Seattle area for over 20 years. They offer tree removal, pruning, and stump grinding services.\n4. ",
+      "named_here": [
+        "Bartlett Tree Experts",
+        "SavATree",
+        "Cedar Grove Tree Service"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Most Trusted Tree Service Companies in Seattle, WA\n\nBased on online reviews and ratings, here are the top tree service companies in Seattle, WA, known for their excellent service and customer satisfaction:\n\n### Top-Rated Options\n\n1. **Seattle Tree Care**: With a 4.9-star rating on Google and 95% positive reviews on Yelp, Seattle Tree Care is a highly trusted option. They offer a wide range of services, including tree pruning, removal, and stump grinding.\n2. **Emerald City Tree Care**: Emerald City Tree Care has a 4.8-star rating on Google and 92% positive reviews on Yelp. They provide professional tree care services, including tree trimming, removal, and stump grinding.\n3. **Tree Care Ser",
+      "named_here": [
+        "Seattle Tree Care",
+        "Emerald City Tree Care",
+        "Tree Care Ser"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-rated tree service companies in Seattle, WA:\n\n1. **Arborwell Tree Care**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews. They offer a wide range of services, including tree pruning, removal, and stump grinding.\n2. **Honey Creek Tree Care**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews. They provide tree pruning, removal, and maintenance services, as well as stump grinding and fertilization.\n3. **Tree Top Tree Care**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews. They offer tree pruning, removal, and stump grinding services, with a focus on safety and customer satisfaction.\n4. **Seattle Tree Service**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews. T",
+      "named_here": [
+        "Arborwell Tree Care",
+        "Honey Creek Tree Care",
+        "Tree Top Tree Care",
+        "Seattle Tree Service"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some tree service companies in Seattle, WA with a good reputation:\n\n1. **Bartlett Tree Experts**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Bartlett Tree Experts is a well-established company with a strong reputation for providing high-quality tree care services.\n2. **SavATree**: SavATree has a 4.8-star rating on Google and 4.7-star rating on Yelp. They offer a range of tree services, including pruning, removal, and planting.\n3. **Cedar Grove Tree Service**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Cedar Grove Tree Service is a locally owned company that provides tree removal, pruning, and stump grinding s",
+      "named_here": [
+        "Bartlett Tree Experts",
+        "SavATree",
+        "Cedar Grove Tree Service"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Tree Service Companies in Seattle, WA\n\nBased on online reviews and ratings, here are some of the top-rated tree service companies in Seattle, WA:\n\n### Companies with a Strong Reputation\n\n1. **Seattle Tree Care** (4.9/5 on Google, 4.8/5 on Yelp) - A family-owned business with over 20 years of experience in tree care, including pruning, removal, and planting.\n2. **Tree Masters** (4.9/5 on Google, 4.8/5 on Yelp) - A certified arborist-owned company with over 30 years of experience in tree care, including pruning, removal, and stump grinding.\n3. **SavATree Seattle** (4.8/5 on Google, 4.7/5 on Yelp) - A professional tree care company with over 20 years of experience in tree pruning, ",
+      "named_here": [
+        "Seattle Tree Care",
+        "Tree Masters",
+        "SavATree Seattle"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Based on online reviews and ratings from various sources such as Yelp, Google, and the Better Business Bureau, here are some of the top-rated tree service companies in Seattle, WA:\n\n1. **Arbor Masters Tree Care**:\n\t* 4.9/5 stars on Yelp, 4.8/5 stars on Google\n\t* BBB Accredited Business with an A+ rating\n2. **Seattle Tree Care**:\n\t* 4.8/5 stars on Yelp, 4.7/5 stars on Google\n\t* BBB Accredited Business with an A+ rating\n3. **GreenWorks Tree Care**:\n\t* 4.9/5 stars on Yelp, 4.8/5 stars on Google\n\t* BBB Accredited Business with an A+ rating\n4. **Tree Solutions**:\n\t* 4.8/5 stars on Yelp, 4.7/5 stars on Google\n\t* BBB Accredited Business with an A+ rating\n5. **Evergreen Tree Care**:\n\t* 4.8/5 stars o",
+      "named_here": [
+        "Arbor Masters Tree Care",
+        "Seattle Tree Care",
+        "GreenWorks Tree Care",
+        "Tree Solutions",
+        "Evergreen Tree Care",
+        "4.8/5 stars o"
+      ]
+    }
+  ]
+}

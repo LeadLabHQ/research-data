@@ -1,0 +1,145 @@
+{
+  "trade": "pest-control",
+  "market": "Phoenix, AZ",
+  "run_date": "2026-10-15T20:03:58.297Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best pest control companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated pest control companies in Phoenix, AZ, based on customer reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company that offers a wide range of services, including termite control, bed bug removal, and general pest control.\n2. **Orkin**: Orkin is another reputable pest control company with a long history of providing effective pest control solutions. They offer services for residential and commercial properties, including pest control, termite control, and bed bug removal.\n3. **Truly Nolen**: Truly Nolen is a family-owned pest control company that has been serving the Phoenix area for over 80 years. The",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Truly Nolen"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Top Pest Control Companies in Phoenix, AZ \n\nHere are the top pest control companies in Phoenix, AZ, that I'd recommend:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with a strong presence in Phoenix. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control.\n\t* Services: Residential and commercial pest control, termite control, mosquito control, and bed bug control\n\t* Areas served: Phoenix, AZ, and surrounding areas\n\t* Contact: [phone removed]\n2. **Terminix**: Another well-known and trusted name in the pest control industry, Terminix has been serving Phoe",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Services",
+        "Areas served",
+        "Contact"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated pest control companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Orkin**: With over 100 years of experience, Orkin is a well-established and reputable pest control company that offers a wide range of services, including rodent control, termite control, and bed bug control.\n\t* Rating: 4.5/5 (Google), 4.5/5 (Yelp)\n2. **Terminix**: Terminix is a large, national pest control company with a strong presence in Phoenix. They offer a variety of services, including termite control, rodent control, and bed bug control.\n\t* Rating: 4.5/5 (Google), 4.5/5 (Yelp)\n3. **Truly Nolen**: Truly Nolen is a family-owned and operated pest control company that has been",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Truly Nolen",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good pest control company in Phoenix, AZ. However, I don't have real-time information or specific recommendations. Here are a few options to consider:\n\n1. **Online Reviews**: Check websites like Yelp, Google Reviews, or Angie's List to see what other customers have to say about pest control companies in Phoenix. Look for companies with high ratings and positive reviews.\n2. **National Pest Management Association (NPMA)**: The NPMA is a professional organization that certifies pest control professionals. You can visit their website to find a certified pest control company in Phoenix.\n3. **Arizona Pest Professional Association (APPA)",
+      "named_here": [
+        "Online Reviews",
+        "National Pest Management Association",
+        "Arizona Pest Professional Association"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some highly-rated pest control companies in Phoenix, AZ:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with multiple locations in Phoenix. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control.\n\t* Phone: [phone removed]\n2. **Terminix**: Another well-known and experienced pest control company, Terminix has been serving Phoenix for over 90 years. They offer customized pest control solutions for homes and businesses, including termite control, bed bug control, and wildlife control.\n\t* Phone: [phone removed]\n3. **Truly Nolen**: Truly Nolen is a family-",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Truly Nolen",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "However, I can provide you with some general guidance on how to find a good pest control company in Phoenix, AZ. Keep in mind that it's essential to do your research and read reviews before hiring a pest control service.\n\nHere are some steps to find a reputable pest control company in Phoenix, AZ:\n\n1.  **Check online reviews**: Websites like Yelp, Google, and Angie's List can provide valuable insights from previous customers. Look for companies with high ratings and positive reviews.\n2.  **Ask for referrals**: Ask friends, family, or neighbors who have used pest control services in the past for recommendations.\n3.  **Check with the Arizona Structural Pest Control Board**: This board regulate",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted pest control companies in Phoenix, AZ:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established and reputable pest control company with a strong presence in Phoenix.\n2. **Orkin**: Orkin is another well-known pest control company with a long history of providing effective pest control solutions in Phoenix and surrounding areas.\n3. **Truly Nolen**: Truly Nolen is a family-owned pest control company that has been serving the Phoenix area for over 80 years, offering a range of pest control services.\n4. **Bulwark Exterminating**: Bulwark Exterminating is a locally owned and operated pest control company that has been serving the Phoenix ",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Truly Nolen",
+        "Bulwark Exterminating"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted pest control companies in Phoenix, AZ:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with a strong presence in Phoenix. They offer a wide range of services, including residential and commercial pest control, termite control, and mosquito control.\n2. **Terminix**: Terminix is another well-known and trusted pest control company with a long history of providing effective pest control services in Phoenix. They offer customized solutions for residential and commercial properties, including termite control, bed bug control, and wildlife control.\n3. **Truly Nolen**: Truly Nolen is a family-owned and",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Truly Nolen"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Phoenix, AZ! Home to scorpions, cockroaches, and other unwanted critters. Don't worry, I've got you covered. Here are some of the most trusted pest control companies in Phoenix, AZ:\n\n1. **Orkin**: Orkin is a well-established and reputable pest control company with a strong presence in Phoenix. They offer a wide range of services, including termite control, rodent control, and bed bug removal.\n2. ** Terminix**: Terminix is another well-known pest control company with a long history of providing reliable services in Phoenix. They offer a variety of services, including termite control, rodent control, and pest removal.\n3. **Pestmaster Services**: Pestmaster Services is a family-owned business w",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Pestmaster Services"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some pest control companies in Phoenix, AZ, with a good reputation, based on online reviews and ratings:\n\n1. **Blue Sky Pest Control**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Terminix**: 4.5/5 stars on Google, 4/5 stars on Yelp\n3. **Orkin**: 4.5/5 stars on Google, 4/5 stars on Yelp\n4. **Truly Nolen Pest Control**: 4.5/5 stars on Google, 4/5 stars on Yelp\n5. **Bulwark Exterminating**: 4.8/5 stars on Google, 4.5/5 stars on Yelp\n6. **Pest Control Phoenix**: 4.9/5 stars on Google, 4.5/5 stars on Yelp\n7. **Magic Pest Control**: 4.8/5 stars on Google, 4.5/5 stars on Yelp\n8. **Green Home Pest Control**: 4.9/5 stars on Google, 4.5/5 stars on Yelp\n9. **Responsible Pest Control**: 4.",
+      "named_here": [
+        "Blue Sky Pest Control",
+        "Terminix",
+        "Orkin",
+        "Truly Nolen Pest Control",
+        "Bulwark Exterminating",
+        "Pest Control Phoenix",
+        "Magic Pest Control",
+        "Green Home Pest Control",
+        "Responsible Pest Control"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Pest Control Companies with the Best Reputation in Phoenix, AZ\n\nBased on online reviews, ratings, and licenses, here are some of the top-rated pest control companies in Phoenix, AZ:\n\n### Top-Rated Companies\n\n1. **Orkin**: With an average rating of 4.5/5 on Google and 4.5/5 on Yelp, Orkin is a well-established company with over 120 years of experience. They offer a wide range of services, including general pest control, termite control, and bed bug removal.\n\t* License: Arizona Pest Control License # 3173\n\t* Services: General pest control, termite control, bed bug removal, rodent control\n2. **Terminix**: Terminix has an average rating of 4.4/5 on Google and 4.5/5 on Yelp. They offer compreh",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "License",
+        "Services"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some pest control companies in Phoenix, AZ with good reputations based on online reviews and ratings:\n\n1. **Western Exterminator**: 4.9/5 stars on Google, 4.8/5 stars on Yelp, and 4.5/5 stars on Angie's List. Western Exterminator has been serving the Phoenix area for over 70 years.\n2. **Pestmaster Services**: 4.9/5 stars on Google, 4.7/5 stars on Yelp, and 4.5/5 stars on Angie's List. Pestmaster Services offers a wide range of pest control services, including termite control and bed bug removal.\n3. **Orkin**: 4.7/5 stars on Google, 4.5/5 stars on Yelp, and 4.5/5 stars on Angie's List. Orkin is a well-known national brand with a strong presence in Phoenix.\n4. **Cook's Pest Control**:",
+      "named_here": [
+        "Western Exterminator",
+        "Pestmaster Services",
+        "Orkin",
+        "Cook's Pest Control"
+      ]
+    }
+  ]
+}

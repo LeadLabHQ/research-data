@@ -1,0 +1,149 @@
+{
+  "trade": "hvac",
+  "market": "Seattle, WA",
+  "run_date": "2026-10-15T20:39:29.791Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best HVAC companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top HVAC companies in Seattle, WA, based on customer reviews, ratings, and industry reputation:\n\n1. **Seattle HVAC**: With over 20 years of experience, Seattle HVAC offers heating, cooling, and ventilation services, including installation, repair, and maintenance.\n2. **Bob's Heating & Air Conditioning**: A family-owned business since 1959, Bob's Heating & Air Conditioning provides HVAC services, including furnace and air conditioner installation, repair, and maintenance.\n3. **Sullivan Heating & Cooling**: With over 60 years of experience, Sullivan Heating & Cooling offers a wide range of HVAC services, including heating and cooling system installation, repair, and mainte",
+      "named_here": [
+        "Seattle HVAC",
+        "Bob's Heating & Air Conditioning",
+        "Sullivan Heating & Cooling"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top HVAC Companies in Seattle, WA \n\nHere are some top-rated HVAC companies in Seattle, WA, based on online reviews, ratings, and licenses:\n\n### Recommended Companies \n\n1. **Merrill Mechanical**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Licensed, bonded, and insured. Offers heating, cooling, and plumbing services.\n2. **All City Heating and Air Conditioning**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Family-owned and operated since 1991. Provides HVAC installation, repair, and maintenance services.\n3. **Emergent Technologies**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Offers HVAC, plumbing, and electrical services. Known for their energy-efficient solutions.\n4. **The Comfort Compan",
+      "named_here": [
+        "Merrill Mechanical",
+        "All City Heating and Air Conditioning",
+        "Emergent Technologies",
+        "The Comfort Compan"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Seattle, WA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top HVAC companies in Seattle, WA, based on online reviews, ratings, and reputation:\n\n1. **Service Champions Seattle**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer 24/7 emergency service, free estimates, and a 100% satisfaction guarantee.\n2. **All Seasons Heating and Cooling**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They have over 30 years of experience in the industry and offer a wide range of HVAC services.\n3. **Baker Brothers Plumbing, Heating, and Air Conditioning**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They provide 24/7 emergency service and a 100% satisfaction guarantee.\n4. **Puget Sound Heating and Air**: 4.9/5 stars on Google, 4.8/5 stars o",
+      "named_here": [
+        "Service Champions Seattle",
+        "All Seasons Heating and Cooling",
+        "Puget Sound Heating and Air"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a reliable HVAC company in Seattle, WA. However, I'm a large language model, I don't have personal recommendations or direct access to real-time information. But I can provide you with some suggestions on how to find a good HVAC company in Seattle:\n\n1. **Online Reviews**: Check websites like Yelp, Google Reviews, or Angie's List to see what other customers have to say about HVAC companies in Seattle. Look for companies with high ratings and positive reviews.\n2. **Ask for Referrals**: Ask friends, family, or neighbors who have recently used an HVAC company in Seattle for recommendations. They can provide valuable insights into the company's work quality, pricing,",
+      "named_here": [
+        "Online Reviews",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable HVAC company in Seattle, WA. Here are some top-rated options:\n\n1. **Pioneer Heating & Air**: A Seattle-based company with over 20 years of experience, offering heating, cooling, and plumbing services. They have a 4.8-star rating on Google and are known for their excellent customer service.\n\t* Phone: [phone removed]\n2. **All City Heating and Air Conditioning**: A family-owned business with over 30 years of experience, serving Seattle and surrounding areas. They offer a wide range of HVAC services and have a 4.7-star rating on Google.\n\t* Phone: [phone removed]\n3. **Emergent Heating & Air**: A Seattle-based company with a focus on energy-efficient solution",
+      "named_here": [
+        "Pioneer Heating & Air",
+        "All City Heating and Air Conditioning",
+        "Emergent Heating & Air",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Seattle, WA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Seattle! Beautiful city, but the weather can be quite unpredictable. Finding a reliable HVAC company is essential to keep your home comfortable and energy-efficient. Here are some top-rated HVAC companies in Seattle:\n\n1. **Crawford Heating and Air Conditioning**: A family-owned business with over 40 years of experience, offering installation, repair, and maintenance services.\n\t* Rating: 4.9/5 on Yelp, 4.8/5 on Google Reviews\n\t* Phone: [phone removed]\n2. **Service Experts Heating & Air Conditioning**: A well-established company with a large team of technicians, offering a range of HVAC services, including heating, cooling, and indoor air quality solutions.\n\t* Rating: 4.7/5 on Yelp, 4.6/5 on Go",
+      "named_here": [
+        "Crawford Heating and Air Conditioning",
+        "Service Experts Heating & Air Conditioning",
+        "Rating",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted HVAC companies in Seattle, WA, based on online reviews and ratings:\n\n1. **Seattle Heating and Cooling** (4.9/5 on Google, 4.8/5 on Yelp) - Offers heating, cooling, and indoor air quality services.\n2. **Fox Plumbing & Heating** (4.8/5 on Google, 4.7/5 on Yelp) - Provides HVAC services, including repair, maintenance, and installation.\n3. **Sullivan Heating & Cooling** (4.8/5 on Google, 4.7/5 on Yelp) - Offers heating, cooling, and ventilation services, including energy-efficient solutions.\n4. **Green City Heating and Cooling** (4.7/5 on Google, 4.6/5 on Yelp) - Specializes in eco-friendly HVAC solutions, including heat pumps and radiant floor heating.\n5. **Pro",
+      "named_here": [
+        "Seattle Heating and Cooling",
+        "Fox Plumbing & Heating",
+        "Sullivan Heating & Cooling",
+        "Green City Heating and Cooling",
+        "Pro"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Most Trusted HVAC Companies in Seattle, WA\n\nBased on online reviews, ratings, and industry reputation, here are the top HVAC companies in Seattle, WA:\n\n### Top-Rated Companies\n\n1. **Merrill Mechanical**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Merrill Mechanical is a highly trusted option in Seattle. They offer a wide range of HVAC services, including heating, cooling, and plumbing.\n2. **All City Heating and Air Conditioning**: All City has a 4.8-star rating on Google and 4.7-star rating on Yelp, making them a top choice for HVAC services in Seattle. They provide 24/7 emergency services and a 100% satisfaction guarantee.\n3. **Emergent Technologies**: With a 4.8-star ",
+      "named_here": [
+        "Merrill Mechanical",
+        "All City Heating and Air Conditioning",
+        "Emergent Technologies"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Seattle, WA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted HVAC companies in Seattle, WA, based on online reviews and ratings:\n\n1.  **ServiceMaster Clean Air Duct**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews. They offer a wide range of HVAC services, including installation, repair, and maintenance.\n2.  **Arctic Air Conditioning & Heating**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews. They provide 24/7 emergency services and have a team of certified technicians.\n3.  **Blue Ox Heating & Air**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews. They offer a variety of HVAC services, including installation, repair, and maintenance, and have a strong reputation for customer service.\n4.  **Elliott Bay Me",
+      "named_here": [
+        "ServiceMaster Clean Air Duct",
+        "Arctic Air Conditioning & Heating",
+        "Blue Ox Heating & Air",
+        "Elliott Bay Me"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some HVAC companies in Seattle, WA with a good reputation:\n\n1. **Seattle Heating and Cooling**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Fox Plumbing & Heating**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Bob's Heating & Air Conditioning**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n4. **Sears Heating and Cooling**: 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Vaughan Heating & Cooling**: 4.7/5 stars on Google, 4.6/5 stars on Yelp\n6. **Condon Total Comfort**: 4.7/5 stars on Google, 4.6/5 stars on Yelp\n7. **Pro-Tech Heating & Cooling**: 4.6/5 stars on Google, 4.5/5 stars on Yelp\n8. **AAA Heating & Air Conditioning**: 4.6/5 stars on",
+      "named_here": [
+        "Seattle Heating and Cooling",
+        "Fox Plumbing & Heating",
+        "Bob's Heating & Air Conditioning",
+        "Sears Heating and Cooling",
+        "Vaughan Heating & Cooling",
+        "Condon Total Comfort",
+        "Pro-Tech Heating & Cooling",
+        "AAA Heating & Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Seattle, WA\n\nBased on online reviews and ratings, here are some of the top-rated HVAC companies in Seattle, WA:\n\n### Companies with a Strong Reputation\n\n1. **Merrill Mechanical**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Known for their excellent customer service and reliable repairs.\n2. **All City Heating and Air Conditioning**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Praised for their professionalism, prompt service, and competitive pricing.\n3. **Emergent Technologies**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Recognized for their expertise in HVAC design, installation, and maintenance.\n4. **Green City Heating and Air**: 4.7/5 stars on Google, 4.7/",
+      "named_here": [
+        "Merrill Mechanical",
+        "All City Heating and Air Conditioning",
+        "Emergent Technologies",
+        "Green City Heating and Air"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Seattle, WA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some HVAC companies in Seattle, WA with a good reputation based on online reviews and ratings:\n\n1.  **Johns Manville**: 4.8/5 stars on Yelp, 4.9/5 stars on Google Reviews\n2.  **Comfort 24/7**: 4.8/5 stars on Yelp, 4.9/5 stars on Google Reviews\n3.  **Seattle Heating and Cooling**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews\n4.  **Meyer & Depew**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews\n5.  **Dale's Heating & Air Conditioning**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews\n6.  **Arctic Heating and Air**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews\n7.  **All Seasons Heating and Air**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews\n8.  **Air Specialist",
+      "named_here": [
+        "Johns Manville",
+        "Comfort 24/7",
+        "Seattle Heating and Cooling",
+        "Meyer & Depew",
+        "Dale's Heating & Air Conditioning",
+        "Arctic Heating and Air",
+        "All Seasons Heating and Air",
+        "Air Specialist"
+      ]
+    }
+  ]
+}

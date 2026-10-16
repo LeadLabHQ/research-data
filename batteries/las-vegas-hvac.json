@@ -1,0 +1,142 @@
+{
+  "trade": "hvac",
+  "market": "Las Vegas, NV",
+  "run_date": "2026-10-15T21:02:01.246Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best HVAC companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top HVAC companies in Las Vegas, NV, based on customer reviews and ratings:\n\n1. **Yes Air Conditioning & Plumbing**: With over 500 reviews and a 4.9-star rating, Yes Air Conditioning & Plumbing is a top choice for HVAC services in Las Vegas.\n2. **Lee's Air Conditioning, Heating, and Plumbing**: Lee's has been serving the Las Vegas area for over 30 years and has a 4.8-star rating with over 200 reviews.\n3. **Pioneer Heating and Air Conditioning**: Pioneer has a 4.8-star rating with over 150 reviews and offers a wide range of HVAC services, including installation, repair, and maintenance.\n4. **Ambient Edge**: Ambient Edge has a 4.7-star rating with over 100 reviews and offe",
+      "named_here": [
+        "Yes Air Conditioning & Plumbing",
+        "Lee's Air Conditioning, Heating, and Plumbing",
+        "Pioneer Heating and Air Conditioning",
+        "Ambient Edge"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Las Vegas, NV \n\nTo determine the best HVAC companies in Las Vegas, NV, we considered factors such as customer reviews, ratings, licenses, and certifications. Here are the top-rated HVAC companies in Las Vegas, NV, along with their notable achievements and certifications:\n\n### Top Recommendations \n\n1. **Mighty Dog HVAC**: With a 4.9-star rating on Google and over 1,000 reviews, Mighty Dog HVAC is a top-rated company that offers a wide range of HVAC services, including installation, repair, and maintenance. They are licensed, bonded, and insured, and their technicians are NATE-certified.\n2. **One Hour Heating & Air Conditioning**: This company has a 4.8-star rati",
+      "named_here": [
+        "Mighty Dog HVAC",
+        "One Hour Heating & Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top HVAC companies in Las Vegas, NV, based on online reviews, ratings, and reputation:\n\n1. **Airco Mechanical**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Known for their expert technicians, competitive pricing, and 24/7 emergency service.\n2. **Desert Air**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Offers a wide range of HVAC services, including installation, repair, and maintenance, with a focus on energy efficiency.\n3. **Comfort Masters**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Provides 24/7 emergency service, free estimates, and a 100% satisfaction guarantee.\n4. **A1 Air Conditioning and Heating**: 4.7/5 stars on Google, 4.6/5 stars on Yelp. Offers affordabl",
+      "named_here": [
+        "Airco Mechanical",
+        "Desert Air",
+        "Comfort Masters",
+        "A1 Air Conditioning and Heating"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a reliable HVAC company in Las Vegas, NV. However, I'm a large language model, I don't have personal experiences or direct connections with specific companies. But I can provide you with some suggestions on how to find a good HVAC company in your area.\n\nHere are a few options to consider:\n\n1. **Online Reviews**: Check websites like Yelp, Google Reviews, or Angie's List to see what other customers have to say about HVAC companies in Las Vegas. Look for companies with high ratings and positive reviews.\n2. **Licenses and Certifications**: Make sure the company you choose is licensed, bonded, and insured. You can check with the Nevada State Contractors Board to veri",
+      "named_here": [
+        "Online Reviews",
+        "Licenses and Certifications"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Recommended HVAC Companies in Las Vegas, NV\n\nBased on online reviews and ratings, here are some top-rated HVAC companies in Las Vegas, NV:\n\n#### Top Recommendations\n\n* **Mighty Dog HVAC**: [phone removed] - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n* **Aire Serv of Las Vegas**: [phone removed] - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n* **One Hour Heating & Air Conditioning**: (702) 222-HEAT (4328) - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n\n#### Additional Options\n\n* **Anthony & Sons Plumbing, Heating & Air**: [phone removed] - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n* **Las Vegas Heating & Air**: [phone removed] - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n* **Goettl's Good Guys**",
+      "named_here": [
+        "Mighty Dog HVAC",
+        "Aire Serv of Las Vegas",
+        "One Hour Heating & Air Conditioning",
+        "Las Vegas Heating & Air",
+        "Goettl's Good Guys"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Las Vegas, NV! A great city with a scorching hot climate. Finding a reliable HVAC company is crucial to keep your home or business cool and comfortable. Here are some top-rated HVAC companies in Las Vegas:\n\n**Top Recommendations:**\n\n1. **Roto-Rooter Plumbing & Water Cleanup**: A well-established company with a strong reputation for HVAC services, including installation, repair, and maintenance.\n2. **Allied Air Conditioning**: A local company with over 40 years of experience in the Las Vegas area, offering a wide range of HVAC services, including installation, repair, and maintenance.\n3. **Sears Home Services**: A well-known national brand with a strong presence in Las Vegas, offering a wide ",
+      "named_here": [
+        "Roto-Rooter Plumbing & Water Cleanup",
+        "Allied Air Conditioning",
+        "Sears Home Services"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Las Vegas, NV has numerous HVAC companies to choose from. Here are some of the most trusted options based on customer reviews and ratings:\n\n1. **Yes Air Conditioning & Heating**: With a 4.9-star rating on Google, Yes Air Conditioning & Heating is a top choice for HVAC services in Las Vegas. They offer installation, repair, and maintenance services for residential and commercial clients.\n2. **Pioneer Plumbing, Heating & Air Conditioning**: Pioneer has been serving Las Vegas for over 20 years and has a 4.8-star rating on Google. They provide a wide range of HVAC services, including installation, repair, and maintenance, as well as plumbing services.\n3. **John's Air Conditioning & Heating**: Jo",
+      "named_here": [
+        "Yes Air Conditioning & Heating",
+        "Pioneer Plumbing, Heating & Air Conditioning",
+        "John's Air Conditioning & Heating"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Trusted HVAC Companies in Las Vegas, NV \n\nWhen searching for a reliable HVAC company in Las Vegas, NV, it's essential to consider factors such as reputation, experience, and customer reviews. Here are some of the most trusted HVAC companies in Las Vegas, NV, based on online reviews and ratings:\n\n### Top-Rated HVAC Companies \n\n1. **Mighty Dog HVAC**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Mighty Dog HVAC is a highly-rated option in Las Vegas. They offer a wide range of HVAC services, including heating, cooling, and indoor air quality solutions.\n\t* Address: 5000 S Valley View Blvd, Las Vegas, NV 89103\n\t* Phone: [phone removed]\n2. **One Hour Heating & Air Conditioning**",
+      "named_here": [
+        "Mighty Dog HVAC",
+        "One Hour Heating & Air Conditioning",
+        "Address",
+        "Phone"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted HVAC companies in Las Vegas, NV, based on online reviews and ratings:\n\n1. **Allied Air Conditioning and Heating**: 4.9/5 stars on Google, 4.9/5 stars on Yelp, and A+ rating with the Better Business Bureau (BBB). They offer 24/7 emergency service and a wide range of HVAC services.\n2. **Sun Valley Heating and Air Conditioning**: 4.9/5 stars on Google, 4.8/5 stars on Yelp, and A+ rating with the BBB. They provide residential and commercial HVAC services, including installation, repair, and maintenance.\n3. **Las Vegas Heating and Air Conditioning**: 4.8/5 stars on Google, 4.7/5 stars on Yelp, and A+ rating with the BBB. They offer 24/7 emergency service and a va",
+      "named_here": [
+        "Allied Air Conditioning and Heating",
+        "Sun Valley Heating and Air Conditioning",
+        "Las Vegas Heating and Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some HVAC companies in Las Vegas, NV with a good reputation:\n\n1. **Yes Air Conditioning and Plumbing** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Lee's Air Conditioning, Heating, and Plumbing** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Ambient Edge** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n4. **Pioneer Plumbing, Heating & Air Conditioning** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Superior Air Conditioning, Heating, and Plumbing** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n6. **John's Air Conditioning and Heating** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **All-Pro Air Conditioning and Heating** - 4.6/5 stars",
+      "named_here": [
+        "Yes Air Conditioning and Plumbing",
+        "Lee's Air Conditioning, Heating, and Plumbing",
+        "Ambient Edge",
+        "Pioneer Plumbing, Heating & Air Conditioning",
+        "Superior Air Conditioning, Heating, and Plumbing",
+        "John's Air Conditioning and Heating",
+        "All-Pro Air Conditioning and Heating"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Las Vegas, NV \n\nBased on online reviews and ratings, here are some of the top-rated HVAC companies in Las Vegas, NV:\n\n### Companies with a Strong Reputation \n\n1. **Mighty Dog HVAC**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Known for their excellent customer service and reliable repairs.\n2. **One Hour Heating & Air Conditioning**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. A well-established company with a reputation for prompt and professional service.\n3. **Aire Serv**: 4.7/5 stars on Google, 4.6/5 stars on Yelp. A trusted provider of heating and cooling services, with a focus on customer satisfaction.\n4. **Rheem Service Experts**: 4.7/5 stars on Google, 4",
+      "named_here": [
+        "Mighty Dog HVAC",
+        "One Hour Heating & Air Conditioning",
+        "Aire Serv",
+        "Rheem Service Experts"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some HVAC companies in Las Vegas, NV with a good reputation based on online reviews and ratings:\n\n1. **AirNow** (4.9/5 on Google, 4.8/5 on Yelp) - A locally-owned and operated company with over 20 years of experience.\n2. **Desert Air Conditioning and Heating** (4.9/5 on Google, 4.7/5 on Yelp) - A family-owned business with a wide range of services, including heating and cooling, ductless systems, and indoor air quality solutions.\n3. **ComfortPro HVAC** (4.8/5 on Google, 4.7/5 on Yelp) - A licensed and insured company with a focus on energy-efficient systems and excellent customer service.\n4. **Desert Heating and Air Conditioning** (4.8/5 on Google, 4.6/5 on Yelp) - A locally-owned b",
+      "named_here": [
+        "AirNow",
+        "Desert Air Conditioning and Heating",
+        "ComfortPro HVAC",
+        "Desert Heating and Air Conditioning"
+      ]
+    }
+  ]
+}

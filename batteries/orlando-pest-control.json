@@ -1,0 +1,140 @@
+{
+  "trade": "pest-control",
+  "market": "Orlando, FL",
+  "run_date": "2026-10-14T15:01:31.732Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best pest control companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top pest control companies in Orlando, FL, based on customer reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company that offers a wide range of services, including termite control, pest control, and mosquito control.\n2. **Orkin**: Orkin is another well-known pest control company that has been in business for over 120 years. They offer a variety of services, including pest control, termite control, and bed bug control.\n3. **Truly Nolen**: Truly Nolen is a family-owned pest control company that has been serving the Orlando area for over 80 years. They offer a range of services, including pest control, te",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Truly Nolen"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top pest control companies in Orlando, FL, based on online reviews, ratings, and services offered:\n\n1. **Orlando Pest Control**: With over 20 years of experience, they offer comprehensive pest control services, including termite control, mosquito control, and rodent control. (4.8/5 stars on Google)\n2. **TruGreen**: A well-known national company with a strong presence in Orlando, offering lawn care and pest control services, including mosquito control and flea/tick control. (4.5/5 stars on Google)\n3. **Terminix**: Another national company with a long history, offering a range of pest control services, including termite control, bed bug control, and rodent control. (4.4/5 ",
+      "named_here": [
+        "Orlando Pest Control",
+        "TruGreen",
+        "Terminix"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated pest control companies in Orlando, FL:\n\n**Based on online reviews and ratings from sources like Yelp, Google, and the Better Business Bureau, here are some of the best pest control companies in Orlando:**\n\n1. **Orkin Orlando** (4.8/5 stars on Yelp)\n\t* A well-established national brand with a strong presence in Orlando.\n\t* Offers comprehensive pest control services, including termite control, bed bug removal, and wildlife control.\n2. **Terminix Orlando** (4.7/5 stars on Yelp)\n\t* Another national brand with a long history of providing pest control services in Orlando.\n\t* Offers a wide range of services, including termite control, rodent control, and mosquito cont",
+      "named_here": [
+        "Terminix Orlando",
+        "Orkin Orlando"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good pest control company in Orlando, FL. However, I don't have real-time access to specific companies or their current ratings. That being said, here are a few options to consider:\n\n1. **Terminix**: A well-known national pest control company with a local presence in Orlando.\n2. **Orkin**: Another national pest control company with a strong presence in Orlando.\n3. **Truly Nolen**: A pest control company with a long history in Florida, including Orlando.\n4. **Arrow Exterminating**: A local, family-owned pest control company serving the Orlando area.\n\nTo find the best pest control company for your needs, I recommend:\n\n1. **Checking onli",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Truly Nolen",
+        "Arrow Exterminating",
+        "Checking onli"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated pest control companies in Orlando, FL:\n\n1. **Orlando Pest Control**: With over 20 years of experience, they offer comprehensive pest control services, including termite control, mosquito control, and rodent control.\n2. **TruGreen**: A well-known national company with a strong presence in Orlando, offering a range of pest control services, including lawn care and tree care.\n3. **Terminix**: Another national company with a long history, offering pest control services, including termite control, bed bug control, and flea control.\n4. **Orlando Pest Pros**: A locally-owned company with a 5-star rating on Google, offering affordable pest control services, including general ",
+      "named_here": [
+        "Orlando Pest Control",
+        "TruGreen",
+        "Terminix",
+        "Orlando Pest Pros"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Orlando, FL! Beautiful city with a lot of lovely weather, but also a lot of pests! Don't worry, I'm here to help. However, I'm a large language model, I don't have personal recommendations, but I can provide you with some tips on how to find a good pest control company in Orlando and some options to consider.\n\n**How to find a good pest control company:**\n\n1. **Ask for referrals**: Ask friends, family, or neighbors who live in Orlando for recommendations. They might have had a good or bad experience with a pest control company in the area.\n2. **Check online reviews**: Look up pest control companies on websites like Google, Yelp, or Angie's List to see what previous customers have to say about",
+      "named_here": [
+        "Ask for referrals",
+        "Check online reviews"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted pest control companies in Orlando, FL, based on online reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company with a strong presence in Orlando. They offer a range of services, including termite control, pest control, and mosquito control. (4.5/5 stars on Google)\n2. **Orkin**: Orkin is another reputable pest control company with a long history of serving the Orlando area. They provide customized pest control solutions for homes and businesses, including termite control, bed bug control, and wildlife control. (4.5/5 stars on Google)\n3. **Truly Nolen**: Truly Nolen is a family-owned pest con",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Truly Nolen"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted pest control companies in Orlando, FL, based on online reviews, ratings, and licenses:\n\n1. **Orlando Pest Control - Terminix**: With over 90 years of experience, Terminix is a well-established and reputable pest control company with a strong presence in Orlando. They offer a wide range of services, including general pest control, termite control, and wildlife control. **Rating: 4.5/5 (Google), 4.5/5 (Yelp)**\n2. **Trinity Pest Control**: Trinity Pest Control is a locally-owned and operated company with over 20 years of experience serving Orlando and surrounding areas. They offer customized pest control solutions and have a strong focus on customer service. **",
+      "named_here": [
+        "Orlando Pest Control",
+        "Rating",
+        "Trinity Pest Control"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted pest control companies in Orlando, FL, based on online reviews and ratings:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company that offers a wide range of services, including termite control, rodent control, and mosquito control.\n\t* Rating: 4.5/5 on Yelp, 4.5/5 on Google Reviews\n2. **Terminix**: Terminix is another well-known pest control company that offers comprehensive services, including termite control, rodent control, and bed bug control.\n\t* Rating: 4.5/5 on Yelp, 4.5/5 on Google Reviews\n3. **HomeTeam Pest Defense**: HomeTeam is a locally owned and operated pest control company that offers a",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "HomeTeam Pest Defense",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some pest control companies in Orlando, FL with a good reputation:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company with a strong presence in Orlando. They have a 4.5-star rating on Google and 4.5-star rating on Yelp.\n2. **Orkin**: Another well-known pest control company, Orkin has been serving Orlando for over 120 years. They have a 4.5-star rating on Google and 4-star rating on Yelp.\n3. **Truly Nolen**: Truly Nolen is a family-owned pest control company that has been serving Orlando for over 80 years. They have a 4.5-star rating on Google and 4.5-star rating on Yelp.\n4. **Massey Services**:",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Truly Nolen",
+        "Massey Services"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated pest control companies in Orlando, FL, known for their excellent reputation:\n\n1. **Orlando Pest Control** (4.9/5 on Google, 4.8/5 on HomeAdvisor) - A locally-owned company providing comprehensive pest control services, including termite control, mosquito control, and wildlife removal.\n2. **TruGreen** (4.7/5 on Google, 4.7/5 on HomeAdvisor) - A well-established national company offering lawn care and pest control services, including mosquito control, tick control, and flea control.\n3. **Terminix** (4.7/5 on Google, 4.6/5 on HomeAdvisor) - A national company with a strong presence in Orlando, providing pest control, termite control, and lawn care services.\n4. **Orkin** ",
+      "named_here": [
+        "Orlando Pest Control",
+        "TruGreen",
+        "Terminix",
+        "Orkin"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some pest control companies in Orlando, FL with good reputations based on online reviews and ratings:\n\n1. **Orkin Pest Control**: 4.5/5 stars on Google, 4.5/5 stars on Yelp, and A+ rating on the Better Business Bureau (BBB)\n2. **Terminix Pest Control**: 4.5/5 stars on Google, 4.5/5 stars on Yelp, and A+ rating on the BBB\n3. **Copesan Pest Solutions**: 4.8/5 stars on Google, 4.9/5 stars on Yelp, and A+ rating on the BBB\n4. **Truly Nolen Pest & Termite Control**: 4.8/5 stars on Google, 4.9/5 stars on Yelp, and A+ rating on the BBB\n5. **All-American Pest Solutions**: 4.9/5 stars on Google, 4.9/5 stars on Yelp, and A+ rating on the BBB\n6. **Orlando Pest Control**: 4.8/5 stars on Google,",
+      "named_here": [
+        "Orkin Pest Control",
+        "Terminix Pest Control",
+        "Copesan Pest Solutions",
+        "Truly Nolen Pest & Termite Control",
+        "All-American Pest Solutions",
+        "Orlando Pest Control"
+      ]
+    }
+  ]
+}

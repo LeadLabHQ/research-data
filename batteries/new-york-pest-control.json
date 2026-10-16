@@ -1,0 +1,139 @@
+{
+  "trade": "pest-control",
+  "market": "New York, NY",
+  "run_date": "2026-10-15T19:15:46.820Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best pest control companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top pest control companies in New York, NY, based on customer reviews, ratings, and services offered:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company that offers a wide range of services, including termite control, bed bug removal, and wildlife control.\n2. **Orkin**: Orkin is another reputable pest control company that has been in business for over 100 years. They offer customized pest control solutions for residential and commercial properties.\n3. **Western Pest Services**: Western Pest Services is a family-owned business that has been serving the New York area for over 90 years. They offer a range of services, inc",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Western Pest Services"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top pest control companies in New York, NY, based on online reviews, ratings, and reputation:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and trusted pest control company with multiple locations in New York City.\n2. **Terminix**: Another well-known and reputable company, Terminix offers a wide range of pest control services, including residential and commercial solutions.\n3. **Tristar Pest Control**: A locally-owned and operated company, Tristar Pest Control has excellent reviews and offers eco-friendly and effective pest control solutions.\n4. **American Pest Control**: With over 50 years of experience, American Pest Control is a reliabl",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Tristar Pest Control",
+        "American Pest Control"
+      ]
+    },
+    {
+      "prompt": "What are the best pest control companies in New York, NY? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated pest control companies in New York, NY, based on online reviews and ratings:\n\n1. **Orkin Pest Control** (4.8/5 on Google, 4.5/5 on Yelp)\n\t* One of the largest pest control companies in the US, with a wide range of services for residential and commercial customers.\n2. ** Terminix** (4.7/5 on Google, 4.5/5 on Yelp)\n\t* Offers a comprehensive range of pest control services, including termite control, rodent control, and bed bug elimination.\n3. **Ehrlich Pest Control** (4.7/5 on Google, 4.5/5 on Yelp)\n\t* A family-owned company with over 100 years of experience, serving residential and commercial customers throughout NYC.\n4. **All City Pest Control** (4.9/5 on Google, 4.5/5",
+      "named_here": [
+        "Orkin Pest Control",
+        "Terminix",
+        "Ehrlich Pest Control",
+        "All City Pest Control"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good pest control company in New York, NY. However, I don't have real-time access to specific companies or their current ratings. That being said, here are a few options to consider:\n\n1. **Terminix**: A well-known national pest control company with a presence in New York City. They offer a range of services, including termite control, bed bug removal, and general pest control.\n2. **Orkin**: Another national pest control company with a strong presence in New York City. They provide services for residential and commercial properties, including pest control, termite control, and bed bug removal.\n3. **Local companies**: You may also want ",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Local companies"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are several reputable pest control companies in New York, NY. Here are a few options you can consider:\n\n1. **Orkin**: Orkin is a well-established pest control company with a long history of providing effective services. They have a team of experienced technicians who can handle a wide range of pest control issues, from ants and roaches to bed bugs and rodents. You can call them at [phone removed].\n2. **Terminix**: Terminix is another well-known pest control company that offers a range of services, including general pest control, bed bug control, and rodent control. They have a team of trained technicians who can provide customized solutions for your pest control needs. You can call them",
+      "named_here": [
+        "Orkin",
+        "Terminix"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good pest control company in New York, NY? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "A pest control conundrum in the Big Apple! I'd be happy to help you find a reliable pest control company in New York, NY. Here are some recommendations:\n\n**Top Pest Control Companies in New York City:**\n\n1. **Orkin Pest Control**: A well-established company with a strong presence in NYC, Orkin offers a wide range of pest control services, including bed bug, rodent, and termite control.\n2. ** Terminix**: With over 90 years of experience, Terminix is a trusted name in pest control. They offer comprehensive services for residential and commercial properties.\n3. **Arrow Exterminating**: A family-owned business with over 60 years of experience, Arrow Exterminating provides a full range of pest co",
+      "named_here": [
+        "Orkin Pest Control",
+        "Terminix",
+        "Arrow Exterminating"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted pest control companies in New York, NY, based on customer reviews and ratings:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company with a strong presence in New York City. They offer a wide range of services, including pest control, termite control, and bed bug removal.\n2. **Orkin**: Orkin is another well-known pest control company with a long history of providing effective pest control solutions. They have a team of experienced technicians who can handle everything from ants and rodents to bed bugs and cockroaches.\n3. **Western Pest Services**: Western Pest Services is a family-owned business that has been",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Western Pest Services"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted pest control companies in New York, NY:\n\n1. **Orkin**: With over 120 years of experience, Orkin is a well-established and reputable pest control company with a strong presence in New York City. They offer a wide range of services, including rodent control, termite control, and bed bug removal.\n2. **Terminix**: Terminix is another well-known pest control company with a long history of providing effective solutions to pest problems. They offer customized treatment plans and have a team of experienced technicians serving the NYC area.\n3. **Trinity Pest Control**: Based in Queens, Trinity Pest Control is a family-owned and operated company that has been serving ",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Trinity Pest Control"
+      ]
+    },
+    {
+      "prompt": "I need a pest control company in New York, NY. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "The city that never sleeps! New York, NY has many reputable pest control companies to choose from. Here are some of the most trusted options:\n\n**Top-Rated Pest Control Companies in New York, NY:**\n\n1. **Orkin Pest Control**: Orkin has been serving the New York metropolitan area for over 100 years and is one of the largest pest control companies in the country.\n\t* Rating: 4.5/5 stars on Yelp, 4.5/5 stars on Google Reviews\n2. **Terminix**: Terminix has been in business for over 90 years and offers comprehensive pest control services for residential and commercial properties.\n\t* Rating: 4.4/5 stars on Yelp, 4.4/5 stars on Google Reviews\n3. **Arrow Exterminating**: Arrow Exterminating is a famil",
+      "named_here": [
+        "Orkin Pest Control",
+        "Terminix",
+        "Arrow Exterminating",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some pest control companies in New York, NY with a good reputation:\n\n1. **Terminix**: With over 90 years of experience, Terminix is a well-established pest control company with a strong presence in New York City.\n2. **Orkin**: Orkin is another reputable pest control company with a long history of providing effective pest management solutions in NYC.\n3. **Western Pest Services**: Western Pest Services has been serving the NYC area for over 90 years, offering a range of pest control services, including residential and commercial pest management.\n4. **M&M Pest Control**: M&M Pest Control is a family-owned and operated business that has been providing pest control services in NYC for ov",
+      "named_here": [
+        "Terminix",
+        "Orkin",
+        "Western Pest Services",
+        "M&M Pest Control"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated pest control companies in New York, NY, based on online reviews and ratings:\n\n1. **Orkin**: With a 4.5-star rating on Google and 4.5-star rating on Yelp, Orkin is a well-established and reputable pest control company with multiple locations in New York City.\n2. **Terminix**: Terminix has a 4.4-star rating on Google and 4.5-star rating on Yelp. They offer a wide range of pest control services, including residential and commercial treatments.\n3. **Tristar Pest Control**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Tristar Pest Control is a highly-rated company that serves New York City and surrounding areas.\n4. **American Pest Control**: American Pest ",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Tristar Pest Control",
+        "American Pest Control"
+      ]
+    },
+    {
+      "prompt": "Which pest control companies in New York, NY have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated pest control companies in New York, NY, based on online reviews and ratings:\n\n1. **Orkin** (4.8/5 stars on Google, 4.7/5 stars on Yelp) - A well-established national company with a strong presence in New York City.\n2. ** Terminix** (4.7/5 stars on Google, 4.5/5 stars on Yelp) - Another well-known national company with a large customer base in NYC.\n3. **Arrow Exterminating** (4.9/5 stars on Google, 4.8/5 stars on Yelp) - A locally-owned company serving NYC for over 80 years.\n4. **ABC Home & Commercial Services** (4.8/5 stars on Google, 4.7/5 stars on Yelp) - A family-owned company serving NYC and surrounding areas.\n5. **PestGuard** (4.8/5 stars on Google, 4.7/5 stars o",
+      "named_here": [
+        "Orkin",
+        "Terminix",
+        "Arrow Exterminating",
+        "ABC Home & Commercial Services",
+        "PestGuard"
+      ]
+    }
+  ]
+}

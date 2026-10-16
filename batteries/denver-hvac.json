@@ -1,0 +1,147 @@
+{
+  "trade": "hvac",
+  "market": "Denver, CO",
+  "run_date": "2026-10-15T20:28:07.216Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best HVAC companies in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated HVAC companies in Denver, CO, based on customer reviews and ratings:\n\n1. **Applewood Plumbing, Heating & Electric**: With over 45 years of experience, Applewood is a trusted name in Denver for HVAC services, including installation, repair, and maintenance.\n2. **Blue Sky Plumbing, Heating, Cooling & Electric**: Blue Sky offers a wide range of HVAC services, including furnace and AC installation, repair, and maintenance, with a focus on energy efficiency and customer satisfaction.\n3. **Total Plumbing, Heating, Cooling & Electrical**: Total Plumbing has been serving the Denver area for over 20 years, providing comprehensive HVAC services, including installation, repair, ",
+      "named_here": [
+        "Applewood Plumbing, Heating & Electric",
+        "Total Plumbing, Heating, Cooling & Electrical"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated HVAC companies in Denver, CO, based on online reviews, ratings, and reputation:\n\n1. **Rheem Service Experts**: A trusted name in the HVAC industry, Rheem Service Experts offers comprehensive heating, cooling, and plumbing services in Denver.\n2. **Northwest Mechanical**: With over 30 years of experience, Northwest Mechanical is a highly-rated HVAC company that provides expert services, including heating, cooling, and indoor air quality solutions.\n3. **Aire Serv**: Aire Serv is a well-established HVAC company with a strong presence in Denver. They offer a wide range of services, including heating, cooling, and plumbing repairs, maintenance, and installations.\n4. ",
+      "named_here": [
+        "Rheem Service Experts",
+        "Northwest Mechanical",
+        "Aire Serv"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top HVAC companies in Denver, CO, based on online reviews, ratings, and industry reputation:\n\n1.  **Service Experts Heating & Air Conditioning**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer a wide range of HVAC services, including installation, repair, and maintenance.\n2.  **American Service Experts**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They provide heating, cooling, and indoor air quality solutions for homes and businesses.\n3.  **Comfort Masters Heating & Air**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer heating, cooling, and indoor air quality services, as well as energy-efficient solutions.\n4.  **Denver Air Duct Cleaning**: 4.9/5 stars ",
+      "named_here": [
+        "Service Experts Heating & Air Conditioning",
+        "American Service Experts",
+        "Comfort Masters Heating & Air",
+        "Denver Air Duct Cleaning"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good HVAC company in Denver, CO. However, I don't have real-time access to specific company information or personal recommendations. That being said, here are some steps you can take to find a reliable HVAC company in Denver:\n\n1. **Online Search**: You can start by searching online for \"HVAC companies in Denver, CO\" or \"best HVAC companies in Denver.\" This will give you a list of potential companies to consider.\n2. **Check Reviews**: Look up reviews on websites like Yelp, Google, or Angie's List to see what other customers have to say about their experiences with different HVAC companies in Denver.\n3. **Ask for Referrals**: Ask friend",
+      "named_here": [
+        "Online Search",
+        "Check Reviews",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable HVAC company in Denver, CO. Here are some top-rated options:\n\n1. **Rheem Service Experts**: A trusted and authorized Rheem dealer with over 20 years of experience in Denver. They offer 24/7 emergency services, maintenance plans, and a wide range of HVAC solutions. (Phone: [phone removed])\n2. **Hicks Heating & Cooling**: A family-owned business with over 30 years of experience in the Denver area. They provide expert HVAC services, including installation, repair, and maintenance. (Phone: [phone removed])\n3. **Denver Heating & Cooling**: A locally owned and operated company with over 20 years of experience. They offer competitive pricing, 24/7 emergency servic",
+      "named_here": [
+        "Rheem Service Experts",
+        "Hicks Heating & Cooling",
+        "Denver Heating & Cooling"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Denver! Beautiful city with a great climate, but also known for its unpredictable weather. When it comes to HVAC services, it's essential to find a reliable and trustworthy company to ensure your home stays comfortable and energy-efficient. Here are some top-rated HVAC companies in Denver, CO, along with their ratings and reviews:\n\n**Top Recommendations:**\n\n1.  **Service Experts Heating & Air Conditioning** (4.9/5 stars on Google, 4.7/5 stars on Yelp)\n\t* Family-owned and operated since 1962, with multiple locations in Denver.\n\t* Offers installation, repair, and maintenance services for all types of HVAC systems.\n2.  **All Seasons Heating & Air Conditioning** (4.9/5 stars on Google, 4.8/5 sta",
+      "named_here": [
+        "Service Experts Heating & Air Conditioning",
+        "All Seasons Heating & Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted HVAC companies in Denver, CO, based on online reviews and ratings:\n\n1. **Applewood Plumbing, Heating & Electric**: With a 4.9-star rating on Google and an A+ rating from the Better Business Bureau (BBB), Applewood is a trusted name in Denver's HVAC industry.\n2. **Bell Plumbing, Heating, Cooling & Electrical**: Bell has a 4.8-star rating on Google and is accredited by the BBB with an A+ rating. They offer a wide range of HVAC services, including repairs, installations, and maintenance.\n3. **Blue Sky Plumbing, Heating, Cooling & Electrical**: With a 4.8-star rating on Google and an A+ rating from the BBB, Blue Sky is a reputable HVAC company in Denver. They of",
+      "named_here": [
+        "Applewood Plumbing, Heating & Electric",
+        "Bell Plumbing, Heating, Cooling & Electrical"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Most Trusted HVAC Companies in Denver, CO\n\nBased on online reviews, ratings, and credentials, here are the top HVAC companies in Denver, CO:\n\n### Top-Rated Companies\n\n1. **Rheem Service Experts**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, Rheem Service Experts is a trusted option for HVAC services in Denver. They offer a wide range of services, including heating, cooling, and plumbing.\n2. **Plumbing & HVAC Denver**: This company has a 4.9-star rating on Google and 4.8-star rating on Yelp, making them a highly trusted option for HVAC services in Denver. They offer 24/7 emergency services and a 100% satisfaction guarantee.\n3. **Denver Heating & Cooling**: With a 4.8-star",
+      "named_here": [
+        "Rheem Service Experts",
+        "Plumbing & HVAC Denver",
+        "Denver Heating & Cooling"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted HVAC companies in Denver, CO, based on online reviews and ratings:\n\n1. **Service Experts Heating & Air Conditioning**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Family-owned and operated since 1979\n\t* Provides 24/7 emergency service\n\t* Offers maintenance plans, repairs, and installations\n2. **Meyer & Depew Heating & Air Conditioning**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Locally owned and operated since 1953\n\t* Offers 24/7 emergency service\n\t* Provides maintenance plans, repairs, and installations\n3. **Morgan Mechanical**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* Family-owned and operated since 1978\n\t* Offers 24/7 emergency service\n\t* Prov",
+      "named_here": [
+        "Service Experts Heating & Air Conditioning",
+        "Morgan Mechanical",
+        "Family-owned and operated since 1979",
+        "Provides 24/7 emergency service",
+        "Offers maintenance plans, repairs, and installations",
+        "Locally owned and operated since 1953",
+        "Offers 24/7 emergency service",
+        "Provides maintenance plans, repairs, and installations",
+        "Family-owned and operated since 1978",
+        "Prov"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the top HVAC companies in Denver, CO, with a good reputation:\n\n1. **Applewood Plumbing, Heating & Electric**: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Blue Sky Plumbing, Heating, Cooling & Electrical**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Bell Plumbing, Heating, Cooling & Electrical**: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n4. **Swan Heating & Air Conditioning**: 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Save Home Heat Company**: 4.7/5 stars on Google, 4.6/5 stars on Yelp\n6. **AAA Heating, Cooling & Plumbing**: 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **Nicholson Plumbing, Heating, Cooling & Electrical**:",
+      "named_here": [
+        "Applewood Plumbing, Heating & Electric",
+        "Bell Plumbing, Heating, Cooling & Electrical",
+        "Swan Heating & Air Conditioning",
+        "Save Home Heat Company",
+        "AAA Heating, Cooling & Plumbing",
+        "Nicholson Plumbing, Heating, Cooling & Electrical"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Denver, CO \n\nTo determine the best HVAC companies in Denver, CO, we considered factors such as customer reviews, ratings, licenses, and certifications. Here are some top-rated HVAC companies in Denver, CO:\n\n### Companies with a Strong Reputation \n\n1. **Rheem Service Experts**: 4.8/5 stars on Google, 4.9/5 stars on HomeAdvisor. Licensed, bonded, and insured.\n2. **Carrier/Bryant Authorized Dealer - All Climate Heating & Cooling**: 4.8/5 stars on Google, 4.9/5 stars on HomeAdvisor. NATE-certified technicians.\n3. **Hickory Air**: 4.9/5 stars on Google, 4.9/5 stars on HomeAdvisor. EPA and NATE certified.\n4. **Aire Serv of Denver**: 4.7/5 stars on Google, 4.8/5 stars",
+      "named_here": [
+        "Rheem Service Experts",
+        "Carrier/Bryant Authorized Dealer",
+        "Hickory Air",
+        "Aire Serv of Denver"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some HVAC companies in Denver, CO with a good reputation based on online reviews and ratings:\n\n1. **Service Experts Heating & Air Conditioning** (4.8/5 stars on Google, 4.9/5 stars on Yelp)\n2. **Arctic Air** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n3. **ComfortPro Heating & Air** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n4. **All Comfort Heating & Air** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n5. **Honest Abe Heating & Air** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n6. **Geisel Heating & Air Conditioning** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n7. **Michalski Heating & Air** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n8. **R & R Heating & Air** (4.7/5 stars on G",
+      "named_here": [
+        "Service Experts Heating & Air Conditioning",
+        "Arctic Air",
+        "ComfortPro Heating & Air",
+        "All Comfort Heating & Air",
+        "Honest Abe Heating & Air",
+        "Geisel Heating & Air Conditioning",
+        "Michalski Heating & Air",
+        "R & R Heating & Air"
+      ]
+    }
+  ]
+}

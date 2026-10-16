@@ -1,0 +1,139 @@
+{
+  "trade": "tree-service",
+  "market": "Phoenix, AZ",
+  "run_date": "2026-10-15T20:08:13.721Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best tree service companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated tree service companies in Phoenix, AZ, based on customer reviews and ratings:\n\n1. **Phoenix Tree Service**: With over 20 years of experience, they offer a range of services, including tree trimming, removal, and stump grinding. (4.9/5 stars on Google)\n2. **Arizona Tree Trimming**: This company has been serving the Phoenix area for over 15 years, providing services like tree pruning, removal, and cabling. (4.8/5 stars on Google)\n3. **Tree Pros**: With a team of certified arborists, Tree Pros offers tree care services, including trimming, removal, and planting. (4.8/5 stars on Google)\n4. **Phoenix Tree Care**: This company provides a range of services, including tree tr",
+      "named_here": [
+        "Phoenix Tree Service",
+        "Arizona Tree Trimming",
+        "Tree Pros",
+        "Phoenix Tree Care"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated tree service companies in Phoenix, AZ, based on online reviews, ratings, and industry reputation:\n\n1. **Trees & Shrubs Inc.**: With over 30 years of experience, they offer comprehensive tree services, including pruning, removal, and planting. (4.9/5 stars on Google)\n2. **Phoenix Tree Service**: A family-owned business with a strong reputation for providing reliable and affordable tree services, including emergency storm response. (4.8/5 stars on Google)\n3. **Desert Tree Service**: A certified arborist-led company offering tree pruning, removal, and stump grinding services, with a focus on customer satisfaction. (4.8/5 stars on Google)\n4. **TreeWorks**: A professional ",
+      "named_here": [
+        "Trees & Shrubs Inc",
+        "Phoenix Tree Service",
+        "Desert Tree Service",
+        "TreeWorks"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Phoenix, AZ? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are the top-rated tree service companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Tree Solutions Inc.** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Locally owned and operated, with over 20 years of experience\n\t* Offers services like tree removal, pruning, stump grinding, and more\n2. **TLC Tree Service** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\t* Family-owned and operated, with a focus on customer satisfaction\n\t* Provides tree removal, pruning, trimming, and stump removal services\n3. **Arizona Tree Pros** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\t* Locally owned and operated, with over 15 years of experience\n\t* Offers tree removal, pruning, stump grinding, ",
+      "named_here": [
+        "Tree Solutions Inc",
+        "TLC Tree Service",
+        "Arizona Tree Pros",
+        "Offers tree removal, pruning, stump grinding"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good tree service company in Phoenix, AZ. However, I don't have real-time access to specific companies or their current ratings. That being said, here are a few options to consider:\n\n1. **Online Directories**:\n\t* Check websites like Yelp, Google, or Angie's List for tree service companies in Phoenix. These platforms allow customers to leave reviews and ratings, which can help you find a reliable company.\n2. **Professional Associations**:\n\t* Look for companies certified by the International Society of Arboriculture (ISA) or the Tree Care Industry Association (TCIA). These organizations have strict standards for tree care profession",
+      "named_here": [
+        "Online Directories",
+        "Professional Associations"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are several good tree service companies in Phoenix, AZ. Here are a few recommendations:\n\n1. **Tree Care Arizona**: They offer a wide range of services, including tree trimming, removal, and planting. They have a team of certified arborists and are fully insured. You can reach them at [phone removed].\n2. **Phoenix Tree Service**: With over 20 years of experience, they provide professional tree services, including emergency storm response and tree pruning. You can contact them at [phone removed].\n3. **Desert Tree Service**: They offer tree trimming, removal, and stump grinding, as well as tree planting and mulching. They have a team of experienced arborists and are committed to customer sa",
+      "named_here": [
+        "Tree Care Arizona",
+        "Phoenix Tree Service",
+        "Desert Tree Service"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Phoenix, AZ? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can't recommend a specific tree service company in Phoenix, AZ. However, I can provide some suggestions on how to find a reliable tree service company in your area. Would that help?",
+      "named_here": []
+    },
+    {
+      "prompt": "I need a tree service company in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted tree service companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Phoenix Trim-A-Tree**: With over 20 years of experience, they offer a wide range of services, including tree trimming, removal, and stump grinding. (4.9/5 stars on Google)\n2. **Arizona Tree Service**: This family-owned company has been serving Phoenix for over 30 years, providing services like tree pruning, removal, and planting. (4.8/5 stars on Google)\n3. **Santos Tree Service**: With a team of certified arborists, they offer tree trimming, removal, and maintenance services, as well as 24/7 emergency services. (4.8/5 stars on Google)\n4. **Tree Pros**: This company has been in ",
+      "named_here": [
+        "Phoenix Trim-A-Tree",
+        "Arizona Tree Service",
+        "Santos Tree Service",
+        "Tree Pros"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "When searching for a trusted tree service company in Phoenix, AZ, it's essential to consider factors like reputation, experience, and certifications. Here are some of the most trusted options:\n\n1. **Trees & Shrubs Inc.**: With over 30 years of experience, Trees & Shrubs Inc. is a well-established company in Phoenix, offering a wide range of tree services, including pruning, removal, and planting.\n2. **Phoenix Tree Service**: This company has been serving Phoenix for over 20 years, providing expert tree care services, including tree trimming, removal, and stump grinding. They are certified by the International Society of Arboriculture (ISA).\n3. **Desert Tree Service**: With a team of experien",
+      "named_here": [
+        "Trees & Shrubs Inc",
+        "Phoenix Tree Service",
+        "Desert Tree Service"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Phoenix, AZ. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted tree service companies in Phoenix, AZ, based on online reviews and ratings:\n\n1. **Earl May's Tree Service** (4.9/5 on Google, 4.8/5 on Yelp) - A locally owned and operated company with over 20 years of experience in Phoenix.\n2. **Arizona Tree Services** (4.9/5 on Google, 4.7/5 on Yelp) - Offers a wide range of tree services, including pruning, removal, and stump grinding.\n3. **Desert Tree Care** (4.8/5 on Google, 4.7/5 on Yelp) - A family-owned business with over 25 years of experience serving the Phoenix area.\n4. **Tree Masters** (4.8/5 on Google, 4.6/5 on Yelp) - Provides tree removal, pruning, and trimming services, as well as stump grinding and debris re",
+      "named_here": [
+        "Earl May's Tree Service",
+        "Arizona Tree Services",
+        "Desert Tree Care",
+        "Tree Masters"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some tree service companies in Phoenix, AZ with a good reputation:\n\n1. **Santos Tree Service** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Arizona Tree Service** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Phoenix Tree Service** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **Tree Pro** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Precision Tree Service** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Green Valley Tree Service** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **Tim's Tree Service** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n8. **Budget Tree Service** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n9. **All Ab",
+      "named_here": [
+        "Santos Tree Service",
+        "Arizona Tree Service",
+        "Phoenix Tree Service",
+        "Tree Pro",
+        "Precision Tree Service",
+        "Green Valley Tree Service",
+        "Tim's Tree Service",
+        "Budget Tree Service",
+        "All Ab"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated tree service companies in Phoenix, AZ, known for their excellent reputation:\n\n1. **Davey Tree Expert Company**: With over 130 years of experience, Davey Tree is a well-established and reputable company with a strong presence in Phoenix. They offer a wide range of tree services, including pruning, removal, and planting.\n2. **TreeWorks**: TreeWorks is a highly-rated tree service company with over 20 years of experience serving Phoenix and the surrounding areas. They offer emergency tree services, tree pruning, and removal, as well as stump grinding and removal.\n3. **Phoenix Tree Service**: This locally-owned company has been serving Phoenix for over 15 years, offering a",
+      "named_here": [
+        "Davey Tree Expert Company",
+        "TreeWorks",
+        "Phoenix Tree Service"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Phoenix, AZ have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some tree service companies in Phoenix, AZ with a good reputation based on online reviews and ratings:\n\n1. **AAA Tree Care**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews. They have been serving Phoenix for over 20 years and offer a wide range of tree services, including pruning, removal, and stump grinding.\n2. **Tree Top Arbor Care**: 4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews. They have a team of ISA-certified arborists and offer services like tree trimming, pruning, and removal.\n3. **Green Earth Tree Services**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews. They are a family-owned company with over 20 years of experience and offer services like tree pruning, r",
+      "named_here": [
+        "AAA Tree Care",
+        "Tree Top Arbor Care",
+        "Green Earth Tree Services"
+      ]
+    }
+  ]
+}

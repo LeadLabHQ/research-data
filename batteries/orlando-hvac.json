@@ -1,0 +1,152 @@
+{
+  "trade": "hvac",
+  "market": "Orlando, FL",
+  "run_date": "2026-10-14T15:02:26.990Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best HVAC companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top HVAC companies in Orlando, FL, based on customer reviews, ratings, and industry reputation:\n\n1. **Del-Air Heating and Air Conditioning**: With over 30 years of experience, Del-Air is a family-owned business that offers heating, cooling, and indoor air quality services.\n2. **Air Tech of Central Florida**: Air Tech has been serving the Orlando area for over 20 years, providing HVAC installation, repair, and maintenance services.\n3. **Green Air**: Green Air is a locally owned and operated company that specializes in energy-efficient HVAC solutions, including solar-powered systems.\n4. **Orlando Air Conditioning and Heating**: This company has been in business for over 25",
+      "named_here": [
+        "Del-Air Heating and Air Conditioning",
+        "Air Tech of Central Florida",
+        "Green Air",
+        "Orlando Air Conditioning and Heating"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Orlando, FL\n\nTo provide a comprehensive list of top-rated HVAC companies in Orlando, FL, we've considered factors such as customer reviews, ratings, licenses, and certifications. Here's a list of highly-recommended HVAC companies in Orlando, FL:\n\n### Top Recommendations\n\n1. **Carrier**: As a leading manufacturer of HVAC systems, Carrier has a network of authorized dealers in Orlando, offering top-notch equipment and expert installation.\n\t* Rating: 4.8/5 (Google reviews)\n\t* License: Florida License #HVAC-123456\n\t* Certification: NATE-certified technicians\n2. **Trane**: Another well-known brand, Trane has a strong presence in Orlando with a team of skilled techni",
+      "named_here": [
+        "Carrier",
+        "Trane",
+        "Rating",
+        "License",
+        "Certification"
+      ]
+    },
+    {
+      "prompt": "What are the best HVAC companies in Orlando, FL? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are the top HVAC companies in Orlando, FL, based on online reviews, ratings, and industry certifications:\n\n1.  **Arctic Air Conditioning**: With over 20 years of experience, Arctic Air Conditioning offers a wide range of HVAC services, including installation, repair, and maintenance. They have an A+ rating with the BBB and 4.9-star rating on Google.\n2.  **Air On Air Conditioning**: Air On Air Conditioning has been serving Orlando for over 15 years, providing top-notch HVAC services, including installation, repair, and maintenance. They have an A+ rating with the BBB and 4.9-star rating on Google.\n3.  **Wetzel's Air Conditioning**: Wetzel's Air Conditioning has been a family-owned busine",
+      "named_here": [
+        "Arctic Air Conditioning",
+        "Air On Air Conditioning",
+        "Wetzel's Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'd be happy to help you find a reliable HVAC company in Orlando, FL. However, I'm a large language model, I don't have personal recommendations or direct affiliations with specific companies. But I can provide you with some suggestions on how to find a good HVAC company in Orlando:\n\n1. **Online Reviews**: Check online review platforms like Google, Yelp, or Angie's List to see what other customers have to say about different HVAC companies in Orlando. Look for companies with high ratings (4+ stars) and read the reviews to get an idea of their strengths and weaknesses.\n2. **Ask for Referrals**: Ask friends, family, or neighbors who have recently used an HVAC company in Orlando for recommendat",
+      "named_here": [
+        "Online Reviews",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Recommended HVAC Companies in Orlando, FL \n\nHere are some top-rated HVAC companies in Orlando, FL, along with their contact information:\n\n1. **Carrier Home Comfort**: [phone removed]\n\t* Rating: 4.8/5 stars on Google, 4.9/5 stars on Facebook\n\t* Services: Air conditioning, heating, indoor air quality, and more\n2. **Reynolds Air Conditioning**: [phone removed]\n\t* Rating: 4.9/5 stars on Google, 4.9/5 stars on Facebook\n\t* Services: Air conditioning, heating, duct cleaning, and more\n3. **All Pro Air Conditioning**: [phone removed]\n\t* Rating: 4.8/5 stars on Google, 4.9/5 stars on Facebook\n\t* Services: Air conditioning, heating, indoor air quality, and more\n4. **Absolute Air Conditioning**: (407) 3",
+      "named_here": [
+        "Carrier Home Comfort",
+        "Reynolds Air Conditioning",
+        "All Pro Air Conditioning",
+        "Absolute Air Conditioning",
+        "Rating",
+        "Services"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good HVAC company in Orlando, FL? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Orlando! Warm weather and high humidity, perfect for an efficient HVAC system!\n\nUnfortunately, I'm a large language model, I don't have personal experiences or direct endorsements, but I can provide you with some suggestions on how to find a reputable HVAC company in Orlando, FL. Here are a few options:\n\n**Online Reviews and Ratings:**\n\n1. **Angie's List**: Check for top-rated HVAC companies in Orlando with excellent customer reviews.\n2. **HomeAdvisor**: Browse through a list of licensed and background-checked HVAC contractors in Orlando.\n3. **Yelp**: Read reviews from customers who have experienced the services of various HVAC companies in Orlando.\n\n**Recommended HVAC Companies in Orlando:*",
+      "named_here": [
+        "Online Reviews and Ratings",
+        "Angie's List",
+        "HomeAdvisor",
+        "Yelp"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted HVAC companies in Orlando, FL, based on online reviews and ratings:\n\n1. **Del-Air Heating and Air Conditioning**: With over 30 years of experience, Del-Air is a family-owned business that offers heating, cooling, and indoor air quality services. (4.9/5 stars on Google)\n2. **Orlando Air Care**: This company has been serving the Orlando area for over 20 years, providing HVAC installation, repair, and maintenance services. (4.8/5 stars on Google)\n3. **Green Air Heating and Cooling**: Green Air is a locally owned and operated company that specializes in energy-efficient HVAC solutions. (4.8/5 stars on Google)\n4. **Air Tech of Central Florida**: With over 25 year",
+      "named_here": [
+        "Del-Air Heating and Air Conditioning",
+        "Orlando Air Care",
+        "Green Air Heating and Cooling",
+        "Air Tech of Central Florida"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Trusted HVAC Companies in Orlando, FL \n\nWhen searching for a reliable HVAC company in Orlando, FL, it's essential to consider factors such as reputation, experience, and customer reviews. Here are some of the most trusted HVAC companies in Orlando, FL, based on online reviews and ratings:\n\n### Top-Rated Companies \n\n1. **Carrier Home Comfort** - 4.8/5 stars on Google, 4.7/5 stars on Facebook\n\t* 20+ years of experience\n\t* NATE-certified technicians\n\t* Offers Carrier products and services\n2. **Reynolds Air Conditioning** - 4.8/5 stars on Google, 4.7/5 stars on Facebook\n\t* 40+ years of experience\n\t* EPA-certified technicians\n\t* Offers air conditioning, heating, and indoor air quality services",
+      "named_here": [
+        "Carrier Home Comfort",
+        "Reynolds Air Conditioning",
+        "20+ years of experience",
+        "NATE-certified technicians",
+        "Offers Carrier products and services",
+        "40+ years of experience",
+        "EPA-certified technicians"
+      ]
+    },
+    {
+      "prompt": "I need a HVAC company in Orlando, FL. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Orlando, FL! Here are some of the most trusted HVAC companies in Orlando, based on online reviews and ratings:\n\n1. **Service Experts Heating & Air Conditioning**: 4.9/5 stars on Google, 4.9/5 stars on Yelp. They offer a wide range of HVAC services, including installation, repair, and maintenance.\n2. **Comfortech**: 4.8/5 stars on Google, 4.8/5 stars on Yelp. They provide residential and commercial HVAC services, including air conditioning, heating, and duct cleaning.\n3. **Orlando Air Conditioning & Heating**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They offer a 24/7 emergency service, as well as routine maintenance and repair services.\n4. **Sunshine Air Conditioning**: 4.7/5 stars on Goo",
+      "named_here": [
+        "Service Experts Heating & Air Conditioning",
+        "Comfortech",
+        "Orlando Air Conditioning & Heating",
+        "Sunshine Air Conditioning"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the top-rated HVAC companies in Orlando, FL:\n\n1. **Del-Air Heating and Air Conditioning**: With over 30 years of experience, Del-Air has a 4.9-star rating on Google and is known for its excellent customer service.\n2. **Air Tech of Central Florida**: This family-owned business has a 4.8-star rating on Google and is praised for its prompt and professional service.\n3. **Green Air Heating and Cooling**: With a 4.8-star rating on Google, Green Air is recognized for its eco-friendly solutions and competitive pricing.\n4. **Orlando Air Conditioning and Heating**: This company has a 4.7-star rating on Google and is commended for its reliable and e",
+      "named_here": [
+        "Del-Air Heating and Air Conditioning",
+        "Air Tech of Central Florida",
+        "Green Air Heating and Cooling",
+        "Orlando Air Conditioning and Heating"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated HVAC Companies in Orlando, FL \n\nBased on online reviews and ratings, here are some of the top-rated HVAC companies in Orlando, FL:\n\n### Companies with a Strong Reputation \n\n1. **Carrier/Bryant Authorized Dealer**: \n    - **R C Sprocket & Pump Service Inc** (4.9/5 on Google, 4.8/5 on Yelp)\n    - **All Temp Heating & Air Conditioning** (4.8/5 on Google, 4.7/5 on Yelp)\n    - **Air-Conditioning, Heating, Refrigeration News** (4.8/5 on Google, 4.7/5 on Yelp)\n2. **American Air Heating & Cooling**: \n    - **American Air Heating & Cooling** (4.8/5 on Google, 4.7/5 on Yelp)\n    - **Absolute Air** (4.7/5 on Google, 4.6/5 on Yelp)\n3. **Heating and Air Conditioning Companies**: \n    - **Cli",
+      "named_here": [
+        "Carrier/Bryant Authorized Dealer",
+        "All Temp Heating & Air Conditioning",
+        "Air-Conditioning, Heating, Refrigeration News",
+        "American Air Heating & Cooling",
+        "Absolute Air",
+        "Heating and Air Conditioning Companies",
+        "Cli"
+      ]
+    },
+    {
+      "prompt": "Which HVAC companies in Orlando, FL have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some HVAC companies in Orlando, FL with a good reputation, based on online reviews and ratings:\n\n1. **Air Conditioning Experts of Central Florida**: 4.9/5 stars on Google, 4.8/5 stars on Yelp, and A+ rating on the Better Business Bureau (BBB).\n2. **Rheem Air Conditioning & Heating**: 4.8/5 stars on Google, 4.7/5 stars on Yelp, and A+ rating on the BBB.\n3. **Adams Air Conditioning & Heating**: 4.8/5 stars on Google, 4.7/5 stars on Yelp, and A+ rating on the BBB.\n4. **AirNow Air Conditioning & Heating**: 4.9/5 stars on Google, 4.8/5 stars on Yelp, and A+ rating on the BBB.\n5. **Comfort Zone Air Conditioning & Heating**: 4.8/5 stars on Google, 4.7/5 stars on Yelp, and A+ rating on the ",
+      "named_here": [
+        "Air Conditioning Experts of Central Florida",
+        "Rheem Air Conditioning & Heating",
+        "Adams Air Conditioning & Heating",
+        "AirNow Air Conditioning & Heating",
+        "Comfort Zone Air Conditioning & Heating"
+      ]
+    }
+  ]
+}

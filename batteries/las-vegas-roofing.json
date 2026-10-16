@@ -1,0 +1,143 @@
+{
+  "trade": "roofing",
+  "market": "Las Vegas, NV",
+  "run_date": "2026-10-15T21:04:05.660Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best roofing companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top roofing companies in Las Vegas, NV, based on customer reviews and ratings:\n\n1. **Roofing Masters**: With over 20 years of experience, Roofing Masters offers a wide range of roofing services, including repairs, replacements, and installations.\n2. **Pinnacle Roofing**: Pinnacle Roofing is a locally owned and operated company that provides high-quality roofing services, including residential and commercial roofing.\n3. **Las Vegas Roofing**: Las Vegas Roofing is a family-owned business that has been serving the Las Vegas area for over 30 years, offering roofing services, including repairs, replacements, and maintenance.\n4. **Allstate Roofing**: Allstate Roofing is a repu",
+      "named_here": [
+        "Roofing Masters",
+        "Pinnacle Roofing",
+        "Las Vegas Roofing",
+        "Allstate Roofing"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top Roofing Companies in Las Vegas, NV \n\nTo provide a comprehensive list of top roofing companies in Las Vegas, NV, we've considered factors such as online reviews, ratings, licenses, and certifications. Here's a list of top-rated roofing companies in Las Vegas, NV:\n\n### Top Recommendations \n\n1. **Rooflogic**: A highly-rated roofing company with over 20 years of experience, offering residential and commercial roofing services. (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n2. **Vegas Roofing Pros**: A reputable roofing company with a 5-star rating on Google and a wide range of services, including roof repairs and replacements. (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n3. **Arizona Roofin",
+      "named_here": [
+        "Rooflogic",
+        "Vegas Roofing Pros",
+        "Arizona Roofin"
+      ]
+    },
+    {
+      "prompt": "What are the best roofing companies in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated roofing companies in Las Vegas, NV, based on online reviews and ratings:\n\n1. **ABC Supply Roofing** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* Family-owned and operated, serving Las Vegas for over 30 years.\n\t* Offers a wide range of roofing services, including installation, repair, and maintenance.\n2. **Rainbow Roofing** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* Locally owned and operated, with over 20 years of experience in the Las Vegas area.\n\t* Specializes in residential and commercial roofing, including tile, shingle, and flat roofing.\n3. **Las Vegas Roofing Company** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* Family-owned and operated, with",
+      "named_here": [
+        "ABC Supply Roofing",
+        "Rainbow Roofing",
+        "Las Vegas Roofing Company",
+        "Family-owned and operated, with"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on how to find a good roofing company in Las Vegas, NV. However, I don't have real-time access to specific companies or their current reputation. That being said, here are some steps you can take to find a reliable roofing company:\n\n1. **Online Search**: You can start by searching online for \"roofing companies in Las Vegas, NV\" or \"best roofers in Las Vegas.\" This will give you a list of potential companies to consider.\n2. **Check Reviews**: Look up reviews on websites like Yelp, Google, or Angie's List to see what previous customers have to say about their experiences with different roofing companies.\n3. **Ask for Referrals**: Ask friends, family",
+      "named_here": [
+        "Online Search",
+        "Check Reviews",
+        "Ask for Referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Based on online reviews and ratings, here are some top-rated roofing companies in Las Vegas, NV:\n\n1. **Rooflogic**: [phone removed] - A locally-owned and operated company with a 4.9-star rating on Google and a reputation for excellent customer service.\n2. **Vegas Roofing Pros**: [phone removed] - A highly-rated company with a 4.8-star rating on Google and a wide range of roofing services, including repairs, replacements, and maintenance.\n3. **Allied Roofing**: [phone removed] - A trusted and experienced roofing company with a 4.7-star rating on Google and a commitment to quality workmanship.\n4. **Integrity Roofing**: [phone removed] - A family-owned and operated company with a 4.7-star rating on",
+      "named_here": [
+        "Rooflogic",
+        "Vegas Roofing Pros",
+        "Allied Roofing",
+        "Integrity Roofing"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good roofing company in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can’t recommend a specific roofing company. However, I can provide some tips for finding a good roofing company in Las Vegas, NV. Would that help?",
+      "named_here": []
+    },
+    {
+      "prompt": "I need a roofing company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Las Vegas has a plethora of roofing companies to choose from, but I'll provide you with some of the most trusted options based on online reviews and ratings. Please note that it's essential to do your own research and get quotes from multiple companies before making a decision. Here are some top-rated roofing companies in Las Vegas, NV:\n\n1. **Roofing Masters** (4.9/5 stars on Google, 4.8/5 stars on Yelp) - A locally owned and operated company with over 20 years of experience.\n2. **Prestige Roofing** (4.8/5 stars on Google, 4.7/5 stars on Yelp) - Offers a wide range of roofing services, including repairs, replacements, and installations.\n3. **Las Vegas Roofing** (4.7/5 stars on Google, 4.6/5 ",
+      "named_here": [
+        "Roofing Masters",
+        "Prestige Roofing",
+        "Las Vegas Roofing"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Most Trusted Roofing Companies in Las Vegas, NV\n\nBased on online reviews, ratings, and licenses, here are the top 5 most trusted roofing companies in Las Vegas, NV:\n\n### Ranking Criteria\n\nThe ranking is based on a combination of factors, including:\n\n* Online reviews and ratings from multiple sources (e.g., Google, Yelp, BBB)\n* Licenses and certifications (e.g., Nevada State Contractors' License Board, GAF, Owens Corning)\n* Years of experience in the industry\n* Range of services offered\n\n### Top 5 Roofing Companies\n\n1. **Roofliner's Inc**: With over 20 years of experience, Roofliner's Inc has an excellent reputation, with a 4.9-star rating on Google and a 5-star rating on Yelp. They offer ",
+      "named_here": [
+        "Roofliner's Inc",
+        "Licenses and certifications",
+        "Years of experience in the industry",
+        "Range of services offered"
+      ]
+    },
+    {
+      "prompt": "I need a roofing company in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted roofing companies in Las Vegas, NV, based on online reviews and ratings:\n\n1.  **ABC Supply Roofing**:\n\t* Address: 5320 W Sahara Ave, Las Vegas, NV 89102\n\t* Phone: [phone removed]\n\t* Rating: 4.9/5 on Google, 4.8/5 on Yelp\n\t* ABC Supply is a well-established roofing company with a long history of providing quality roofing services in Las Vegas.\n2.  **Las Vegas Roofing Company**:\n\t* Address: 2300 S Jones Blvd, Las Vegas, NV 89146\n\t* Phone: [phone removed]\n\t* Rating: 4.8/5 on Google, 4.7/5 on Yelp\n\t* This company has been serving the Las Vegas area for over 20 years and offers a wide range of roofing services, including repairs, replacements, and new installations",
+      "named_here": [
+        "ABC Supply Roofing",
+        "Las Vegas Roofing Company",
+        "Address",
+        "Phone",
+        "Rating"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some of the top-rated roofing companies in Las Vegas, NV:\n\n1. **Premier Roofing** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Roofing Masters** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Allstate Roofing** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **Las Vegas Roofing** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Nevada Roofing Solutions** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Pinnacle Roofing** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **Sunset Roofing** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n8. **Desert Roofing** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n9. **Pro Roofing** - 4.4/5 stars on Goog",
+      "named_here": [
+        "Premier Roofing",
+        "Roofing Masters",
+        "Allstate Roofing",
+        "Las Vegas Roofing",
+        "Nevada Roofing Solutions",
+        "Pinnacle Roofing",
+        "Sunset Roofing",
+        "Desert Roofing",
+        "Pro Roofing"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Roofing Companies in Las Vegas, NV\n\nBased on online reviews, ratings, and licenses, here are some of the top-rated roofing companies in Las Vegas, NV:\n\n### Companies with a Strong Reputation\n\n1. **Rooflogic** (4.9/5 on Google, 4.8/5 on Yelp) - A locally-owned and operated company with over 20 years of experience.\n2. **Vegas Roofing Pros** (4.9/5 on Google, 4.8/5 on Yelp) - A family-owned business with over 15 years of experience, offering free inspections and estimates.\n3. **A+ Roofing Las Vegas** (4.8/5 on Google, 4.7/5 on Yelp) - A licensed and insured company with over 10 years of experience, offering a wide range of roofing services.\n4. **Allied Roofing and Waterproofing** (",
+      "named_here": [
+        "Rooflogic",
+        "Vegas Roofing Pros",
+        "A+ Roofing Las Vegas",
+        "Allied Roofing and Waterproofing"
+      ]
+    },
+    {
+      "prompt": "Which roofing companies in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-rated roofing companies in Las Vegas, NV, based on online reviews and ratings:\n\n1.  **AAA Roofing and Construction**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Known for their excellent customer service and quality workmanship.\n2.  **Sunwest Roofing**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. Offers a wide range of roofing services, including installation, repair, and maintenance.\n3.  **ABC Roofing Company**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Specializes in residential and commercial roofing services, including tile, shingle, and flat roof installations.\n4.  **All American Roofing**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. Offers a 100% satisfaction gu",
+      "named_here": [
+        "AAA Roofing and Construction",
+        "Sunwest Roofing",
+        "ABC Roofing Company",
+        "All American Roofing"
+      ]
+    }
+  ]
+}

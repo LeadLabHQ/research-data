@@ -1,0 +1,160 @@
+{
+  "trade": "drywall",
+  "market": "Las Vegas, NV",
+  "run_date": "2026-10-15T21:08:02.366Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated drywall contractors in Las Vegas, NV, based on online reviews and ratings:\n\n1. **Las Vegas Drywall Repair** (4.9/5) - Known for their prompt service and high-quality work.\n2. **Drywall Pros Las Vegas** (4.8/5) - Offers a wide range of drywall services, including installation, repair, and finishing.\n3. **Nevada Drywall** (4.7/5) - A family-owned business with over 20 years of experience in the industry.\n4. **Vegas Drywall** (4.7/5) - Provides drywall installation, repair, and texturing services for residential and commercial projects.\n5. **All Star Drywall** (4.6/5) - Offers competitive pricing and a team of experienced drywall technicians.\n6. **Drywall Solutions** (4.",
+      "named_here": [
+        "Las Vegas Drywall Repair",
+        "Drywall Pros Las Vegas",
+        "Nevada Drywall",
+        "Vegas Drywall",
+        "All Star Drywall",
+        "Drywall Solutions"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in Las Vegas, NV, based on online reviews and ratings:\n\n1. **Drywall Vegas** (4.9/5 on Google, 4.8/5 on Yelp) - Offers drywall installation, repair, and finishing services.\n2. **Las Vegas Drywall Pros** (4.8/5 on Google, 4.7/5 on Yelp) - Provides drywall installation, texture, and painting services.\n3. **Vegas Drywall** (4.8/5 on Google, 4.7/5 on Yelp) - Offers drywall installation, repair, and finishing services, including popcorn ceiling removal.\n4. **Drywall Repair Las Vegas** (4.7/5 on Google, 4.6/5 on Yelp) - Specializes in drywall repair, installation, and texture services.\n5. **All Dry Las Vegas** (4.7/5 on Google, 4.6/5 on Yelp) - Offers dr",
+      "named_here": [
+        "Drywall Vegas",
+        "Las Vegas Drywall Pros",
+        "Vegas Drywall",
+        "Drywall Repair Las Vegas",
+        "All Dry Las Vegas"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Las Vegas, NV? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated drywall contractors in Las Vegas, NV:\n\n**Note:** This list is based on online reviews and ratings from sources like Yelp, Google, and Angie's List. It's essential to research and verify the reputation of any contractor before hiring them.\n\n1. **A-1 Drywall** (4.9/5 on Yelp, 4.8/5 on Google)\n\t* Phone: [phone removed]\n\t* Address: 4550 S Valley View Blvd, Las Vegas, NV 89118\n2. **Drywall Pros** (4.9/5 on Yelp, 4.8/5 on Google)\n\t* Phone: [phone removed]\n\t* Address: 3735 W Charleston Blvd, Las Vegas, NV 89102\n3. **Las Vegas Drywall** (4.8/5 on Yelp, 4.7/5 on Google)\n\t* Phone: [phone removed]\n\t* Address: 3435 W Sahara Ave, Las Vegas, NV 89102\n4. **Drywall Masters** (4.8/5 on Y",
+      "named_here": [
+        "Note",
+        "A-1 Drywall",
+        "Drywall Pros",
+        "Las Vegas Drywall",
+        "Drywall Masters",
+        "Phone",
+        "Address"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good drywall contractor in Las Vegas, NV. However, I don't have real-time access to specific contractors or their current availability. Here are a few options to consider:\n\n1. **Online Directories**:\n\t* Angie's List: A paid subscription service that provides reviews and ratings of local contractors.\n\t* HomeAdvisor: A free platform that connects homeowners with pre-screened contractors.\n\t* Yelp: A review site that allows you to filter search results by location, category, and rating.\n2. **Professional Associations**:\n\t* National Association of the Remodeling Industry (NARI) - Las Vegas Chapter: A trade organization that lists certified",
+      "named_here": [
+        "Online Directories",
+        "Professional Associations",
+        "Angie's List",
+        "HomeAdvisor",
+        "Yelp",
+        "National Association of the Remodeling Industry"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable drywall contractors in Las Vegas, NV. Here are a few options you can consider:\n\n1. **Drywall Vegas**: [phone removed] - They offer a wide range of drywall services, including installation, repair, and finishing.\n2. **Las Vegas Drywall**: [phone removed] - They provide drywall installation, repair, and texture services, and have a 5-star rating on Google.\n3. **All Dry Vegas**: [phone removed] - They offer drywall repair, installation, and finishing services, and also provide emergency drywall repair services.\n4. **Vegas Drywall Pros**: [phone removed] - They provide drywall installation, repair, and finishing services, and have a 4.5-star rating on Google.\n5. **Drywall Rep",
+      "named_here": [
+        "Drywall Vegas",
+        "Las Vegas Drywall",
+        "All Dry Vegas",
+        "Vegas Drywall Pros",
+        "Drywall Rep"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Las Vegas, NV? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can’t take care of that request. However, I can provide some steps you can take to find a good drywall contractor in Las Vegas, NV.\n\n1.  **Get Referrals**: Ask friends, family members, or neighbors who have recently had drywall work done for recommendations. Personal referrals can be a great way to find a reliable contractor.\n2.  **Online Reviews**: Check online review sites such as Yelp, Angie's List, or HomeAdvisor to find contractors in your area. Look for contractors with high ratings and read reviews from previous customers to gauge their quality of work and level of customer service.\n3.  **Check Licenses and Certifications**: Make sure the contractor is properly licensed and certifie",
+      "named_here": [
+        "Get Referrals",
+        "Online Reviews",
+        "Check Licenses and Certifications"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted drywall contractors in Las Vegas, NV, based on online reviews and ratings:\n\n1. **Las Vegas Drywall Repair** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Drywall Pros Las Vegas** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **Nevada Drywall** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **All Star Drywall** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Drywall Specialists of Las Vegas** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Vegas Drywall** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **Pro Drywall Las Vegas** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n8. **Drywall Repair Las Vegas** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n",
+      "named_here": [
+        "Las Vegas Drywall Repair",
+        "Drywall Pros Las Vegas",
+        "Nevada Drywall",
+        "All Star Drywall",
+        "Drywall Specialists of Las Vegas",
+        "Vegas Drywall",
+        "Pro Drywall Las Vegas",
+        "Drywall Repair Las Vegas"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in Las Vegas, NV:\n\n1. **Drywall Vegas**: With over 20 years of experience, Drywall Vegas is a reputable and reliable option for drywall installation, repair, and finishing. They offer free estimates and a 100% satisfaction guarantee.\n\t* Rating: 4.9/5 on Google, 4.8/5 on Yelp\n\t* License: NV Contractor's License # 0074564\n2. **All Dry Vegas**: This company has been serving Las Vegas for over 15 years, providing top-notch drywall services, including installation, repair, and texture coating. They offer 24/7 emergency services and a 5-year warranty.\n\t* Rating: 4.8/5 on Google, 4.7/5 on Yelp\n\t* License: NV Contractor's License # 0063211\n3. **V",
+      "named_here": [
+        "Drywall Vegas",
+        "All Dry Vegas",
+        "Rating",
+        "License"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Las Vegas, NV. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted drywall contractors in Las Vegas, NV, based on online reviews and ratings:\n\n1.  **Drywall Masters**: 4.9/5 stars on Google, 4.9/5 stars on Yelp. They offer a wide range of drywall services, including texture, finishing, and repair.\n2.  **Las Vegas Drywall**: 4.8/5 stars on Google, 4.8/5 stars on Yelp. They provide drywall installation, repair, and finishing services for residential and commercial projects.\n3.  **Drywall Pros**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They offer drywall installation, repair, and finishing services, as well as texture and joint compound services.\n4.  **Desert Drywall**: 4.7/5 stars on Google, 4.7/5 stars on Yelp. They prov",
+      "named_here": [
+        "Drywall Masters",
+        "Las Vegas Drywall",
+        "Drywall Pros",
+        "Desert Drywall"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on available data as of my knowledge cutoff in 2023, here are some drywall contractors in Las Vegas, NV, with a good reputation:\n\n1. **Las Vegas Drywall Repair**: 4.9/5 stars on Google, known for their quick response and quality work.\n2. **Drywall Pros Las Vegas**: 4.8/5 stars on Google, praised for their professionalism and attention to detail.\n3. **All Phase Drywall**: 4.7/5 stars on Google, recognized for their excellent customer service and competitive pricing.\n4. **Drywall Solutions**: 4.7/5 stars on Google, commended for their expertise and reliability.\n5. **Vegas Drywall**: 4.6/5 stars on Google, appreciated for their prompt service and fair prices.\n6. **Nevada Drywall**: 4.6/5 ",
+      "named_here": [
+        "Las Vegas Drywall Repair",
+        "Drywall Pros Las Vegas",
+        "All Phase Drywall",
+        "Drywall Solutions",
+        "Vegas Drywall",
+        "Nevada Drywall"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Based on online reviews and ratings, here are some top-rated drywall contractors in Las Vegas, NV:\n\n1. **Drywall Vegas** (4.9/5 on Google, 4.8/5 on Yelp) - Offers drywall installation, repair, and finishing services.\n2. **Las Vegas Drywall Pros** (4.8/5 on Google, 4.7/5 on Yelp) - Provides drywall installation, texture, and painting services.\n3. **Vegas Drywall** (4.8/5 on Google, 4.7/5 on Yelp) - Offers drywall installation, repair, and finishing services, including popcorn ceiling removal.\n4. **Drywall Repair Las Vegas** (4.7/5 on Google, 4.6/5 on Yelp) - Specializes in drywall repair, installation, and texture services.\n5. **All Dry Vegas** (4.7/5 on Google, 4.6/5 on Yelp) - Offers drywal",
+      "named_here": [
+        "Drywall Vegas",
+        "Las Vegas Drywall Pros",
+        "Vegas Drywall",
+        "Drywall Repair Las Vegas",
+        "All Dry Vegas"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Las Vegas, NV have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some drywall contractors in Las Vegas, NV with a good reputation based on online reviews and ratings:\n\n**Please note that online reviews can change over time, and it's essential to verify the accuracy of the information and do your own research before hiring a contractor.**\n\nHere are some drywall contractors in Las Vegas with a good reputation:\n\n1. **Drywall Masters** - 4.9/5 stars on Angie's List, 4.8/5 stars on Google Reviews (over 500 reviews)\n\t* Address: 2450 St Rose Pkwy, Henderson, NV 89052\n2. **Drywall Solutions** - 4.9/5 stars on Google Reviews (over 200 reviews), 4.8/5 stars on Yelp\n\t* Address: 4225 S Maryland Pkwy, Las Vegas, NV 89119\n3. **Precision Drywall** - 4.8/5 stars",
+      "named_here": [
+        "Drywall Solutions",
+        "Precision Drywall",
+        "Drywall Masters",
+        "Address"
+      ]
+    }
+  ]
+}

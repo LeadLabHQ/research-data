@@ -1,0 +1,150 @@
+{
+  "trade": "tree-service",
+  "market": "Houston, TX",
+  "run_date": "2026-10-15T19:52:22.633Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best tree service companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated tree service companies in Houston, TX, based on online reviews and ratings:\n\n1. **Tree Care Houston** (4.9/5) - Offers tree trimming, pruning, removal, and stump grinding services.\n2. **Houston Tree Service** (4.8/5) - Provides tree care services, including tree removal, trimming, and planting.\n3. **Texas Tree Service** (4.7/5) - Offers tree removal, trimming, pruning, and stump grinding services.\n4. **Bayou City Tree Service** (4.7/5) - Provides tree care services, including tree removal, trimming, and planting.\n5. **Tree Removal Houston** (4.6/5) - Specializes in tree removal, stump grinding, and tree trimming services.\n6. **Houston Tree Trimmers** (4.6/5) - Offers ",
+      "named_here": [
+        "Tree Care Houston",
+        "Houston Tree Service",
+        "Texas Tree Service",
+        "Bayou City Tree Service",
+        "Tree Removal Houston",
+        "Houston Tree Trimmers"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "### Top Tree Service Companies in Houston, TX \n\nWhen it comes to finding the best tree service companies in Houston, TX, there are several factors to consider. To provide a comprehensive list of top recommendations, we've evaluated companies based on their reputation, customer reviews, services offered, and certifications.\n\n### Evaluation Criteria \n\n* **Reputation**: Companies with a strong reputation for providing high-quality services and excellent customer satisfaction.\n* **Customer Reviews**: Companies with a high rating on review platforms such as Google, Yelp, and Facebook.\n* **Services Offered**: Companies that offer a wide range of tree services, including tree trimming, removal, pru",
+      "named_here": [
+        "Reputation",
+        "Customer Reviews",
+        "Services Offered"
+      ]
+    },
+    {
+      "prompt": "What are the best tree service companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated tree service companies in Houston, TX:\n\n1. **Tree Solutions of Houston** (4.9/5 stars on Google) - Offers a wide range of tree services, including pruning, removal, and stump grinding.\n2. **Arborilogical Services** (4.9/5 stars on Google) - Provides tree care, pruning, and removal services, with a focus on safety and customer satisfaction.\n3. **Texas Tree Surgeons** (4.8/5 stars on Google) - Offers tree pruning, removal, and stump grinding services, with a team of certified arborists.\n4. **Green Cut Tree Service** (4.8/5 stars on Google) - Provides tree pruning, removal, and stump grinding services, with a focus on eco-friendly practices.\n5. **Houston Tree Remo",
+      "named_here": [
+        "Tree Solutions of Houston",
+        "Arborilogical Services",
+        "Texas Tree Surgeons",
+        "Green Cut Tree Service",
+        "Houston Tree Remo"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I can provide you with some general guidance on finding a good tree service company in Houston, TX. However, I don't have real-time access to specific companies or their current reputation. That being said, here are some steps you can take to find a reliable tree service company:\n\n1. **Check online reviews**: Look up tree service companies in Houston on review websites like Google, Yelp, or Angie's List. Pay attention to the overall rating and read the comments to get an idea of their strengths and weaknesses.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently used a tree service company for recommendations. They can provide valuable insights into the company's wor",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many tree service companies in Houston, TX, and the best one for you will depend on your specific needs and preferences. Here are a few highly-rated options:\n\n1. **TreeCare Houston**: [phone removed] - They offer a wide range of services, including tree trimming, removal, and stump grinding. They have excellent reviews on Google and Yelp.\n2. **Houston Tree Service**: [phone removed] - They provide 24/7 emergency services and have a team of certified arborists. They are highly rated on Angie's List and HomeAdvisor.\n3. **Tree Masters**: [phone removed] - They offer tree trimming, removal, and pruning services, as well as stump grinding and debris removal. They have great reviews on Goog",
+      "named_here": [
+        "TreeCare Houston",
+        "Houston Tree Service",
+        "Tree Masters"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good tree service company in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have personal experiences or direct connections with specific companies. However, I can provide some suggestions on how to find a reliable tree service company in Houston, TX. Here are a few options:\n\n1. **Online Reviews**: Check online review platforms like:\n\t* Yelp: Filter by location and rating to find top-rated tree services in Houston.\n\t* Google Reviews: Search for \"tree service companies in Houston\" to see which ones have the best reviews.\n\t* Angie's List: A paid membership-based review platform that can provide a list of top-rated tree services in Houston.\n2. **Professional Associations**: Look for companies that are members of profes",
+      "named_here": [
+        "Online Reviews",
+        "Professional Associations",
+        "Yelp",
+        "Google Reviews",
+        "Angie's List"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted tree service companies in Houston, TX, based on online reviews and ratings:\n\n1. **Tree Care Houston** (4.9/5 on Google, 4.8/5 on Yelp): A locally-owned company with over 20 years of experience, offering tree trimming, pruning, removal, and stump grinding services.\n2. **Houston Tree Service** (4.8/5 on Google, 4.7/5 on Yelp): A family-owned business with over 30 years of experience, providing tree care services, including tree removal, trimming, and pruning.\n3. **Texas Tree Care** (4.8/5 on Google, 4.7/5 on Yelp): A full-service tree care company with over 15 years of experience, offering tree trimming, pruning, removal, and stump grinding services.\n4. **Tree",
+      "named_here": [
+        "Tree Care Houston",
+        "Houston Tree Service",
+        "Texas Tree Care",
+        "Tree"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "When searching for a trusted tree service company in Houston, TX, it's essential to consider factors such as reputation, experience, and certifications. Here are some of the most trusted options:\n\n### Top-Rated Tree Service Companies in Houston, TX\n\n1. **TreeCare Houston**: With over 20 years of experience, TreeCare Houston is a well-established company with a strong reputation for providing reliable and efficient tree services. They offer a wide range of services, including tree trimming, removal, and stump grinding. **Certifications:** ISA Certified Arborists, TCIA Certified Tree Workers. **Reviews:** 4.9/5 stars on Google, 4.8/5 stars on Yelp.\n2. **Houston Tree Service**: This company has",
+      "named_here": [
+        "TreeCare Houston",
+        "Certifications",
+        "Reviews",
+        "Houston Tree Service"
+      ]
+    },
+    {
+      "prompt": "I need a tree service company in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted tree service companies in Houston, TX, based on online reviews and ratings:\n\n1.  **Arborilogical Services**: 4.9/5 stars on Google, 4.8/5 stars on Yelp. They offer tree removal, pruning, and fertilization services.\n2.  **Tree Masters**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They provide tree removal, pruning, and stump grinding services.\n3.  **Houston Tree Surgeons**: 4.8/5 stars on Google, 4.7/5 stars on Yelp. They offer tree removal, pruning, and trimming services.\n4.  **AAA Tree Service**: 4.7/5 stars on Google, 4.6/5 stars on Yelp. They provide tree removal, pruning, and stump grinding services.\n5.  **Tree Care Services**: 4.7/5 stars on Google, 4.",
+      "named_here": [
+        "Arborilogical Services",
+        "Tree Masters",
+        "Houston Tree Surgeons",
+        "AAA Tree Service",
+        "Tree Care Services"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some tree service companies in Houston, TX, with a good reputation, based on online reviews and ratings:\n\n1. **Houston Tree Service** (4.9/5 on Google, 4.8/5 on Yelp) - Offers tree trimming, pruning, removal, and stump grinding services.\n2. **Tree Care Houston** (4.8/5 on Google, 4.7/5 on Yelp) - Provides tree removal, trimming, pruning, and planting services, as well as emergency tree care.\n3. **Bayou City Tree Service** (4.8/5 on Google, 4.7/5 on Yelp) - Offers tree removal, trimming, pruning, and stump grinding services, with a focus on customer satisfaction.\n4. **Tree Solutions** (4.7/5 on Google, 4.6/5 on Yelp) - Provides tree removal, trimming, pruning, and planting services, ",
+      "named_here": [
+        "Houston Tree Service",
+        "Tree Care Houston",
+        "Bayou City Tree Service",
+        "Tree Solutions"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated Tree Service Companies in Houston, TX\n\nBased on online reviews and ratings, here are some of the top-rated tree service companies in Houston, TX:\n\n### Companies with a Strong Reputation\n\n1. **TreeCare Houston** (4.9/5 on Google, 4.8/5 on Yelp) - Offers tree trimming, removal, pruning, and stump grinding services.\n2. **Houston Tree Service** (4.8/5 on Google, 4.7/5 on Yelp) - Provides tree removal, trimming, pruning, and stump grinding services, as well as emergency storm response.\n3. **Tree Masters** (4.8/5 on Google, 4.7/5 on Yelp) - Offers tree trimming, removal, pruning, and stump grinding services, with a focus on customer service and safety.\n4. **ISA Houston Arborists** (4.",
+      "named_here": [
+        "TreeCare Houston",
+        "Houston Tree Service",
+        "Tree Masters",
+        "ISA Houston Arborists"
+      ]
+    },
+    {
+      "prompt": "Which tree service companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some tree service companies in Houston, TX with a good reputation:\n\n**Please note:** I've compiled this list based on online reviews and ratings from various sources, including Google, Yelp, and the Better Business Bureau (BBB). However, reputation can change over time, and it's essential to do your own research and read recent reviews before making a decision.\n\n1. **Davey Tree Expert Company**\n\t* Address: 14301 Westheimer Rd, Houston, TX 77082\n\t* Phone: [phone removed]\n\t* Rating: 4.9/5 (Google), 4.8/5 (Yelp)\n2. **Arborilogical Services**\n\t* Address: 14451 Old Galveston Rd, Houston, TX 77039\n\t* Phone: [phone removed]\n\t* Rating: 4.9/5 (Google), 4.8/5 (Yelp)\n3. **Tree Masters**\n\t* Addre",
+      "named_here": [
+        "Please note",
+        "Davey Tree Expert Company",
+        "Arborilogical Services",
+        "Tree Masters",
+        "Address",
+        "Phone",
+        "Rating",
+        "Addre"
+      ]
+    }
+  ]
+}

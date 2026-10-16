@@ -1,0 +1,156 @@
+{
+  "trade": "drywall",
+  "market": "Denver, CO",
+  "run_date": "2026-10-15T20:32:58.731Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated drywall contractors in Denver, CO, based on online reviews and ratings:\n\n1. **Drywall Repair Denver** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Denver Drywall Services** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **All Phase Drywall** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **Drywall Masters** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Colorado Drywall** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Drywall Solutions** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **Denver Drywall Contractors** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n8. **Pro Drywall** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n9. **Drywall Experts** - 4.4/5 st",
+      "named_here": [
+        "Drywall Repair Denver",
+        "Denver Drywall Services",
+        "All Phase Drywall",
+        "Drywall Masters",
+        "Colorado Drywall",
+        "Drywall Solutions",
+        "Denver Drywall Contractors",
+        "Pro Drywall",
+        "Drywall Experts"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in Denver, CO, based on online reviews and ratings:\n\n1. **Drywall Denver**: With a 4.9-star rating on Google and over 500 reviews, they're a top choice for drywall installation, repair, and finishing services.\n2. **Denver Drywall Pros**: This company boasts a 4.8-star rating on Google and offers a wide range of drywall services, including installation, repair, and texture coating.\n3. **All Dry Denver**: With a 4.7-star rating on Google and over 200 reviews, All Dry Denver provides expert drywall installation, repair, and finishing services for residential and commercial clients.\n4. **Drywall Masters**: This Denver-based company has a 4.7-star ratin",
+      "named_here": [
+        "Drywall Denver",
+        "Denver Drywall Pros",
+        "All Dry Denver",
+        "Drywall Masters"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Denver, CO? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated drywall contractors in Denver, CO, based on online reviews and ratings:\n\n1.  **Hawkins Drywall**: With over 30 years of experience, Hawkins Drywall is a well-established company serving the Denver area. They offer a wide range of drywall services, including installation, repair, and finishing.\n2.  **Drywall Masters**: Drywall Masters has been in business for over 20 years and has an A+ rating with the Better Business Bureau. They provide drywall installation, repair, and texture services.\n3.  **Denver Drywall**: Denver Drywall is a locally owned and operated company that has been serving the Denver area for over 15 years. They offer drywall installation, repair, and f",
+      "named_here": [
+        "Hawkins Drywall",
+        "Drywall Masters",
+        "Denver Drywall"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I don't have have access to real-time information or specific recommendations for drywall contractors in Denver, CO. However, I can suggest some ways for you to find a reliable drywall contractor in your area:\n\n1. **Online Directories**: You can check online directories like Yelp, Angie's List, or HomeAdvisor to find drywall contractors in Denver, CO. These websites allow you to read reviews, compare prices, and check the contractors' credentials.\n2. **Google Search**: Simply type \"drywall contractors in Denver, CO\" or \"drywall repair in Denver, CO\" in Google, and you'll get a list of contractors in your area. You can then visit their websites, check their services, and read reviews.\n3. **Wo",
+      "named_here": [
+        "Online Directories",
+        "Google Search",
+        "Wo"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable drywall contractor in Denver, CO! However, I'm a large language model, I don't have have access to real-time information or specific recommendations. But I can suggest some options to help you find a good drywall contractor:\n\n1. **Online Directories**:\n\t* Angie's List (angieslist.com)\n\t* HomeAdvisor (homeadvisor.com)\n\t* Thumbtack (thumbtack.com)\n\t* Yelp (yelp.com)\n2. **Word of Mouth**:\n\t* Ask friends, family, or neighbors who have recently done a drywall project for recommendations.\n\t* Check online reviews on sites like Google, Facebook, or Nextdoor.\n3. **Professional Associations**:\n\t* National Drywall & Interior Systems Contractors Association (NDI)",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Professional Associations",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack",
+        "Yelp"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Denver, CO? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have direct access to specific recommendations for individual contractors in Denver, CO. However, I can suggest a few options to help you find a reliable drywall contractor:\n\n1. **Online Directories**:\n\t* **Angie's List**: A paid review website that provides ratings and reviews for various service providers, including drywall contractors. You can search for drywall contractors in Denver and read reviews from other customers.\n\t* **HomeAdvisor**: A platform that connects homeowners with pre-screened and background-checked contractors, including drywall specialists.\n\t* **Thumbtack**: A platform that allows you to post a job description and rece",
+      "named_here": [
+        "Online Directories",
+        "Angie's List",
+        "HomeAdvisor",
+        "Thumbtack"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted drywall contractors in Denver, CO, based on online reviews and ratings:\n\n1. **Drywall Repair Denver** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Denver Drywall Services** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **All Phase Drywall** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **Drywall Specialists of Denver** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Mile High Drywall** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Denver Drywall Contractors** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n7. **Pro Drywall** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n8. **Drywall Masters** - 4.5/5 stars on Google, 4.4/5 stars on Yelp\n9. **All S",
+      "named_here": [
+        "Drywall Repair Denver",
+        "Denver Drywall Services",
+        "All Phase Drywall",
+        "Drywall Specialists of Denver",
+        "Mile High Drywall",
+        "Denver Drywall Contractors",
+        "Pro Drywall",
+        "Drywall Masters",
+        "All S"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in Denver, CO, based on online reviews and ratings:\n\n1. **Drywall Denver**: With a 4.9-star rating on Google and 4.8-star rating on HomeAdvisor, Drywall Denver is a highly trusted option. They offer drywall installation, repair, and finishing services.\n2. **Denver Drywall Pros**: This company has a 4.8-star rating on Google and 4.7-star rating on Angie's List. They provide drywall installation, repair, and texture services.\n3. **All Drywall Denver**: With a 4.8-star rating on Google and 4.7-star rating on HomeAdvisor, All Drywall Denver is a reliable choice. They offer drywall installation, repair, and finishing services.\n4. **Drywall Mas",
+      "named_here": [
+        "Drywall Denver",
+        "Denver Drywall Pros",
+        "All Drywall Denver",
+        "Drywall Mas"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Denver, CO. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted drywall contractors in Denver, CO, based on online reviews and ratings:\n\n1.  **Drywall Masters**: With over 20 years of experience, Drywall Masters is a highly-rated contractor that offers a wide range of drywall services, including installation, repair, and finishing.\n\n    Rating: 4.9/5 stars on Google, 4.8/5 stars on Yelp\n\n2.  **Denver Drywall**: Denver Drywall is a locally-owned and operated business that has been serving the Denver area for over a decade. They offer free estimates and a wide range of drywall services.\n\n    Rating: 4.8/5 stars on Google, 4.7/5 stars on Yelp\n\n3.  **Drywall Solutions**: Drywall Solutions is a family-owned business that has ",
+      "named_here": [
+        "Drywall Masters",
+        "Denver Drywall",
+        "Drywall Solutions"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I've compiled a list of reputable drywall contractors in Denver, CO, based on online reviews and ratings. Please note that reputations can change over time, and it's essential to do your own research and verify the information before hiring a contractor. Here are some well-regarded drywall contractors in Denver:\n\n1. **Drywall Solutions** - 4.9/5 stars on Google, 4.8/5 stars on Yelp\n2. **Denver Drywall** - 4.8/5 stars on Google, 4.7/5 stars on Yelp\n3. **All Phase Drywall** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n4. **Rocky Mountain Drywall** - 4.7/5 stars on Google, 4.6/5 stars on Yelp\n5. **Drywall Pros** - 4.6/5 stars on Google, 4.5/5 stars on Yelp\n6. **Colorado Drywall** - 4.6/5 stars ",
+      "named_here": [
+        "Drywall Solutions",
+        "Denver Drywall",
+        "All Phase Drywall",
+        "Rocky Mountain Drywall",
+        "Drywall Pros",
+        "Colorado Drywall"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I don't have real-time access to current reviews or ratings. However, I can suggest some ways for you to find top-rated drywall contractors in Denver, CO:\n\n1. **Check online review sites**:\n\t* Yelp: Look for contractors with a high rating (4+ stars) and a large number of reviews.\n\t* Angie's List: Check for contractors with a high rating (A+ or 4+ stars) and a large number of reviews.\n\t* Google Reviews: Search for contractors with a high rating (4+ stars) and a large number of reviews.\n2. **Ask for referrals**:\n\t* Ask friends, family, or neighbors who have recently completed a drywall project for recommendations.\n\t* Check with local builders, contractors, or construction companies for referra",
+      "named_here": [
+        "Check online review sites",
+        "Ask for referrals",
+        "Yelp",
+        "Angie's List",
+        "Google Reviews"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Denver, CO have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "To provide you with the most accurate and up-to-date information, I've compiled a list of highly-rated drywall contractors in Denver, CO, based on online reviews and ratings from sources like Yelp, Angie's List, and the Better Business Bureau. Please note that ratings can change over time, and it's always a good idea to do your own research and verify the information before hiring a contractor. Here are some top-rated drywall contractors in Denver:\n\n1.  **Denver Drywall**: 4.9/5 on Yelp, 5/5 on Angie's List. They offer a wide range of drywall services, including installation, repair, and finishing.\n2.  **Drywall Pros of Denver**: 4.8/5 on Yelp, 4.9/5 on Google Reviews. They provide expert dr",
+      "named_here": [
+        "Denver Drywall",
+        "Drywall Pros of Denver"
+      ]
+    }
+  ]
+}

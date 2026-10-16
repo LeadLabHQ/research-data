@@ -1,0 +1,138 @@
+{
+  "trade": "cleaning",
+  "market": "Houston, TX",
+  "run_date": "2026-10-15T19:49:23.077Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best house cleaning companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the top house cleaning companies in Houston, TX, based on customer reviews and ratings:\n\n1. **Molly Maid**: With over 30 years of experience, Molly Maid is a well-established and reputable cleaning company in Houston. They offer customized cleaning plans and a 24-hour guarantee.\n2. **The Cleaning Authority**: This company uses eco-friendly cleaning products and provides a thorough, detailed cleaning service. They have a 4.9-star rating on Google and are known for their reliable and trustworthy staff.\n3. **Clean Sweep**: Clean Sweep has been serving the Houston area for over 20 years and offers a range of cleaning services, including one-time, weekly, and bi-weekly cleanings.",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Clean Sweep"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the top-rated house cleaning companies in Houston, TX:\n\n1. **The Cleaning Authority - Houston**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, this company offers reliable and thorough cleaning services.\n2. **Merry Maids of Houston**: A 4.8-star rated company on Google and 4.7-star rated on Yelp, Merry Maids provides professional and eco-friendly cleaning services.\n3. **The Cleaning Pros**: With a 4.9-star rating on Google and 4.8-star rating on Yelp, this company offers one-time and recurring cleaning services.\n4. **Cleanify**: A 4.8-star rated company on Google and 4.7-star rated on Yelp, Cleanify provides affordable and reliable cleaning services.\n5. **Mai",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Houston",
+        "The Cleaning Pros",
+        "Cleanify",
+        "Mai"
+      ]
+    },
+    {
+      "prompt": "What are the best house cleaning companies in Houston, TX? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some top-rated house cleaning companies in Houston, TX, based on online reviews and ratings:\n\n1. **Molly Maid of Houston** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* Offers customized cleaning plans, eco-friendly cleaning products, and a satisfaction guarantee.\n2. **The Cleaning Authority** (4.9/5 stars on Google, 4.7/5 stars on Yelp)\n\t* Uses a proprietary cleaning system and eco-friendly products to provide a deep clean.\n3. **TaskRabbit** (4.8/5 stars on Google, 4.7/5 stars on Yelp)\n\t* A task-completion platform that connects customers with local cleaning professionals.\n4. **The Cleaning Service Pros** (4.9/5 stars on Google, 4.8/5 stars on Yelp)\n\t* Offers one-time, regular, a",
+      "named_here": [
+        "Molly Maid of Houston",
+        "The Cleaning Authority",
+        "TaskRabbit",
+        "The Cleaning Service Pros",
+        "Offers one-time, regular, a"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "There are many excellent house cleaning companies in Houston, TX. Since I don't have have access to real-time information, I'll provide you with some popular options and ways to find a reliable cleaner:\n\n1. **Molly Maid**: A well-known, national cleaning company with a location in Houston. You can call them at [phone removed].\n2. **The Cleaning Authority**: A professional cleaning service with a presence in Houston. You can reach them at [phone removed].\n3. **Clean Sweep**: A local, family-owned cleaning company in Houston. You can call them at [phone removed].\n4. **TaskRabbit**: A task-completion service that offers house cleaning services in Houston. You can book a cleaner through their websi",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Clean Sweep",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "There are many reliable house cleaning companies in Houston, TX. Here are a few options you can consider:\n\n1. **The Cleaning Authority - Houston**: [phone removed]\nThey offer one-time, weekly, bi-weekly, and monthly cleaning services, and their team is background-checked and insured.\n2. **Merry Maids of Houston**: [phone removed]\nMerry Maids is a well-established company with a wide range of cleaning services, including move-in/move-out cleaning and special occasion cleaning.\n3. **The Cleaning Company**: [phone removed]\nThey offer eco-friendly cleaning options and a satisfaction guarantee. Their team is bonded, insured, and background-checked.\n4. **Cleanify**: [phone removed]\nCleanify offers one",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Houston",
+        "The Cleaning Company",
+        "Cleanify"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good house cleaning company in Houston, TX? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "I can't recommend a specific cleaner or company. However, I can provide you with some options to consider. You can search online for \"house cleaning services near me\" or \"Houston house cleaning services\" to find a list of local companies. You can also check online review sites such as Yelp or Google to see what other customers have to say about their experiences with different companies.",
+      "named_here": []
+    },
+    {
+      "prompt": "I need a house cleaning company in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted house cleaning companies in Houston, TX, based on customer reviews and ratings:\n\n1. **MaidPro Houston**: With a 4.9-star rating on Google and over 500 reviews, MaidPro is a popular choice for house cleaning services in Houston. They offer customized cleaning plans and eco-friendly cleaning products.\n2. **The Cleaning Authority**: This company has a 4.8-star rating on Google and over 200 reviews. They use a proprietary cleaning system and offer one-time, weekly, bi-weekly, and monthly cleaning services.\n3. **Molly Maid of Houston**: With a 4.7-star rating on Google and over 100 reviews, Molly Maid is a well-established house cleaning company in Houston. They ",
+      "named_here": [
+        "MaidPro Houston",
+        "The Cleaning Authority",
+        "Molly Maid of Houston"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted house cleaning companies in Houston, TX:\n\n1. **The Cleaning Authority - Houston**: With a 4.9-star rating on Google and 4.8-star rating on Facebook, this company is known for its reliable and thorough cleaning services. They offer one-time, weekly, bi-weekly, and monthly cleaning services.\n2. **Merry Maids of Houston**: Merry Maids is a well-established company with a 4.8-star rating on Google and 4.9-star rating on Facebook. They offer a range of cleaning services, including move-in/move-out cleaning and special occasion cleaning.\n3. **The Cleaning Company**: With a 4.9-star rating on Google and 4.8-star rating on Facebook, this company is known for its eco",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Houston",
+        "The Cleaning Company"
+      ]
+    },
+    {
+      "prompt": "I need a house cleaning company in Houston, TX. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the most trusted house cleaning companies in Houston, TX:\n\n1. **Molly Maid**: With over 40 years of experience, Molly Maid is a well-established and reputable cleaning company with a strong presence in Houston. They offer customized cleaning services, flexible scheduling, and eco-friendly cleaning products.\n2. **The Cleaning Authority**: This company has been serving Houston for over 15 years and offers a wide range of cleaning services, including one-time deep cleans, regular scheduled cleanings, and move-in/move-out cleanings. They use environmentally responsible cleaning products and equipment.\n3. **TaskRabbit**: TaskRabbit is a task-completion service that connects custo",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "TaskRabbit"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some house cleaning companies in Houston, TX, with a good reputation based on online reviews and ratings:\n\n1. **Molly Maid**: With over 30 years of experience, Molly Maid is a well-established and reputable cleaning company in Houston. (4.8/5 stars on Google)\n2. **The Cleaning Authority**: This company has been serving Houston for over 20 years and is known for its eco-friendly cleaning methods. (4.7/5 stars on Google)\n3. **Two Maids & A Mop**: With a unique pay-for-performance model, Two Maids & A Mop has built a strong reputation in Houston for its reliable and efficient cleaning services. (4.7/5 stars on Google)\n4. **Clean Sweep**: This locally owned and operated company has been",
+      "named_here": [
+        "Molly Maid",
+        "The Cleaning Authority",
+        "Two Maids & A Mop",
+        "Clean Sweep"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "## Top-Rated House Cleaning Companies in Houston, TX\n\nBased on online reviews and ratings, here are some of the top-rated house cleaning companies in Houston, TX:\n\n### Companies with a 4.5-Star Rating or Higher\n\n1. **The Cleaning Authority - Houston**: 4.8/5 stars on Google, 4.9/5 stars on Yelp\n\t* Services: One-time cleaning, recurring cleaning, move-in/move-out cleaning, special event cleaning\n\t* Prices: Starting at $75 for one-time cleaning, $50-$75 per visit for recurring cleaning\n2. **Merry Maids of Houston**: 4.7/5 stars on Google, 4.8/5 stars on Yelp\n\t* Services: One-time cleaning, recurring cleaning, move-in/move-out cleaning, deep cleaning\n\t* Prices: Starting at $100 for one-time cle",
+      "named_here": [
+        "The Cleaning Authority",
+        "Merry Maids of Houston",
+        "Services",
+        "Prices"
+      ]
+    },
+    {
+      "prompt": "Which house cleaning companies in Houston, TX have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-recommended house cleaning companies in Houston, TX, based on online reviews and ratings:\n\n1. **Molly Maid of Houston** (4.9/5 on Yelp, 4.8/5 on Google Reviews) - A well-established franchise with a reputation for reliable and efficient cleaning services.\n2. **The Cleaning Authority** (4.8/5 on Yelp, 4.7/5 on Google Reviews) - A national chain with a Houston location, known for their eco-friendly cleaning solutions and thorough service.\n3. **Green Clean** (4.9/5 on Yelp, 4.8/5 on Google Reviews) - A locally-owned company that specializes in eco-friendly and green cleaning services, with a focus on customer satisfaction.\n4. **Pride Maids of Houston** (4.8/5 on Yelp, 4.7/5",
+      "named_here": [
+        "Molly Maid of Houston",
+        "The Cleaning Authority",
+        "Green Clean",
+        "Pride Maids of Houston"
+      ]
+    }
+  ]
+}

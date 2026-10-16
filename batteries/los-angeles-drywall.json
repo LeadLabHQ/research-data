@@ -1,0 +1,146 @@
+{
+  "trade": "drywall",
+  "market": "Los Angeles, CA",
+  "run_date": "2026-10-15T19:30:37.045Z",
+  "models_used": [
+    "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "@cf/meta/llama-4-scout-17b-16e-instruct",
+    "@cf/meta/llama-3.1-8b-instruct-fp8"
+  ],
+  "total_checks": 12,
+  "answers": [
+    {
+      "prompt": "What are the best drywall contractors in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some top-rated drywall contractors in Los Angeles, CA, based on online reviews and ratings:\n\n1. **LA Drywall** (4.9/5 stars on Google) - Known for their high-quality work, competitive pricing, and excellent customer service.\n2. **Drywall Pros LA** (4.8/5 stars on Yelp) - Offers a wide range of drywall services, including installation, repair, and finishing.\n3. **Los Angeles Drywall** (4.7/5 stars on Google) - Provides professional drywall installation, repair, and texturing services for residential and commercial projects.\n4. **Drywall Masters** (4.7/5 stars on Yelp) - Specializes in drywall installation, repair, and finishing, with a focus on attention to detail and customer satisf",
+      "named_here": [
+        "LA Drywall",
+        "Drywall Pros LA",
+        "Los Angeles Drywall",
+        "Drywall Masters"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some top-rated drywall contractors in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Drywall LA**: With a 4.9-star rating on Google and over 500 reviews, Drywall LA is a highly-recommended contractor in the Los Angeles area. They offer a wide range of drywall services, including installation, repair, and finishing.\n2. **LA Drywall Pros**: This company has a 4.8-star rating on Google and over 200 reviews. They specialize in drywall installation, repair, and texture coating, and serve both residential and commercial clients.\n3. **Superior Drywall**: With a 4.7-star rating on Google and over 300 reviews, Superior Drywall is a trusted name in the Los Angeles drywall industr",
+      "named_here": [
+        "Drywall LA",
+        "LA Drywall Pros",
+        "Superior Drywall"
+      ]
+    },
+    {
+      "prompt": "What are the best drywall contractors in Los Angeles, CA? List the top names you'd recommend.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some of the top-rated drywall contractors in Los Angeles, CA, based on online reviews and ratings:\n\n**Please note:** This list is not exhaustive, and it's always a good idea to research and verify the contractors' licenses, insurance, and reputation with the Better Business Bureau (BBB) and the California Contractors State License Board (CSLB) before hiring.\n\n1. **Drywall Pros** (4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews)\n\t* Address: 12301 Saticoy St, Panorama City, CA 91402\n\t* Phone: [phone removed]\n\t* Specialties: Drywall installation, finishing, and repair\n2. **Drywall Masters** (4.9/5 stars on Yelp, 4.8/5 stars on Google Reviews)\n\t* Address: 1441 S San Pedro St, Los Ange",
+      "named_here": [
+        "Please note",
+        "Drywall Pros",
+        "Drywall Masters",
+        "Address",
+        "Phone",
+        "Specialties"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "I'm happy to help you with your question. However, I'm a large language model, I don't have have access to real-time information or personal recommendations. But I can suggest some ways to find a good drywall contractor in Los Angeles, CA:\n\n1. **Online Directories**: You can check online directories like Yelp, Angie's List, or HomeAdvisor to find drywall contractors in Los Angeles. These websites allow you to read reviews, check ratings, and compare prices.\n2. **Word of Mouth**: Ask friends, family, or neighbors who have recently hired a drywall contractor for recommendations. They can provide valuable insights and referrals.\n3. **Local Listings**: Check local listings like Google Maps or th",
+      "named_here": [
+        "Online Directories",
+        "Word of Mouth",
+        "Local Listings"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I'd be happy to help you find a reliable drywall contractor in Los Angeles, CA! However, I'm a large language model, I don't have have access to real-time information or personal experiences, so I can't provide a specific recommendation. But I can give you some suggestions on how to find a good drywall contractor:\n\n1. **Check online reviews**: Websites like Yelp, Angie's List, or Google Reviews can give you an idea of a contractor's reputation and quality of work. Look for contractors with a high rating (4+ stars) and pay attention to the comments and reviews.\n2. **Ask for referrals**: Ask friends, family, or neighbors who have recently done a drywall project for recommendations. They can pr",
+      "named_here": [
+        "Check online reviews",
+        "Ask for referrals"
+      ]
+    },
+    {
+      "prompt": "Can you recommend a good drywall contractor in Los Angeles, CA? Who should I call?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Unfortunately, I'm a large language model, I don't have personal recommendations or direct access to specific contractors in Los Angeles, CA. However, I can provide you with some suggestions on how to find a reliable drywall contractor in Los Angeles:\n\n1.  **Online Directories**:\n    *   **Angie's List**: A paid membership-based service that provides reviews and ratings for contractors in various cities, including Los Angeles.\n    *   **Thumbtack**: A platform that allows you to post a job description and receive bids from multiple contractors.\n    *   **HomeAdvisor**: A directory that connects homeowners with pre-screened contractors.\n2.  **Word-of-Mouth**:\n    *   Ask friends, family, or n",
+      "named_here": [
+        "Online Directories",
+        "Angie's List",
+        "Thumbtack",
+        "HomeAdvisor",
+        "Word-of-Mouth",
+        "Ask friends, family, or n"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Here are some of the most trusted drywall contractors in Los Angeles, CA, based on online reviews and ratings:\n\n1. **Drywall Repair Los Angeles** (4.9/5 on Google) - Offers drywall installation, repair, and finishing services.\n2. **LA Drywall** (4.8/5 on Google) - Provides drywall installation, texture matching, and patching services.\n3. **Drywall Masters** (4.7/5 on Yelp) - Specializes in drywall installation, repair, and finishing for residential and commercial projects.\n4. **All City Drywall** (4.7/5 on Google) - Offers drywall installation, repair, and finishing services for new construction and renovation projects.\n5. **Pro Drywall** (4.6/5 on Yelp) - Provides drywall installation, repa",
+      "named_here": [
+        "Drywall Repair Los Angeles",
+        "LA Drywall",
+        "Drywall Masters",
+        "All City Drywall",
+        "Pro Drywall"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "Here are some of the most trusted drywall contractors in Los Angeles, CA:\n\n1. **Drywall LA**: With over 20 years of experience, Drywall LA is a reputable and reliable option for drywall installation, repair, and finishing services in Los Angeles.\n2. **LA Drywall Pros**: This company has a 4.9-star rating on Google and offers a wide range of drywall services, including installation, repair, and texture coating.\n3. **Drywall Masters**: Drywall Masters has been serving the Los Angeles area for over 15 years, providing high-quality drywall installation, repair, and finishing services.\n4. **All Drywall LA**: With a 4.8-star rating on Google, All Drywall LA offers competitive pricing and excellent",
+      "named_here": [
+        "Drywall LA",
+        "LA Drywall Pros",
+        "Drywall Masters",
+        "All Drywall LA"
+      ]
+    },
+    {
+      "prompt": "I need a drywall contractor in Los Angeles, CA. Who are the most trusted options?",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some highly-rated and trusted drywall contractors in Los Angeles, CA:\n\n**Top Recommendations:**\n\n1.  **Drywall Solutions**: With over 20 years of experience, Drywall Solutions is a top-rated contractor in LA, offering a wide range of drywall services, including installation, repair, and finishing.\n2.  **Drywall Repair Pros**: This contractor has been serving the LA area for over 15 years, specializing in drywall repair, installation, and texture matching.\n3.  **Drywall Pro**: Drywall Pro is a family-owned business with over 25 years of experience, offering drywall installation, repair, and finishing services to residential and commercial clients.\n\n**Other Notable Options:**\n\n1.  **D",
+      "named_here": [
+        "Drywall Solutions",
+        "Drywall Repair Pros",
+        "Drywall Pro",
+        "Other Notable Options"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "text": "Based on online reviews and ratings, here are some drywall contractors in Los Angeles, CA with a good reputation:\n\n1. **Drywall Repair Los Angeles** (4.9/5 on Google, 4.8/5 on Yelp) - Known for their professional and efficient service.\n2. **LA Drywall** (4.8/5 on Google, 4.7/5 on Yelp) - Offers a wide range of drywall services, including installation, repair, and finishing.\n3. **Drywall Masters** (4.8/5 on Google, 4.7/5 on Yelp) - Specializes in drywall installation, repair, and texturing.\n4. **All Star Drywall** (4.7/5 on Google, 4.6/5 on Yelp) - Provides drywall services for residential and commercial projects.\n5. **Drywall Pros LA** (4.7/5 on Google, 4.6/5 on Yelp) - Offers drywall instal",
+      "named_here": [
+        "Drywall Repair Los Angeles",
+        "LA Drywall",
+        "Drywall Masters",
+        "All Star Drywall",
+        "Drywall Pros LA"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-4-scout-17b-16e-instruct",
+      "text": "I've compiled a list of top-rated drywall contractors in Los Angeles, CA, based on online reviews and ratings. Keep in mind that reputation can change over time, and it's always a good idea to do your own research and get multiple quotes before hiring a contractor. Here are some of the best drywall contractors in Los Angeles, CA:\n\n1. **Drywall LA** (4.9/5 on Google, 4.8/5 on Yelp) - 12345 W Olympic Blvd, Los Angeles, CA 90015\n2. **LA Drywall Pros** (4.9/5 on Google, 4.8/5 on Yelp) - 1421 S San Pedro St, Los Angeles, CA 90015\n3. **Super Drywall** (4.8/5 on Google, 4.7/5 on Yelp) - 1742 S Western Ave, Los Angeles, CA 90006\n4. **Drywall Masters** (4.8/5 on Google, 4.7/5 on Yelp) - 13531 Ventura",
+      "named_here": [
+        "Drywall LA",
+        "LA Drywall Pros",
+        "Super Drywall",
+        "Drywall Masters"
+      ]
+    },
+    {
+      "prompt": "Which drywall contractors in Los Angeles, CA have the best reputation? Name them.",
+      "model": "@cf/meta/llama-3.1-8b-instruct-fp8",
+      "text": "Here are some well-regarded drywall contractors in Los Angeles, CA, based on online reviews and ratings:\n\n**Please note that ratings can change over time, and it's essential to research and verify the information before hiring a contractor.**\n\n1.  **Drywall Masters**: 4.9/5 stars on Yelp, 4.9/5 stars on Google Reviews. They offer a wide range of drywall services, including installation, repair, and finishing.\n2.  **Drywall Pros**: 4.8/5 stars on Yelp, 4.8/5 stars on Google Reviews. They provide residential and commercial drywall services, including texture and painting.\n3.  **California Drywall**: 4.8/5 stars on Yelp, 4.7/5 stars on Google Reviews. They offer drywall installation, repair, an",
+      "named_here": [
+        "Drywall Pros",
+        "California Drywall",
+        "Drywall Masters"
+      ]
+    }
+  ]
+}
